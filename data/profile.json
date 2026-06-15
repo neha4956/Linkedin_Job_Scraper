@@ -1,0 +1,21 @@
+{
+  "_comment": "Fill in your real skills/keywords below. The scorer matches these (case-insensitive) against each job's title and description to rank matches.",
+
+  "mustHave": [
+    "JavaScript"
+  ],
+
+  "niceToHave": [
+    "React",
+    "Node.js",
+    "TypeScript",
+    "AWS",
+    "Docker",
+    "SQL"
+  ],
+
+  "exclude": [
+    "Senior Staff",
+    "Principal"
+  ]
+}
