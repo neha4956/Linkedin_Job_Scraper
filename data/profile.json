@@ -1,21 +1,49 @@
 {
-  "_comment": "Fill in your real skills/keywords below. The scorer matches these (case-insensitive) against each job's title and description to rank matches.",
-
   "mustHave": [
-    "JavaScript"
-  ],
-
-  "niceToHave": [
     "React",
-    "Node.js",
-    "TypeScript",
-    "AWS",
-    "Docker",
-    "SQL"
+    "Next.js",
+    "Redux"
   ],
-
+  "niceToHave": [
+    "JavaScript",
+    "TypeScript",
+    "Jotai",
+    "Module Federation",
+    "Microfrontend",
+    "Webpack",
+    "Saga",
+    "HTML",
+    "Tailwind",
+    "Node",
+    "Express",
+    "REST",
+    "GraphQL",
+    "Docker",
+    "Kubernetes",
+    "GCP",
+    "Jenkins",
+    "CI/CD",
+    "SQL",
+    "MongoDB",
+    "Jest",
+    "Testing Library",
+    "SonarLint",
+    "SonarQube"
+  ],
   "exclude": [
+    "Android",
+    "iOS",
+    "Flutter",
+    "QA Automation",
+    "Data Engineer",
+    "Machine Learning",
+    "Data Scientist",
     "Senior Staff",
-    "Principal"
+    "Principal",
+    "Director",
+    "Embedded",
+    "SAP",
+    "Technical Lead",
+    ".Net"
   ]
 }

@@ -1,6 +1,146 @@
 {
-  "generatedAt": "2026-06-15T17:36:45.547Z",
-  "totalScraped": 50,
-  "totalMatched": 0,
-  "jobs": []
+  "generatedAt": "2026-06-16T15:43:32.121Z",
+  "totalScraped": 162,
+  "totalMatched": 9,
+  "jobs": [
+    {
+      "title": "Full Stack (React + Node, and Angular with GEN AI)|| 6+ Yrs || Pan India",
+      "company": "Innova ESI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-react-%2B-node-and-angular-with-gen-ai-6%2B-yrs-pan-india-at-innova-esi-4429257079",
+      "postedAt": "2026-06-16",
+      "jobId": "4429257079",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Technical Lead",
+      "company": "Coforge",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/technical-lead-at-coforge-4426844019",
+      "postedAt": "2026-06-16",
+      "jobId": "4426844019",
+      "description": "Technical Lead Coforge Hyderabad, Telangana, India 3 hours ago 26 applicants See who Coforge has hired for this role Apply Join or sign in to find your next job Join to apply for the Technical Lead role at Coforge Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Direct message the job poster from Coforge Naveen Thakur Naveen Thakur Manager - Recruitment (FinTech Hiring) Job Title - Technical Lead/ Senior Technical Lead Experience - 7 + years Skills – Angular (Latest Version), Typescript, Micro-fronted. Location: Hyderabad We at Coforge are hiring Senior UI Developer with the following skillset: Must have 7 years prior work experience working with an application development organization; must demonstrate experience delivering systems and projects from inception through implementation. Must have strong experience with Angular(latest versions) Typescript, JavaScript, HTML5, CSS preprocessors like Less/SCSS/SASS. Possesses solid software development and programming skills, with an understanding of design patterns and software development best practices. Hands-on experience working on multi-tiered applications that are designed, developed, and delivered as cloud-based solutions. Working experience on Micro-Front end and Monorepo architecture. Should have Microservices applications using technologies such as REST and JSON. Experience in building reusable UI components. Working experience on RxJS, Redux / NgRx (or any state management framework). Experience with Unit testing frameworks, Bootstrap, Tailwind or similar frameworks. Experience in deploying and configuring well-performing Cloud Native applications. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Coforge by 2x See who you know",
+      "score": 25,
+      "matchedSkills": [
+        "Redux",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "Tailwind",
+        "REST"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer, Developer Experience",
+      "company": "Notion",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-developer-experience-at-notion-4375460799",
+      "postedAt": "2026-06-16",
+      "jobId": "4375460799",
+      "description": "Software Engineer, Developer Experience Notion Hyderabad, Telangana, India 6 hours ago Over 200 applicants See who Notion has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer, Developer Experience role at Notion Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Who We Are Notion is the collaborative AI workspace where teams and agents think together. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion. Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work. About The Role Millions of people use Notion — and this number is increasing every day. That means millions of people trust us to deliver a fast, reliable, and secure experience, and we value this more than anything. We want to keep earning trust, while also continuing to amaze our users with the tools they can build in Notion. The Developer Experience team is responsible for architecting, implementing, and scaling the tools and frameworks that Notion developers use to build Notion. We are looking for engineers who are passionate about solving engineering productivity challenges, have deep empathy for other developers, and love to communicate with engineers. You don't need to have experience in this domain but willing to advocate for developer experience is the key. What You'll Achieve Collaborate with engineers across the company to deliver an industry-leading developer experience, along the way working deeply with tools like the TypeScript language server, lint tooling, and the Notion CLI to improve developers’ day to day experience. Work on the bleeding edge of tooling performance, researching and evaluating new tools and keeping up with new developments in the developer experience space in the JS ecosystem. Work deeply with GitHub and our CI systems to help ensure engineers can merge their code quickly and safely. We aim for all PR CI pipelines to finish within 15 minutes! Take ownership of our development environment and toolchain, and contribute to novel projects across the company to deliver impact. Skills You'll Need to Bring Over 8 years of hands-on software development experience, thriving in fast-paced and dynamic environments. A drive to make developers’ lives better: you have a strong interest in keeping engineers in their flow state through better tooling. You like to think critically about the workflows engineers use in their day to day work, finding bottlenecks and thinking outside of the box to find ways to pave a better golden path for engineers to follow. A focus on user experience: you bring care and craft to the user experience you build into your products. Your work emphasizes simplicity, supportability, and ease-of-use, and you communicate clearly with other teams and engineers to get feedback on where we can improve. Multitasker and present: you like interrupts especially if this is blocking engineers. You switch between your project work and day to day developer experience challenges. Interest in learning how things work: you love to learn how the tools you use work at a fundamental level. You get excited at the idea of digging into third-party source code to understand how they work and find new ways to use them. Pragmatic and business-oriented: You care about business impact and prioritize projects accordingly. You don't just go after cool stuff—you understand the balance between craft, speed, and the bottom line. To you, technologies and programming languages are about tradeoffs. You may be opinionated, but you're not ideological and can learn new technologies as you go. You don’t need to be an AI expert, but you’re curious and willing to adopt AI tools to work smarter and deliver better results. Nice To Haves Familiarity with TypeScript, especially in ways to keep it running smoothly in a large codebase. An interest in automated testing and familiarity with testing best practices. Past experience with React and common tooling like React Testing Library. Past experience on developer experience teams or related tools. By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy. A Note on AI You don’t need deep AI expertise for every role, but we do expect every Notino to be intellectually curious, drawn to tinkering and discovery, and excited to use AI as a real collaborator in their work. For some roles, AI fluency is a core requirement — when that’s the case, we'll say so explicitly in the qualifications. People who thrive here don’t treat AI as a novelty. They use it to think better, and make their work easier for others to build on. Equal Opportunity &amp; Accommodations We hire talented people from a wide range of backgrounds. If you’re excited about this role but don’t meet every bullet, we still encourage you to apply. Notion is an equal opportunity employer and does not discriminate on the basis of any legally protected characteristic. Consistent with applicable law, we will consider for employment qualified applicants with arrest and conviction records. Notion provides reasonable accommodations during the application process; if you need one, please let your recruiter know. Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Notion by 2x See who you know",
+      "score": 22,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Express",
+        "REST",
+        "Testing Library"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Js Developer",
+      "company": "HCLTech",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-hcltech-4429515418",
+      "postedAt": "2026-06-16",
+      "jobId": "4429515418",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "NXGen Software Engineer III - Frontend/React developer",
+      "company": "Candescent",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/nxgen-software-engineer-iii-frontend-react-developer-at-candescent-4415279271",
+      "postedAt": "2026-06-16",
+      "jobId": "4415279271",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer",
+      "company": "Kite",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-kite-4429155470",
+      "postedAt": "2026-06-15",
+      "jobId": "4429155470",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior .Net Fullstack Developer(React)",
+      "company": "ValueLabs",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-fullstack-developer-react-at-valuelabs-4428021509",
+      "postedAt": "2026-06-16",
+      "jobId": "4428021509",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior React Native Developer",
+      "company": "Oolio",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-native-developer-at-oolio-4426480486",
+      "postedAt": "2026-06-16",
+      "jobId": "4426480486",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer – Database",
+      "company": "D. E. Shaw India Private Limited",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-%E2%80%93-database-at-d-e-shaw-india-private-limited-4188099047",
+      "postedAt": "2026-06-16",
+      "jobId": "4188099047",
+      "description": "Software Engineer – Database D. E. Shaw India Private Limited Hyderabad, Telangana, India 5 hours ago Over 200 applicants See who D. E. Shaw India Private Limited has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer – Database role at D. E. Shaw India Private Limited Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . The D. E. Shaw group is a global investment and technology development firm with more than $90 billion in investment capital as of March 1, 2026, and offices in North America, Europe, and Asia. Since our founding in 1988, our firm has earned an international reputation for successful investing based on innovation, careful risk management, and the quality and depth of our staff. We have a significant presence in the world s capital markets, investing in a wide range of companies and financial instruments in both developed and developing economies. We are looking for a proficient MSSQL administrator/developer who is exceptional at managing SQL Server infrastructure, both proactively and reactively, to join our firm’s database and reporting engineering team in Hyderabad. The team of DBRE maintains ownership over the database and reporting technologies within the firm. The team's primary responsibilities include creating architecture and design and building infrastructure, in addition to monitoring and providing emergency response. WHAT YOU'LL DO DAY-TO-DAY: You will be responsible for database performance analysis, query tuning, and optimization. You will work on the architecture, design, and development with the MS SQL Server. You will have the opportunity to work on disaster recovery, problem analysis and troubleshooting, database change management, database emergency response, design, and maintenance of MSSQL and related data technologies. WHO WE’RE LOOKING FOR: Basic qualifications: A B.E./B.Tech degree in Computer Science and Engineering or other technical disciplines, with 7+ years of hands-on database administration experience with MS SQL Server and an understanding of various aspects like infrastructure design, HADR, performance, security, T-SQL scripting, etc. 7+ years of performance tuning and query optimization experience using execution plans, Perfmon, Extended Events, and DMVs Solid understanding of working with large data sets 4+ years of experience in implementing highly efficient and scalable database designs by working very closely with application developers Preferred qualifications: Experience in working with Postgres and MongoDB Interested candidates can apply through our website: https://www.deshawindia.com/recruit/jobs/Ads/Link/LdDBAMar2025 We encourage candidates with relevant experience looking to restart their careers after a break to apply for this position. Learn about Recommence, our gender-neutral return-to-work initiative. The Firm offers excellent benefits, a casual, collegial working environment, and an attractive compensation package. For further information about our recruitment process, including how applicant data will be processed, please visit https://www.deshawindia.com/careers Members of the D. E. Shaw group do not discriminate in employment matters on the basis of sex, race, colour, caste, creed, religion, pregnancy, national origin, age, military service eligibility, veteran status, sexual orientation, marital status, disability, or any other protected class. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Information Technology Industries Financial Services Referrals increase your chances of interviewing at D. E. Shaw India Private Limited by 2x See who you know",
+      "score": 19,
+      "matchedSkills": [
+        "React",
+        "REST",
+        "SQL",
+        "MongoDB"
+      ],
+      "excluded": false
+    }
+  ]
 }

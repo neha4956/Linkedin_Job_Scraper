@@ -1,3 +1,62 @@
+.header__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.scrape-btn {
+  padding: 8px 18px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 600;
+  background: #0a66c2;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: opacity 0.2s;
+}
+
+.scrape-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.scrape-btn--done {
+  background: #057642;
+}
+
+.scrape-btn--error {
+  background: #cc1016;
+}
+
+.scrape-error {
+  margin: 8px 0 0;
+  font-size: 0.85rem;
+  color: #e57373;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.spinner {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border: 2px solid rgba(255,255,255,0.4);
+  border-top-color: #fff;
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+  flex-shrink: 0;
+}
+
 .page {
   max-width: 760px;
   margin: 0 auto;
@@ -94,4 +153,27 @@
 
 .job-card__apply:hover {
   text-decoration: underline;
+}
+
+.log-console {
+  margin: 16px 0 0;
+  padding: 12px 14px;
+  background: #111;
+  border: 1px solid #2a2a2a;
+  border-radius: 8px;
+  font-family: ui-monospace, "Cascadia Code", "Fira Code", monospace;
+  font-size: 0.78rem;
+  line-height: 1.6;
+  max-height: 260px;
+  overflow-y: auto;
+  color: #ccc;
+}
+
+.log-line {
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+.log-line--err {
+  color: #e57373;
 }
