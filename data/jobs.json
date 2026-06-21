@@ -1,99 +1,31 @@
 {
-  "generatedAt": "2026-06-20T07:24:00.278Z",
-  "totalScraped": 195,
+  "generatedAt": "2026-06-21T08:27:08.742Z",
+  "totalScraped": 349,
   "totalMatched": 13,
   "jobs": [
     {
-      "title": "Software Engineer 3 - Frontend",
-      "company": "eBay",
+      "title": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner",
+      "company": "UST",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-3-frontend-at-ebay-4417212801",
-      "postedAt": "2026-06-19",
-      "jobId": "4417212801",
-      "description": "Software Engineer 3 - Frontend eBay Bengaluru, Karnataka, India 22 hours ago Over 200 applicants See who eBay has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer 3 - Frontend role at eBay Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet. Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all. About The Team We are the Digital Services team within Customer Service Technology under eBay’s Global Technology Organization. We own the end-to-end online customer service experience across web and native mobile, helping millions of buyers and sellers get fast, effective help every day. Our mission is to keep members in-journey and resolve issues through intuitive, compliant self-service experiences, driving high containment and deflection, lower customer effort (CES), and reduced assisted contact. We design and build the experiences that enable customers to quickly find answers, resolve issues through self-service, and get support when needed. . Partnering closely with Product, Design, Data, and Platform teams, we deliver intuitive, reliable, and scalable solutions that improve the end-to-end customer service journey. Our engineers work across frontend applications, backend services, APIs, and platform integrations using a modern, diverse tech stack that includes Java, Node.js, web services, native iOS and Android, and a variety of data stores such as NoSQL and Oracle, with a strong focus on quality, observability, and collaboration in a highly distributed environment. What You'll Do And Learn Translate requirements into software designs and deliver clean, efficient, extensible, and maintainable frontend code. Own and deliver significant features or subsystems within a larger domain across the software lifecycle, including design, development, testing, deployment, observability, and monitoring. Design and build responsive, accessible, and high-performing web experiences using modern frontend technologies and frameworks. Collaborate effectively with Product, Design, Data, and Platform partners to deliver intuitive and reliable customer experiences. Identify areas of the product likely to evolve and help design flexible, reusable solutions that improve maintainability and engineering velocity. Apply strong engineering practices to ensure features are testable, high quality, and continuously deliverable. Break down project features into clear implementation tasks, identify risks and dependencies, and drive execution with minimal supervision. Participate in technical discussions, design reviews, and code reviews, contributing thoughtful input and sound engineering judgment. Support and improve end-to-end testing quality, frontend reliability, and delivery velocity across features. Contribute to debugging, release support, production monitoring, and on-call responsibilities for an always-on 24/7 site. What You Bring Strong sense of ownership and accountability, with solid collaboration and interpersonal skills. Self-driven with a strong ability to learn quickly and adapt to changing priorities. Passion for building intuitive, high-quality user experiences and exploring new technologies within your area of expertise. Commitment to continuous learning through internal and external knowledge-sharing. Interest in developing broad, transferable skills and growing as an engineer. Qualifications Bachelor’s degree in EE, CS, or a related field. 4+ years of experience designing and building frontend systems using JavaScript/TypeScript, CSS, React, Node.js, and server-side rendering frameworks. Strong experience integrating frontend applications with REST and/or GraphQL APIs. Strong understanding of web fundamentals, browser behavior, performance optimization, accessibility, and responsive design. Experience with modern frontend architecture patterns, reusable component design, and styling methodologies such as BEM. Experience with build and development tooling such as Webpack, Express.js, and related frontend ecosystem tools. Demonstrated success delivering results in fast-paced environments using Agile, TDD, CI/CD, and modern engineering practices. Ability to build scalable, reliable, and high-performing user-facing applications. Additional Details eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility for people with disabilities. We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center, and AI Hiring Guidelines. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Technology, Information and Internet Referrals increase your chances of interviewing at eBay by 2x See who you know",
-      "score": 37,
+      "url": "https://in.linkedin.com/jobs/view/sr-full-stack-developer-react-%2B-node-js-%2B-graphql-8%2B-years-any-ust-location-immediate-joiner-at-ust-4429688991",
+      "postedAt": "2026-06-21",
+      "jobId": "4429688991",
+      "description": "",
+      "score": 32,
       "matchedSkills": [
         "React",
-        "JavaScript",
-        "TypeScript",
-        "Webpack",
         "Node",
-        "Express",
-        "REST",
-        "GraphQL",
-        "CI/CD",
-        "SQL"
+        "GraphQL"
       ],
       "excluded": false
     },
     {
-      "title": "Platform Software Engineer",
-      "company": "Nexthink",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/platform-software-engineer-at-nexthink-4336029693",
-      "postedAt": "2026-06-19",
-      "jobId": "4336029693",
-      "description": "Platform Software Engineer Nexthink Bengaluru, Karnataka, India 22 hours ago Over 200 applicants See who Nexthink has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Company Description Nexthink is the leader in digital employee experience management software. The company provides IT leaders with unprecedented insight allowing them to see, diagnose and fix issues at scale impacting employees anywhere, with any application or network, before employees notice the issue. As the first solution to allow IT to progress from reactive problem solving to proactive optimization, Nexthink enables its more than 1,300 customers to provide better digital experiences to more than 18 million employees. Dual headquartered in Lausanne, Switzerland and Boston, Massachusetts, Nexthink has 9 offices worldwide. Job Description At Nexthink, we provide our customers with class leading products to enable continuous improvement of employee experience. We deliver unparalleled visibilityacross all environments so IT teams can consistently see, diagnose, and fix digital workplace issues. The 50+ Product Engineering teams that develop ourproducts and services rely on Nexthink's Technical Platform group to provide platforms, tools and services that would ease their daily work and improve thedeveloper productivity and experience. We are looking for a passionate and innovative professional that is keen to join our Engineering Productivity team, which is part of the Technical PlatformEngineering group! The Engineering Productivity team is providing an internal development platform comprised of tools and services that the developers use ona daily basis. Their mission is to enable our Product Engineering organisation to develop and build the Nexthink product. Join a small team of diverse and experienced engineers that have full ownership of their domains, right from the requirements gathering and design phase, allthe way through implementation, validation, and deployment. You will work closely with Product Engineering, Security and Architecture teams to understanddeveloper needs, design and implement solutions, and promote them for adoption and usage. You will be part of a group that carves out our golden CI/CD path,and works together to build a world-class internal developer platform with modern technologies and best practices. As a Platform Engineer, you will: Providing the necessary tools for daily development of the product, integrate with cloud platforms, as well as helping developers to manage their buildsystem and CI/CD pipelines. Responsible for setting up and maintaining part of the development tools (ex. Jenkins, Artifactory, GitHub). Develop internal self-service tools and platforms for that are used by the Nexthink developers in their daily work. Own the required technical work for different projects, from concept to production, including proposal, discussion, and execution. Engage with Nexthink's developers to build relationships, identify potential areas of improvement, and help drive the adoption of the team's platforms. Document solutions built by the team and organise workshops and trainings to spread knowledge to the development teams. Detect, diagnose and fix deployment incidents in development and production environments, finding solutions to achieve required service levels. Qualifications University degree in Computer Science or equivalent practical experience. Candidates will typically have minimum 5 years of experience as a Software Engineer, DevOps Engineer, Platform Engineer or Site Reliability Engineerwith knowledge of best practice of professional software development. Experience developing automated CI/CD pipelines. Experience with defining guidelines for usage of different CI/CD tools (e.g., GitHub, Jenkins). Experience building self-service internal development platforms. Experience in developing platform-as-a-service solutions. Experience working with Kubernetes. Experience operating services on Linux systems and container technologies (e.g., Docker). Experience with cloud-based platforms (e.g., AWS) and infrastructure-as-code (e.g. Terraform). Experience with monitoring solutions (e.g. Datadog). Experience with programming languages such as Go, Python, TypeScript, JavaScript, and/or Bash. At ease with operating and managing production systems, solving issues, striking the right balance between urgency and methodology. Very good problem-solving skills, open-mind towards suggestions, can do attitude and agile spirit. Self-motivated and self-managing, with excellent organisational skills. Curiosity to learn new things and discover new technologies. Work with the agile iterative/incremental mindset. Very good communication skills and teamwork. Excellent written and verbal skills in English. The prior experience with any of the above-mentioned tools is a bonus but not a must! We encourage you to apply even if you do not meet every singlerequirement. We welcome candidates with different level of background and experience. If you are excited about this role, please apply and our recruiters willassess your application. Additional Information We are the pioneers and trailblazers of a global IT Market Category (DEX) that is shaping the future of how the world works, giving our customers’ IT Teams total digital visibility across their enterprise. Our innovative solutions integrate real-time analytics, automation, and employee feedback across all endpoints. This enables our IT teams to solve complex technical challenges, create ever more productive workplaces, and deliver happy, satisfied employees in the digital workplace. With over 1000 employees across 5 continents, Nexthink operates as One Team, connecting, collaborating and innovating to continuously grow. We call our employees ‘Nexthinkers’ and our commitment to diversity, inclusion, and equity is second to none. We currently have over 75 nationalities working with us, from all cultures and backgrounds, speaking many different languages. If you are looking for a change and like a nice atmosphere, lots of challenges, and having fun while working, this is a great opportunity for you! Check what we offer: 💼 Permanent Contract and a competitive compensation package. 🩺 Health insurance through our partnership with ACKO, including OPD coverage for dental, vision, health check-ups, consultations, and pharmacy expenses. 🏡 Hybrid work model balancing office and remote work, with a structured approach for new hires to foster connections and onboarding. 🏖️ Flexible Hours and unlimited vacation (employees have unlimited paid time off on top of the 22 days of holidays we offer). Plus, company-paid bank holidays (12), sick days (10-30), bereavement leave (5), and 3 days per year for volunteering. 📚 Free access to professional training platforms to explore your interests and enhance your skills. 🛡️ Stay covered against accidents, bodily injuries, and disabilities with our personal accident insurance policy, providing assurance with coverage up to three times your annual CTC. 🍼 New mothers are entitled to up to 26 weeks of maternity leave, with the flexibility to use up to 8 weeks before the expected delivery and the remaining 18 weeks after. Birth fathers can take 6 weeks of paternity leave, while adoptive parents are eligible for 26 weeks of leave for mothers and 6 weeks for fathers. 💰 Under the Payment of Gratuity Act, receive gratuity at the rate of 15 days of basic pay for every completed year of service, provided you've been employed by the company for a minimum of 5 years. Gratuity is payable at retirement or resignation based on your last drawn basic pay. 📣 Bonuses for referring successful hires after three months of continuous employment. Please note that not all the benefits listed above are available for temporary, contract, and internship roles. To ensure you have the most up-to-date information, we recommend checking with your Recruitment Partner. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Information Technology Industries IT Services and IT Consulting and Software Development Referrals increase your chances of interviewing at Nexthink by 2x See who you know",
-      "score": 31,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "TypeScript",
-        "REST",
-        "Docker",
-        "Kubernetes",
-        "Jenkins",
-        "CI/CD"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Workplace Options",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-workplace-options-4411201781",
-      "postedAt": "2026-06-19",
-      "jobId": "4411201781",
-      "description": "Software Engineer Workplace Options Bengaluru, Karnataka, India 15 hours ago 102 applicants See who Workplace Options has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . At Workplace Options (WPO), we deliver human-centric solutions that empower people to thrive - personally and professionally. With a global team of more than 4,800 professionals, we provide real-time emotional support, therapy, coaching, mindfulness, and family services to millions worldwide. Since 1982, we’ve partnered with employers, health plans, and insurers to design flexible, forward-thinking programs that evolve alongside today’s changing workforce. Today, we support 160 million people across 150,000 organizations, including over half of Fortune 500 companies. Now part of the TELUS Health family, we are expanding our global impact by combining decades of wellbeing expertise. Together, we’re building healthier, more resilient organizations—one person at a time. WPO is looking forward to take their technology investments to next generation with cutting-edge integration platforms based on Cloud technologies. Selected candidates will have opportunity to work with an exceptionally strong global technology team. Current Position: Software Engineer (.NET - 3+ years) What you will do: We are seeking a Software Engineer with 3+ years of experience in .NET to design, build, and maintain scalable, high-performance applications. You will lead technical design, mentor developers, and contribute across the full software development lifecycle. Responsibilities: Translate business requirements into robust .NET solutions. Design and implement backend services using C#, .NET Core/Framework (6/7/8), Web API, Entity Framework, and SQL Server. Participate in architecture discussions, applying SOLID principles and design patterns. Write clean, tested code; conduct reviews and mentor junior engineers. Collaborate with cross-functional teams (Product, QA, DevOps, Frontend) to deliver end-to-end features. Integrate with databases and external APIs. Drive adoption of CI/CD, cloud deployment (Azure), and microservices. Troubleshoot and optimize applications for performance, scalability, and reliability. Required Skills &amp; Experience: 3+ years of .NET development experience. Expertise in C#, ASP.NET, .NET Core/6/7/8, Web API, Entity Framework, SQL Server. Strong knowledge of RESTful APIs, microservices, and multi-tier design. Familiarity with modern frontends (Angular, React, Blazor). Solid understanding of OOP, design patterns, unit testing, and CI/CD pipelines. Experience with cloud platforms (Azure/AWS/GCP). Strong communication skills and ability to work in Agile teams. Preferred Skills &amp; Experience: Experience with Docker, Kubernetes, message brokers, or event-driven architecture. Knowledge of DevOps tools (Azure DevOps, GitHub Actions). Exposure to DDD, CQRS, or domain-driven microservices. Experience mentoring or leading small teams. What we offer: At Workplace Options, we don’t just deliver wellbeing services to our clients, we champion wellbeing for our own employees as well. Examples of our benefits and commitment to employee wellbeing include: Benefits - Group Mediclaim Insurance for 6 lacs INR, Accident Insurance, Gym reimbursement, Tuition reimbursement, EAP Support Services, Mentorship program, WPO Cares, Employee exchange program, Comprehensive training provided for this position At Workplace Options, we are committed to and are accountable for building a workplace where individuals feel empowered to bring their whole selves to work, free from judgment or fear of discrimination. We understand that having a diverse organization is only the beginning and it will require nurturing and care to thrive. We will continue to take action to ensure we achieve equitable and measurable outcomes. We strive to cultivate a space where diverse voices are not only heard but actively sought out and valued for the unique insights they bring. By embracing and promoting authenticity, we aim to build a vibrant and inclusive community that fosters collaboration, innovation, belonging and personal growth. For further details about WPO please check out our website www.workplaceoptions.com and these short videos give a great overview of what we do Human-Powered Care and The WPO Global Experience Workplace Options collects and processes personal data in accordance with applicable data protection laws. If you are a European job applicant, refer to our Privacy Notice for further details (https://www.workplaceoptions.com/privacy-notice-for-recruitment/). Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Mental Health Care Referrals increase your chances of interviewing at Workplace Options by 2x See who you know",
-      "score": 28,
-      "matchedSkills": [
-        "React",
-        "REST",
-        "Docker",
-        "Kubernetes",
-        "GCP",
-        "CI/CD",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer-Full Stack",
-      "company": "Okta",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-full-stack-at-okta-4428239567",
-      "postedAt": "2026-06-19",
-      "jobId": "4428239567",
-      "description": "Software Engineer-Full Stack Okta Bengaluru, Karnataka, India 19 hours ago 138 applicants See who Okta has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer-Full Stack role at Okta Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Secure Every Identity, from AI to Human Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence. This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk. About Okta Okta is the leading independent provider of identity for the enterprise. The Okta Identity Cloud enables organizations to securely connect the right people to the right technologies at the right time. Our mission is to secure every identity, from customer to employee, and to enable seamless, secure digital experiences. The Opportunity We are seeking an experienced and highly motivated Senior Full Stack Developer to join our team. You will be instrumental in designing, developing, and deploying high-performance, scalable web applications that are critical to Okta's success. This role is a fantastic opportunity to work on complex, large-scale systems, contribute to core backend services, and potentially explore integrations with AI technologies. A specific focus for this role will be contributing to the development and evolution of Compass, our internal data and knowledge platform. What you will be doing Design, develop, and deploy scalable web applications and features using React on the frontend and Java on the backend. Lead the development of backend services and APIs, ensuring high performance, stability, and scalability. Drive key features and improvements within Compass , ensuring a seamless and efficient experience for internal users. Collaborate closely with product managers, UX designers, and other engineers to translate requirements into technical specifications and deliver high-quality software. Contribute to setting technical direction and best practices for the team. Participate in code reviews, design discussions, and operational support. Good to have: Integrate and optimize AI-assisted coding tools within the existing development pipeline to streamline developer experience and enhance engineering efficiency. What you will bring to the role 5+ years of professional experience in full stack software development. Deep expertise in front-end development using React (or similar modern JavaScript frameworks). Strong proficiency in backend development using Java and the Spring ecosystem (or similar Java frameworks). Solid experience designing and implementing scalable, RESTful APIs and microservices. Proven ability to design and interact with relational and NoSQL databases. Experience with cloud platforms (e.g., AWS, GCP) and containerization technologies (Docker, Kubernetes). Designed and implemented relational database schemas (PostgreSQL) and optimized complex SQL queries to support high-traffic application features. Excellent problem-solving skills and a commitment to writing clean, maintainable, and testable code. Familiarity with AI concepts or experience leveraging AI-assisted tools in the development workflow. And extra credit if you have experience in any of the following! Strong knowledge of cloud computing platforms like AWS, including serverless services and infrastructure as code using terraform Experience with cloud infrastructure/platforms (AWS, Google Cloud Platform) Experience with packaging and distributing containerized applications using Docker and Kubernetes #Hybrid_Bengaluru P20232_3464901 The Okta Experience Supporting Your Well-Being Driving Social Impact Developing Talent and Fostering Connection + Community We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one. Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this Form to request an accommodation. Notice for New York City Applicants &amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please click here to view our full NYC AEDT Notice. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Okta by 2x See who you know",
-      "score": 28,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "REST",
-        "Docker",
-        "Kubernetes",
-        "GCP",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Development Engineer (Full Stack Developer – React.js / Node.js / Payments)",
-      "company": "Techdome",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-full-stack-developer-%E2%80%93-react-js-node-js-payments-at-techdome-4429660605",
-      "postedAt": "2026-06-19",
-      "jobId": "4429660605",
+      "title": "React Node Consultant",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-node-consultant-at-infosys-4402128288",
+      "postedAt": "2026-06-20",
+      "jobId": "4402128288",
       "description": "",
       "score": 26,
       "matchedSkills": [
@@ -103,26 +35,11 @@
       "excluded": false
     },
     {
-      "title": "Senior Full Stack Engineer (React & GraphQL)",
-      "company": "Sky Systems, Inc. (SkySys)",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-react-graphql-at-sky-systems-inc-skysys-4430933436",
-      "postedAt": "2026-06-19",
-      "jobId": "4430933436",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "GraphQL"
-      ],
-      "excluded": false
-    },
-    {
       "title": "Full Stack Developer (React JS + Node JS) | 6 YoE | Any UST Location | Immediate Joiner",
       "company": "UST",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/full-stack-developer-react-js-%2B-node-js-6-yoe-any-ust-location-immediate-joiner-at-ust-4393854508",
-      "postedAt": "2026-06-20",
+      "postedAt": "2026-06-21",
       "jobId": "4393854508",
       "description": "",
       "score": 26,
@@ -133,92 +50,145 @@
       "excluded": false
     },
     {
-      "title": "Senior Fullstack Engineer (React & Node)",
-      "company": "Tredence Inc.",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-fullstack-engineer-react-node-at-tredence-inc-4431167688",
-      "postedAt": "2026-06-20",
-      "jobId": "4431167688",
+      "title": ".Net Fullstack (React) Developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-fullstack-react-developer-at-infosys-4430094969",
+      "postedAt": "2026-06-21",
+      "jobId": "4430094969",
       "description": "",
-      "score": 26,
+      "score": 20,
       "matchedSkills": [
-        "React",
-        "Node"
+        "React"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer - Fullstack",
-      "company": "DigiCert",
+      "title": ".NET React Lead",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-react-lead-at-infosys-4402338079",
+      "postedAt": "2026-06-20",
+      "jobId": "4402338079",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "TECHNICAL LEAD - React native",
+      "company": "Happiest Minds Technologies",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-digicert-4419073298",
-      "postedAt": "2026-06-19",
-      "jobId": "4419073298",
-      "description": "Senior Software Engineer - Fullstack DigiCert Bengaluru, Karnataka, India 19 hours ago 69 applicants See who DigiCert has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Who we are DigiCert is a global leader in intelligent trust. We protect the digital world by ensuring the security, privacy, and authenticity of every interaction. Our AI-powered DigiCert ONE platform unifies PKI, DNS, and certificate lifecycle management, to secure infrastructure, software, devices, messages, AI content and agents. Learn why more than 100,000 organizations, including 90% of the Fortune 500, choose DigiCert to stop today’s threats and prepare for a quantum-safe future at www.digicert.com Job summary A hands-on software engineer and self-starter with experience working as Full Stack Engineer to develop, build and deploy robust, large scale, quality software in production. What you will do Responsible for full lifecycle of the project from user story to design, development, testing, documentation and maintenance. Develop an understanding and knowledge of products/solutions, architecture and systems. Analyse, troubleshoot and debug product defects and provide timely solutions to customer issues. Review code and help team member to in development of features. Build low latency and high-performance solutions. Work with agile cross-functional team to estimate and plan development activities and timelines. Other duties as assigned. What you will have 5+ years of professional experience working in the software industry. Strong knowledge of Core Java and RUST. Excellent knowledge of Javascript and front end technologies like reactJS. Strong in data structure(s) and algorithms. Good to have - Knowledge of media processing (image/video), metadata systems like JUMBF, EXIF, XMP etc. Strong knowledge of software engineering best-practices in software design and architecture. Good knowledge of Spring, Hibernate Frameworks. Expertise developing and consuming RESTful web services. Passionate in unit testing and producing high quality code Strong knowledge of SQL(s), writing excellent SQL queries. Strong knowledge of writing Web Service APIs Experience using Linux, docker and kubernetes Nice to have Understanding of SSL/TLS, PKI, or other security related technologies. Experience in Cloud platforms like AWS. Benefits Generous time off policies Top shelf benefits Education, wellness and lifestyle support Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Technology, Information and Internet Referrals increase your chances of interviewing at DigiCert by 2x See who you know",
-      "score": 25,
+      "url": "https://in.linkedin.com/jobs/view/technical-lead-react-native-at-happiest-minds-technologies-4431327026",
+      "postedAt": "2026-06-20",
+      "jobId": "4431327026",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer – .NET, React & Azure",
+      "company": "Version 1",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-react-azure-at-version-1-4379394409",
+      "postedAt": "2026-06-20",
+      "jobId": "4379394409",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React.js Developer",
+      "company": "NARBA",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-narba-4430078627",
+      "postedAt": "2026-06-20",
+      "jobId": "4430078627",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React.js - UI Development",
+      "company": "Infosys",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-ui-development-at-infosys-4402369303",
+      "postedAt": "2026-06-20",
+      "jobId": "4402369303",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Developer",
+      "company": "HTC Global Services",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-htc-global-services-4431333779",
+      "postedAt": "2026-06-20",
+      "jobId": "4431333779",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Expert ReactJS Developer",
+      "company": "Anaqua",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/expert-reactjs-developer-at-anaqua-4417972630",
+      "postedAt": "2026-06-20",
+      "jobId": "4417972630",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React and NextJS Developer",
+      "company": "KodeCorp",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-and-nextjs-developer-at-kodecorp-4430088651",
+      "postedAt": "2026-06-20",
+      "jobId": "4430088651",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "NetApp",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-netapp-4428546982",
+      "postedAt": "2026-06-21",
+      "jobId": "4428546982",
+      "description": "Software Engineer NetApp Bengaluru, Karnataka, India 5 hours ago 111 applicants See who NetApp has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer role at NetApp Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Own Every Moment at NetApp At NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud. Ready to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins. Job Summary As an engineer in NetApp’s CPTO organization, you will handle complex projects by simplifying product requirements and applying engineering best practices. As an engineer, you’ll: Contribute to technology strategy by coding to boost innovation. Participate in POCs shaping the roadmap and vision. Work on innovative system architectures for AI workloads. Learn from principal engineers and raise technical standards. Engage in incubation projects aligned with business and tech trends. Build large-scale, fault-tolerant distributed systems. Collaborate on new features, maintenance, and escalations. Participate in design, implementation, testing, and support. Solve technical challenges with the engineering team. Job Requirements Familiarity with the design and development of system software 2 to 5 years of hands-on experience with Go, python &amp; React is required Knowledge of Unix/Linux System Programming and Multithreaded programming Experience in the Storage Domain is a plus Strong conceptual understanding of OS internals Expertise in algorithms, data structures, and multi-threaded programming is essential Commitment to sound software engineering practices and a passion for quality Proven track record of meeting tight deadlines without sacrificing quality Strong communication skills, both written and oral, targeted at a wide variety of internal and external audiences Ability to understand customer deployment scenarios and experience in collaborating with peer teams outside of engineering Strong written and communication skills with proven fluency in English Be proficient in using AI in coding and understanding of AI/ML Familiarity with database technologies such as NoSQL, Prometheus and datalake Hands-on experience with code conversion tools like Git, Knowledge of software development methodologies - SCRUM/AGILE/LEAN Knowledge of software deployment - Docker/Kubernetes Education 2- 4 years of experience with Bachelor/Master of Engineering in Computer Science; or equivalent experience At NetApp, we embrace a hybrid working environment designed to strengthen connection, collaboration, and culture for all employees. This means that most roles will have some level of in-office and/or in-person expectations, which will be shared during the recruitment process. Equal Opportunity Employer: NetApp is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination based on age, race, color, gender, sexual orientation, gender identity, national origin, religion, disability or genetic information, pregnancy, protected veteran status, and any other protected classification. Why You'll Thrive at NetApp At NetApp, you won't wait for the perfect moment—you'll make it. The early planning, the extra thought, the bold idea that turns good into great: That's how our people operate and how we continue to push the boundaries of data infrastructure. NetApp is the trusted partner for organizations transforming data into opportunity. As the only enterprise-grade storage service natively embedded in Google Cloud, AWS, and Microsoft Azure, we empower customers to run everything from traditional workloads to enterprise AI with unmatched performance, resilience, and security. Our culture We celebrate mold breakers, bold thinkers, and problem solvers. We reward initiative, impact, and ownership. We provide flexibility so you can balance professional ambition with your personal life. Here, differences are not just welcomed—they drive everything we do. If you're ready to innovate, rise to the challenge, and own every moment - make your next move your best one. Apply now. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at NetApp by 2x See who you know",
+      "score": 19,
       "matchedSkills": [
         "React",
-        "JavaScript",
-        "REST",
         "Docker",
         "Kubernetes",
         "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead UI Developer (React)",
-      "company": "QuinStreet",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-ui-developer-react-at-quinstreet-4429630847",
-      "postedAt": "2026-06-19",
-      "jobId": "4429630847",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Native Developer",
-      "company": "The HR Element",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-the-hr-element-4430050689",
-      "postedAt": "2026-06-20",
-      "jobId": "4430050689",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Frontend Developer-React Js",
-      "company": "Solytics Partners",
-      "location": "Pune District, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/frontend-developer-react-js-at-solytics-partners-4428219822",
-      "postedAt": "2026-06-19",
-      "jobId": "4428219822",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".NET Full stack  Developer with React",
-      "company": "Populace World Solutions",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-with-react-at-populace-world-solutions-4431301161",
-      "postedAt": "2026-06-20",
-      "jobId": "4431301161",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
       ],
       "excluded": false
     }
