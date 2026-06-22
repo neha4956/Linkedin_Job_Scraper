@@ -1,194 +1,79 @@
 {
-  "generatedAt": "2026-06-21T08:27:08.742Z",
-  "totalScraped": 349,
-  "totalMatched": 13,
+  "generatedAt": "2026-06-22T09:38:57.158Z",
+  "totalScraped": 108,
+  "totalMatched": 4,
   "jobs": [
     {
-      "title": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner",
-      "company": "UST",
+      "title": "MTS 1, Softwware Engineer",
+      "company": "eBay",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-full-stack-developer-react-%2B-node-js-%2B-graphql-8%2B-years-any-ust-location-immediate-joiner-at-ust-4429688991",
-      "postedAt": "2026-06-21",
-      "jobId": "4429688991",
-      "description": "",
-      "score": 32,
+      "url": "https://in.linkedin.com/jobs/view/mts-1-softwware-engineer-at-ebay-4428923763",
+      "postedAt": "2026-06-22",
+      "jobId": "4428923763",
+      "description": "MTS 1, Softwware Engineer eBay Bengaluru, Karnataka, India 53 minutes ago Be among the first 25 applicants See who eBay has hired for this role Apply Join or sign in to find your next job Join to apply for the MTS 1, Softwware Engineer role at eBay Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet. Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all. About The Team We are the Digital Services team within Customer Service Technology under eBay’s Global Technology Organization. We own the end-to-end online customer service experience across web and native mobile, helping millions of buyers and sellers get fast, effective help every day. Our mission is to keep members in-journey and resolve issues through intuitive, compliant self-service experiences, driving high containment and deflection, lower customer effort (CES), and reduced assisted contact. We design and build the experiences that enable customers to quickly find answers, resolve issues through self-service, and get support when needed. . Partnering closely with Product, Design, Data, and Platform teams, we deliver intuitive, reliable, and scalable solutions that improve the end-to-end customer service journey. Our engineers work across backend services, APIs, frontend applications, and platform integrations using a modern, diverse tech stack that includes Java, Node.js, web services, native iOS and Android, and a variety of data stores such as NoSQL and Oracle, with a strong focus on quality, observability, and collaboration in a highly distributed environment. This role is ideal for a senior engineer who combines deep backend expertise with strong technical leadership and full stack versatility. While the primary focus will be backend architecture, services, APIs, and platform integrations, this person will also contribute across the stack when needed and serve as the technical lead for the team. What You Will Do Translate product and business requirements into scalable software designs and deliver clean, efficient, extensible, and maintainable code. Own the design, development, testing, and deployment of backend services, APIs, integrations, and distributed systems that power customer self-service experiences across web and mobile surfaces. Design highly scalable, resilient, secure, and performant backend systems that support Help and Contact experiences used by millions of customers. Partner closely with Product, Design, Data, and Platform teams to deliver innovative, end-to-end solutions aligned with business goals and customer needs. Contribute to full stack development as needed, including frontend integrations and end-to-end solution design, to support flawless customer experiences. Raise the team’s engineering standards through code reviews, design reviews, architecture guidance, technical mentoring, and the promotion of standards across the team. Identify gaps and systemic issues, propose practical solutions, and help shape the engineering roadmap and technical priorities for the team. Improve team productivity by seeing opportunities for better tooling, reusable frameworks, development processes, and platform improvements. Ensure systems are testable, high-quality, observable, secure, and continuously deliverable through strong engineering and operational practices. Support production systems through release management, debugging, monitoring, incident response, and on-call responsibilities for an always-on 24/7 site. What You Will Bring 7+ years of software development experience with strong computer science fundamentals and problem-solving skills. Deep expertise in Java (Spring / Spring Boot) and/or Python, with experience building scalable APIs using REST and GraphQL. Full stack experience, including familiarity with frontend technologies such as JavaScript/TypeScript, Node.js, React, Marko, and modern web development frameworks. 2+ years of experience designing and developing AI/ML-based applications. Hands-on experience building or integrating AI-powered applications, including working with large language models, prompts, and evaluation/monitoring of AI features. Strong expertise in Event Processing (Kafka, JMS, or MQ) Experience acting as a technical lead, mentoring engineers, driving design reviews, and influencing engineering best practices across a team. Strong understanding of distributed systems, service integration patterns, scalability, reliability, observability, security, and performance optimization. Solid understanding of databases and data access patterns, including Oracle, NoSQL, and modern API/query patterns. Familiarity with Agile development, CI/CD pipelines, Git, testing strategies, and modern engineering best practices. Experience leveraging AI-assisted development tools (e.g., code generation, test automation, code review aids) to improve productivity and code quality. Additional Details eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility for people with disabilities. We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center, and AI Hiring Guidelines. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Technology, Information and Internet Referrals increase your chances of interviewing at eBay by 2x See who you know",
+      "score": 31,
       "matchedSkills": [
         "React",
+        "JavaScript",
+        "TypeScript",
         "Node",
-        "GraphQL"
+        "REST",
+        "GraphQL",
+        "CI/CD",
+        "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "React Node Consultant",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-node-consultant-at-infosys-4402128288",
-      "postedAt": "2026-06-20",
-      "jobId": "4402128288",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full Stack Developer (React JS + Node JS) | 6 YoE | Any UST Location | Immediate Joiner",
-      "company": "UST",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-react-js-%2B-node-js-6-yoe-any-ust-location-immediate-joiner-at-ust-4393854508",
-      "postedAt": "2026-06-21",
-      "jobId": "4393854508",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".Net Fullstack (React) Developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-fullstack-react-developer-at-infosys-4430094969",
-      "postedAt": "2026-06-21",
-      "jobId": "4430094969",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".NET React Lead",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-react-lead-at-infosys-4402338079",
-      "postedAt": "2026-06-20",
-      "jobId": "4402338079",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "TECHNICAL LEAD - React native",
-      "company": "Happiest Minds Technologies",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/technical-lead-react-native-at-happiest-minds-technologies-4431327026",
-      "postedAt": "2026-06-20",
-      "jobId": "4431327026",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Software Engineer – .NET, React & Azure",
-      "company": "Version 1",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-react-azure-at-version-1-4379394409",
-      "postedAt": "2026-06-20",
-      "jobId": "4379394409",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React.js Developer",
-      "company": "NARBA",
+      "title": "Senior Software Engineer, C++",
+      "company": "TeamViewer",
       "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-narba-4430078627",
-      "postedAt": "2026-06-20",
-      "jobId": "4430078627",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React.js - UI Development",
-      "company": "Infosys",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-ui-development-at-infosys-4402369303",
-      "postedAt": "2026-06-20",
-      "jobId": "4402369303",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Developer",
-      "company": "HTC Global Services",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-htc-global-services-4431333779",
-      "postedAt": "2026-06-20",
-      "jobId": "4431333779",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Expert ReactJS Developer",
-      "company": "Anaqua",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/expert-reactjs-developer-at-anaqua-4417972630",
-      "postedAt": "2026-06-20",
-      "jobId": "4417972630",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React and NextJS Developer",
-      "company": "KodeCorp",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-and-nextjs-developer-at-kodecorp-4430088651",
-      "postedAt": "2026-06-20",
-      "jobId": "4430088651",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer",
-      "company": "NetApp",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-netapp-4428546982",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-at-teamviewer-4380325971",
       "postedAt": "2026-06-21",
-      "jobId": "4428546982",
-      "description": "Software Engineer NetApp Bengaluru, Karnataka, India 5 hours ago 111 applicants See who NetApp has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer role at NetApp Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Own Every Moment at NetApp At NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud. Ready to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins. Job Summary As an engineer in NetApp’s CPTO organization, you will handle complex projects by simplifying product requirements and applying engineering best practices. As an engineer, you’ll: Contribute to technology strategy by coding to boost innovation. Participate in POCs shaping the roadmap and vision. Work on innovative system architectures for AI workloads. Learn from principal engineers and raise technical standards. Engage in incubation projects aligned with business and tech trends. Build large-scale, fault-tolerant distributed systems. Collaborate on new features, maintenance, and escalations. Participate in design, implementation, testing, and support. Solve technical challenges with the engineering team. Job Requirements Familiarity with the design and development of system software 2 to 5 years of hands-on experience with Go, python &amp; React is required Knowledge of Unix/Linux System Programming and Multithreaded programming Experience in the Storage Domain is a plus Strong conceptual understanding of OS internals Expertise in algorithms, data structures, and multi-threaded programming is essential Commitment to sound software engineering practices and a passion for quality Proven track record of meeting tight deadlines without sacrificing quality Strong communication skills, both written and oral, targeted at a wide variety of internal and external audiences Ability to understand customer deployment scenarios and experience in collaborating with peer teams outside of engineering Strong written and communication skills with proven fluency in English Be proficient in using AI in coding and understanding of AI/ML Familiarity with database technologies such as NoSQL, Prometheus and datalake Hands-on experience with code conversion tools like Git, Knowledge of software development methodologies - SCRUM/AGILE/LEAN Knowledge of software deployment - Docker/Kubernetes Education 2- 4 years of experience with Bachelor/Master of Engineering in Computer Science; or equivalent experience At NetApp, we embrace a hybrid working environment designed to strengthen connection, collaboration, and culture for all employees. This means that most roles will have some level of in-office and/or in-person expectations, which will be shared during the recruitment process. Equal Opportunity Employer: NetApp is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination based on age, race, color, gender, sexual orientation, gender identity, national origin, religion, disability or genetic information, pregnancy, protected veteran status, and any other protected classification. Why You'll Thrive at NetApp At NetApp, you won't wait for the perfect moment—you'll make it. The early planning, the extra thought, the bold idea that turns good into great: That's how our people operate and how we continue to push the boundaries of data infrastructure. NetApp is the trusted partner for organizations transforming data into opportunity. As the only enterprise-grade storage service natively embedded in Google Cloud, AWS, and Microsoft Azure, we empower customers to run everything from traditional workloads to enterprise AI with unmatched performance, resilience, and security. Our culture We celebrate mold breakers, bold thinkers, and problem solvers. We reward initiative, impact, and ownership. We provide flexibility so you can balance professional ambition with your personal life. Here, differences are not just welcomed—they drive everything we do. If you're ready to innovate, rise to the challenge, and own every moment - make your next move your best one. Apply now. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at NetApp by 2x See who you know",
-      "score": 19,
+      "jobId": "4380325971",
+      "description": "Senior Software Engineer, C++ TeamViewer Noida, Uttar Pradesh, India 21 hours ago Over 200 applicants See who TeamViewer has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer, C++ role at TeamViewer Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job TeamViewer provides a leading Digital Workplace platform that connects people with technology—enabling, improving and automating digital processes to make work work better. Our software solutions harness the power of AI and shape the future of digitalization. We believe that our diverse teams and strong company culture are key to the success of our products and technologies, that hundreds of millions of users around the world and around 645,000 customers across all industries rely on. With more than 1,900 employees worldwide, we celebrate the unique perspectives and talents that each individual brings to the table and foster a dynamic work environment where new ideas thrive. Are you ready to join our team and make an impact. Responsibilities The TeamViewer ONE platform finds and resolves IT issues before they affect users. Over the past several years we have successfully built and released products which make IT administrators' day-to-day life easier. Our vision is to become a unified endpoint management solution for our customers. We’re looking for a Staff Software Engineer to play a key role in supporting and enhancing our TeamViewer ONE and Remote Management capabilities, trusted by small and medium business customers. In this role, you’ll be essential to maintaining and improving the experience for our existing customers, while helping evolve our SaaS cloud platform. You will also bring in expertise in using technologies – C++, Jenkins, Salt, SQL, Cassandra, and Containerization. As part of an agile team, you’ll contribute as an individual contributor, working primarily with C++, C# and SQL to enhance our Patch Management product in the context of TeamViewer ONE. You will be expected to guide other team members of the team in best practices in software development. Build services for our TeamViewer ONE &amp; Remote Management solution, by enabling the platform and clients to protect our customers Define the architecture, design and develop new features for our software in C++ Collaborate with front-end engineers, backend engineers and quality assurance engineers to design optimum solutions, balancing performance, costs and long-term maintainability Continuously integrate, build and deploy our solution from test system to production Contribute to our clients, backend services and partner APIs Design and implement common APIs based on architecture guidelines and frameworks Design and build common database systems of high availability and quality and low cost Optimize and enhance our software with new, efficient algorithms and state-of-the-art software tools and technologies Work independently on solutions for specified requirements and be responsible for complying with time and quality specifications Ensure that our software is secure, stable, scalable and runs efficiently Monitor the latest technical developments in your field and make proposals for improvement Guide and assist other team members in engineering topics relevant for the team Act as an advisor for product owners (feasibility studies and time estimates for new functionality to be implemented) Communicate with customers to analyze &amp; fix product defects, or during major implementations Requirements A university or college degree in the field of information technology, computer science or a related subject or relevant work experience 6+ years of professional experience in the field of software development Strong knowledge of C++ and SQL is mandatory Strong focus on scalability and performance, with the ability to validate that solutions operate efficiently under increasing workloads and demonstrate predictable/linear growth Strong knowledge and experience in encryption and security Strong knowledge and experience in network related technologies and protocols Must have experience in any of the unit test casing frameworks Experience in Kubernetes, Docker, Kafka, Argo CD, Azure/AWS/GCP services (like AKS, Redis, Key Vault, Event Hub, Service Bus, SQL MI, etc.) is a plus Experience in taking architectural decisions about the development and maintenance of large-scale distributed systems and integrations with applications and user interfaces Understanding of Clean Code and Design Patterns for object-orientated programming Familiarity with AI tools for coding (like GitHub Co-pilot) is a plus Knowledge of Typescript, React, C# is a big plus Familiarity with concepts of end-user-computing, log analysis, anomaly detection &amp; correlation is a plus A positive and solution-oriented mindset paired with a structured and analytical way of thinking/working, being a team player, as well as motivated to learn new things Fluency in English is mandatory. TeamViewer is an equal opportunities employer and is committed to building an inclusive culture where everyone feels welcome and supported. We C-A-R-E and understand that our diverse, values-driven culture makes us stronger. As we continue to grow as a company, we also focus on enabling our employees to grow both personally and professionally. We are proud to have an open and embracing workplace environment that will empower you to be your best no matter your gender, civil or family status, sexual orientation, religion, age, disability, education level, or race. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at TeamViewer by 2x See who you know",
+      "score": 28,
       "matchedSkills": [
         "React",
+        "TypeScript",
         "Docker",
         "Kubernetes",
+        "GCP",
+        "Jenkins",
         "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer – Full Stack (Platform & AI Systems)",
+      "company": "IBM",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-%E2%80%93-full-stack-platform-ai-systems-at-ibm-4428583717",
+      "postedAt": "2026-06-21",
+      "jobId": "4428583717",
+      "description": "Software Engineer – Full Stack (Platform &amp; AI Systems) IBM Bengaluru, Karnataka, India 13 hours ago 138 applicants See who IBM has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer – Full Stack (Platform &amp; AI Systems) role at IBM Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Introduction At IBM Infrastructure &amp; Technology, we design and operate the systems that keep the world running. From high-resiliency mainframes and hybrid cloud platforms to networking, automation, and site reliability. Our teams ensure the performance, security, and scalability that clients and industries depend on every day. Working in Infrastructure &amp; Technology means tackling complex challenges with curiosity and collaboration. You’ll work with diverse technologies and colleagues worldwide to deliver resilient, future-ready solutions that power innovation. With continuous learning, career growth, and a supportive culture, IBM provides the opportunities to build expertise and shape the infrastructure that drives progress. Your Role And Responsibilities Design, develop, and maintain scalable backend services for IBM Storage Insights, supporting observability, analytics, automation, AI-assisted workflows, and enterprise platform capabilities. Build robust backend services, APIs, and integration layers using Java, Python, and related frameworks, with a focus on performance, reliability, maintainability, and secure engineering practices. Develop RESTful, event-driven, and asynchronous service interfaces that integrate with distributed systems, data pipelines, monitoring platforms, and enterprise services. Contribute to backend architecture for multi-tenant, cloud-native systems, including service decomposition, API design, data modeling, caching, resiliency, and operational observability. Implement AI/ML-enabled capabilities, including LLM-backed workflows, agentic services, retrieval-augmented generation, entity and intent extraction, and automation use cases. Contribute to Agentic AI engineering with depth in one or more specialized areas such as LangGraph-based orchestration, tool-calling design, agent harness development, Langfuse-based observability, LLM evaluation, RAG pipelines, prompt/version management, guardrails, or production tracing. The role values demonstrated depth in at least one such area over broad but shallow familiarity across many frameworks. Build and maintain Python-based services, automation utilities, evaluation harnesses, and data-processing components to support AI/ML and backend engineering use cases. Collaborate with product management, architects, platform teams, SREs, and other engineering squads to deliver production-grade capabilities for enterprise customers. Ensure that delivered solutions meet high standards for scalability, security, reliability, performance, testability, and operational supportability. Contribute selectively to frontend or dashboard integrations where required, while primarily focusing on backend services, platform engineering, and AI-enabled capabilities. Preferred Education Master's Degree Required Technical And Professional Expertise Around 4–6 years of hands-on software engineering experience, with strong backend programming experience in Java and/or Python. Strong understanding of backend development, including API design, service orchestration, concurrency, error handling, logging, testing, and production troubleshooting. Experience building RESTful APIs, asynchronous services, event-driven integrations, and backend components that interact with distributed systems. Strong programming fundamentals, including object-oriented design, data structures, algorithms, design patterns, database concepts, networking basics, and system design. Experience with SQL and/or NoSQL databases, including schema design, query development, indexing concepts, transactions, and data access patterns. Working knowledge of microservices architecture, containerized deployments, cloud-native development, and service-to-service communication. Hands-on experience with Python for backend development, automation, data processing, AI/ML integration, or engineering productivity use cases. Exposure to AI/ML or Generative AI engineering, including integrating LLM APIs, designing prompts, invoking tools, building evaluation harnesses, or implementing agent-based workflows. Demonstrated depth in at least one Agentic AI engineering area is preferred, such as agent orchestration, tool-use design, RAG implementation, evaluation harnesses, observability/tracing, guardrails, or production LLM workflow debugging. Ability to write clean, modular, testable, and maintainable code with appropriate unit, integration, and regression test coverage. Experience working in agile engineering teams with strong ownership of design, implementation, code reviews, debugging, and production-readiness. Basic working knowledge of JavaScript/TypeScript and frontend frameworks such as React is useful, but the primary expectation is strong backend engineering capability. Preferred Technical And Professional Experience Experience with Java backend frameworks such as Spring Boot, Quarkus, Micronaut, or similar enterprise backend technologies. Experience building Python services using frameworks such as FastAPI, Flask, or similar backend/API frameworks. Deep specialization in one or more Agentic AI engineering areas, rather than only general awareness of multiple tools. Examples include: Agent orchestration: LangGraph, LangChain, stateful workflows, planner-worker patterns, multi-agent coordination. Agent harnesses: test harnesses, tool simulators, scenario replay, regression suites, deterministic evaluation flows. LLM observability: Langfuse, tracing, prompt/version tracking, latency and cost instrumentation, failure analysis. Tool-calling and integrations: API tool design, schema design, action validation, secure execution, retry and fallback patterns. RAG and retrieval systems: embeddings, vector databases, chunking strategies, ranking, grounding, and response quality evaluation. AI safety and reliability: guardrails, confidence scoring, fallback design, hallucination mitigation, production monitoring. Model evaluation: golden datasets, automated evals, human-in-the-loop review, quality metrics, and release gates. Experience with observability, monitoring, telemetry, analytics platforms, or infrastructure management systems. Experience with CI/CD pipelines, DevOps practices, container orchestration, automated testing, and production deployment workflows. Experience with high-scale, secure, multi-tenant enterprise platforms. Familiarity with distributed data processing, streaming/event systems, caching, message queues, and backend performance optimization. Exposure to frontend dashboards, visualization libraries, or React-based UI integration is a plus, but not the core focus of the role. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at IBM by 2x See who you know",
+      "score": 25,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "REST",
+        "CI/CD",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full Stack Developer (.NET & React)",
+      "company": "Keyloop",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-net-react-at-keyloop-4431659079",
+      "postedAt": "2026-06-22",
+      "jobId": "4431659079",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
       ],
       "excluded": false
     }
