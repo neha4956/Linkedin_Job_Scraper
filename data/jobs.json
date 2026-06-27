@@ -1,69 +1,26 @@
 {
-  "generatedAt": "2026-06-26T07:19:32.562Z",
-  "totalScraped": 253,
-  "totalMatched": 12,
+  "generatedAt": "2026-06-27T06:53:24.119Z",
+  "totalScraped": 186,
+  "totalMatched": 6,
   "jobs": [
     {
-      "title": "Software Developer - Vue.js",
-      "company": "Dassault Systèmes",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-vue-js-at-dassault-syst%C3%A8mes-4433098405",
-      "postedAt": "2026-06-25",
-      "jobId": "4433098405",
-      "description": "Software Developer - Vue.js Dassault Systèmes Pune/Pimpri-Chinchwad Area 19 hours ago 45 applicants See who Dassault Systèmes has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Developer - Vue.js role at Dassault Systèmes Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Unlock your potential with Dassault Systèmes, a global leader in Scientific Software Engineering as a Software Developer - Vue.js in Pune ! Role Description &amp; Responsibilities We are looking for a passionate Frontend Developer with 2–4 years of experience to join our engineering team and help build a modern Software Development Lifecycle (SDLC) Management platform. You will be responsible for developing scalable, high-performance user interfaces that enable teams to manage projects, pipelines, releases, testing, and deployment workflows efficiently. The ideal candidate should have strong experience in modern frontend technologies, clean coding practices, and agile software development methodologies Design, develop, and maintain responsive and scalable web applications using modern frontend frameworks such as Vue.js or React. Build reusable, maintainable, and high-quality UI components. Implement state management solutions using Pinia (or equivalent state management libraries). Develop robust frontend applications using TypeScript and modern JavaScript standards. Integrate frontend applications with REST APIs and backend services. Create responsive and visually appealing user interfaces using SCSS and component libraries such as Vuetify. Collaborate closely with Product Managers, UX Designers, QA Engineers, and Backend Developers. Participate in sprint planning, backlog grooming, code reviews, and other Agile ceremonies. Work with CI/CD and pipeline tools to support automated build and deployment processes. Troubleshoot, optimize, and improve application performance and user experience. Follow software engineering best practices, coding standards, and design patterns. Write clean, testable, maintainable, and well-documented code. Qualifications: Technical Skills 2–4 years of professional frontend development experience. BE/B.Tech in CS or any releated branch. Strong proficiency in: Vue.js, React, or similar modern frontend frameworks TypeScript JavaScript (ES6+) HTML5 and CSS3 SCSS/SASS Experience with state management libraries such as Pinia, Redux, Vuex, or similar. Hands-on experience with Vuetify, Material UI, or comparable UI component frameworks. Strong understanding of RESTful APIs and frontend-backend integration. Experience with Git and modern version control workflows. Familiarity with CI/CD and pipeline tools. Understanding of frontend architecture and design patterns. Knowledge of responsive design, accessibility, and cross-browser compatibility. Software Engineering Skills Strong focus on writing clean, readable, and maintainable code. Understanding of SOLID principles and software design best practices. Experience conducting code reviews and collaborating in team environments. Ability to identify performance bottlenecks and optimize frontend applications. Good debugging and problem-solving skills. Preferred Qualifications Experience working on enterprise SaaS products or SDLC/DevOps-related platforms. Exposure to Agile/Scrum development methodologies. Experience with automated testing frameworks and frontend testing practices. Familiarity with build tools such as Vite, Webpack, or similar. Understanding of CI/CD concepts and developer workflow automation. What We're Looking For Strong ownership mindset and attention to detail. Passion for building high-quality user experiences. Excellent communication and collaboration skills. Ability to work effectively within cross-functional Agile teams. Diversity statement - As a game-changer in sustainable technology and innovation, Dassault Systèmes is striving to build more inclusive and diverse teams across the globe. We believe that our people are our number one asset and we want all employees to feel empowered to bring their whole selves to work every day. It is our goal that our people feel a sense of pride and a passion for belonging. It is our responsibility to foster opportunities for all people to participate in a harmonized Workforce of the Future. Continuous learner who stays updated with modern frontend technologies and best practices Inclusion statement As a game-changer in sustainable technology and innovation, Dassault Systèmes is striving to build more inclusive and diverse teams across the globe. We believe that our people are our number one asset and we want all employees to feel empowered to bring their whole selves to work every day. It is our goal that our people feel a sense of pride and a passion for belonging. As a company leading change, it’s our responsibility to foster opportunities for all people to participate in a harmonized Workforce of the Future. Show more Show less Seniority level Associate Employment type Full-time Job function Engineering and Information Technology Industries Software Development, IT Services and IT Consulting, and Research Services Referrals increase your chances of interviewing at Dassault Systèmes by 2x See who you know",
-      "score": 38,
+      "title": "MTS-1 Software Engineer - Fullstack",
+      "company": "eBay",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/mts-1-software-engineer-fullstack-at-ebay-4420752516",
+      "postedAt": "2026-06-26",
+      "jobId": "4420752516",
+      "description": "MTS-1 Software Engineer - Fullstack eBay Bengaluru, Karnataka, India 21 hours ago 144 applicants See who eBay has hired for this role Apply Join or sign in to find your next job Join to apply for the MTS-1 Software Engineer - Fullstack role at eBay Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet. Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all. About The Team And The Role TCGplayer connects hobbyists and hobby businesses to communities. We relentlessly improve the exchange of things and thoughts that fuel passions, providing the most compelling destination and tools for collectible card game enthusiasts and professional sellers! TCGplayer, now a part of eBay, promotes and drives growth of our products and services by connecting a global community of millions of buyers with tens of thousands of retailers in a $25B global collectible hobby market. As a Software Engineer III, you will help design, build, and maintain the systems that power TCGplayer's Customer Experience (CX) platform. Your work will enable our CX agents to efficiently support both Buyers and Sellers across every aspect of TCGplayer's business. You will uplift legacy applications into a microservice-based architecture, integrate with internal systems of record and third-party platforms, and collaborate closely with other development teams to deliver a cohesive and intuitive customer support experience. Build and deliver scalable enterprise applications and platform services for a modern CX platform by developing cloud-native APIs, event-driven systems, and microservices using C#/.NET and modern frontend technologies. What You Will Accomplish Develop scalable backend services and APIs using C#/.NET 6/7/8. Build enterprise-grade applications and microservices supporting customer experience workflows. Design and implement event-driven solutions using Apache Kafka. Develop and maintain React.js/Vue.js based user interfaces and integrations. Integrate services with internal systems and third-party platforms. Optimize application performance, reliability, scalability, and security. Ensure production readiness through logging, monitoring, testing, and CI/CD practices. Contribute to cloud-native architecture, modernization initiatives, and platform engineering efforts. What You Will Bring 7+ years of strong experience in C#/.NET 6/7/8 (Mandatory). Experience working on Frontend React.js/Vue.js (preferred), JavaScript/TypeScript. Experience with Python is good to have. Experience with Apache Kafka, Event-Driven Architecture, and Microservices Architecture. Hands-on experience with AWS (EC2, EKS, ECS, Lambda, S3, RDS, DynamoDB). Familiarity with Docker, Kubernetes, CI/CD, Terraform, and Git. Relational DB: PostgreSQL, MySQL. NoSQL: MongoDB (good to have). Bachelor’s/Master’s in Computer Science or related field. Experience building large-scale enterprise applications in production environments. Experience in CX / support tools is a plus. Understanding of cloud-native development and distributed systems is a plus Additional Details eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility for people with disabilities. We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center, and AI Hiring Guidelines. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Technology, Information and Internet Referrals increase your chances of interviewing at eBay by 2x See who you know",
+      "score": 31,
       "matchedSkills": [
         "React",
-        "Redux",
         "JavaScript",
         "TypeScript",
-        "Webpack",
-        "HTML",
-        "REST",
-        "CI/CD"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full Stack Engineer",
-      "company": "Accenture in India",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4383142309",
-      "postedAt": "2026-06-25",
-      "jobId": "4383142309",
-      "description": "Full Stack Engineer Accenture in India Bengaluru, Karnataka, India 16 hours ago 55 applicants See who Accenture in India has hired for this role Apply Join or sign in to find your next job Join to apply for the Full Stack Engineer role at Accenture in India Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Project Role : Full Stack Engineer Project Role Description : Responsible for developing and/or engineering the end-to-end features of a system, from user experience to backend code. Use development skills to deliver innovative solutions that help our clients improve the services they provide. Leverage new technologies that can be applied to solve challenging business problems with a cloud first and agile mindset. Must have skills : Cloud Infrastructure Good to have skills : NA Minimum 3 Year(s) Of Experience Is Required Educational Qualification : 15 years full time education Summary AI Powered Tech Talent We're looking for a visionary Full Stack Data Engineer on cognitive Hybrid Cloud technologies across public and Private cloud Technologies (Thought leaders, Technical Leads and Practitioners) at senior career levels to work on business development, transformation and modernization solutions and technology crisis management. The focus is to manage client technology landscape and value add through innovation and though leadership, address complex technical challenges faced by our clients. We also have emerging research and collaboration with our eco-system partners which needs to be taken up for creating GTM Offerings, Co-Create Innovative Assets and developing new deal pipeline. Key Responsibilities Design, develop, and maintain database-driven web applications covering both front-end and back-end. Develop responsive user interfaces using technologies like HTML, CSS, JavaScript, and modern frameworks such as React or Angular. Implement robust back-end services and APIs using server-side languages like Java, Node.js, Python, or .NET. Architect, manage, and optimize SQL and NoSQL databases (e.g., Pracle, MySQL, PostgreSQL, MongoDB, DynamoDB.), including schema eesign and query optimization. Integrate and manage cloud platform services (preferably AWS), utilizing AWS-managed services such as Lambda, EC2, S3, RDS, and DynamoDB. Develop RESTful APIs and ensure seamless front-end/back-end integration. Automate infrastructure provisioning and deployments using Infrastructure as Code (CloudFormation, Terraform), and maintain CI/CD pipelines. Ensure optimal performance, scalability, and security for databases and application stacks. Monitor, troubleshoot, and resolve production issues for database and application layers. Participate in code reviews, testing, and agile team collaboration Support Full Stack Application Development Support Build responsive, dynamic web applications using modern front-end frameworks (e.g., React, Angular, Vue.js). Support Development backend services using languages such as Node.js, Python, Java, or .NET. Support Implementation of authentication, authorization, and session management features. Collaborate with designers to ensure intuitive UI/UX aligned with user needs. DevOps &amp; Cloud Integration Deploy and maintain applications on cloud platforms (AWS, Azure, GCP). Automate testing, CI/CD pipelines, and infrastructure as code where applicable. Monitor application performance, troubleshoot issues, and optimize for scalability Required Skills: Database Systems (RDBMS, No SQL and Cloud DB) Oracle and MS SQL or MySQL and MongoDB Postgres DB- Cloud DB. Infrastructure as a Code &amp; Scripting Terraform or Ansible - Shell Scripting and Python, Power Shell, Power CLi Public Cloud IaaS and Associated PaaS AWS / Azure/ GCP - S3, Blobs, VPCs, vNet, LBs Cloud Watch, Stack Driver, Azure Mon Cloud Native and Containers PODMAN, Docker Openshift and AKS and GKE and EKE Operating Systems Platform Windows/ ADS or AIX and Solaris and HPUX Middleware (Web Servers, Message Qs, Managed Apps, MFT, Job Schedulers IIS, Apache, JBOSS, WebSphere/ Web Logic MFTs, MQ Series, Control M or Autosys or TWS and MTFs Backup and Storage Commvault, IBM, Hitachi Backup, Cloud Front, Amazon S3, Azure Storage. Observability &amp; Environment Health observability tools (Nagios /SolarWinds/Netcool, Prometheus, ELK) and Environment Health and Capacity Management and Tech Debt and FinOps Enterprise AI Agentic AI Framework (CrewAI, LangGraph, AutoGen) and Responsible AI Concepts and AI Guardrails Mandatory Certifications Database Type Recommended Certifications SQL / Relational DBs Oracle Database SQL Certified Associate Microsoft Certified: Azure Database Administrator Associate (DP-300) PostgreSQL EDB Certified PostgreSQL Associate or Professional MySQL Oracle Certified Professional, MySQL Database Administrator NoSQL / Modern DBs MongoDB Certified Developer or DBA Cassandra Certified Developer / Administrator Recommended Certifications: Focus Area Recommended Certifications Data Engineering Databricks Certified Data Engineer Associate ETL &amp; Big Data Cloud Professional Data Engineer Analytics Microsoft Power BI Data Analyst Associate (PL-300) Resource should be AI ready., 15 years full time education Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Accenture in India by 2x See who you know",
-      "score": 37,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "Node",
-        "REST",
         "Docker",
-        "GCP",
+        "Kubernetes",
         "CI/CD",
         "SQL",
         "MongoDB"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Consultant",
-      "company": "Virtusa",
-      "location": "Bangalore Urban, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-consultant-at-virtusa-4396167138",
-      "postedAt": "2026-06-25",
-      "jobId": "4396167138",
-      "description": "Senior Consultant Virtusa Bangalore Urban, Karnataka, India 19 hours ago 92 applicants See who Virtusa has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Consultant role at Virtusa Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job We are hiring a Java Full Stack Developer with 6–10 years of experience to build modern, scalable applications. Strong expertise in Java (17/21 LTS), Spring Boot 3.x, Spring Framework 6, Microservices, and RESTful APIs is required. Hands-on experience with frontend technologies such as React/Angular, JavaScript, HTML, and CSS. Design and develop end-to-end solutions with a focus on performance, security, and cloud readiness. Experience with AWS/Azure, SQL/NoSQL databases, Docker, and CI/CD pipelines is a strong plus. Show more Show less Seniority level Associate Employment type Full-time Job function Consulting, Information Technology, and Sales Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Virtusa by 2x See who you know",
-      "score": 28,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "REST",
-        "Docker",
-        "CI/CD",
-        "SQL"
       ],
       "excluded": false
     },
@@ -83,69 +40,12 @@
       "excluded": false
     },
     {
-      "title": "React/Nodejs Developer",
-      "company": "HTC Global Services",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-nodejs-developer-at-htc-global-services-4433523610",
-      "postedAt": "2026-06-25",
-      "jobId": "4433523610",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React/Consultant Specialist",
-      "company": "HSBC",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-consultant-specialist-at-hsbc-4433366759",
-      "postedAt": "2026-06-25",
-      "jobId": "4433366759",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React/Consultant Specialist",
-      "company": "HSBC",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/react-consultant-specialist-at-hsbc-4433376441",
-      "postedAt": "2026-06-25",
-      "jobId": "4433376441",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior React Software Developer (f/m/d)",
-      "company": "Thinkproject",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-software-developer-f-m-d-at-thinkproject-4432188667",
-      "postedAt": "2026-06-25",
-      "jobId": "4432188667",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React.js frontend developer",
+      "title": "React frontend developer",
       "company": "Capco",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-frontend-developer-at-capco-4432620361",
-      "postedAt": "2026-06-25",
-      "jobId": "4432620361",
+      "url": "https://in.linkedin.com/jobs/view/react-frontend-developer-at-capco-4432959982",
+      "postedAt": "2026-06-26",
+      "jobId": "4432959982",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -154,51 +54,45 @@
       "excluded": false
     },
     {
-      "title": "Staff Software Engineer, Frontend",
-      "company": "Harvey",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/staff-software-engineer-frontend-at-harvey-4424238683",
-      "postedAt": "2026-06-25",
-      "jobId": "4424238683",
-      "description": "Staff Software Engineer, Frontend Harvey Bengaluru, Karnataka, India 14 hours ago Over 200 applicants See who Harvey has hired for this role Apply Join or sign in to find your next job Join to apply for the Staff Software Engineer, Frontend role at Harvey Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Why Harvey At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come. This is a rare chance to help build a generational company at a true inflection point. With 1500+ customers in 60+ countries, strong product-market fit, and world-class investor support, we’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched. Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you. At Harvey, the future of professional services is being written today — and we’re just getting started. Role Overview As a Staff Software Engineer, Frontend at Harvey, you will own and lead engineering projects that define the user experience of our different products: Assistant, Vault, Workflows, and Harvey in Microsoft Word and Outlook. You will also lead frontend engineering on new products that we are building at Harvey. The team is composed of highly motivated, skilled, and considerate engineers. Everything we touch is polished to high standards extending to all aspects of our work – from design to architecture to code to slack communication. If any of this resonates with you, this role might be right for you. What You'll Do Build new interfaces for lawyers and organizations to collaborate with AI. Lead end-to-end UI features for Assistant, Vault, Workflows, our Word/Outlook add-ins, and future Harvey products — from scoping and design reviews to implementation, launch, and iteration. Build polished, high-performance React + TypeScript interfaces using TailwindCSS, with crisp interactions, resilient state management, and strong error handling. Architect reusable components and patterns and evolve our internal design system. Optimize frontend performance at scale. Collaborate tightly with design and backend/infrastructure to shape APIs and UX for long-running jobs, streaming results, and tool-calling workflows. Raise the bar on frontend reliability and security UX for enterprise and regulated environments. Mentor peers through thoughtful code reviews and documentation; help refine our frontend standards and developer experience. What You Have 12+ YoE (post-BE/B.Tech/MS) in a product focused frontend software engineering role Experience with React, Typescript, and CSS (we use TailwindCSS) Track record of building fast-growing SaaS products by leveraging PWA technologies Track record of shipping highly intuitive products, strong attention to detail Experience working at startups and scaleups (anywhere from early-to-late-stage) is a plus Additional Information Work eligibility: Must be authorized to work in India. Visa sponsorship is not available for this role. Depending on your location, an Applicant Privacy Notice may apply to you. You can find all of our Applicant Privacy Notices [ here ]. Harvey is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law. We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made by emailing accommodations@harvey.ai Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Harvey by 2x See who you know",
-      "score": 19,
-      "matchedSkills": [
-        "React",
-        "TypeScript",
-        "Tailwind",
-        "Express"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Application Developer-Cloud FullStack",
-      "company": "IBM",
+      "title": "Frontend (React) Engineering Lead - AITDS",
+      "company": "Cognizant",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/application-developer-cloud-fullstack-at-ibm-4433062888",
-      "postedAt": "2026-06-25",
-      "jobId": "4433062888",
-      "description": "Application Developer-Cloud FullStack IBM Hyderabad, Telangana, India 22 hours ago 64 applicants See who IBM has hired for this role Apply Join or sign in to find your next job Join to apply for the Application Developer-Cloud FullStack role at IBM Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Introduction A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You’ll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you’ll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You’ll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long-term career development while valuing your unique skills and experiences. Your Role And Responsibilities As an Application Developer: Cloud FullStack, you will develop and deploy cloud-based applications using microservices design patterns, integrating front-end, back-end, and middleware components. You will utilize expertise in multiple layers of application development to deliver efficient and secure cloud-based solutions. Your primary responsibilities will include: Design and Develop Applications: Develop and deploy cloud-based applications using microservices design patterns, integrating front-end, back-end, and middleware components, and persisting data in NoSQL or RDBMS databases. Apply DevOps Methodologies: Apply DevOps methodologies and tools to ensure efficient development, testing, and deployment of cloud-based applications. Collaborate on Cloud Environments: Work with senior level practitioners to design, build, and maintain cloud environments, focusing on uptime, access, control, and network security using automation and configuration management tools. Integrate Multiple Technologies: Utilize expertise in multiple layers of application development, including Angular, React, CSS3, HTML5, Java, JEE, Spring, Hibernate, Groovy, REST/SOA services, APIGEE, API Connect, and NoSQL/RDBMS databases. Preferred Education Master's Degree Required Technical And Professional Expertise Cloud-Based Application Development: Exposure to developing and deploying cloud-based applications using microservices design patterns, integrating front-end, back-end, and middleware components, and persisting data in NoSQL or RDBMS databases. Multi-Layered Application Development: Exposure to utilizing expertise in multiple layers of application development, including Angular, React, CSS3, HTML5, Java, JEE, Spring, Hibernate, Groovy, REST/SOA services, APIGEE, API Connect, and NoSQL/RDBMS databases. DevOps Methodologies and Tools: Exposure to applying DevOps methodologies and tools to ensure efficient development, testing, and deployment of cloud-based applications. Cloud Environment Maintenance: Exposure to designing, building, and maintaining cloud environments, focusing on uptime, access, control, and network security using automation and configuration management tools. Technology Integration: Exposure to integrating multiple technologies to deliver efficient and secure cloud-based solutions. Preferred Technical And Professional Experience Cloud Security Knowledge: Exposure to cloud security measures, including uptime, access, control, and network security using automation and configuration management tools, is beneficial for this role. Multi-Technology Integration: Familiarity with integrating multiple technologies, including Angular, React, CSS3, HTML5, Java, JEE, Spring, Hibernate, Groovy, REST/SOA services, APIGEE, API Connect, and NoSQL/RDBMS databases, is a plus. DevOps Tool Expertise: Exposure to various DevOps tools and methodologies to ensure efficient development, testing, and deployment of cloud-based applications is desirable. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at IBM by 2x See who you know",
-      "score": 19,
+      "url": "https://in.linkedin.com/jobs/view/frontend-react-engineering-lead-aitds-at-cognizant-4414469117",
+      "postedAt": "2026-06-26",
+      "jobId": "4414469117",
+      "description": "",
+      "score": 20,
       "matchedSkills": [
-        "React",
-        "HTML",
-        "REST",
-        "SQL"
+        "React"
       ],
       "excluded": false
     },
     {
-      "title": "AI Software Engineer",
-      "company": "IBM",
+      "title": "Tech Lead - React Developer",
+      "company": "Beghou",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/tech-lead-react-developer-at-beghou-4433266072",
+      "postedAt": "2026-06-26",
+      "jobId": "4433266072",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer II - AI",
+      "company": "Goldcast",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/ai-software-engineer-at-ibm-4411193143",
-      "postedAt": "2026-06-25",
-      "jobId": "4411193143",
-      "description": "AI Software Engineer IBM Bengaluru, Karnataka, India 13 hours ago Over 200 applicants See who IBM has hired for this role Apply Join or sign in to find your next job Join to apply for the AI Software Engineer role at IBM Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Introduction At IBM Finance &amp; Operations, we are the backbone of IBM’s transformation driving efficiency, transparency, and smart decision-making across the business. Our teams provide the insight and discipline that guide strategy, ensure financial strength, and enable IBM to invest in innovation and growth. Working in Finance &amp; Operations means combining analytical skills with collaboration and curiosity. You’ll partner with colleagues across functions and geographies, using data, technology, and process excellence to create solutions that improve performance and deliver measurable impact. IBM offers continuous learning, career development, and a culture that values diverse perspectives. Join us and be part of a global team that keeps IBM moving forward, while building your own future in a dynamic and evolving environment. Your Role And Responsibilities As an AI software engineer - design, build, deploy and maintain AI, ML and GenAI powered software solutions. Work on bridging software engineering and machine learning by transforming models into scalable, secure, and production-ready systems that solve real business problems. Experience in handling LLMs, prompt engineering, embeddings, and vector databases. Delivery using leading-edge and/or proven technologies, working closely with stakeholders to meet requirements and expectations. Working in an Agile, collaborative environment to understand stakeholder requirements, aligning with team goals and objectives. Required Technical And Professional Expertise AI &amp; Machine Learning Development Design, develop, evaluate, and optimize machine learning and Generative AI solutions Select appropriate algorithms and frameworks based on business and technical requirements Experience in handling LLMs, prompt engineering, embeddings, and vector databases. Hands on experience on handling structured data in generative AI solutions Experience on working with RAG solutions Experience on working with Front end framework like React.Js Hands on experience on Python, REST API, microservices Software Engineering Build scalable, maintainable, and modular AI-driven applications Integrate AI models into backend services, APIs, and enterprise systems Write clean, testable, and efficient code following best engineering practices Deployment Deploy models or services using containers, cloud platforms Monitor solution performance, latency, and reliability in production Data &amp; Collaboration Collaborate with product managers and domain experts Work with large structured and unstructured Databases Security, Ethics &amp; Compliance Ensure responsible and ethical AI development Address model bias, explainability, privacy, and security concerns Comply with organizational and regulatory standards Preferred Technical And Professional Experience Familiarity with Agile development Demonstrated ability to operate within short release cycles Ability to develop and deploy following best-in-class engineering practices Experience designing enterprise level solutions for clients Ability to explain complex AI concepts to non-technical stakeholders Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at IBM by 2x See who you know",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-ai-at-goldcast-4331955028",
+      "postedAt": "2026-06-26",
+      "jobId": "4331955028",
+      "description": "Software Engineer II - AI Goldcast Bengaluru, Karnataka, India 11 hours ago Over 200 applicants See who Goldcast has hired for this role Apply Save Report this job Disclaimer : Beware of Recruitment Scams – Legitimate Cvent recruiting communications will always come from an official ‘ name@cvent.com’ email. We never request any payments or ask for sensitive personal or financial information via chat or social media platforms. For more information, please visit: https://www.cvent.com/en/notice-recruitment-fraud Goldcast (a Cvent company) is an AI-powered B2B Video Content Platform that enables marketers to put video content at the heart of the customer journey. We’re building a browser-based, frame-accurate video editor that rivals desktop apps, using cutting-edge tech like WebCodecs, WASM, and Remotion. Founded in mid-2020 at Harvard Business School, we have 400+ customers across tech, professional services, manufacturing, and finance to deliver engaging video content &amp; digital events. AI at Cvent: Leading the Future Are you ready to shape the future of work at the intersection of human expertise and AI innovation? At Cvent, we’re committed to continuous learning and adaptation—AI isn’t just a tool for us, it’s part of our DNA. We’re looking for candidates who are eager to evolve alongside technology. If you love to experiment boldly, share your discoveries, and help define best practices for AI-augmented work, you’ll thrive here. Our team values professionals who thoughtfully integrate AI into their daily work, delivering exceptional results while relying on the human judgment and creativity that drive real innovation. Throughout our interview process, you’ll have the chance to demonstrate how you use AI to learn, iterate, and amplify your impact. If you’re excited to be part of a team that’s leading the way in AI-powered collaboration, we’d love to meet you. Role Overview We're seeking a Software Engineer II to join our AI team. The ideal candidate will be able to independently deliver medium to large features end-to-end, from design to production rollout. You'll be working on exciting projects such as improving our event timeline functionality, enhancing our clip customization features, and developing new pricing tier implementations. Here's What You Need: 3+ years of experience in software engineering Ability to independently deliver medium/large features with ambiguous requirements Strong engineering design skills with the ability to write and review design documents Experience in video processing &amp; AI/ML is a plus Good understanding of production systems and effective debugging skills Ability to collaborate effectively with product teams, designers, QA, and other stakeholders Experience in participating in code reviews, on-call rotations, and mentoring junior engineers Capability to take ownership of a small area of the product Familiarity with technologies like React, Java, Python, or Go, and cloud environments such as AWS Experience with database technologies like PostgreSQL. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering Industries Software Development Referrals increase your chances of interviewing at Goldcast by 2x See who you know",
       "score": 13,
       "matchedSkills": [
         "React",
-        "REST"
+        "SQL"
       ],
       "excluded": false
     }
