@@ -1,35 +1,14 @@
 {
-  "generatedAt": "2026-06-27T06:53:24.119Z",
-  "totalScraped": 186,
-  "totalMatched": 6,
+  "generatedAt": "2026-06-28T07:25:10.355Z",
+  "totalScraped": 107,
+  "totalMatched": 2,
   "jobs": [
-    {
-      "title": "MTS-1 Software Engineer - Fullstack",
-      "company": "eBay",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/mts-1-software-engineer-fullstack-at-ebay-4420752516",
-      "postedAt": "2026-06-26",
-      "jobId": "4420752516",
-      "description": "MTS-1 Software Engineer - Fullstack eBay Bengaluru, Karnataka, India 21 hours ago 144 applicants See who eBay has hired for this role Apply Join or sign in to find your next job Join to apply for the MTS-1 Software Engineer - Fullstack role at eBay Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet. Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all. About The Team And The Role TCGplayer connects hobbyists and hobby businesses to communities. We relentlessly improve the exchange of things and thoughts that fuel passions, providing the most compelling destination and tools for collectible card game enthusiasts and professional sellers! TCGplayer, now a part of eBay, promotes and drives growth of our products and services by connecting a global community of millions of buyers with tens of thousands of retailers in a $25B global collectible hobby market. As a Software Engineer III, you will help design, build, and maintain the systems that power TCGplayer's Customer Experience (CX) platform. Your work will enable our CX agents to efficiently support both Buyers and Sellers across every aspect of TCGplayer's business. You will uplift legacy applications into a microservice-based architecture, integrate with internal systems of record and third-party platforms, and collaborate closely with other development teams to deliver a cohesive and intuitive customer support experience. Build and deliver scalable enterprise applications and platform services for a modern CX platform by developing cloud-native APIs, event-driven systems, and microservices using C#/.NET and modern frontend technologies. What You Will Accomplish Develop scalable backend services and APIs using C#/.NET 6/7/8. Build enterprise-grade applications and microservices supporting customer experience workflows. Design and implement event-driven solutions using Apache Kafka. Develop and maintain React.js/Vue.js based user interfaces and integrations. Integrate services with internal systems and third-party platforms. Optimize application performance, reliability, scalability, and security. Ensure production readiness through logging, monitoring, testing, and CI/CD practices. Contribute to cloud-native architecture, modernization initiatives, and platform engineering efforts. What You Will Bring 7+ years of strong experience in C#/.NET 6/7/8 (Mandatory). Experience working on Frontend React.js/Vue.js (preferred), JavaScript/TypeScript. Experience with Python is good to have. Experience with Apache Kafka, Event-Driven Architecture, and Microservices Architecture. Hands-on experience with AWS (EC2, EKS, ECS, Lambda, S3, RDS, DynamoDB). Familiarity with Docker, Kubernetes, CI/CD, Terraform, and Git. Relational DB: PostgreSQL, MySQL. NoSQL: MongoDB (good to have). Bachelor’s/Master’s in Computer Science or related field. Experience building large-scale enterprise applications in production environments. Experience in CX / support tools is a plus. Understanding of cloud-native development and distributed systems is a plus Additional Details eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility for people with disabilities. We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center, and AI Hiring Guidelines. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Technology, Information and Internet Referrals increase your chances of interviewing at eBay by 2x See who you know",
-      "score": 31,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "TypeScript",
-        "Docker",
-        "Kubernetes",
-        "CI/CD",
-        "SQL",
-        "MongoDB"
-      ],
-      "excluded": false
-    },
     {
       "title": "Software Engineer II - Node & React JS",
       "company": "First Citizens India",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-node-react-js-at-first-citizens-india-4432948444",
-      "postedAt": "2026-06-26",
+      "postedAt": "2026-06-27",
       "jobId": "4432948444",
       "description": "",
       "score": 26,
@@ -40,55 +19,13 @@
       "excluded": false
     },
     {
-      "title": "React frontend developer",
-      "company": "Capco",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-frontend-developer-at-capco-4432959982",
-      "postedAt": "2026-06-26",
-      "jobId": "4432959982",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Frontend (React) Engineering Lead - AITDS",
-      "company": "Cognizant",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/frontend-react-engineering-lead-aitds-at-cognizant-4414469117",
-      "postedAt": "2026-06-26",
-      "jobId": "4414469117",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Tech Lead - React Developer",
-      "company": "Beghou",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/tech-lead-react-developer-at-beghou-4433266072",
-      "postedAt": "2026-06-26",
-      "jobId": "4433266072",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
       "title": "Software Engineer II - AI",
       "company": "Goldcast",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-ai-at-goldcast-4331955028",
-      "postedAt": "2026-06-26",
+      "postedAt": "2026-06-27",
       "jobId": "4331955028",
-      "description": "Software Engineer II - AI Goldcast Bengaluru, Karnataka, India 11 hours ago Over 200 applicants See who Goldcast has hired for this role Apply Save Report this job Disclaimer : Beware of Recruitment Scams – Legitimate Cvent recruiting communications will always come from an official ‘ name@cvent.com’ email. We never request any payments or ask for sensitive personal or financial information via chat or social media platforms. For more information, please visit: https://www.cvent.com/en/notice-recruitment-fraud Goldcast (a Cvent company) is an AI-powered B2B Video Content Platform that enables marketers to put video content at the heart of the customer journey. We’re building a browser-based, frame-accurate video editor that rivals desktop apps, using cutting-edge tech like WebCodecs, WASM, and Remotion. Founded in mid-2020 at Harvard Business School, we have 400+ customers across tech, professional services, manufacturing, and finance to deliver engaging video content &amp; digital events. AI at Cvent: Leading the Future Are you ready to shape the future of work at the intersection of human expertise and AI innovation? At Cvent, we’re committed to continuous learning and adaptation—AI isn’t just a tool for us, it’s part of our DNA. We’re looking for candidates who are eager to evolve alongside technology. If you love to experiment boldly, share your discoveries, and help define best practices for AI-augmented work, you’ll thrive here. Our team values professionals who thoughtfully integrate AI into their daily work, delivering exceptional results while relying on the human judgment and creativity that drive real innovation. Throughout our interview process, you’ll have the chance to demonstrate how you use AI to learn, iterate, and amplify your impact. If you’re excited to be part of a team that’s leading the way in AI-powered collaboration, we’d love to meet you. Role Overview We're seeking a Software Engineer II to join our AI team. The ideal candidate will be able to independently deliver medium to large features end-to-end, from design to production rollout. You'll be working on exciting projects such as improving our event timeline functionality, enhancing our clip customization features, and developing new pricing tier implementations. Here's What You Need: 3+ years of experience in software engineering Ability to independently deliver medium/large features with ambiguous requirements Strong engineering design skills with the ability to write and review design documents Experience in video processing &amp; AI/ML is a plus Good understanding of production systems and effective debugging skills Ability to collaborate effectively with product teams, designers, QA, and other stakeholders Experience in participating in code reviews, on-call rotations, and mentoring junior engineers Capability to take ownership of a small area of the product Familiarity with technologies like React, Java, Python, or Go, and cloud environments such as AWS Experience with database technologies like PostgreSQL. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering Industries Software Development Referrals increase your chances of interviewing at Goldcast by 2x See who you know",
+      "description": "Software Engineer II - AI Goldcast Bengaluru, Karnataka, India 20 hours ago Over 200 applicants See who Goldcast has hired for this role Apply Save Report this job Disclaimer : Beware of Recruitment Scams – Legitimate Cvent recruiting communications will always come from an official ‘ name@cvent.com’ email. We never request any payments or ask for sensitive personal or financial information via chat or social media platforms. For more information, please visit: https://www.cvent.com/en/notice-recruitment-fraud Goldcast (a Cvent company) is an AI-powered B2B Video Content Platform that enables marketers to put video content at the heart of the customer journey. We’re building a browser-based, frame-accurate video editor that rivals desktop apps, using cutting-edge tech like WebCodecs, WASM, and Remotion. Founded in mid-2020 at Harvard Business School, we have 400+ customers across tech, professional services, manufacturing, and finance to deliver engaging video content &amp; digital events. AI at Cvent: Leading the Future Are you ready to shape the future of work at the intersection of human expertise and AI innovation? At Cvent, we’re committed to continuous learning and adaptation—AI isn’t just a tool for us, it’s part of our DNA. We’re looking for candidates who are eager to evolve alongside technology. If you love to experiment boldly, share your discoveries, and help define best practices for AI-augmented work, you’ll thrive here. Our team values professionals who thoughtfully integrate AI into their daily work, delivering exceptional results while relying on the human judgment and creativity that drive real innovation. Throughout our interview process, you’ll have the chance to demonstrate how you use AI to learn, iterate, and amplify your impact. If you’re excited to be part of a team that’s leading the way in AI-powered collaboration, we’d love to meet you. Role Overview We're seeking a Software Engineer II to join our AI team. The ideal candidate will be able to independently deliver medium to large features end-to-end, from design to production rollout. You'll be working on exciting projects such as improving our event timeline functionality, enhancing our clip customization features, and developing new pricing tier implementations. Here's What You Need: 3+ years of experience in software engineering Ability to independently deliver medium/large features with ambiguous requirements Strong engineering design skills with the ability to write and review design documents Experience in video processing &amp; AI/ML is a plus Good understanding of production systems and effective debugging skills Ability to collaborate effectively with product teams, designers, QA, and other stakeholders Experience in participating in code reviews, on-call rotations, and mentoring junior engineers Capability to take ownership of a small area of the product Familiarity with technologies like React, Java, Python, or Go, and cloud environments such as AWS Experience with database technologies like PostgreSQL. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering Industries Software Development Referrals increase your chances of interviewing at Goldcast by 2x See who you know",
       "score": 13,
       "matchedSkills": [
         "React",
