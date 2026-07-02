@@ -1,84 +1,127 @@
 {
-  "generatedAt": "2026-07-01T08:05:43.918Z",
-  "totalScraped": 187,
-  "totalMatched": 8,
+  "generatedAt": "2026-07-02T07:07:37.523Z",
+  "totalScraped": 476,
+  "totalMatched": 23,
   "jobs": [
     {
-      "title": "Senior .NET Full Stack Developer (C#.Net, Cloud AWS/Azure, Angular/React)_6-10Yrs_Pune",
-      "company": "Worldpay",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-full-stack-developer-c%23-net-cloud-aws-azure-angular-react-6-10yrs-pune-at-worldpay-4425801264",
-      "postedAt": "2026-06-30",
-      "jobId": "4425801264",
-      "description": "Senior .NET Full Stack Developer (C#.Net, Cloud AWS/Azure, Angular/React)_6-10Yrs_Pune Worldpay Pune Division, Maharashtra, India 14 hours ago 95 applicants See who Worldpay has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior .NET Full Stack Developer (C#.Net, Cloud AWS/Azure, Angular/React)_6-10Yrs_Pune role at Worldpay Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Ready to take your career global? Make your mark at one of the biggest names in payments. We’re looking for Senior Software Engineer to join our ever-evolving EFE team and help shape the future of global commerce. What You’ll Own As a Full-Stack Software Engineer you could work with bleeding edge technology as you build innovative fintech products that change the way the world pays, banks and invests. This will involve developing core versions of software applications, identifying client requirements and technical specifications, interacting with engineering groups and training clients on applications. Ability to understand business requirements and translate them into technical requirements. What You’ll Bring 6+ years of experience with design, development, deployment, and management of secure, highly scalable production-grade platforms Experience writing production grade software applications using the following: Back-end using C#/.NET, Cloud (AWS/Azure/GCP) Front end experience in Angular/ReactJs Both SQL, NoSQL databases using PostgreSQL, MongoDB Work effectively in Agile development teams. Write unit/integration tests and functional automation. Develop high quality, well documented, and efficient code . Experience with microservices and API first platforms. Experience building applications using AWS cloud native services. Working with CI/CD pipelines and tools (e.g., Jenkins, GitHub Actions). Strong experience with containerization and orchestration tools like Docker and Kubernetes Bachelor’s degree in computer science or the equivalent combination of education, training, or work experience. It’s a bonus if you have Fintech/Payments Industry Experience About The Team Our inclusive and global teams win together every day. We’re proud to have the best minds in the industry, who you can learn from as you grow your career. The people, the energy, the connections – it’s unmatched. Come and be part of an ever-evolving company and get dynamic opportunities that go beyond borders. What makes a Globalpayer? Globalpayers think like a client, act like an owner and win as one team. We’re curious and innovative – always finding better ways to deliver impact. We empower each other to make decisions, and it’s our passion that drives excellence in everything we set out to do. Does this sound like you? Then you sound like a Globalpayer. Apply now to take your career global. LinkedIn # ( Azeema Shaik) Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Financial Services Referrals increase your chances of interviewing at Worldpay by 2x See who you know",
-      "score": 41,
-      "matchedSkills": [
-        "React",
-        "Docker",
-        "Kubernetes",
-        "GCP",
-        "Jenkins",
-        "CI/CD",
-        "SQL",
-        "MongoDB"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer - Artificial Intelligence",
-      "company": "upGrad",
+      "title": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner",
+      "company": "UST",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-artificial-intelligence-at-upgrad-4431915870",
-      "postedAt": "2026-06-30",
-      "jobId": "4431915870",
-      "description": "Software Engineer - Artificial Intelligence upGrad Bengaluru, Karnataka, India 20 hours ago Over 200 applicants See who upGrad has hired for this role Apply Save Report this job Direct message the job poster from upGrad Muskan Khandelwal Muskan Khandelwal Hiring for Tech, Product, and Non-Tech Designation - Senior Software Engineer - AI Business Unit - Higher Education Department - Technology Experience Range - 4 years Location - Bengaluru, Karnataka About upGrad: upGrad is one of India’s leading higher edtech platforms, servi ng millions of learners across 100+ countr ies with strong university and industry partnerships. With a mission to enable career success through outcome-driven learning, upGrad is now building its next growth engine focused on undergraduate learners across India. About the Role: We are looking for a Senior Software Engineer – AI who is passionate about building intelligent systems that solve real-world problems. You’ll work at the intersection of machine learn in g, large language models (LL Ms), a nd backend engineer ing, turning research into production-ready systems. This is a hands-on engineering role with a strong emphasis on scalable AI integra ti on, prompt enginee ri ng, RAG (retrieval-augmented generat ion), and build ing intelligent APIs and microservices. What You'll Do Design and build AI-powered applications u sing LLMs (OpenAI, LLaMA, Mistral, et c.), vector databases, and embedding models Build scalable backend systems and APIs (Python, FastAPI, Node.js, etc.) to serve AI features in production. Develop retrieval-augmented generation (RAG) pipelines and manage unstructured knowledge bases (PDFs, docs, audio). Optimize inference pipelines for low latency and cost (e.g., with Ollama, vLLM, or LangChain). Work with tools like Wh is per, Huggin gFace, and Pinecone/ChromaDB/Weaviate Write clean, modular code and lead by example in engineering excellence. Collaborate closely with product, design, and ML teams to rapidly prototype and ship feaures. Must-Have Skills: 4+ years of software engineering experience (Python preferred). Hands-on experience wit h LLMs, generat i ve AI, or custom ML workflows. Strong understandi ng of NLP, embeddings, and vector search. Experience with FastAPI / Flask / Django and REST APIs. Solid grounding in Docker, Git, and CI/CD pipelines. Comfortable with cloud platforms (AWS/GCP/Azure) and containerized deployments. Strong debugging, performance tuning, and system design skills. Good to Have: Experience with LangChain, Haystack, or custom RAG frameworks. Familiarity with Whisper (speech-to-text) or audio/video transcription pipelines. Frontend knowledge in React.js is a bonus. Experience scaling AI systems to serve 10k+ users. MLOps exposure (MLFlow, Weights &amp; Biases, etc.). Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Information Technology Industries E-Learning Providers Referrals increase your chances of interviewing at upGrad by 2x See who you know",
-      "score": 25,
+      "url": "https://in.linkedin.com/jobs/view/sr-full-stack-developer-react-%2B-node-js-%2B-graphql-8%2B-years-any-ust-location-immediate-joiner-at-ust-4429688991",
+      "postedAt": "2026-07-01",
+      "jobId": "4429688991",
+      "description": "",
+      "score": 32,
       "matchedSkills": [
         "React",
         "Node",
-        "REST",
-        "Docker",
-        "GCP",
-        "CI/CD"
+        "GraphQL"
       ],
       "excluded": false
     },
     {
-      "title": "Full-Stack UI Developer — Enterprise AI",
-      "company": "HYrEzy Tech Solutions",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-ui-developer-%E2%80%94-enterprise-ai-at-hyrezy-tech-solutions-4434325387",
-      "postedAt": "2026-06-30",
-      "jobId": "4434325387",
-      "description": "Full-Stack UI Developer — Enterprise AI HYrEzy Tech Solutions Bengaluru, Karnataka, India 17 hours ago 88 applicants See who HYrEzy Tech Solutions has hired for this role Apply Save Report this job HYrEzy Tech Solutions provided pay range This range is provided by HYrEzy Tech Solutions. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more. Base pay range ₹1,500,000.00/yr - ₹2,500,000.00/yr Title: Full-Stack UI Developer — Enterprise AI Location: Hyderabad (Hybrid/Remote-friendly) About The Role We are building the interface for the future of Enterprise AI. We are looking for an opinionated, frontend-heavy Full-Stack Developer to own our public-facing surfaces and our enterprise governance console. We launch frequently, and we need someone who finds energy in rapid, iterative release cycles. What You Will Own Product UI Evolution: Audit, iterate, and own our React/Next.js frontend. You will take charge of our public website and our internal governance console, ensuring flawless performance across all browsers and devices. Interactive Components: Implement complex UI elements—video embeds, interactive product demos, and real-time dashboard data—using modern animation libraries (Framer Motion/GSAP). Architecture Ownership: You won't just \"follow a design.\" You will collaborate with our Product Designer to push back on design decisions when a better, more performant, or more scalable technical approach exists. What We Are Looking For 3–5 years of full-stack UI development experience with a strong frontend bias. Deep fluency in React and Next.js, with strong opinions on stack choices and performance. Experience building responsive, PWA-ready, cross-browser interfaces. Comfort implementing interfaces on top of AI-driven backends (FastAPI/MCP/LLM integrations). Portfolio-driven: We want to see what you have shipped—live sites, GitHub repos, or interactive product surfaces. Skills: mcp,llm,ux,gsap,next.js,react,framer motion,fast api,ui Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering and Information Technology Industries Technology, Information and Internet Referrals increase your chances of interviewing at HYrEzy Tech Solutions by 2x See who you know",
-      "score": 20,
+      "title": "Senior Software Engineer -Localization (GLP Team), Bangalore",
+      "company": "Warner Bros. Discovery",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-localization-glp-team-bangalore-at-warner-bros-discovery-4338745069",
+      "postedAt": "2026-07-01",
+      "jobId": "4338745069",
+      "description": "Senior Software Engineer -Localization (GLP Team), Bangalore Warner Bros. Discovery Bengaluru East, Karnataka, India 13 hours ago Over 200 applicants See who Warner Bros. Discovery has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer -Localization (GLP Team), Bangalore role at Warner Bros. Discovery Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Welcome to Warner Bros. Discovery… the stuff dreams are made of. Who We Are… When we say, “the stuff dreams are made of,” we’re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD’s vast portfolio of iconic content and beloved brands, are the storytellers bringing our characters to life, the creators bringing them to your living rooms and the dreamers creating what’s next… From brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive. Senior Software Engineer -Localization (GLP Team), Bangalore About Warner Bros. Discovery: Warner Bros. Discovery, a premier global media and entertainment company, offers audiences the world's most differentiated and complete portfolio of content, brands and franchises across television, film, streaming and gaming. The new company combines Warner Media’s premium entertainment, sports and news assets with Discovery's leading non-fiction and international entertainment and sports businesses. For more information, please visit www.wbd.com Meet Our Team: The Global Localization Platform team is responsible for an automated string management platform that transforms how we handle user-facing text across all our products, as well as the tools and tooling components used to manage localizations through self-service within our internal suite of tools called Studio. This platform significantly boosts the productivity of Copywriters and Translation Operations, while improving the workflow for development teams that integrate language strings. By automating string collection, translation and deployment, the team ensures higher-quality English and translated strings are delivered faster and more consistently. In short, our team’s work underpins the localization efforts that make Warner Bros. Discovery’s streaming products truly global. Roles &amp; Responsibilities: We are hiring a Senior Software Engineer to join the Global Localization Platform team in Bangalore, India. As a Senior Engineer: You are a recognized subject matter expert in one or more areas of our production systems. You have consistently demonstrated the ability to independently design, build and ship high-quality features at scale You work on complex problems with diverse technical dimensions, proactively bringing clarity to ambiguous requirements and proposing sound, scalable solutions. You operate with a high degree of autonomy, requiring minimal oversight. You take pride in delivering robust, maintainable and well-tested code that meets both functional and non-functional requirements. You continuously improve the quality of our systems and our engineering practices, thinking long-term about the health of our codebases, observability and documentation. You are also an active contributor to a collaborative, inclusive team environment. Your impact goes beyond code. You are a persuasive communicator who influences your peers through thoughtful design and code reviews and you adapt your communication style to different audiences. You frequently interact with stakeholders and adjacent teams and you help align cross-functional efforts through strong technical writing and documentation. You mentor and support less experienced engineers, helping them become productive and successful team members. Design, develop and maintain scalable backend and frontend services that power WBD’s localization infrastructure, enabling fast and high-quality delivery of multilingual content across platforms like HBO Max, Discovery+ and CNN. Take ownership of major technical components of the Global Localization platform, contributing to architectural decisions and proposing solutions for performance, scalability and reliability challenges. Lead by example in writing clean, maintainable and well-tested code across technologies including Node.js , Java , React and TypeScript . Drive feature implementation from idea to production — breaking down requirements, proposing designs, estimating effort, writing code, creating tests and monitoring after deployment. Actively participate in code reviews and design discussions, helping raise the technical bar and foster a culture of engineering excellence and collaboration. Contribute to building and maintaining CI/CD pipelines, infrastructure configurations and cloud deployments using AWS-native services and DevOps tooling. Take a leading role in troubleshooting and resolving complex production issues — analyzing logs, metrics, traces and system behavior to identify root causes and define long-term improvements. Continuously improve observability and system resilience through implementation of real-time dashboards, proactive alerting and fault tolerance patterns. Work closely with product managers, localization experts and other engineers to deliver features that are robust, usable, user-friendly and well-integrated into the broader ecosystem. Support and mentor junior engineers, promoting technical growth and knowledge sharing across the team. Stay up to date with modern engineering practices, tools and architectural patterns; drive adoption of relevant innovations within the team. You actively optimize team processes to improve efficiency and quality, driving long-term improvements alongside short-term deliverables. What to Bring: 5 - 9years of professional software engineering experience, delivering robust, high-scale backend and frontend systems in production environments. Advanced experience with backend development using Node.js and frontend development using TypeScript . Localization workflow experience is mandatory. Hands-on expertise with AWS cloud services , particularly Serverless, Lambda, API Gateway, Step Functions, S3, DynamoDB, CloudWatch and EventBridge. Strong understanding of microservice architecture , asynchronous systems and communication protocols (REST, gRPC, event-driven). Experience with DevOps practices including Docker, Kubernetes, CI/CD (e.g., GitHub Actions) and infrastructure-as-code tools (Terraform, CloudFormation). Practical knowledge of databases: PostgreSQL , DynamoDB and caching/search solutions such as Redis and Elasticsearch. Strong focus on system observability — comfortable setting up dashboards, defining alerts and analyzing operational data using tools like Cloudwatch, Prometheus, Kibana and Grafana. Familiarity with localization or internationalization challenges (e.g., ICU format, string management, translation workflows, Unicode handling) is a plus. Proven ability to break down complex problems, design modular solutions and communicate technical decisions clearly. Demonstrated mentoring ability and active participation in raising team quality through reviews, pairing and documentation. Effective communicator across disciplines — capable of presenting and justifying technical approaches to peers and stakeholders. Experience working in agile, product-driven environments and contributing meaningfully to planning and prioritization. What We Offer: A Great Place to work Equal opportunity employer Fast track growth opportunities. How We Get Things Done… This last bit is probably the most important! Here at WBD, our guiding principles are the core values by which we operate and are central to how we get things done. You can find them at www.wbd.com/guiding-principles/ along with some insights from the team on what they mean and how they show up in their day to day. We hope they resonate with you and look forward to discussing them during your interview. Championing Inclusion at WBD Warner Bros. Discovery embraces the opportunity to build a workforce that reflects a wide array of perspectives, backgrounds and experiences. Being an equal opportunity employer means that we take seriously our responsibility to consider qualified candidates on the basis of merit, regardless of sex, gender identity, ethnicity, age, sexual orientation, religion or belief, marital status, pregnancy, parenthood, disability or any other category protected by law. If you’re a qualified candidate with a disability and you require adjustments or accommodations during the job application and/or recruitment process, please visit our accessibility page for instructions to submit your request. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Entertainment Providers Referrals increase your chances of interviewing at Warner Bros. Discovery by 2x See who you know",
+      "score": 31,
       "matchedSkills": [
         "React",
-        "Next.js"
+        "TypeScript",
+        "Node",
+        "REST",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Staff Software Engineer - React >",
-      "company": "Redpin",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/staff-software-engineer-react-at-redpin-4434338800",
-      "postedAt": "2026-06-30",
-      "jobId": "4434338800",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Software Engineer IV (React Native)",
-      "company": "MRI Software",
+      "title": "AEM Developer - React.js/Javascript",
+      "company": "VAYUZ Technologies",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-iv-react-native-at-mri-software-4434954649",
-      "postedAt": "2026-06-30",
-      "jobId": "4434954649",
+      "url": "https://in.linkedin.com/jobs/view/aem-developer-react-js-javascript-at-vayuz-technologies-4436137528",
+      "postedAt": "2026-07-02",
+      "jobId": "4436137528",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "JavaScript"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "IN_ Senior Associate_ MERN Developer ( React&Node) _GCC_Advisory_ Bangalore",
+      "company": "PwC India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/in-senior-associate-mern-developer-react-node-gcc-advisory-bangalore-at-pwc-india-4435565862",
+      "postedAt": "2026-07-01",
+      "jobId": "4435565862",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Fullstack Engineer- .net core with React and Typescript",
+      "company": "Resideo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-engineer-net-core-with-react-and-typescript-at-resideo-4416256061",
+      "postedAt": "2026-07-01",
+      "jobId": "4416256061",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "TypeScript"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer (React JS + Node JS) | 6 YoE | Any UST Location | Immediate Joiner",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-react-js-%2B-node-js-6-yoe-any-ust-location-immediate-joiner-at-ust-4393854508",
+      "postedAt": "2026-07-01",
+      "jobId": "4393854508",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer (ReactJS + NodeJS)",
+      "company": "Religent Systems",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-reactjs-%2B-nodejs-at-religent-systems-4434680900",
+      "postedAt": "2026-07-01",
+      "jobId": "4434680900",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "MODULE LEAD - React JS",
+      "company": "Happiest Minds Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/module-lead-react-js-at-happiest-minds-technologies-4435840575",
+      "postedAt": "2026-07-01",
+      "jobId": "4435840575",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -87,12 +130,40 @@
       "excluded": false
     },
     {
-      "title": "Senior React Native Developer",
-      "company": "Oolio",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-native-developer-at-oolio-4431919472",
-      "postedAt": "2026-06-30",
-      "jobId": "4431919472",
+      "title": "Frontend Developer (React.js)",
+      "company": "Herald Exchange",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/frontend-developer-react-js-at-herald-exchange-4432321664",
+      "postedAt": "2026-07-01",
+      "jobId": "4432321664",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Angular/React + AI",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/angular-react-%2B-ai-at-infosys-4435015349",
+      "postedAt": "2026-07-02",
+      "jobId": "4435015349",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "TECHNICAL LEAD - ReactJS",
+      "company": "Happiest Minds Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/technical-lead-reactjs-at-happiest-minds-technologies-4436186098",
+      "postedAt": "2026-07-02",
+      "jobId": "4436186098",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -102,11 +173,11 @@
     },
     {
       "title": "React Native Developer",
-      "company": "Schneider Electric",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-schneider-electric-4431914927",
-      "postedAt": "2026-06-30",
-      "jobId": "4431914927",
+      "company": "Kosh",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-kosh-4435030611",
+      "postedAt": "2026-07-02",
+      "jobId": "4435030611",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -115,19 +186,157 @@
       "excluded": false
     },
     {
-      "title": "Software Engineer",
-      "company": "Autodesk",
+      "title": "IN_Senior Associate_ .Net with React_ Application Technology_Advisory_Noida",
+      "company": "PwC India",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/in-senior-associate-net-with-react-application-technology-advisory-noida-at-pwc-india-4422403334",
+      "postedAt": "2026-07-01",
+      "jobId": "4422403334",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Lead React JS Developer",
+      "company": "TechBlocks",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-react-js-developer-at-techblocks-4434396850",
+      "postedAt": "2026-07-01",
+      "jobId": "4434396850",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer - Full Stack .Net Core, UI, React / Angular JS",
+      "company": "Wells Fargo",
+      "location": "Greater Hyderabad Area",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-full-stack-net-core-ui-react-angular-js-at-wells-fargo-4435546316",
+      "postedAt": "2026-07-01",
+      "jobId": "4435546316",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Developer",
+      "company": "Barclays",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-barclays-4431981292",
+      "postedAt": "2026-07-01",
+      "jobId": "4431981292",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full Stack Engineer (React + Django)",
+      "company": "Fractal",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-autodesk-4434976307",
-      "postedAt": "2026-06-30",
-      "jobId": "4434976307",
-      "description": "Software Engineer Autodesk Bengaluru, Karnataka, India 22 hours ago Over 200 applicants See who Autodesk has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer role at Autodesk Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Job Requisition ID # 26WD99323 Position Overview We’re growing our Cloud Platform &amp; Infrastructure Engineering team within Autodesk’s Digital Enterprise Services IT organization. This team leverages Software Engineering principles to build the foundations for the company’s business critical systems and processes, utilizing “cloud-first” platforms and services. Our engineering culture will empower you to make effective decisions, work collaboratively and take accountability for engineering projects at the core of the company and the leading edge of the latest industry technology trends. The team is seeking a Software Engineer who will have a critical role on how we design, build, and deliver reusable managed cloud stacks Responsibilities Design, develop web applications to enhance Autodesk enterprise cloud platform Configure and implement the public cloud environment for enterprise and business applications Deliver End to End Migration outcomes for Product teams Build and extend infrastructure automations for enterprise and business applications in the public cloud environment Interact with enterprise and business application engineering teams to understand requests/issues, establish clear expectations, and provide effective communication Design and build automation solutions to reduce manual efforts and increase team efficiency Leverage AI tools for Automation, Quality Assurance and developer productivity Minimum Qualifications 3-6 years of Hands-on experience in .NET framework (C#), Entity framework, Rest API, MVC and Angular Automation experience using Python Ability to create dashboards using Power BI Hands-on experience with the AWS Cloud (i.e. EC2, RDS, S3 Bucket, Konga API Gateway etc.) Good to have knowledge on JS framework – Angular, React Well versed with AI tools for development, QA and Automations Hands-on experience with SQL Server and No-SQL (MongoDb) databases. Ability to translate architectural requirements into component design Excellent communication and documentation skills Preferred Qualifications Bachelor’s Degree in Computer Science, Information Systems, or equivalent experience Learn More About Autodesk Welcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made. We take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world. When you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us! Salary transparency Salary is one part of Autodesk’s competitive compensation package. Offers are based on the candidate’s experience and geographic location. In addition to base salaries, our compensation package may include annual cash bonuses, commissions for sales roles, stock grants, and a comprehensive benefits package. Belonging We take pride in cultivating a culture of belonging where everyone can thrive. Learn more here: https://www.autodesk.com/company/global-belonging Are you an existing contractor or consultant with Autodesk? Please search for open jobs and apply internally (not on this external site). Show more Show less Seniority level Associate Employment type Full-time Job function Engineering and Information Technology Industries Software Development, Design Services, and IT Services and IT Consulting Referrals increase your chances of interviewing at Autodesk by 2x See who you know",
-      "score": 19,
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-react-%2B-django-at-fractal-4432361100",
+      "postedAt": "2026-07-01",
+      "jobId": "4432361100",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": ".Net+React JS Developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net%2Breact-js-developer-at-infosys-4434678297",
+      "postedAt": "2026-07-01",
+      "jobId": "4434678297",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Fullstack Developer (.Net + React)",
+      "company": "Innova ESI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-developer-net-%2B-react-at-innova-esi-4436180153",
+      "postedAt": "2026-07-02",
+      "jobId": "4436180153",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": ".net Fullstack+ React",
+      "company": "Innova ESI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-fullstack%2B-react-at-innova-esi-4435805628",
+      "postedAt": "2026-07-01",
+      "jobId": "4435805628",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer ( 2+ Years Experience | Immediate Joiner | Bangalore Onsite | Upto 8 LPA )",
+      "company": "YMinds.AI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-2%2B-years-experience-immediate-joiner-bangalore-onsite-upto-8-lpa-at-yminds-ai-4435556722",
+      "postedAt": "2026-07-01",
+      "jobId": "4435556722",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Walk-in for Fullstack Developer |  02 July 2026 | MVC & .net Core | React/ Angular | Bangalore | 3- 10 Yrs only",
+      "company": "Bandhan Technologies",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/walk-in-for-fullstack-developer-02-july-2026-mvc-net-core-react-angular-bangalore-3-10-yrs-only-at-bandhan-technologies-4434620268",
+      "postedAt": "2026-07-01",
+      "jobId": "4434620268",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Sr. AI Platform Developer (Remote in India)",
+      "company": "U.S. Green Building Council",
+      "location": "New Delhi, Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-ai-platform-developer-remote-in-india-at-u-s-green-building-council-4435830217",
+      "postedAt": "2026-07-01",
+      "jobId": "4435830217",
+      "description": "Sr. AI Platform Developer (Remote in India) U.S. Green Building Council New Delhi, Delhi, India 15 hours ago 52 applicants See who U.S. Green Building Council has hired for this role Apply Join or sign in to find your next job Join to apply for the Sr. AI Platform Developer (Remote in India) role at U.S. Green Building Council Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job U.S. Green Building Council provided pay range This range is provided by U.S. Green Building Council. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more. Base pay range ₹3,700,000.00/yr - ₹4,200,000.00/yr How You’ll Make An Impact USGBC and GBCI are expanding the use of Artificial Intelligence across internal operations, certification workflows, digital customer experiences, and enterprise data intelligence. As a Senior AI Platform Developer, you will design, build, and operationalize AI-powered applications that support both staff and customers. This role combines hands-on AI engineering with web application development and platform operations. You will work closely with digital, product, data, and business teams to implement AI initiatives, including certification-review assistant tools, conversational data-insight tools, customer-facing guidance systems, and knowledge intelligence platforms. The role will help establish the technical foundation for scalable, secure, and responsible AI adoption across the organization while enabling teams to integrate AI capabilities into web platforms and digital products. This position is based in India and is remote. Key Responsibilities Design and develop AI-powered applications supporting internal staff and external customers. Build web applications, chatbots, and conversational interfaces that leverage large language models and AI services. Develop conversational AI systems using LLM architectures and retrieval-augmented generation (RAG). Build and maintain APIs and microservices that enable AI capabilities across digital platforms. Develop AI-powered chatbots and assistants to support initiatives such as certification-review tools, customer guidance systems, and conversational analytics. Integrate AI solutions with enterprise platforms, including Snowflake, Salesforce, Power BI, Drupal, and other internal systems. Design knowledge ingestion and retrieval pipelines using embeddings, vector search, and semantic retrieval techniques. Operationalize AI systems with monitoring, logging, evaluation frameworks, and cost optimization. Coordinate closely with other developers, architects, product owners, and business stakeholders to deliver AI initiatives. Collaborate with cross‑functional teams to identify high‑impact AI use cases and deliver scalable production solutions. Ensure responsible AI practices, including citation grounding, security, governance, and data protection. Experience REQUIRED QUALIFICATIONS 6–10+ years of software engineering, platform development, or web application development experience. 3+ years working with AI/ML or LLM-based systems. Hands-on experience building AI applications and chatbots using AWS services, particularly Amazon Bedrock. Experience building web applications or conversational interfaces integrating AI capabilities. Experience integrating foundation models such as Anthropic Claude or similar models into production workflows. Experience implementing retrieval-augmented generation (RAG) or semantic search systems. Experience building APIs, microservices, and backend services supporting AI-powered applications. Experience working collaboratively within engineering teams to deliver complex technical initiatives. Experience integrating AI solutions with enterprise systems and data platforms. Education Bachelor’s degree in Computer Science, Artificial Intelligence, Data Science, Engineering, or related field (or equivalent experience). Technology/System(s) AWS services include Amazon Bedrock, Lambda, S3, API Gateway, Step Functions, DynamoDB, and OpenSearch. Programming languages such as Python, Node.js, or similar backend technologies. Experience building AI-driven web interfaces using frameworks such as React, Streamlit, or similar. Vector databases and embedding pipelines for semantic search. Data platforms such as Snowflake. API and microservices architecture. Git-based development workflows. Skills Strong system design and problem-solving abilities. Ability to translate business problems into scalable AI solutions. Experience building production-ready AI systems and web applications. Strong collaboration and communication skills. Ability to coordinate technical work across teams and initiatives. Curiosity and adaptability with rapidly evolving AI technologies. Language English About Our Total Rewards Package Salary Final compensation and benefits will be confirmed at the time of offer and may vary based on factors such as internal equity, relevant experience, qualifications, and employment status. Please note that salary negotiations will not extend beyond the top of the internal salary range. LOGISTICS Location: This position is remote in India Work Schedule: Monday to Friday from 9:00 AM to 5:30 PM; You must be available during U.S. business hours for team meetings About Us U.S. Green Building Council (USGBC) is a mission-driven nonprofit dedicated to accelerating and scaling the transformation of the built environment. Through LEED—the world’s most widely used green building rating system— and initiatives likes Greenbuild, the Center for Green Schools and advocacy, USGBC empowers professionals to drive market transformation that advances human and environmental health, climate resilience, and equity. Green Business Certification Inc. (GBCI) is the world’s leading sustainability and health certification and credentialing body, independently recognizing excellence in performance. GBCI administers project certifications and professional credentials and certificates including LEED , PERFORM , SITES , and TRUE Zero Waste . We are proud to be globally recognized for our leadership in green building, environmental performance, and sustainable development. Our Global Impact Over 120,000 LEED-certified commercial projects worldwide Millions of square feet of certified healthy, efficient, low-carbon space Recognition in 180+ countries for innovation in green building and business practices Why Join Us About At USGBC and GBCI, you’ll work alongside passionate, mission-aligned professionals who care deeply about people, the planet, and progress. We offer: A purpose-driven, inclusive culture Opportunities to grow your career and take ownership of meaningful work A chance to make a measurable impact on global sustainability efforts We’re seeking team members who thrive in collaborative environments, are committed to excellence, and want to build lasting partnerships that drive change in the built environment. Meet Our Leaders And Learn More About Our Mission U.S. Green Building Council Leaders Green Business Certification Inc Leaders Culture and Values Statement Working together, each of us advances our mission by respecting all voices, trusting and supporting one another, excelling through collaboration and accountability, and continuously improving ourselves and our organization. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Non-profit Organizations, Architecture and Planning, and Construction Referrals increase your chances of interviewing at U.S. Green Building Council by 2x See who you know",
+      "score": 13,
       "matchedSkills": [
         "React",
-        "REST",
-        "SQL",
-        "MongoDB"
+        "Node"
       ],
       "excluded": false
     }
