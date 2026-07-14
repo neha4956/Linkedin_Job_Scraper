@@ -1,15 +1,104 @@
 {
-  "generatedAt": "2026-07-13T06:47:47.345Z",
-  "totalScraped": 61,
-  "totalMatched": 1,
+  "generatedAt": "2026-07-14T05:56:47.419Z",
+  "totalScraped": 177,
+  "totalMatched": 6,
   "jobs": [
     {
-      "title": "Senior Software Engineer – .NET, React & Azure",
-      "company": "Version 1",
+      "title": "Software Engineer(Fullstack)",
+      "company": "Docusign",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-react-azure-at-version-1-4379394409",
-      "postedAt": "2026-07-12",
-      "jobId": "4379394409",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-fullstack-at-docusign-4422890184",
+      "postedAt": "2026-07-13",
+      "jobId": "4422890184",
+      "description": "Software Engineer(Fullstack) Docusign Bengaluru, Karnataka, India 12 hours ago Over 200 applicants See who Docusign has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer(Fullstack) role at Docusign Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Company Overview Docusign brings agreements to life. Over 1.5 million customers and more than a billion people in over 180 countries use Docusign solutions to accelerate the process of doing business and simplify people’s lives. With intelligent agreement management, Docusign unleashes business-critical data that is trapped inside of documents. Until now, these were disconnected from business systems of record, costing businesses time, money, and opportunity. Using Docusign’s Intelligent Agreement Management platform, companies can create, commit, and manage agreements with solutions created by the #1 company in e-signature and contract lifecycle management (CLM). What you'll do As a fullstack engineer on the reporting team, we expect you to have a good understanding of everything data, as well as back-end code development. Your day-to-day work will involve owning the designing and execution of medium complexity features. This position will demand critical thinking skills, ability to quickly understand existing systems and the ability to work in agile, fast-paced environments. The ability to take smart and educated risks is essential to the success of this position This position is an individual contributor role reporting to the Senior Manager, Software Engineering. Responsibility Own feature delivery end to end from ideation to deployment and monitoring across both frontend and backend Participate in the team's on call rotation and help triage alerts and incidents Review other team member's code and design document Suggest and own improvement to the system and coding standards Job Designation Hybrid: Employee divides their time between in-office and remote work. Access to an office location is required. (Frequency: Minimum 2 days per week; may vary by team but will be weekly in-office expectation) Positions at Docusign are assigned a job designation of either In Office, Hybrid or Remote and are specific to the role/job. Preferred job designations are not guaranteed when changing positions within Docusign. Docusign reserves the right to change a position's job designation depending on business needs and as permitted by local law. What you bring Basic Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience 5+ years of related experience Experience with one or more modern programming languages (e.g., Java, C#, Go, Python) and solid computer science fundamentals (data structures, algorithms, system design) Experience developing and delivering production features with high-quality code and reliable tests (unit, component, contract, integration, end-to-end, performance); designs for testability Experience participating in code reviews and adhering to team guidelines and best practices Experience with CI/CD pipelines; able to debug pipeline issues and analyze system logs Experience with frontend technologies like JavaScript, React, and browser fundamentals Experience with public cloud environments (Azure, AWS, or GCP), containers (Docker), and orchestration (Kubernetes) Experience with monitoring, metrics, and logging; capable of building basic telemetry for features Experience participating in on-call using service runbooks/SOPs and performing root cause analysis with minimal guidance Preferred Comfort working across multiple components and with external dependencies in complex environments Strong communication and collaboration skills; able to work effectively with cross-functional partners Track record of independently owning and delivering features end-to-end Experience authoring and owning testing plans for features and identifying patterns in test failures Experience contributing to and improving deployment pipelines and test automation systems Experience designing for scalability, reliability, and performance; writes extensible, shareable code and raises the bar through thoughtful code reviews Experience defining useful metrics/targets and measurably improving engineering processes and best practices Exposure to distributed systems, microservices, REST APIs, and/or event-driven architectures Experience writing production grade frontend code for web applications Hands-on experience with relational and NoSQL databases, performance testing, and optimization Comfortable collaborating in a global, distributed team and working across time zones Life at Docusign Working here Docusign is committed to building trust and making the world more agreeable for our employees, customers and the communities in which we live and work. You can count on us to listen, be honest, and try our best to do what’s right, every day. At Docusign, everything is equal. We each have a responsibility to ensure every team member has an equal opportunity to succeed, to be heard, to exchange ideas openly, to build lasting relationships, and to do the work of their life. Best of all, you will be able to feel deep pride in the work you do, because your contribution helps us make the world better than we found it. And for that, you’ll be loved by us, our customers, and the world in which we live. Accommodation Docusign is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application procedures. If you need such an accommodation, or a religious accommodation, during the application process, please contact us at accommodations@docusign.com. If you experience any issues, concerns, or technical difficulties during the application process please get in touch with our Talent organization at taops@docusign.com for assistance. Applicant and Candidate Privacy Notice Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Docusign by 2x See who you know",
+      "score": 31,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "REST",
+        "Docker",
+        "Kubernetes",
+        "GCP",
+        "CI/CD",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Staff Software Engineer",
+      "company": "Okta",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/staff-software-engineer-at-okta-4428951263",
+      "postedAt": "2026-07-13",
+      "jobId": "4428951263",
+      "description": "Staff Software Engineer Okta Bengaluru, Karnataka, India 12 hours ago 134 applicants See who Okta has hired for this role Apply Save Report this job Secure Every Identity, from AI to Human Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence. This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk. Job Description Okta’s Auth0 is an easy to implement, adaptable authentication and authorization platform. We make everyone’s login experience awesome. If you are a problem solver who wants to make this login experience even better, then look no further - Okta Auth0 B2C Authentication domain is where you want to be. Our domain’s mission is to provide a simple, secure, standards-compliant and delightful authentication experience for both end users and developers. We work with NodeJS, React, golang, Swift, Java / Kotlin, Postgres/MongoDB databases and our services run on both AWS and Azure. Our tech stack continues to evolve and expand to new technologies and trends. We are proponents of using the right tools for the job. We are looking for an engineer who leverages AI coding assistants (e.g., GitHub Copilot, Google Gemini, Claude) to accelerate the software development lifecycle without compromising security. You should be proficient in using LLMs for rapid prototyping, boilerplate generation, and complex refactoring , effectively cutting down development time. Crucially, you must possess the judgment to audit, debug, and secure AI-generated code, ensuring it meets our strict authentication standards. You will use AI not just to write code, but to generate comprehensive unit tests, document systems, and simulate edge-case scenarios in our auth flows. As a member of the Native Apps team you will: Be a part of fast paced, agile team comprising of engineers, a product manager and designer. Design and develop features, APIs and fixes to handle our current and future scale. Be a technical steward who views our codebase as their own product. You don’t wait for a perfect set of instructions; you proactively figure out what is needed to make a project successful. Help our customers have an awesome experience with our products. Collaborate with the support team for customer questions. Participate on our on-call rotations for troubleshooting production issues. Lead team discussions, mentor other engineers to become senior and improve team’s productivity. You are a good fit for this role if you: Have 8+ years of software development experience. Have excellent communication and collaboration skills. Have experience creating public or internal APIs using NodeJS/Javascript/Typescript. Have experience working with both relational databases (PostgreSQL) and NoSQL document databases (MongoDB) in a production environment. Have experience with mobile CI/CD pipelines (Github Actions). Won't just 'perform' tasks; you will be responsible for the technical integrity, architectural evolution, and long-term scalability of our core product. Are autonomous and have a continuous improvement mindset. Pay attention to details and keep user experience a top priority. Enjoy being part of a highly collaborative, remote friendly environment. Bonus points if you: Have experience building API for Mobile Apps and SDKs Have 1+ years of experience in identity and access management ( IAM ) domain. Have experience with GoLang, Terraform. Have experience with FrontEnd ReactJS/VueJS. Have deep understanding of NodeJS event loop. Have experience with infrastructure-as-code tools (e.g., Fastlane, Gradle, Snyk, or Terraform). Okta is an Equal Opportunity Employer. Okta is rethinking the traditional work environment, providing our employees with the flexibility to be their most creative and successful versions of themselves, no matter where they are located. We enable a flexible approach to work, meaning you can work from the office, or from home, regardless of where you live. Okta invests in the best technologies and provides flexible benefits and collaborative work environments/experiences, empowering employees to work productively in a setting that best and uniquely suits their needs. # P24571 The Okta Experience Supporting Your Well-Being Driving Social Impact Developing Talent and Fostering Connection + Community We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one. Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this Form to request an accommodation. Notice for New York City Applicants &amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please click here to view our full NYC AEDT Notice. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Okta by 2x See who you know",
+      "score": 31,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Node",
+        "REST",
+        "CI/CD",
+        "SQL",
+        "MongoDB"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Frontend Developer Software Engineer Consultant I",
+      "company": "Allstate",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/frontend-developer-software-engineer-consultant-i-at-allstate-4436206919",
+      "postedAt": "2026-07-13",
+      "jobId": "4436206919",
+      "description": "Frontend Developer Software Engineer Consultant I Allstate Bengaluru, Karnataka, India 7 hours ago Over 200 applicants See who Allstate has hired for this role Apply Join or sign in to find your next job Join to apply for the Frontend Developer Software Engineer Consultant I role at Allstate Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job At Allstate, great things happen when our people work together to protect families and their belongings from life’s uncertainties. And for more than 90 years, our innovative drive has kept us a step ahead of our customers’ evolving needs. From advocating for seat belts, air bags and graduated driving laws, to being an industry leader in pricing sophistication, telematics, and, more recently, device and identity protection. Job Description The Software Engineer Consultant I develops code for complex modules, participates in design reviews, conducts code reviews, creates test plans and participates in testing reviews, and resolves moderate defects. Required skills for this role is Java 8 (must), Java 17 (good to have), Spring boot, REST APIs, microservices based architecture. The Consultant I designs, documents, reviews, and maintains components of software solutions for complex projects. Under limited supervision, Consultant I works closely with business partners to identify needs and design technology solutions to overcome process bottlenecks, reduce use of contingent claim resources, reduce compliance risks, or generally increase operational efficiency. They are often required to deliver tactical solutions that can be implemented within a few days. They are responsible for all phases of the application development cycle: beginning with requirements gathering, through release, and ultimately ongoing user support. Exp- 3 to 7Yrs Skill- Frontend Developer, React JS Work from office (Hybrid) Location- Bangalore/Pune Education- Full time Key Responsibilities Recognized as expert in specialty Determines priorities within area of expertise Uses experience, innovation, and judgement to make decisions that may be based on partial information Serves as point of contact for areas outside of direct team and takes on assignments without direct supervision Participates on projects of critical importance; may own pieces of critical project from start to finish Influences the work of others through project and program execution Uses subject matter expertise to coach less experienced employees Implements change beyond tactical items Develops in-depth ideas and materials; ensures understanding of technical matters by non-technical, executive decision makers Resolves problems where precedent may not exist Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model Thorough understanding of React.js and its core principles Experience with popular React.js workflows (such as Flux or Redux) Familiarity with RESTful APIs Knowledge of modern authorization mechanisms, such as JSON Web Token, SCS Familiarity with modern front-end build pipelines and tools Experience with common front-end development tools such as Babel, Webpack, NPM, etc. Ability to understand business requirements and translate them into technical requirements Familiarity with code versioning tools such as GitHub Education 4 year Bachelors Degree (Mandatory) Primary Skills React.js, Software Development, Spring Boot Shift Time Shift B (India) Recruiter Info Hiral Parag Rughani hparb@allstate.com About Allstate Joining our team isn’t just a job — it’s an opportunity. One that takes your skills and pushes them to the next level. One that encourages you to challenge the status quo. One where you can shape the future of protection while supporting causes that mean the most to you. Joining our team means being part of something bigger – a winning team making a meaningful impact. The Allstate Corporation is one of the largest publicly held insurance providers in the United States. Ranked No. 84 in the 2023 Fortune 500 list of the largest United States corporations by total revenue, The Allstate Corporation owns and operates 18 companies in the United States, Canada, Northern Ireland, and India. Allstate India Private Limited, also known as Allstate India, is a subsidiary of The Allstate Corporation. The India talent center was set up in 2012 and operates under the corporation's Good Hands promise. As it innovates operations and technology, Allstate India has evolved beyond its technology functions to be the critical strategic business services arm of the corporation. With offices in Bengaluru and Pune, the company offers expertise to the parent organization’s business areas including technology and innovation, accounting and imaging services, policy administration, transformation solution design and support services, transformation of property liability service design, global operations and integration, and training and transition. Learn more about Allstate India here. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Insurance and Financial Services Referrals increase your chances of interviewing at Allstate by 2x See who you know",
+      "score": 29,
+      "matchedSkills": [
+        "React",
+        "Redux",
+        "JavaScript",
+        "Webpack",
+        "REST"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Product Developer, Sr- Kafka, React JS, Rest API and .Net",
+      "company": "Epicor",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/product-developer-sr-kafka-react-js-rest-api-and-net-at-epicor-4440016231",
+      "postedAt": "2026-07-13",
+      "jobId": "4440016231",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "REST"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Mobile Engineer",
+      "company": "Woolworths Group International",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/react-native-mobile-engineer-at-woolworths-group-international-4440021357",
+      "postedAt": "2026-07-13",
+      "jobId": "4440021357",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full stack .NET Engineer (Capital Markets, C#/.NET + React)",
+      "company": "Luxoft",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-net-engineer-capital-markets-c%23-net-%2B-react-at-luxoft-4440068008",
+      "postedAt": "2026-07-13",
+      "jobId": "4440068008",
       "description": "",
       "score": 20,
       "matchedSkills": [
