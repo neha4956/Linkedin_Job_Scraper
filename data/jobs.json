@@ -1,92 +1,124 @@
 {
-  "generatedAt": "2026-07-22T06:21:35.391Z",
-  "totalScraped": 212,
-  "totalMatched": 6,
+  "generatedAt": "2026-07-23T06:28:31.239Z",
+  "totalScraped": 483,
+  "totalMatched": 28,
   "jobs": [
     {
-      "title": "ReactJs with Node & Javascript",
-      "company": "Trinamix Inc",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/reactjs-with-node-javascript-at-trinamix-inc-4442947689",
+      "title": "Senior Software Engineer (React, Next.js, Node.js)",
+      "company": "Krimatix",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-next-js-node-js-at-krimatix-4440444008",
       "postedAt": "2026-07-22",
-      "jobId": "4442947689",
+      "jobId": "4440444008",
       "description": "",
-      "score": 32,
+      "score": 46,
       "matchedSkills": [
         "React",
-        "JavaScript",
+        "Next.js",
         "Node"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Full Stack Software Developer",
-      "company": "BCE Global Tech - A Bell Canada Company",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-software-developer-at-bce-global-tech-a-bell-canada-company-4442945108",
+      "title": "React Next.Js Developer",
+      "company": "Hiring Deeds",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-next-js-developer-at-hiring-deeds-4443765598",
       "postedAt": "2026-07-22",
-      "jobId": "4442945108",
-      "description": "Senior Full Stack Software Developer BCE Global Tech - A Bell Canada Company Bengaluru, Karnataka, India 4 hours ago 36 applicants See who BCE Global Tech - A Bell Canada Company has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Full Stack Software Developer role at BCE Global Tech - A Bell Canada Company Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Back Who are we? At BCE Global Tech we are on a mission to modernize global connectivity, one connection at a time. We aim to build the highway to the future of communications, media and entertainment, determined to emerge as a powerhouse within the technology landscape in India team in Bengaluru. We bring ambitions to life through design thinking that bridges the gaps between people, devices and beyond, fostering unprecedented customer satisfaction through technology. Our core values support a customer-centric approach and the harnessing of cutting-edge technology to provide business outcomes with positive societal impact. Guided by innovation and a commitment to progress, we’re shaping a brighter future for the generations of today and tomorrow. If you would like to be a part of a team of thought-leaders pioneering advancements in 5G, MEC, IoT and cloud-native architecture, we’d love to hear from you. Develop and maintain web applications using React, TypeScript, Node.js, and Java Spring Boot Implement RESTful APIs and integrate with backend services Work with Kafka, JFrog, Docker, and OpenShift for messaging, artifact management, containerization, and deployment Ensure solutions comply with TMF OpenAPI standards for service, data, and process modeling Uphold and apply SSDLC best practices and security guidelines at every stage of the development workflow. Write clean, maintainable code and participate in code reviews Implement integration testing (E2E) and unit testing Collaborate with cross-functional teams in Agile ceremonie. Ensure responsive UI and strong security practices Participate in troubleshooting and performance optimization Qualifications Bachelor’s degree in Computer Science or related field Strong knowledge of JavaScript ES6, TypeScript, React Hooks, and functional components Experience with Java Spring Boot, Node.js, and relational databases (Oracle PL/SQL, Postgres, Experience with SAML or OIDC protocols Good knowledge of SQL and NoSQL databases SQL) Familiarity with Microservice architectures, caching, and performance optimization Nice to have: Observability tools (ElasticSearch, Grafana, Dynatrace), Jenkins experience (we use OpenShift and GitLab), GitOps experience, cloud knowledge Understanding of DevOps concepts and network/application design Working Conditions Ability to work in virtual teams and handle multiple projects Occasional evening/weekend work for deployments. Skills JavaScript ES6, TypeScript, React Hooks,Nodejs,SQL What We Offer Competitive salaries and comprehensive health benefits Flexible work hours and remote work opt ions Professional development and training opportunities A supportive and inclusive work environment Access to cutting-edge technology and tools. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at BCE Global Tech - A Bell Canada Company by 2x See who you know",
-      "score": 31,
+      "jobId": "4443765598",
+      "description": "",
+      "score": 40,
       "matchedSkills": [
         "React",
-        "JavaScript",
-        "TypeScript",
-        "Node",
-        "REST",
-        "Docker",
-        "Jenkins",
-        "SQL"
+        "Next.js"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer",
-      "company": "Syndigo",
+      "title": "Lead Software Engineer - Fullstack(ReactJS, AWS, Javascript, Typescript, CI/CD)",
+      "company": "Ellucian",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-syndigo-4434736184",
-      "postedAt": "2026-07-21",
-      "jobId": "4434736184",
-      "description": "Senior Software Engineer Syndigo Bengaluru, Karnataka, India 18 hours ago 140 applicants See who Syndigo has hired for this role Apply Save Report this job Syndigo powers the continual flow of data and content throughout the entire commerce ecosystem— accelerating delivery of accurate and compelling information that increases sales on every shelf. We are the recognized leader in software and services for the management of master data, product information, digital assets, and content syndication and analytics across industries including grocery, foodservice, hardlines, home improvement, oil &amp; gas, pet, health and beauty, automotive, apparel, and healthcare products. Syndigo serves the industry’s largest two-sided network, connecting more than 50,000 global users across 12,000+ global brands with more than 1,750 global retailers. Basically, we're the people that deliver the rich, accurate product content that helps consumers shop online with confidence, and helps brands and retailers operate efficient product supply chains. We cannot do all of this without our amazing employees who make the magic happen here at Syndigo. As we continue to grow, we’re always looking to identify talented individuals to join our team. **This is a hybrid role, requiring 2 days per week in our Bangalore office** Senior Software Engineer will work closely with other engineers of varying disciplines (DevOps, QA, Front-End ReactJS, etc), product, as well as other parts of the organization. They craft applications in Java/Kotlin, leveraging AWS, CircleCI, and Terraform. We are always looking to adopt modern technology to solve business challenges. We have a team-oriented culture, value collaboration, self-direction, and continuous improvement. We build and maintain a highly scalable platform that evolves to ever-changing business requirements. We learn from our experiences to always improve, and we have fun and celebrate our successes. Responsibilities: Build out features and solutions to collect, moderate, and/or deliver user-generated content to our customers Become an expert on multiple of our solutions and areas of our codebase, while understanding the larger architecture of our entire suite of solutions Participate in technical brainstorming and knowledge transfer sessions; provide technical advice at a team level and a department level Communicate across teams by collaborating with fellow engineers, product managers, UX designers, operations, and other development teams to build a holistic experience Proactively identify pain points and potential issues within our architecture and code base, and proactively tackle tech debt Contribute to each step of the product development process, from ideation and design, to planning and architecting, to building out the solution and infrastructure, to testing, to releasing, and maintenance Participate, build, and implement department CI/CD, application monitoring, security, and general developer tooling initiatives Mentor more junior engineers Other duties as assigned Required Skills/Abilities: 6+ years of full-stack application development in our language stack (Kotlin, Java) and with AWS 5+ years of experience developing APIs for front-end applications 5+ years of strong experience with relational databases (PostgreSQL, MySQL) and large data sets 2+ years of experience leveraging and maintaining CI/CD tooling (CircleCI, Drone, GitHub Actions) 2+ years of experience leveraging infrastructure as code using Terraform 1+ years of experience with event-driven development (SQS, SNS, Kafka, Kinesis, Pub/Sub) and idempotent patterns Previous experience leveraging automated database DDL (Liquibase, Flyway) Previous experience leveraging automated database DDL (Liquibase, Flyway) Previous experience with object data stores (AWS S3, Azure Blob Storage, GCP Cloud Storage) and/or document data stores (AWS DynamoDB, MongoDB, NoSQL) Previous experience building containerized applications (Docker) and deploying them to orchestration (AWS ECS, Kubernetes, Docker Swarm) Experience with source control tools such as Git Diversity, Equity &amp; Inclusion To achieve the best version of our organization, we know it takes new ideas, new approaches, new perspectives and new ways of thinking. A purpose we are 100% committed to cultivating. Diversity is woven into our fabric at Syndigo and it’s how we stay an industry leader, innovating technology solutions that equip our customers with everything they need to be successful! All are welcome here and we invite you to join our team if you are ready to help us continue that growth! GDPR/CCPA Syndigo, to process applications, holds onto data for a \"reasonable time\" after applications are submitted. This data is stored for Syndigo's internal use by HR/Recruiting Staff only. Verified requests for data deletion and exports will be completed upon request. Syndigo Job Applicant Privacy Notice At Syndigo, we care about your privacy. As you go through our recruitment process, we are committed to being transparent about how we process your personal data. To learn more about how Syndigo processes your personal data, go to our Job Applicant Privacy Notice. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Syndigo by 2x See who you know",
-      "score": 28,
+      "url": "https://in.linkedin.com/jobs/view/lead-software-engineer-fullstack-reactjs-aws-javascript-typescript-ci-cd-at-ellucian-4443112534",
+      "postedAt": "2026-07-22",
+      "jobId": "4443112534",
+      "description": "",
+      "score": 38,
       "matchedSkills": [
         "React",
-        "Docker",
-        "Kubernetes",
-        "GCP",
-        "CI/CD",
-        "SQL",
+        "JavaScript",
+        "TypeScript",
+        "CI/CD"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Developer (Node.js, React, PWA, MongoDB)",
+      "company": "Emerson",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-developer-node-js-react-pwa-mongodb-at-emerson-4443779896",
+      "postedAt": "2026-07-22",
+      "jobId": "4443779896",
+      "description": "",
+      "score": 32,
+      "matchedSkills": [
+        "React",
+        "Node",
         "MongoDB"
       ],
       "excluded": false
     },
     {
-      "title": "Full Stack Developer",
-      "company": "BlueOptima",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-at-blueoptima-4440439210",
-      "postedAt": "2026-07-21",
-      "jobId": "4440439210",
-      "description": "Full Stack Developer BlueOptima Bengaluru, Karnataka, India 22 hours ago Over 200 applicants See who BlueOptima has hired for this role Apply Save Report this job BlueOptima is an engineering intelligence platform trusted by some of the world's largest banks, insurers, and enterprises. We give CTOs, CIOs, and engineering leaders the objective data they need to measure software engineering productivity, prove AI ROI, and reduce delivery risk. The conversation we sit in the middle of is one of the most pressing in enterprise technology right now. Every large organisation is rolling out AI coding tools and nobody can tell their board whether it is actually working. We can. Our research and our platform provide the answer, and we are building the commercial engine to get that message in front of the people who need to hear it. Job Description We are looking for a skilled Full Stack Developer to help develop our scalable, data-driven analytical dashboard. You'll focus on building responsive, user-friendly interfaces that deliver key insights to our global clients. Join us and be a part of our mission to transform software development with cutting-edge analytics. We are looking for an individual with great attention to detail, who is genuine, confident, committed and not only passionate about technology, but is keen to own the solution end to end, and most importantly excited to work in a fun and friendly start-up environment. The ideal candidate will be passionate about technology and getting things to work while at the same time being able to mentor (and lead) other engineers by way of example to achieve excellence in their work. As a Front-end Engineer in our engineering team, you will be directly contributing to developing various product applications and components using HTML, CSS, JavaScript, and React. You will leverage our in-house design system to ensure consistency and high quality across all user interfaces. You will also have opportunities to contribute to the technologies, standards and architecture of the UI platform of the applications In addition to hands-on development, you will also lead and mentor a team of next-generation engineers, guiding them in best practices and modern front-end development techniques. Responsibilities and tasks: Analyze, develop, implement, test, and maintain application components using relevant technologies and tools. Collaborate with product managers to gather requirements and translate them into technical specifications for feature development. Take ownership of feature development from concept to deployment, ensuring timely and high-quality delivery. Work with the Support team to resolve issues raised by users and/or provide quick workarounds for significant issues. Contribute to performance tuning of application code at different service levels and incorporate design changes to improve overall application performance. Lead and mentor a team of junior developers. Qualifications What You Need to Succeed at BlueOptima: 5 to 7 years of experience Minimum Bachelor's degree in Computer Science or equivalent Proficiency in modern web development including HTML5, CSS, and Javascript frameworks (Angular, React, etc) 2 years of experience developing web-based user interfaces. Strong understanding of UI usability aspects and working with Single Page Web Application. Ability to work in a fast-paced and agile development environment and to learn new frameworks/stacks. Self-directed and capable of quickly shipping code in a dynamic environment Thorough understanding of RESTful web services and experience working with them. Strong written and verbal communication skills. Strong interpersonal skills and time management skills. Strong in Java, Spring Boot, and Native SQL. Good to have: Knowledge of SVG-based charting libraries such as D3.js. Basic understanding of CI/CD pipelines and tools like Jenkins. Additional Information Benefits we offer 33 days of holidays (this includes public and religious holidays) Contributions to your Provident Fund which can be matched by the company above the statutory minimum as agreed Gratuity payments Private Medical Insurance provided by the company (Employee + Spouse + 2 Children + 2 Parents) Personal Accident Insurance (Employee Only) 12 Weeks Paid Paternity Leave, 6 months Maternity leave Support with childcare costs (50%) Work from Home Equipment allowance Flexible Work from Home policy - 2 days home p/w Flexible Work from Long Distance - 4 weeks a year Sponsored Learning Opportunities Team Socials Stay connected with us on LinkedIn or keep an eye on our career page for future opportunities! Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Business Development Industries Software Development and IT Services and IT Consulting Referrals increase your chances of interviewing at BlueOptima by 2x See who you know",
-      "score": 28,
+      "title": "React JS Node JS Lead",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-node-js-lead-at-infosys-4443446045",
+      "postedAt": "2026-07-23",
+      "jobId": "4443446045",
+      "description": "",
+      "score": 26,
       "matchedSkills": [
         "React",
-        "JavaScript",
-        "HTML",
-        "REST",
-        "Jenkins",
-        "CI/CD",
-        "SQL"
+        "Node"
       ],
       "excluded": false
     },
     {
-      "title": "React Developer with .Net",
-      "company": "Verisk",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-with-net-at-verisk-4416221172",
-      "postedAt": "2026-07-21",
-      "jobId": "4416221172",
+      "title": "Staff Developer (Node.js, React, PWA)",
+      "company": "Emerson",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/staff-developer-node-js-react-pwa-at-emerson-4443784630",
+      "postedAt": "2026-07-22",
+      "jobId": "4443784630",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React JS and Node JS Developer",
+      "company": "Infosys",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-and-node-js-developer-at-infosys-4434361066",
+      "postedAt": "2026-07-22",
+      "jobId": "4434361066",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "IN_Senior Associate_React js_GCC_Advisory_Bangalore",
+      "company": "PwC India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/in-senior-associate-react-js-gcc-advisory-bangalore-at-pwc-india-4443976236",
+      "postedAt": "2026-07-22",
+      "jobId": "4443976236",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -95,19 +127,282 @@
       "excluded": false
     },
     {
-      "title": "AI Engineer",
-      "company": "Docusign",
+      "title": "IN_ Senior Associate_React JS Developer_GCC_ Advisory_Bangalore",
+      "company": "PwC India",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/ai-engineer-at-docusign-4425806820",
-      "postedAt": "2026-07-21",
-      "jobId": "4425806820",
-      "description": "AI Engineer Docusign Bengaluru, Karnataka, India 12 hours ago Over 200 applicants See who Docusign has hired for this role Apply Join or sign in to find your next job Join to apply for the AI Engineer role at Docusign Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Company Overview Docusign brings agreements to life. Over 1.5 million customers and more than a billion people in over 180 countries use Docusign solutions to accelerate the process of doing business and simplify people’s lives. With intelligent agreement management, Docusign unleashes business-critical data that is trapped inside of documents. Until now, these were disconnected from business systems of record, costing businesses time, money, and opportunity. Using Docusign’s Intelligent Agreement Management platform, companies can create, commit, and manage agreements with solutions created by the #1 company in e-signature and contract lifecycle management (CLM). What you'll do The Generative AI Engineer will design and build AI-powered Quality Agents that automate the end-to-end Software Test Life Cycle (STLC), significantly boosting QA productivity through advanced test case generation, script automation, and execution workflows. The engineer will embed generative AI capabilities across the STLC by enhancing test automation frameworks, integrating with CI/CD pipelines, and enabling quality dashboards to support faster, smarter, and more reliable software delivery. This position is an individual contributor role reporting to the Senior Manager SDET. Responsibility Design and orchestrate specialized AI agents for automated test case, script, and data generation and test execution agents Develop LLM-powered assistants for test execution insights and defect analysis Build conversational chatbots for real-time guidance and natural-language test transactions Implement self-healing automation and RAG solutions using test logs and requirements Integrate AI capabilities into CI/CD pipelines and React-based quality dashboards Collaborate with cross-functional teams to enable AI-assisted, left-shift quality practices Build autonomous and workflow-based agents using CrewAI or similar agentic frameworks, and support agentic AI platforms Implement prompt engineering best practices to minimize token usage and improve output accuracy; contribute to a centralized prompt library Document processes, models, and code to ensure maintainability and reproducibility Collaborate with quality teams and product management teams to translate requirements into effective technical solutions Contribute to GenAI projects from ideation through deployment, iteration, and evaluation of LLM performance Assess building vs. buying the relevant tool and adopt the right tooling for the team Mentor junior team members and be responsible for delivering hands-on delivery along with leading the AI development team Build AI evaluation tools to certify the accuracy, performance, and fact checks Communicate to the broader team well and drive the adoption strategies Communicate clear statistics weekly to all stakeholders Job Designation Hybrid: Employee divides their time between in-office and remote work. Access to an office location is required. (Frequency: Minimum 2 days per week; may vary by team but will be weekly in-office expectation) Positions at Docusign are assigned a job designation of either In Office, Hybrid or Remote and are specific to the role/job. Preferred job designations are not guaranteed when changing positions within Docusign. Docusign reserves the right to change a position's job designation depending on business needs and as permitted by local law. What you bring Basic Experience building GenAI applications (LLM orchestration, RAG, prompt engineering) Experience with Python, React, and orchestration frameworks like Crew.ai or Langgraph Experience with vector databases and ML-based models for non-text data Experience with AWS/Azure, Docker, Kubernetes, and automated CI/CD/MLOps pipelines Bachelor’s or Master’s in Computer Science with 5+ years of relevant experience Experience with key AWS services including VPC, IAM, and ECS, S3, Lambda Preferred Strong commitment to engineering excellence through automation, innovation, and documentation and presentations to stakeholders One or more certifications such as Cloud, Solution Architect, Technical Architect, or GenAI-related certifications Proficiency in cloud platforms such as AWS and Azure Strong problem-solving skills and the ability to think creatively Strong collaboration skills in cross-functional teams (Product, Design, ML, Data Engineering) Ability to explain complex GenAI concepts to both technical and non-technical stakeholders Integrating test cases with Playwright or UiPath Life at Docusign Working here Docusign is committed to building trust and making the world more agreeable for our employees, customers and the communities in which we live and work. You can count on us to listen, be honest, and try our best to do what’s right, every day. At Docusign, everything is equal. We each have a responsibility to ensure every team member has an equal opportunity to succeed, to be heard, to exchange ideas openly, to build lasting relationships, and to do the work of their life. Best of all, you will be able to feel deep pride in the work you do, because your contribution helps us make the world better than we found it. And for that, you’ll be loved by us, our customers, and the world in which we live. Accommodation Docusign is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application procedures. If you need such an accommodation, or a religious accommodation, during the application process, please contact us at accommodations@docusign.com. If you experience any issues, concerns, or technical difficulties during the application process please get in touch with our Talent organization at taops@docusign.com for assistance. Applicant and Candidate Privacy Notice Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Docusign by 2x See who you know",
-      "score": 19,
+      "url": "https://in.linkedin.com/jobs/view/in-senior-associate-react-js-developer-gcc-advisory-bangalore-at-pwc-india-4443102053",
+      "postedAt": "2026-07-22",
+      "jobId": "4443102053",
+      "description": "",
+      "score": 20,
       "matchedSkills": [
-        "React",
-        "Docker",
-        "Kubernetes",
-        "CI/CD"
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Developer - React.js",
+      "company": "Royal Brothers",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-react-js-at-royal-brothers-4442983715",
+      "postedAt": "2026-07-22",
+      "jobId": "4442983715",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Developer - React Native",
+      "company": "Royal Brothers",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-react-native-at-royal-brothers-4443116899",
+      "postedAt": "2026-07-22",
+      "jobId": "4443116899",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Js Developer",
+      "company": "SD Innovations",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-sd-innovations-4443120958",
+      "postedAt": "2026-07-22",
+      "jobId": "4443120958",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer (Angular + React.js)",
+      "company": "Highbrow Technology Inc",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-angular-%2B-react-js-at-highbrow-technology-inc-4443800053",
+      "postedAt": "2026-07-23",
+      "jobId": "4443800053",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React.Js Developer (ERP Applications)",
+      "company": "Real Jobs Consulting Services",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-erp-applications-at-real-jobs-consulting-services-4442992984",
+      "postedAt": "2026-07-22",
+      "jobId": "4442992984",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native developer",
+      "company": "Impronics Technologies",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-impronics-technologies-4443150094",
+      "postedAt": "2026-07-22",
+      "jobId": "4443150094",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Reactjs And React Native Developer, Delhi-NCR Only",
+      "company": "4 Way Technologies",
+      "location": "New Delhi, Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/reactjs-and-react-native-developer-delhi-ncr-only-at-4-way-technologies-4443103262",
+      "postedAt": "2026-07-22",
+      "jobId": "4443103262",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Staff Software Engineer - React >",
+      "company": "Redpin",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/staff-software-engineer-react-at-redpin-4434338800",
+      "postedAt": "2026-07-22",
+      "jobId": "4434338800",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Expert ReactJS Developer",
+      "company": "Anaqua",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/expert-reactjs-developer-at-anaqua-4417972630",
+      "postedAt": "2026-07-22",
+      "jobId": "4417972630",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer (Angular + React.js)",
+      "company": "Highbrow Technology Inc",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-angular-%2B-react-js-at-highbrow-technology-inc-4443479971",
+      "postedAt": "2026-07-23",
+      "jobId": "4443479971",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Developer",
+      "company": "Floatinity",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-floatinity-4443999229",
+      "postedAt": "2026-07-22",
+      "jobId": "4443999229",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior React Developer (AWS) | 6 - 10 Years | Pune",
+      "company": "Antal International",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-developer-aws-6-10-years-pune-at-antal-international-4432617091",
+      "postedAt": "2026-07-22",
+      "jobId": "4432617091",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer",
+      "company": "Infosys",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-infosys-4434351622",
+      "postedAt": "2026-07-22",
+      "jobId": "4434351622",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer",
+      "company": "Nirmitee.io",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-nirmitee-io-4441045655",
+      "postedAt": "2026-07-22",
+      "jobId": "4441045655",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full Stack Engineer (React + Django)",
+      "company": "Fractal",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-react-%2B-django-at-fractal-4432361100",
+      "postedAt": "2026-07-22",
+      "jobId": "4432361100",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior React Native Developer",
+      "company": "Infosys",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-native-developer-at-infosys-4434350806",
+      "postedAt": "2026-07-22",
+      "jobId": "4434350806",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "IN_Senior Associate_React js_GCC_Advisory_Bangalore",
+      "company": "PwC India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/in-senior-associate-react-js-gcc-advisory-bangalore-at-pwc-india-4443970538",
+      "postedAt": "2026-07-22",
+      "jobId": "4443970538",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer – .NET / React",
+      "company": "Willsmarg Technologies LLC",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-net-react-at-willsmarg-technologies-llc-4442997287",
+      "postedAt": "2026-07-22",
+      "jobId": "4442997287",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior React.js + Vue.js Developer",
+      "company": "Hiring Deeds",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-js-%2B-vue-js-developer-at-hiring-deeds-4443759893",
+      "postedAt": "2026-07-22",
+      "jobId": "4443759893",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
       ],
       "excluded": false
     }
