@@ -1,67 +1,15 @@
 {
-  "generatedAt": "2026-07-28T06:20:57.937Z",
-  "totalScraped": 442,
-  "totalMatched": 21,
+  "generatedAt": "2026-07-29T06:26:38.438Z",
+  "totalScraped": 466,
+  "totalMatched": 19,
   "jobs": [
     {
-      "title": "Position for Technical Lead with ( Go Lang, React/Next.js, PostgreSQL, NoSQL, Mobile Application Development and AWS/Azure, AI Tools.) Location : India (Remote Work)",
-      "company": "Synergy Technologies",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/position-for-technical-lead-with-go-lang-react-next-js-postgresql-nosql-mobile-application-development-and-aws-azure-ai-tools-location-india-remote-work-at-synergy-technologies-4443224268",
+      "title": "Frontend Full Stack Engineer (React.js + Node.js)",
+      "company": "Flexton Inc.",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/frontend-full-stack-engineer-react-js-%2B-node-js-at-flexton-inc-4446309061",
       "postedAt": "2026-07-28",
-      "jobId": "4443224268",
-      "description": "",
-      "score": 46,
-      "matchedSkills": [
-        "React",
-        "Next.js",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React/Next.js Frontend Developer",
-      "company": "Aptivix Technologies",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-next-js-frontend-developer-at-aptivix-technologies-4446163522",
-      "postedAt": "2026-07-28",
-      "jobId": "4446163522",
-      "description": "",
-      "score": 40,
-      "matchedSkills": [
-        "React",
-        "Next.js"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software engineer",
-      "company": "Barclays",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-barclays-4442897370",
-      "postedAt": "2026-07-28",
-      "jobId": "4442897370",
-      "description": "Software engineer Barclays Pune Division, Maharashtra, India 2 hours ago Over 200 applicants See who Barclays has hired for this role Apply Join or sign in to find your next job Join to apply for the Software engineer role at Barclays Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Join us as a Software engineer at Barclays where you'll spearhead the evolution of our digital landscape, driving innovation and excellence. You'll harness cutting-edge technology to revolutionize our digital offerings, ensuring unapparelled customer experiences. As a part of the team, you will deliver technology stack, using strong analytical and problem solving skills to understand the business requirements and deliver quality solutions. You'll be working on complex technical problems that will involve detailed analytical skills and analysis. This will be done in conjunction with fellow engineers, business analysts and business stakeholders. To be successful as a Software engineer you should have experience with: Essential Skills/Basic Qualifications Strong hands-on experience of Core Java, Spring Boot framework and microservices development work in Kubernetes/ AWS environments Strong understanding of object-oriented designing and programming techniques and associated concepts, data modelling, SQL, design patterns &amp; principals Strong logical reasoning, problem solving and performance tuning Skills Strong communication skills Understanding of CI/CD Pipelines and Repositories, branching strategies with standard tools like Jenkins, GitLab and GitHub Flexibility to react effectively to changing priorities and a willingness to step outside of role boundaries to achieve results. Experience of supporting and maintaining production environments with distributed systems Experience of Observability/Monitoring solutions (such as AppDynamics, Kibana, Splunk, ELK or similar) Exposure to web technologies like React, JavaScript (ES6+), HTML5, and CSS3, Node.js Desired Skills GenAI‑assisted code generation and validation: Ability to use GenAI/copilot tools to generate and fix code issues, test cases, summarize logs and accelerate defect triage Experience building API Contract with OAS/Swagger, Pact or consumer‑driven contract testing, and implementing quality gates in CI/CD Exposure to JMeter/Gatling, understanding of OWASP principles and working knowledge with code quality tools like SonarCube. You may be assessed on key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen, strategic thinking and digital and technology, as well as job-specific technical skills. This role will be based out of Pune. Purpose of the role To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues. Accountabilities Development and delivery of high-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance. Cross-functional collaboration with product managers, designers, and other engineers to define software requirements, devise solution strategies, and ensure seamless integration and alignment with business objectives. Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing. Stay informed of industry technology trends and innovations and actively contribute to the organization’s technology communities to foster a culture of technical excellence and growth. Adherence to secure coding practices to mitigate vulnerabilities, protect sensitive data, and ensure secure software solutions. Implementation of effective unit testing practices to ensure proper code design, readability, and reliability. Analyst Expectations To perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement. Requires in-depth technical knowledge and experience in their assigned area of expertise Thorough understanding of the underlying principles and concepts within the area of expertise They lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources. If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others. OR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate. Will have an impact on the work of related teams within the area. Partner with other functions and business areas. Takes responsibility for end results of a team’s operational processing and activities. Escalate breaches of policies / procedure appropriately. Take responsibility for embedding new policies/ procedures adopted due to risk mitigation. Advise and influence decision making within own area of expertise. Take ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct. Maintain and continually build an understanding of how own sub-function integrates with function, alongside knowledge of the organisations products, services and processes within the function. Demonstrate understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub-function. Make evaluative judgements based on the analysis of factual information, paying attention to detail. Resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents. Guide and persuade team members and communicate complex / sensitive information. Act as contact point for stakeholders outside of the immediate function, while building a network of contacts outside team and external to the organisation. All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave. Show more Show less Seniority level Associate Employment type Full-time Job function Engineering and Information Technology Industries Banking and Financial Services Referrals increase your chances of interviewing at Barclays by 2x See who you know",
-      "score": 31,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "Node",
-        "Kubernetes",
-        "Jenkins",
-        "CI/CD",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "FSD - React + Node",
-      "company": "Tata Consultancy Services",
-      "location": "Pune District, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/fsd-react-%2B-node-at-tata-consultancy-services-4444879260",
-      "postedAt": "2026-07-27",
-      "jobId": "4444879260",
+      "jobId": "4446309061",
       "description": "",
       "score": 26,
       "matchedSkills": [
@@ -71,245 +19,272 @@
       "excluded": false
     },
     {
-      "title": "Frontend with Media Optimisation (React/Typescript/Vite)",
-      "company": "matify.io",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/frontend-with-media-optimisation-react-typescript-vite-at-matify-io-4442819132",
-      "postedAt": "2026-07-27",
-      "jobId": "4442819132",
+      "title": "Full-stack Technology Lead(Node.js+ React.js)",
+      "company": "BigStep Technologies",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-technology-lead-node-js%2B-react-js-at-bigstep-technologies-4443605016",
+      "postedAt": "2026-07-28",
+      "jobId": "4443605016",
       "description": "",
       "score": 26,
       "matchedSkills": [
         "React",
-        "TypeScript"
+        "Node"
       ],
       "excluded": false
     },
     {
-      "title": "ReactJS Engineer - JavaScript -  5+years - Bangalore",
-      "company": "Programming.com",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/reactjs-engineer-javascript-5%2Byears-bangalore-at-programming-com-4445471357",
+      "title": "BI Developer (DevExpress, React & .NET)",
+      "company": "Krimatix",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/bi-developer-devexpress-react-net-at-krimatix-4443614448",
       "postedAt": "2026-07-28",
-      "jobId": "4445471357",
+      "jobId": "4443614448",
       "description": "",
       "score": 26,
       "matchedSkills": [
         "React",
-        "JavaScript"
+        "Express"
       ],
       "excluded": false
     },
     {
-      "title": "Full Stack Developer (Next.js)",
-      "company": "Welatino Traveltech LLP",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-next-js-at-welatino-traveltech-llp-4444893221",
-      "postedAt": "2026-07-27",
-      "jobId": "4444893221",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "Next.js"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Native Developer",
-      "company": "HiroJet",
+      "title": "Software Engineer",
+      "company": "Rakuten Symphony",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-hirojet-4445151041",
-      "postedAt": "2026-07-27",
-      "jobId": "4445151041",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "🚀 Hiring: Senior UI Architect – React.js & Micro Frontend (MFE)",
-      "company": "Bizoforce - The Innovation Platform Accelerating Digital Solutions for Enterprises",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/%F0%9F%9A%80-hiring-senior-ui-architect-%E2%80%93-react-js-micro-frontend-mfe-at-bizoforce-the-innovation-platform-accelerating-digital-solutions-for-enterprises-4445943175",
-      "postedAt": "2026-07-27",
-      "jobId": "4445943175",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer - Java8 + React Full stack",
-      "company": "Societe Generale Global Solution Centre",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-java8-%2B-react-full-stack-at-societe-generale-global-solution-centre-4445967746",
-      "postedAt": "2026-07-27",
-      "jobId": "4445967746",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "TCS Walk in _ .NET with React JS_ Bangalore _ 1-Aug-26",
-      "company": "Tata Consultancy Services",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/tcs-walk-in-net-with-react-js-bangalore-1-aug-26-at-tata-consultancy-services-4445117012",
-      "postedAt": "2026-07-27",
-      "jobId": "4445117012",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "UI React - Senior Engineer",
-      "company": "Iris Software Inc.",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/ui-react-senior-engineer-at-iris-software-inc-4445948063",
-      "postedAt": "2026-07-27",
-      "jobId": "4445948063",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Expert ReactJS Developer",
-      "company": "Anaqua",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/expert-reactjs-developer-at-anaqua-4417972630",
-      "postedAt": "2026-07-27",
-      "jobId": "4417972630",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".Net+React JS Senior Developer",
-      "company": "Infosys",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/net%2Breact-js-senior-developer-at-infosys-4445194201",
-      "postedAt": "2026-07-27",
-      "jobId": "4445194201",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead React Native Developer",
-      "company": "Oolio",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-react-native-developer-at-oolio-4442840205",
-      "postedAt": "2026-07-27",
-      "jobId": "4442840205",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".Net FullStack C#+React (Early joiner with 7+ yrs)",
-      "company": "BIG4",
-      "location": "Pune District, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-fullstack-c%23%2Breact-early-joiner-with-7%2B-yrs-at-big4-4445917294",
-      "postedAt": "2026-07-27",
-      "jobId": "4445917294",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead Developer (AWS, .Net and React)",
-      "company": "Siemens Healthineers",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-developer-aws-net-and-react-at-siemens-healthineers-4442836742",
-      "postedAt": "2026-07-27",
-      "jobId": "4442836742",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full Stack Developer (Laravel + React)",
-      "company": "ASMUTEK",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-laravel-%2B-react-at-asmutek-4442842740",
-      "postedAt": "2026-07-27",
-      "jobId": "4442842740",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Dot Net Full Stack Developer with React",
-      "company": "Wall Street Consulting Services LLC",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-full-stack-developer-with-react-at-wall-street-consulting-services-llc-4446169688",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-rakuten-symphony-4445499752",
       "postedAt": "2026-07-28",
-      "jobId": "4446169688",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Global IT Platform Engineer Senior Manager & Chapter Lead",
-      "company": "Boston Consulting Group (BCG)",
-      "location": "Gurgaon, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/global-it-platform-engineer-senior-manager-chapter-lead-at-boston-consulting-group-bcg-4427454982",
-      "postedAt": "2026-07-27",
-      "jobId": "4427454982",
-      "description": "Global IT Platform Engineer Senior Manager &amp; Chapter Lead Boston Consulting Group (BCG) Gurgaon, Haryana, India 16 hours ago Over 200 applicants See who Boston Consulting Group (BCG) has hired for this role Apply Join or sign in to find your next job Join to apply for the Global IT Platform Engineer Senior Manager &amp; Chapter Lead role at Boston Consulting Group (BCG) Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Who We Are Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact. To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive. What You'll Do The Senior Technical Manager is a hands-on senior engineer and technical leader responsible for designing, building, and owning enterprise-grade applications. This is a Chapter Lead role — meaning the individual both leads the technical chapter (standards, practices, engineering culture) and remains deeply hands-on in architecture and implementation. This role is part of a cross-functional Agile squad in the Enterprise Services portfolio — including the Meetings &amp; Events, Security &amp; Travel squads — working closely with Product Owners, Architects, and business stakeholders to deliver scalable, secure, production-ready solutions. The individual will lead the technical design and implementation of applications leveraging Python, .NET Core and React. The role demands a strong ownership mindset, deep technical expertise across tech stack, and the ability to guide and grow other engineers while remaining fully hands-on. Your Responsibilities Chapter Leadership Setting technical standards, driving code/design reviews, mentoring engineers, and building a high-performing chapter culture. Act as the technical lead for application development, owning solutions, design decisions, and implementation while remaining fully hands-on. Align stakeholders on technical trade-offs and represent engineering perspective in cross-functional planning. Partner with Agile teams to ensure timely delivery, continuous improvement, and alignment with non-functional requirements (scalability, performance, reliability, cost optimization). Application Development Develop and maintain enterprise-grade APIs and microservices using .NET Core for high-throughput, integration-heavy enterprise service scenarios. Setting integrations with SaaS applications DBT experience is good to have Apply security, privacy, and compliance best practices including data protection, access control. Identify technical risks early, propose mitigation strategies, and contribute to the broader ES roadmap. Identify technical risks early, propose mitigation strategies, and contribute to the broader GenAI roadmap. Create and maintain technical documentation including architecture diagrams, runbooks, and operational guides. What You'll Bring Experience &amp; Background 12+ years of professional software engineering experience building enterprise-grade applications. 7+ years of hands-on experience in Python, .Net Core, React Proven experience leading engineering chapters or technical teams while remaining hands-on. Experience working in Agile/Scrum environments with cross-functional teams. Excellent communication skills with ability to explain complex concepts to technical and non-technical stakeholders. Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent practical experience). Strong problem-solving and analytical skills with a pragmatic, delivery-focused mindset. Self-starter who can operate independently while leading others in a collaborative team environment Comfortable owning ambiguous problem spaces and driving solutions end-to-end. Passion for continuous learning, and applying emerging technologies responsibly. Strong leadership qualities with the ability to mentor, guide, and elevate team performance. Core Technical Skills — .NET Core &amp; Python Strong hands-on expertise in both .NET Core and Python for application development. Ability to architect and build services, APIs, and data pipelines in either stack depending on use-case requirements. Strong understanding of RESTful APIs, microservices, Identity management and cloud-native integration patterns across both ecosystems. Good to have experience with AWS cloud services Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws. BCG is an E - Verify Employer. Click here for more information on E-Verify. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Business Consulting and Services Referrals increase your chances of interviewing at Boston Consulting Group (BCG) by 2x See who you know",
-      "score": 16,
+      "jobId": "4445499752",
+      "description": "Software Engineer Rakuten Symphony Bengaluru, Karnataka, India 19 hours ago Over 200 applicants See who Rakuten Symphony has hired for this role Apply Save Report this job Direct message the job poster from Rakuten Symphony Srashti Shukla (She/Her) Srashti Shukla (She/Her) Hiring Best &amp; connecting brave minds together Talks about #recruitmentstrategy, #technicalrecruiting, #recruitmentmarketing, #diversityandinclusion Job Title: Software Engineer Location: Bangalore Why should you choose us? Rakuten Symphony is reimagining telecom, changing supply chain norms and disrupting outmoded thinking that threatens the industry’s pursuit of rapid innovation and growth. Based on proven modern infrastructure practices, its open interface platforms make it possible to launch and operate advanced mobile services in a fraction of the time and cost of conventional approaches, with no compromise to network quality or security. Rakuten Symphony has operations in Japan, the United States, Singapore, India, South Korea, Europe, and the Middle East Africa region. For more information, visit: https://symphony.rakuten.com Building on the technology Rakuten used to launch Japan’s newest mobile network, we are taking our mobile offering global. To support our ambitions to provide an innovative cloud-native telco platform for our customers, Rakuten Symphony is looking to recruit and develop top talent from around the globe. We are looking for individuals to join our team across all functional areas of our business – from sales to engineering, support functions to product development. Let’s build the future of mobile telecommunications together! About Rakuten Group, Inc. (TSE: 4755) is a global leader in internet services that empower individuals, communities, businesses and society. Founded in Tokyo in 1997 as an online marketplace, Rakuten has expanded to offer services in e-commerce, fintech, digital content and communications to 2 billion members around the world. The Rakuten Group has over 30,000 employees, and operations in 30 countries and regions. For more information visit https://global.rakuten.com/corp/. Software Engineer (Apps) Rakuten International is a division of Rakuten Group, Inc., a Japanese global technology leader in services that empower individuals, communities, businesses and society. Headquartered in San Mateo, California with more than 4,000 employees worldwide, the Rakuten International business portfolio includes market leaders in e commerce, digital marketing, advertising, communications and entertainment. We create products and services that provide exceptional value by aligning members and the businesses that want to engage them in a shared community. Rakuten is the most rewarding way to shop, giving millions of members Cash Back when they buy from their favorite brands. As a leading shopping platform, Rakuten partners with thousands of top brands across apparel, beauty and wellness, grocery, travel, on-demand services, subscriptions, and dining, helping members save on everyday purchases. Since 1999, Rakuten members have earned more than $4.6 billion in Cash Back, making it the largest Cash Back platform of its kind. Learn more at Rakuten.com. Job Summary: In this role, you will design, develop, and improve backend systems to meet user needs and business objectives. You will work through ambiguous requirements, contribute to clear specifications, leverage AI tools to rapidly build and refine high-quality code, and collaborate cross-functionally to deliver scalable backend solutions. Your role will involve debugging and improving existing systems, ensuring optimal performance, and integrating new features to enhance functionality. With a strong foundation in systems thinking and adaptability, you will continuously improve how software is designed, built, and operated in an AI-assisted development environment. Key Responsibilities: • Design and Own Systems: Design and evolve backend architecture end-to-end, including APIs, data models, and storage. Establish clear specifications, contracts and behaviors that enable reliable scaling and effective AI-assisted development. Contribute to architectural decisions and communicate tradeoffs across simplicity, performance, and long-term maintainability. Leverage AI to Write High-Quality Code: Use AI tools to generate, iterate on, and refine implementations, producing clean, maintainable code aligned with established specifications and Rakuten engineering standards. Exercise strong judgment in evaluating and validating AI-generated output. Collaborate: Work across engineering, product, and design to navigate ambiguous problems, shape technical direction, and align on priorities and tradeoffs. Help shape what should be built, not just how it is implemented, with a focus on delivering meaningful user and business impact. • Validate System Behavior: Develop and implement testing, validation, and monitoring strategies to ensure correctness of AI-generated code. Proactively identify edge cases, failure modes, and inconsistencies. • Ensure Performance and Observability: Build services that are performant, testable, and resilient in production. Implement monitoring, logging, and feedback loops to drive continuous improvement. • Operate as a Systems-Oriented Engineer: Debug complex production issues and drive them to resolution in collaboration with the team. Adapt quickly to new tools and paradigms, using AI to accelerate development, prototype rapidly, and continuously improve engineering workflows and operational practices. Qualifications: To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Production-level application development experience using Node.js. • Familiarity with service-oriented architecture concepts, principles, and patterns. • Hands-on experience with cloud platforms (e.g., AWS, GCP, or Azure) and familiarity with services like EC2, Lambda, API Gateway, Apache Kafka, and S3. • Experience with database technologies and a strong understanding of database schema design • Experience with event-driven architectures. • Experience using AI-assisted development tools (e.g., Claude, Copilot, Cursor) to generate, evaluate, and refine code. • Ability to reason about system behavior, identify tradeoffs, and make sound technical decisions in ambiguous situations. • Excellent written and verbal communication skills, with the ability to clearly articulate technical concepts, decisions, and tradeoffs across cross-functional teams. Nice to Have: • Familiarity with spec-driven development, including the ability to clarify ambiguous requirements and define clear system behavior • Experience with additional programming languages such as Python or Golang. • Familiarity with a Frontend JavaScript Framework, like React, Vue.js, or Angular. • Exposure to automated CI/CD pipelines (e.g., Jenkins, GitHub Actions). • Basic troubleshooting experience with observability tools like Datadog or similar. • Demonstrated ability to validate and debug complex systems, including AI-generated code. • Strong product intuition and attention to user experience when designing solutions. Minimum Requirements: • B.S. in Computer Science or related field, or equivalent experience required • 2-4 years relevant work experience required • 2+ years of production-level application development experience using Java/J2EE, ideally with frameworks like Quarkus or Spring. • Demonstrated ability to learn new technologies and adapt quickly in a rapidly evolving development environment. RAKUTEN SHUGI PRINCIPLES: Our worldwide practices describe specific behaviours that make Rakuten unique and united across the world. We expect Rakuten employees to model these 5 Shugi Principles of Success. Always improve, always advance. Only be satisfied with complete success - Kaizen. Be passionately professional. Take an uncompromising approach to your work and be determined to be the best. Hypothesize - Practice - Validate - Shikumika. Use the Rakuten Cycle to success in unknown territory. Maximize Customer Satisfaction. The greatest satisfaction for workers in a service industry is to see their customers smile. Speed!! Speed!! Speed!! Always be conscious of time. Take charge, set clear goals, and engage your team. Show more Show less Seniority level Associate Employment type Full-time Job function Business Development, Customer Service, and Product Management Industries Internet Marketplace Platforms, IT Services and IT Consulting, and Technology, Information and Media Referrals increase your chances of interviewing at Rakuten Symphony by 2x See who you know",
+      "score": 25,
       "matchedSkills": [
         "React",
-        "Express",
-        "REST"
+        "JavaScript",
+        "Node",
+        "GCP",
+        "Jenkins",
+        "CI/CD"
       ],
       "excluded": false
     },
     {
-      "title": "Production Support - .Net II",
-      "company": "Infosys",
+      "title": "Lead Software Engineer",
+      "company": "Blue Yonder",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/production-support-net-ii-at-infosys-4436203505",
-      "postedAt": "2026-07-27",
-      "jobId": "4436203505",
-      "description": "Production Support - .Net II Infosys Hyderabad, Telangana, India 16 hours ago 123 applicants See who Infosys has hired for this role Apply Join or sign in to find your next job Join to apply for the Production Support - .Net II role at Infosys Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Primary skills:.Net-&gt;.Net Cloud,.Net-&gt;.Net Core,.Net-&gt;.Net Full Stack,Process-&gt;Maintenance and Production Support process-&gt;PLM Production Support process,Technology-&gt;.NET application Support-&gt;.NET application development, Support,Technology-&gt;SAP Technical-&gt;SAP TAO-&gt;Tools Key Responsibilities: Lead the design and development of end-to-end .NET full stack applications, ensuring high performance, scalability, and maintainability. Architect and implement RESTful APIs and backend services using .NET technologies, integrating securely with front-end applications. Drive front-end development using Angular and React, delivering responsive, user-friendly, and accessible interfaces. Design, optimize, and maintain SQL database schemas, queries, and stored procedures to support application requirements. Collaborate with product owners, business analysts, and stakeholders to understand requirements and translate them into technical solutions and work breakdowns. Provide technical leadership to the team, perform code reviews, enforce coding standards, and promote best practices across the stack. Oversee the full software development lifecycle (SDLC), including estimation, planning, development, testing, deployment, and support. Identify risks, dependencies, and technical challenges early and propose effective mitigation strategies. Mentor and guide junior and mid-level developers, fostering a culture of learning, ownership, and collaboration. Work closely with QA and DevOps teams to ensure smooth integration, automated testing, and reliable deployments. Document technical designs, architectural decisions, and implementation details to ensure knowledge sharing and maintainability. Continuously evaluate and recommend improvements in tools, frameworks, and processes to enhance productivity and quality. Minimum Qualifications: Bachelor’s or Master’s degree in BTECH, BSC, BE, BCA, MTECH, MCA, or ME from a recognized institution. 8–15 years of hands-on experience in designing and developing applications using .NET full stack technologies. Strong proficiency in .NET (Framework/Core) for building web applications, APIs, and backend services. Proven experience developing complex front-end applications using Angular and/or React. Solid experience with SQL databases, including writing complex queries, performance tuning, and database design. Demonstrated ability to work across the full stack (UI, API, database) and deliver production-grade solutions. Experience working in collaborative, cross-functional teams following structured SDLC or agile methodologies. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Management and Manufacturing Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Infosys by 2x See who you know",
-      "score": 16,
+      "url": "https://in.linkedin.com/jobs/view/lead-software-engineer-at-blue-yonder-4445705236",
+      "postedAt": "2026-07-28",
+      "jobId": "4445705236",
+      "description": "Lead Software Engineer Blue Yonder Hyderabad, Telangana, India 19 hours ago 66 applicants See who Blue Yonder has hired for this role Apply Save Report this job Overview Leading AI-driven Global Supply Chain Solutions Software Product Company and one of Glassdoor’s “Best Places to Work” Seeking an astute individual that has a strong Supply Chain/Catman domain experience and technical knowledge with the additional ability to be hands-on with the broader teams as part of the development/deployment and maintenance cycle, and good knowledge of industry best practices, with the ability to implement them working with customers and internal platform, and the product teams. Scope Core responsibilities include implementing new features and enhancing existing functionality to meet business requirements. The role is responsible for resolving both internal and customer-reported defects, developing new stored procedures, and enhancing existing stored procedures as needed. It also involves troubleshooting, analyzing, and resolving security and performance-related application issues to ensure system reliability and efficiency. Additionally, the role requires active participation in the code review process, providing technical support to the junior developers and the automation team, and working independently while adhering to established coding standards and best practices to deliver high-quality software. The team currently comprises of 70+ global associates across geographies and is expected to grow. The incumbent will need to have leadership qualities to also mentor junior and mid-level support engineers in our team. Our Current Technical Environment Software: .NET Core with C#, GIT, Rest API, OAuth, PL/SQL, React JS, TDD with NUnit Application Architecture: Scalable, Resilient, event driven, secure multi-tenant Microservices architecture Cloud Architecture: MS Azure (AKS, Application gateway, Virtue Networks, Event Hub, Azure AD) Frameworks/Others: Kubernetes, Kafka, Elasticsearch, GIT, Node Js What You’ll Do BY Catman Lead Software Engineer you are responsible for implementing the new features. Defect fixes both internal and external Responsible for writing new stored procedures or enhancing existing stored procedure to meet the business requirement. Troubleshooting, analyzing and fixing security and the performance replated application issues Participate in code review process, help the automation team with any technical assistance. Work independently, develop and adhere to best known coding practices What We Are Looking For BE/B. Tech or ME/M. Tech or MCA with 7.5 to 9.6 years of experience in Software Development of large and complex enterprise applications. Experience in developing enterprise application using C# and .Net Core Web Api, Rest API, React.js. Good knowledge in Networking Good knowledge in OS concepts preferably Windows Kubernetes Fundamentals Knowledge in any one script language (Shell, Python, PowerShell etc.) Wireshark, Perfmon, or any other open-source tools Knowledge in MSSQL. Telegraph, Influx, Grafana for Application monitoring. Understanding of REST API’s Experience working on either GCP or AWS or Azure or any other cloud service provider Good to have Thread Dump analysis, GC logs analysis, Heap dump analysis. Our Values If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here: Core Values All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Management, Information Technology, and Engineering Industries Software Development, IT Services and IT Consulting, and Information Services Referrals increase your chances of interviewing at Blue Yonder by 2x See who you know",
+      "score": 25,
       "matchedSkills": [
         "React",
+        "Node",
         "REST",
+        "Kubernetes",
+        "GCP",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Lead Software Engineer",
+      "company": "Blue Yonder",
+      "location": "Greater Hyderabad Area",
+      "url": "https://in.linkedin.com/jobs/view/lead-software-engineer-at-blue-yonder-4445737929",
+      "postedAt": "2026-07-28",
+      "jobId": "4445737929",
+      "description": "Lead Software Engineer Blue Yonder Greater Hyderabad Area 13 hours ago Be among the first 25 applicants See who Blue Yonder has hired for this role Apply Join or sign in to find your next job Join to apply for the Lead Software Engineer role at Blue Yonder Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Overview Leading AI-driven Global Supply Chain Solutions Software Product Company and one of Glassdoor’s “Best Places to Work” Seeking an astute individual that has a strong Supply Chain/Catman domain experience and technical knowledge with the additional ability to be hands-on with the broader teams as part of the development/deployment and maintenance cycle, and good knowledge of industry best practices, with the ability to implement them working with customers and internal platform, and the product teams. Scope Core responsibilities include implementing new features and enhancing existing functionality to meet business requirements. The role is responsible for resolving both internal and customer-reported defects, developing new stored procedures, and enhancing existing stored procedures as needed. It also involves troubleshooting, analyzing, and resolving security and performance-related application issues to ensure system reliability and efficiency. Additionally, the role requires active participation in the code review process, providing technical support to the junior developers and the automation team, and working independently while adhering to established coding standards and best practices to deliver high-quality software. The team currently comprises of 70+ global associates across geographies and is expected to grow. The incumbent will need to have leadership qualities to also mentor junior and mid-level support engineers in our team. Our Current Technical Environment Software: .NET Core with C#, GIT, Rest API, OAuth, PL/SQL, React JS, TDD with NUnit Application Architecture: Scalable, Resilient, event driven, secure multi-tenant Microservices architecture Cloud Architecture: MS Azure (AKS, Application gateway, Virtue Networks, Event Hub, Azure AD) Frameworks/Others: Kubernetes, Kafka, Elasticsearch, GIT, Node Js What You’ll Do BY Catman Lead Software Engineer you are responsible for implementing the new features. Defect fixes both internal and external Responsible for writing new stored procedures or enhancing existing stored procedure to meet the business requirement. Troubleshooting, analyzing and fixing security and the performance replated application issues Participate in code review process, help the automation team with any technical assistance. Work independently, develop and adhere to best known coding practices What We Are Looking For BE/B. Tech or ME/M. Tech or MCA with 7.5 to 9.6 years of experience in Software Development of large and complex enterprise applications. Experience in developing enterprise application using C# and .Net Core Web Api, Rest API, React.js. Good knowledge in Networking Good knowledge in OS concepts preferably Windows Kubernetes Fundamentals Knowledge in any one script language (Shell, Python, PowerShell etc.) Wireshark, Perfmon, or any other open-source tools Knowledge in MSSQL. Telegraph, Influx, Grafana for Application monitoring. Understanding of REST API’s Experience working on either GCP or AWS or Azure or any other cloud service provider Good to have Thread Dump analysis, GC logs analysis, Heap dump analysis. Our Values If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here: Core Values All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Blue Yonder by 2x See who you know",
+      "score": 25,
+      "matchedSkills": [
+        "React",
+        "Node",
+        "REST",
+        "Kubernetes",
+        "GCP",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "MODULE LEAD - React JS",
+      "company": "Happiest Minds Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/module-lead-react-js-at-happiest-minds-technologies-4445722504",
+      "postedAt": "2026-07-28",
+      "jobId": "4445722504",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Mobile Developer",
+      "company": "Thinkscoop Technologies",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/react-native-mobile-developer-at-thinkscoop-technologies-4445768242",
+      "postedAt": "2026-07-28",
+      "jobId": "4445768242",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior UI Developer (ReactJS)",
+      "company": "ixigo",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-ui-developer-reactjs-at-ixigo-4445492704",
+      "postedAt": "2026-07-28",
+      "jobId": "4445492704",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React.Js Developer-HDFC-Gurugram",
+      "company": "Capco",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-hdfc-gurugram-at-capco-4445723412",
+      "postedAt": "2026-07-28",
+      "jobId": "4445723412",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer (ROR+React)",
+      "company": "BigStep Technologies",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-ror%2Breact-at-bigstep-technologies-4443243148",
+      "postedAt": "2026-07-28",
+      "jobId": "4443243148",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack (.NET, React)",
+      "company": "EY",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-net-react-at-ey-4443275766",
+      "postedAt": "2026-07-28",
+      "jobId": "4443275766",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer – .NET and React full stack",
+      "company": "Enixza Technologies",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-and-react-full-stack-at-enixza-technologies-4443677365",
+      "postedAt": "2026-07-29",
+      "jobId": "4443677365",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack (.NET, React)",
+      "company": "EY",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-net-react-at-ey-4443286429",
+      "postedAt": "2026-07-28",
+      "jobId": "4443286429",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Lead- .Net + ReactJS Developer",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-net-%2B-reactjs-developer-at-ust-4426400413",
+      "postedAt": "2026-07-28",
+      "jobId": "4426400413",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-infosys-4445760575",
+      "postedAt": "2026-07-28",
+      "jobId": "4445760575",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React.JS Developer Intern",
+      "company": "Anzo Controls",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-intern-at-anzo-controls-4446030495",
+      "postedAt": "2026-07-29",
+      "jobId": "4446030495",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "| React JS & Microsoft Office Web Add-in Developer",
+      "company": "VRINDA INTERNATIONAL",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-microsoft-office-web-add-in-developer-at-vrinda-international-4446019915",
+      "postedAt": "2026-07-28",
+      "jobId": "4446019915",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Cisco",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4437750881",
+      "postedAt": "2026-07-28",
+      "jobId": "4437750881",
+      "description": "Software Engineer Cisco Bengaluru, Karnataka, India 12 hours ago Over 200 applicants See who Cisco has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer role at Cisco Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Meet the Team Join a dynamic and impactful team responsible for the critical sales planning and product master data mgmt. applications (Sales Hierarchy Mgmt.(SHARE), Access Mgmt.(IAM), Account Team Directory (ATD), Seller to SAV and Product Master Data Mgmt.(eGenie &amp; HMP)) that drive Cisco's success. This team is at the forefront of leveraging data to provide unparalleled insights into sales readiness, operational efficiency, and market visibility through AI-led data management and analysis. You will collaborate with dedicated professionals who are passionate about transforming data into actionable intelligence. Your Impact Build Applications to enable Cisco’s Sales Planning &amp; defining the Go-To Market Strategy Build Agentic AI solutions for different Sales Planning &amp; PMDM use cases Review the Data Modeling practices Build API Layer using Spring Reactive Framework Build Integration layer between the UI /API/Database Support other allied architecture and integration activities. Assist in developing documentation around system integration, data flows, data dictionary, user guides and standard processes. Experience using tech solutions like Git, and Kubernetes to craft &amp; deploy apps and jobs on cloud-hosted services Minimum Qualifications Bachelors degree or equivalent 4+ years related experience Experience using Python and SQL Experience with Building Data Pipelines in Python Experience with any Java,J2EE,Spring Preferred Qualifications Proficiency in data modeling, data design, SQL, and NoSQL databases Proven background in algorithms and data structures Experience working with AI LLM Models Proven communication and partnership contribute to multi-functional teams. Why Cisco? At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint. Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere. We are Cisco, and our power starts with you. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Cisco by 2x See who you know",
+      "score": 16,
+      "matchedSkills": [
+        "React",
+        "Kubernetes",
         "SQL"
       ],
       "excluded": false
