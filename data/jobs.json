@@ -1,102 +1,309 @@
 {
-  "generatedAt": "2026-07-30T06:17:43.993Z",
-  "totalScraped": 204,
-  "totalMatched": 6,
+  "generatedAt": "2026-07-31T06:42:02.798Z",
+  "totalScraped": 459,
+  "totalMatched": 21,
   "jobs": [
     {
-      "title": "Software Dev Engineer II",
-      "company": "Swiggy",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-at-swiggy-4444136098",
-      "postedAt": "2026-07-29",
-      "jobId": "4444136098",
-      "description": "Software Dev Engineer II Swiggy Bengaluru, Karnataka, India 17 hours ago Over 200 applicants See who Swiggy has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . At Swiggy, SDE II(s) play an integral role in owning the end-to-end Design/Architecture of complex systems. They co-own the technology vision of the respective team and significantly contribute to the overall success of the team. They partner with the product/business teams to understand the product features and specifications, translate them into high-level and low-level design thereby facilitating the team in the design and development of mission-critical applications. Job Description What qualities are we looking for? Proficient understanding of Web Fundamentals - HTML5, CSS3, JavaScript Basic understanding of CSS pre-processing platforms, such as LESS and SASS or CSS in JS Proficient understanding of at least one of the UI frameworks viz React, Angular 4+, Vue, Polymer, etc Good understanding of ES6 and above. Experience with Typescript is a plus. Understanding of web bundling tools like Webpack, ParcelJS, Rollup. Sound knowledge of design patterns and practices for writing clean, linted, maintainable, and reusable code. Proficient understanding of cross-browser compatibility issues and ways to work around them. Understanding of Version Control Systems like Git Experience in using supplementary libraries like Redux, Redux-Saga, Emotion, Lerna, etc is a plus. What will you get to do here? Enable best practices to help the team achieve their technical tasks and continually thrive in improving the technology of the product/team. Develop user-facing features and apps. Build reusable code and libraries for future use Ensure the technical feasibility of UI/UX designs Be extremely detail-oriented to strive for pixel-perfect implementation in all browsers. Optimize application for maximum speed and scalability Should know the internals of third party libraries being Qualifications Bachelor's degree in Computer Science, Engineering, or related field (Master's degree preferred). 3+ years of professional experience. Proficient understanding of Web Fundamentals - HTML5, CSS3, JavaScript Additional Information Visit our tech blogs to learn more about some of the challenges we deal with: https://bytes.swiggy.com/the-swiggy-delivery-challenge-part-one-6a2abb4f82f6 https://bytes.swiggy.com/swiggy-distance-service-9868dcf613f4 https://bytes.swiggy.com/the-tech-that-brings-you-your-food-1a7926229886 We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability status, or any other characteristic protected by the law. We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, disability status, or any other characteristic protected by the law. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Production, Distribution, and Engineering Industries Software Development and IT Services and IT Consulting Referrals increase your chances of interviewing at Swiggy by 2x See who you know",
-      "score": 35,
+      "title": "Full Stack Software Engineer|  Media & Streaming Platform | React Native, Node JS, MongoDB with Express JS",
+      "company": "Mogi I/O : OTT/Podcast/Short Video Apps for you",
+      "location": "Saket, Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-software-engineer-media-streaming-platform-react-native-node-js-mongodb-with-express-js-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4446711799",
+      "postedAt": "2026-07-31",
+      "jobId": "4446711799",
+      "description": "",
+      "score": 38,
       "matchedSkills": [
         "React",
-        "Redux",
-        "JavaScript",
-        "TypeScript",
-        "Webpack",
-        "Saga",
-        "HTML"
+        "Node",
+        "Express",
+        "MongoDB"
       ],
       "excluded": false
     },
     {
-      "title": "Fluent Commerce Developer",
-      "company": "Valtech",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/fluent-commerce-developer-at-valtech-4438215485",
-      "postedAt": "2026-07-29",
-      "jobId": "4438215485",
-      "description": "Fluent Commerce Developer Valtech Bengaluru, Karnataka, India 14 hours ago 45 applicants See who Valtech has hired for this role Apply Join or sign in to find your next job Join to apply for the Fluent Commerce Developer role at Valtech Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Why Valtech? We’re the experience innovation company - a trusted partner to the world’s most recognized brands. To our people we offer growth opportunities, a values-driven culture, international careers and the chance to shape the future of experience. The opportunity At Valtech, you’ll find an environment designed for continuous learning, meaningful impact, and professional growth. Whether you're pioneering new digital solutions, challenging conventional thinking or building the next generation of customer experiences, your work will help transform industries. We Are Proud Of The work we do and the innovation we drive Our values of share, care and dare A workplace culture that fosters creativity, diversity and autonomy Our borderless, global framework, which enables seamless collaboration The role As a Fluent Commerce Developer you are passionate about experience innovation and eager to push the boundaries of what’s possible. You bring 3+ YEARS of experience, a growth mindset and a drive to make a lasting impact. You Will Thrive In This Role If You Are A curious problem solver who challenges the status quo A collaborator who values teamwork and knowledge-sharing Excited by the intersection of technology, creativity and data Experienced in Agile methodologies and consulting (a plus) Role Responsibilities Design and implement order orchestration Workflows on the Fluent Commerce platform — modelling states, rulesets, triggers, and user actions that encode each client's business processes. Develop custom Rules in Java using the Fluent SDK (Rules SDK) to implement business logic such as validation, sourcing, allocation, fulfilment, and notifications. Build and consume the platform's GraphQL API — writing queries and mutations against Fluent's data entities (Order, Fulfilment, Inventory, Availability, Returns, Location) and designing efficient data access for downstream consumers. Build and extend user interfaces with the OMX UX Framework, including custom form fields and configured web apps that react to workflow state. Integrate Fluent Commerce with surrounding systems — ecommerce platforms (e.g. commercetools, SAP, Salesforce, Adobe), ERPs, WMS, POS, payment, and carrier/3PL services — using event-driven patterns, webhooks, connectors, and middleware. Configure inventory and sourcing logic, including Available-to-Promise (ATP), fulfilment location networks, and sourcing strategies. Write automated tests for rules and workflows (e.g. JUnit with Fluent's util-test / WorkflowExecutor utilities), and validate behaviour with Postman and the GraphQL explorer. Package and deploy solutions as modules/plugins across environments; support CI/CD, monitoring, and release processes. Troubleshoot production issues — diagnosing stuck orders and waves by inspecting audit events and workflow paths, and re-triggering or remediating safely. Contribute to technical design, code reviews, documentation, and estimation; [mentor junior developers and share Fluent best practices across the team]. Must Have Qualifications [3+] years of professional software development, with strong core Java skills. Hands-on experience building on Fluent Commerce / Fluent Order Management — workflows, rules, and the Fluent SDK. (For candidates new to Fluent: strong Java plus another OMS/orchestration platform, with willingness to certify quickly.) Solid GraphQL experience (schemas, queries, mutations) and comfort with REST, JSON, and API design. Understanding of event-driven and asynchronous architectures — webhooks, message/event handling, and integration between distributed services. Experience integrating enterprise systems (commerce front-ends, ERP, WMS, POS, carriers) through APIs and middleware. Familiarity with cloud (AWS preferred), Git-based version control, and CI/CD pipelines. Strong debugging and problem-solving skills, and the ability to reason about data flowing through a complex orchestration engine. Clear written and verbal communication in English, and the ability to work with both technical and business stakeholders. Nice To Have Qualifications Fluent Commerce certification (via the Fluent Commerce Builders Portal / Learning Pathways) or a clear plan to obtain it. Front-end skills (JavaScript / TypeScript / React) for deeper OMX UX Framework work. Experience with composable / MACH commerce and platforms such as commercetools, or with the broader headless ecosystem. Domain knowledge of retail order management and omnichannel fulfilment — Click &amp; Collect / BOPIS, Ship-from-Store, split fulfilment, returns and exchanges. Experience migrating from or integrating with other OMS platforms (e.g. IBM Sterling, Manhattan, Salesforce OMS). Exposure to serverless (AWS Lambda), containers, and infrastructure-as-code Qualifications Degree in Computer Science, Software Engineering, or equivalent practical experience. [Fluent Commerce certification required within [X] months of joining — a partner requirement for our practice.] If you do not meet all the listed qualifications or have gaps in your experience, we still encourage you to apply. At Valtech, we recognize that talent comes in many forms, and we value diverse perspectives and a willingness to learn. Commitment to reaching all kinds of people We design experiences that work for all kinds of people - and that starts with our own teams. At Valtech, we’re intentional about building an inclusive culture where everyone feels supported to grow, thrive and achieve their goals. No matter your background, you belong here. Explore our Diversity &amp; Inclusion site to see how we’re creating a more equitable Valtech for all. The Benefits This is a Fulltime position based in Bangalore. Beyond a Competitive Compensation Package, We Offer Flexibility, with remote and hybrid work options (country-dependent) Career advancement, with international mobility and professional development programs Learning and development, with access to cutting-edge tools, training and industry experts Our benefits are tailored to each location. Your Talent Partner will provide full details during the hiring process. Your application process Once you apply, our Talent Acquisition team will review your application. Your CV should cover key information on relevant experiences and expertise. We do not require information such as age, gender, marital status, or a headshot in your application. We review all candidates based on skills, experience, and potential. ⚠️ Beware of recruitment fraud! Only engage with official Valtech email addresses ending in @valtech.com . We are committed to inclusion and accessibility. If you need reasonable accommodations during the interview process, please either indicate it in your application or let your Talent Partner know. About Valtech Valtech is the experience innovation company that exists to unlock a better way to experience the world. By blending crafts, categories, and cultures, we help brands unlock new value in an increasingly digital world. At the intersection of data, AI, creativity, and technology, we drive transformation for leading organizations, including L’Oréal, Mars, Audi, P&amp;G, Volkswagen Dolby, and more. At Valtech, we don’t just talk about transformation. We make it happen. Our people are the heart of our success, and we foster a workplace where everyone has the support to thrive, grow and innovate. Are you ready to create what’s next? Join us. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Valtech by 2x See who you know",
-      "score": 25,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "TypeScript",
-        "REST",
-        "GraphQL",
-        "CI/CD"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer (.Net & React)",
-      "company": "TrueBlue India",
+      "title": "Software Engineer - Full Stack (Node.js + React)",
+      "company": "Idiotic Media",
       "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-net-react-at-trueblue-india-4446077566",
-      "postedAt": "2026-07-29",
-      "jobId": "4446077566",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "3-5 yrs Exp React Front-End Developer",
-      "company": "QuarkSek Technologies Private Limited",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/3-5-yrs-exp-react-front-end-developer-at-quarksek-technologies-private-limited-4446066216",
-      "postedAt": "2026-07-29",
-      "jobId": "4446066216",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Sr Full Stack Devloper (ReactJS)",
-      "company": "EduRun Group",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-full-stack-devloper-reactjs-at-edurun-group-4444514943",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-full-stack-node-js-%2B-react-at-idiotic-media-4444568461",
       "postedAt": "2026-07-30",
-      "jobId": "4444514943",
+      "jobId": "4444568461",
       "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Dev Engineer II",
-      "company": "Swiggy",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-at-swiggy-4444114977",
-      "postedAt": "2026-07-29",
-      "jobId": "4444114977",
-      "description": "Software Dev Engineer II Swiggy Bengaluru, Karnataka, India 17 hours ago 139 applicants See who Swiggy has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . We are looking for highly motivated individuals who can join our engineering team as SDE II. As an Android SDE II at Swiggy, you will play a crucial role in developing and enhancing our Android mobile application, which millions of users rely on to order food, groceries, dine in and enjoy a seamless delivery experience. This opportunity offers you a chance to work closely with our talented team of Android developers and gain valuable hands-on experience in the fast-paced world of app development. We are seeking a highly skilled Android Software Development Engineer (SDE II ) to join our dynamic team. The ideal candidate should have a passion for mobile technology and a proven track record of delivering high-quality Android applications. As an SDE II, you will be responsible for designing, developing, and maintaining Android applications that delight our users and exceed industry standards. Job Description What will you get to do here? Design and Architecture: Collaborate with cross-functional teams to make our app more scalable and robust. Architect solutions that adhere to best practices and promote code reusability. Development: Write clean, maintainable, reusable code in Kotlin. Implement new features, enhancements, and bug fixes according to project requirements and timelines. Testing: Develop and execute comprehensive unit tests and integration tests to ensure the reliability and stability of our Consumer App. Implement automated testing frameworks and strategies to streamline the testing process. Performance Optimization: Identify performance bottlenecks and optimize Android applications for speed, responsiveness, and resource efficiency. Conduct code reviews and performance profiling to maintain high performance standards. Documentation: Create technical documentation, including design documents, API specifications, and release notes. Document codebase changes, architecture decisions, and development processes to facilitate knowledge sharing and onboarding. Collaboration: Collaborate closely with product managers, designers, and other engineers to translate product requirements into technical solutions. Participate in Agile ceremonies, such as sprint planning, daily stand-ups, and retrospectives. Continuous Improvement: Stay updated on the latest trends, tools, and technologies in Android development. Continuously improve development processes, coding standards, and software quality through innovation and experimentation. What qualities are we looking for? Bachelor's degree in Computer Science, Engineering, or related field (Master's degree preferred). 3+ years of professional experience in Android application development. Proficiency in Kotlin programming languages. Strong understanding of Android SDK, Android Studio, and related development tools. Experience with Android architecture components (e.g., MVVM, LiveData, Room). Solid understanding of software design principles, patterns, and best practices. Experience with RESTful APIs, JSON/Proto etc Familiarity with version control systems (e.g., Git) and continuous integration tools (e.g., Jenkins). Excellent problem-solving skills and attention to detail. Strong communication and collaboration skills. Ability to thrive in a fast-paced, dynamic environment and adapt to changing priorities. Knowledge and hands on experience of Kotlin Multiplatform will be cherry on the top. Qualifications Bachelor's degree in Computer Science, Engineering, or related field (Master's degree preferred). 3+ years of professional experience in Android application development. Additional Information Visit our tech blogs to learn more about some of the challenges we deal with: https://bytes.swiggy.com/smart-select-tailored-cart-suggestions-38267fdca12b https://bytes.swiggy.com/automating-mobile-event-verification-1d840f39d300 https://bytes.swiggy.com/optimizing-configuration-time-for-android-apps-that-use-react-native-81bb8c9bffdf https://bytes.swiggy.com/a-deep-dive-into-dynamic-widget-swiggys-server-driven-ui-system-92cdc3b16ec6 https://bytes.swiggy.com/building-a-robust-mobile-platform-team-2ee40cce8670 Building the WhatToEat Experience on Android | by Balvinder Gambhir | Swiggy Bytes — Tech Blog Media on Swiggy’s Mobile Apps. Swiggy believes that a seamless and… | by Vignesh Muralidharan | Swiggy Bytes — Tech Blog https://bytes.swiggy.com/swiggy-design-language-system-1ef9cca11186 https://bytes.swiggy.com/gradle-incremental-test-runner-125cee1e68a7 https://bytes.swiggy.com/swiss-knife-that-powers-the-swiggy-app-dff9dc49a580 https://bytes.swiggy.com/fan-s-tastic-search-for-blazing-fast-results-46aa706313ef We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, disability status, or any other characteristic protected by the law. We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, disability status, or any other characteristic protected by the law. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Production, Distribution, and Engineering Industries Software Development and IT Services and IT Consulting Referrals increase your chances of interviewing at Swiggy by 2x See who you know",
-      "score": 16,
+      "score": 26,
       "matchedSkills": [
         "React",
-        "REST",
-        "Jenkins"
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Frontend Software Engineer (React + TypeScript)",
+      "company": "Sculptured Minds Softcom Pvt. Ltd.",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/frontend-software-engineer-react-%2B-typescript-at-sculptured-minds-softcom-pvt-ltd-4446964860",
+      "postedAt": "2026-07-31",
+      "jobId": "4446964860",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "TypeScript"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React JS and Node JS Developer",
+      "company": "Infosys",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-and-node-js-developer-at-infosys-4446917612",
+      "postedAt": "2026-07-30",
+      "jobId": "4446917612",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full stack React.JS Node.js Developer IRC300137",
+      "company": "GlobalLogic",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-react-js-node-js-developer-irc300137-at-globallogic-4446932058",
+      "postedAt": "2026-07-30",
+      "jobId": "4446932058",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Lead Fullstack Engineer React.JS Node.JS Dev IRC300897",
+      "company": "GlobalLogic",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-fullstack-engineer-react-js-node-js-dev-irc300897-at-globallogic-4446939000",
+      "postedAt": "2026-07-30",
+      "jobId": "4446939000",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Engineer (C#, React + Javascript)",
+      "company": "Vonage",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-c%23-react-%2B-javascript-at-vonage-4447011958",
+      "postedAt": "2026-07-30",
+      "jobId": "4447011958",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "JavaScript"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Web Developer – React / Node.js",
+      "company": "EXL",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-web-developer-%E2%80%93-react-node-js-at-exl-4446577561",
+      "postedAt": "2026-07-30",
+      "jobId": "4446577561",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer, React Native (3-5 Years)",
+      "company": "PhonePe",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-react-native-3-5-years-at-phonepe-4438286232",
+      "postedAt": "2026-07-30",
+      "jobId": "4438286232",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer_Reactjs_Javascrpit (Lowe's Blue Technology)",
+      "company": "Lowe's India",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-reactjs-javascrpit-lowe-s-blue-technology-at-lowe-s-india-4437061989",
+      "postedAt": "2026-07-30",
+      "jobId": "4437061989",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Semi Senior React Developer - Remote Work | REF#296945",
+      "company": "BairesDev",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-ref%23296945-at-bairesdev-4438275086",
+      "postedAt": "2026-07-30",
+      "jobId": "4438275086",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Semi Senior React Developer - Remote Work | REF#296947",
+      "company": "BairesDev",
+      "location": "Ghaziabad, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-ref%23296947-at-bairesdev-4438260819",
+      "postedAt": "2026-07-30",
+      "jobId": "4438260819",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full Stack Engineer(Front End Heavy-REACT(70%)+ DOT NET(30%))",
+      "company": "Mobility Global",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-front-end-heavy-react-70%25-%2B-dot-net-30%25-at-mobility-global-4408425708",
+      "postedAt": "2026-07-30",
+      "jobId": "4408425708",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior React Developer - Remote Work | REF#296950",
+      "company": "BairesDev",
+      "location": "Delhi, Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-developer-remote-work-ref%23296950-at-bairesdev-4438270288",
+      "postedAt": "2026-07-30",
+      "jobId": "4438270288",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack (react, .NET)",
+      "company": "EY",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-react-net-at-ey-4445066448",
+      "postedAt": "2026-07-31",
+      "jobId": "4445066448",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Frontend Engineer (React + Chrome Extension)",
+      "company": "TTEC Digital",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-react-%2B-chrome-extension-at-ttec-digital-4447280030",
+      "postedAt": "2026-07-31",
+      "jobId": "4447280030",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "ReactJS Developer",
+      "company": "Incedo Inc.",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/reactjs-developer-at-incedo-inc-4446726304",
+      "postedAt": "2026-07-30",
+      "jobId": "4446726304",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Expert ReactJS Developer",
+      "company": "Anaqua",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/expert-reactjs-developer-at-anaqua-4417972630",
+      "postedAt": "2026-07-30",
+      "jobId": "4417972630",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Lead React Native Developer",
+      "company": "Oolio",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-react-native-developer-at-oolio-4445004506",
+      "postedAt": "2026-07-30",
+      "jobId": "4445004506",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior React Developer - Remote Work | REF#296951",
+      "company": "BairesDev",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-developer-remote-work-ref%23296951-at-bairesdev-4438262530",
+      "postedAt": "2026-07-30",
+      "jobId": "4438262530",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "MERN React Full Stack Engineer - Mars Telecom Systems",
+      "company": "MARS Telecom Systems Pvt. Ltd.",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/mern-react-full-stack-engineer-mars-telecom-systems-at-mars-telecom-systems-pvt-ltd-4445086427",
+      "postedAt": "2026-07-31",
+      "jobId": "4445086427",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
       ],
       "excluded": false
     }
