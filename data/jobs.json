@@ -1,93 +1,212 @@
 {
-  "generatedAt": "2026-08-02T06:28:49.294Z",
-  "totalScraped": 115,
-  "totalMatched": 5,
+  "generatedAt": "2026-08-03T06:56:12.099Z",
+  "totalScraped": 310,
+  "totalMatched": 14,
   "jobs": [
     {
-      "title": "Senior Mobile - Application & Web Developer",
-      "company": "Capco",
+      "title": "Full Stack Developer – React.js/Next.js",
+      "company": "Quest Global",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-mobile-application-web-developer-at-capco-4411432372",
-      "postedAt": "2026-08-01",
-      "jobId": "4411432372",
-      "description": "Senior Mobile - Application &amp; Web Developer Capco Bengaluru, Karnataka, India 20 hours ago Over 200 applicants See who Capco has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Mobile - Application &amp; Web Developer role at Capco Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Job Title: Full stack developer - Bangalore and Gurgaon About Us “Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar &amp; Seramount . With our presence across 32 cities across globe, we support 100+ clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery. WHY JOIN CAPCO? You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry. MAKE AN IMPACT Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services. #BEYOURSELFATWORK Capco has a tolerant, open culture that values diversity, inclusivity, and creativity. CAREER ADVANCEMENT With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands. DIVERSITY &amp; INCLUSION We believe that diversity of people and perspective gives us a competitive advantage. Location - Bangalore, Pune, Gurugram Experience - 5 to 8 Years Skills And Qualifications About the Job: Mobile Application &amp; Web Developer Detail-oriented and innovative Mobile Application &amp; Light Web Developer with extensive experience building, optimizing, and supporting cross-platform native and hybrid apps and light web solutions. Proven ability to leverage modern frameworks for intuitive user experiences, integrate with critical APIs and backend services, and collaborate within agile teams. Passionate about delivering secure, customer-focused mobile and web experiences. Skills &amp; Technologies Mobile: React, Angular, Ionic, Capacitor, Cordova, Typescript/JavaScript (Swift (iOS), Kotlin (Android)) Web: React, Angular, TypeScript, JavaScript (ES6+), Material UI, Redux Testing &amp; CI/CD: Jest, Jasmine, Karma, CodeMagic, AppFlow, GitLab Pipeline Cloud &amp; APIs: Firebase, AWS, RESTful APIs, GraphQL, MongoDB, SQL, Redis Other: CSS3, SASS, HTML5, PWA, Offline-first/Local Storage, UI/UX Design Workflow: Agile/Scrum, Remote collaboration, Unit testing, Code reviews Technical Proficiencies Category || Technologies / Tools Mobile Dev || React, Ionic, Capacitor, Cordova, Swift, Kotlin Web Dev || React, Angular, TypeScript, UI Libraries (Material, Tailwind) APIs/Cloud || RESTful APIs, GraphQL, Firebase, AWS Testing/CI || Jest, Jasmine, GitHub Actions If you are keen to join us, you will be part of an organization that values your contributions, recognizes your potential, and provides ample opportunities for growth. For more information, visit www.capco.com. Follow us on Twitter, Facebook, LinkedIn, and YouTube. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Financial Services Referrals increase your chances of interviewing at Capco by 2x See who you know",
-      "score": 50,
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-react-js-next-js-at-quest-global-4447648973",
+      "postedAt": "2026-08-02",
+      "jobId": "4447648973",
+      "description": "",
+      "score": 40,
       "matchedSkills": [
         "React",
-        "Redux",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "Tailwind",
-        "REST",
-        "GraphQL",
-        "CI/CD",
-        "SQL",
-        "MongoDB",
-        "Jest"
+        "Next.js"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer - Fullstack",
-      "company": "DigiCert",
+      "title": "Software Engineer - React JS, Node.Js, SQL, API Mngt",
+      "company": "Optum India",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-digicert-4419073298",
-      "postedAt": "2026-08-01",
-      "jobId": "4419073298",
-      "description": "Senior Software Engineer - Fullstack DigiCert Bengaluru, Karnataka, India 18 hours ago 89 applicants See who DigiCert has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Who we are DigiCert is a global leader in intelligent trust. We protect the digital world by ensuring the security, privacy, and authenticity of every interaction. Our AI-powered DigiCert ONE platform unifies PKI, DNS, and certificate lifecycle management, to secure infrastructure, software, devices, messages, AI content and agents. Learn why more than 100,000 organizations, including 90% of the Fortune 500, choose DigiCert to stop today’s threats and prepare for a quantum-safe future at www.digicert.com Job summary A hands-on software engineer and self-starter with experience working as Full Stack Engineer to develop, build and deploy robust, large scale, quality software in production. What you will do Responsible for full lifecycle of the project from user story to design, development, testing, documentation and maintenance. Develop an understanding and knowledge of products/solutions, architecture and systems. Analyse, troubleshoot and debug product defects and provide timely solutions to customer issues. Review code and help team member to in development of features. Build low latency and high-performance solutions. Work with agile cross-functional team to estimate and plan development activities and timelines. Other duties as assigned. What you will have 5+ years of professional experience working in the software industry. Strong knowledge of Core Java and RUST. Excellent knowledge of Javascript and front end technologies like reactJS. Strong in data structure(s) and algorithms. Good to have - Knowledge of media processing (image/video), metadata systems like JUMBF, EXIF, XMP etc. Strong knowledge of software engineering best-practices in software design and architecture. Good knowledge of Spring, Hibernate Frameworks. Expertise developing and consuming RESTful web services. Passionate in unit testing and producing high quality code Strong knowledge of SQL(s), writing excellent SQL queries. Strong knowledge of writing Web Service APIs Experience using Linux, docker and kubernetes Nice to have Understanding of SSL/TLS, PKI, or other security related technologies. Experience in Cloud platforms like AWS. Benefits Generous time off policies Top shelf benefits Education, wellness and lifestyle support Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Technology, Information and Internet Referrals increase your chances of interviewing at DigiCert by 2x See who you know",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-react-js-node-js-sql-api-mngt-at-optum-india-4447591707",
+      "postedAt": "2026-08-02",
+      "jobId": "4447591707",
+      "description": "",
+      "score": 32,
+      "matchedSkills": [
+        "React",
+        "Node",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Development Engineer",
+      "company": "Peppermint Robotics",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-peppermint-robotics-4447694234",
+      "postedAt": "2026-08-03",
+      "jobId": "4447694234",
+      "description": "Software Development Engineer Peppermint Robotics Pune Division, Maharashtra, India 3 hours ago Over 200 applicants See who Peppermint Robotics has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Key Responsibilities Collaborate with the team to design, develop, test, and deploy software features for our robot platform. Write clean, maintainable, and efficient code. Debug and resolve bugs across the stack — frontend, backend, or integration layers. Participate in code reviews and learn from constructive feedback. Work in an agile team environment: sprint planning, stand-ups, demos, and retrospectives. Contribute to internal tools and scripts that support engineering operations. Stay curious and explore new technologies that can be applied to our stack. Qualifications Bachelor’s degree in Computer Science, Engineering, or related field. 0–2 years of software development experience (internships/projects count). Familiarity with one or more programming languages: Python, JavaScript, Go, or similar. Understanding of basic data structures, algorithms, and problem-solving techniques. Exposure to Git or other version control systems. Willingness to work in a Linux-based development environment. Good-to-Have Skills Hands-on experience with frontend frameworks (e.g., React) or mobile (Flutter). Exposure to Docker, CI/CD, or cloud platforms (AWS/GCP). Interest in robotics, automation, or hardware-software integration. Past contributions to college clubs, hackathons, open-source projects, or personal tech projects. Skills: algorithms,aws,software Show more Show less Seniority level Entry level Employment type Full-time Job function Engineering and Information Technology Industries Robot Manufacturing Referrals increase your chances of interviewing at Peppermint Robotics by 2x See who you know",
       "score": 25,
       "matchedSkills": [
         "React",
         "JavaScript",
         "REST",
         "Docker",
-        "Kubernetes",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Stack - Full Stack Developer - Geospatial Web Application",
-      "company": "INVARYA",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/react-stack-full-stack-developer-geospatial-web-application-at-invarya-4447479474",
-      "postedAt": "2026-08-01",
-      "jobId": "4447479474",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior .NET Full Stack Developer (.NET Core + React + AWS) | Bangalore",
-      "company": "Xponentium India",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-net-full-stack-developer-net-core-%2B-react-%2B-aws-bangalore-at-xponentium-india-4447462577",
-      "postedAt": "2026-08-01",
-      "jobId": "4447462577",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "Workfabric AI",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-workfabric-ai-4445595621",
-      "postedAt": "2026-08-01",
-      "jobId": "4445595621",
-      "description": "Senior Software Engineer Workfabric AI Bengaluru, Karnataka, India 18 hours ago 161 applicants See who Workfabric AI has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Workfabric AI is the enterprise simulation company. We build digital twins of every account, team, product, and persona — so the enterprise can simulate decisions before shipping them. Our product, ContextFabric, is the simulation layer that senses across your apps, synthesizes operational context, and grounds every twin in how your teams actually work. We believe operational context is the real competitive advantage in enterprise AI, and we're building the platform that turns it into decisions. About the role We simulate the enterprise by creating digital twins — of people, and of entities such as accounts, teams, and products. This role is about building them. You'll work on building one of these twins, and own problem statements within it — shaping the problem, designing the architecture, writing the code, and shipping it to production. You'll be accountable for the systems that ship, not just the pull request. What you'll be doing Three hard problems sit at the centre of this role: Ground every twin in real work. Make each twin reason from the enterprise's actual behavioural context, so its output stays grounded and defensible — per tenant, never crossing a boundary. Run thousands of twins in parallel. Build the runtime that executes twins at scale — thousands running concurrently and collaborating with each other to do the work. Give twins the right tools and permissions. Ensure every twin has the tool sit needs to do its work and the permissions to use them safely — governed by identity, policy, and an audit trail you could replay for a regulator. The surface area you'll own, and set the patterns for The twin runtime that executes and composes twins at scale. State management for execution history, checkpointing, and recovery across long-running twin runs. Event streaming and messaging for real-time progress, with logging, metrics, and tracing instrumented throughout. Authentication and identity across the platform — including access controls and approval workflows for twin operations, in partnership with security. The engineering patterns and quality bar for your area — through code review and pairing with the engineers around you. The operational backbone the platform runs on — deployment, CI/CD, autoscaling, and reliability as infrastructure-as-code. Who you are You may be a good fit if you have B.E. / B. Tech from a top university in India in one of the following departments (i) Computer Science, (ii) Information Sciences, (iii) Information Technology (iv) AI/ML 5+ years building production software in Python, with strong backend fundamentals in API design and data modelling. Hands-on experience building services with FastAPI as your primary framework. Hands-on experience building LLM-backed applications in production —orchestrating multi-step reasoning, retrieval, and state — with any orchestration framework (LangChain, LangGraph, or equivalent). Comfort designing for concurrency and latency — async, parallelism, and caching — so multi-step systems stay fast under load. A track record of owning features or services end to end, from design through production. Clear communication and the ability to work autonomously in an ambiguous, fast-moving space. Strong candidates may also have Depth with a specific orchestration framework such as LangChain or LangGraph, plus hands-on RAG and vector databases. Experience building evaluations for LLM or agentic systems — measuring quality, catching regressions, and guarding against unsafe behaviour. Experience with React for building customer-facing UIs and dashboards. Comfortable deploying, operating, and maintaining your own services in a production cloud environment (Azure a plus). Infrastructure-as-code with Terraform, plus Kubernetes and Helm for deployment. Observability — structured logging, distributed tracing, and metrics. Show more Show less Seniority level Associate Employment type Full-time Job function Information Technology and Engineering Industries Software Development, Information Services, and Technology, Information and Media Referrals increase your chances of interviewing at Workfabric AI by 2x See who you know",
-      "score": 16,
-      "matchedSkills": [
-        "React",
-        "Kubernetes",
+        "GCP",
         "CI/CD"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Dot Net Full Stack Developer with React",
+      "company": "Wall Street Consulting Services LLC",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/dot-net-full-stack-developer-with-react-at-wall-street-consulting-services-llc-4448114189",
+      "postedAt": "2026-08-02",
+      "jobId": "4448114189",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React.js Developer",
+      "company": "Concentrix",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-concentrix-4445866416",
+      "postedAt": "2026-08-03",
+      "jobId": "4445866416",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Developer",
+      "company": "HuntingCube",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-huntingcube-4448114766",
+      "postedAt": "2026-08-03",
+      "jobId": "4448114766",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior React Developer",
+      "company": "Quest Global",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-developer-at-quest-global-4447668089",
+      "postedAt": "2026-08-02",
+      "jobId": "4447668089",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer- React Native",
+      "company": "Reltio",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-react-native-at-reltio-4417233326",
+      "postedAt": "2026-08-02",
+      "jobId": "4417233326",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Frontend Engineer (React + Chrome Extension)",
+      "company": "TTEC Digital",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-react-%2B-chrome-extension-at-ttec-digital-4448136635",
+      "postedAt": "2026-08-03",
+      "jobId": "4448136635",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Azure+.net+fullstack(angular/react)|",
+      "company": "Capgemini",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/azure%2B-net%2Bfullstack-angular-react-at-capgemini-4443937842",
+      "postedAt": "2026-08-02",
+      "jobId": "4443937842",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": ".Net Fullstack (React) Developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-fullstack-react-developer-at-infosys-4438948425",
+      "postedAt": "2026-08-02",
+      "jobId": "4438948425",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Dot Net Full Stack with React and AWS",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/dot-net-full-stack-with-react-and-aws-at-tata-consultancy-services-4447893769",
+      "postedAt": "2026-08-02",
+      "jobId": "4447893769",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer - ReactJS",
+      "company": "Brevo",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-reactjs-at-brevo-4445881586",
+      "postedAt": "2026-08-03",
+      "jobId": "4445881586",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Web Solutions Engineer, Technology and Insights Partnership Systems YouTube",
+      "company": "Google",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/web-solutions-engineer-technology-and-insights-partnership-systems-youtube-at-google-4429672938",
+      "postedAt": "2026-08-02",
+      "jobId": "4429672938",
+      "description": "Web Solutions Engineer, Technology and Insights Partnership Systems YouTube Google Bengaluru, Karnataka, India 19 hours ago Over 200 applicants See who Google has hired for this role Apply Join or sign in to find your next job Join to apply for the Web Solutions Engineer, Technology and Insights Partnership Systems YouTube role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Minimum qualifications: Bachelor's degree in Computer Science, Electrical Engineering, Math or related quantitative field, or equivalent practical experience in software development. 4 years of experience in full-stack software development and system design. Experience with front-end languages (e.g., JavaScript or TypeScript). Experience with back-end languages (e.g., Java, Python, or C++). Experience working with database technologies (e.g., SQL, NoSQL). Preferred qualifications: Experience writing and reviewing technical documents and performing code reviews in compiled or scripted languages. Experience implementing software unit testing, integration testing, and system monitoring. Experience building and scaling full-stack web applications and back-end systems and developing with generative AI, large language models, vector embeddings, RAG, or agentic AI. Experience with protocol buffers, gRPC, and distributed data processing frameworks and experience in system refactoring, technical debt reduction, and migrating legacy data silos to modern, distributed architectures. Experience working with varied monitoring and testing solutions. Proficient in multiple programming languages and libraries including Python, Java, Angular, Lit, and Redux. About The Job The YouTube Go-to-Market Operations (GTMO) Technology and Insights (T&amp;I) focuses on providing the foundational tools and systems to support the growth of YouTube. The Content Partnerships Systems (CPS) space is the technical engine that powers YouTube's relationships with its global creators and partners. We develop the critical infrastructure and tooling used by strategic partner managers to drive channel growth, manage complex portfolios, and optimize product activations. As a Web Solutions Engineer on the YouTube BizTech team, you are an entrepreneurial full-stack engineer working with minimal guidance to deliver flawless, scalable solutions. You will be integrating next-generation AI into daily operations, modernizing legacy enterprise middleware, and driving data consolidation. You will bridge the gap between intuitive front-end user experiences and highly complex back-end data pipelines. With a strong understanding of web architecture and system design, you will address ambiguous technical challenges, manage edge cases effectively, and collaborate closely with technical stakeholders. You will develop project plans and scalable solutions that have an immediate, obvious impact on YouTube's global partner ecosystem. Responsibilities Design, build, and deploy highly scalable web applications, back-end services, and data platforms that manage YouTube’s content partner ecosystem, demonstrating a solid understanding of algorithms, data structures, and scaling factors. Drive the integration of industry-leading AI/ML technologies into core business platforms to expand operational capacity and provide conversational analytics to end-users. Execute complex system migrations and help re-architect legacy back-end systems into modular, highly available services with API endpoints. Ensure data pipelines and system reliability. Implement comprehensive testing, monitoring, and alerting while migrating workflows to modern cloud data warehouses. Write and review complex Technical Design Documents (TDDs) and perform thorough code reviews. Collaborate across time zones with stakeholders, escalating concerns appropriately and acting as a technical consultant to translate business objectives into tangible engineering solutions. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form . Show more Show less Seniority level Not Applicable Employment type Full-time Job function Project Management, Consulting, and Engineering Industries Information Services and Technology, Information and Internet Referrals increase your chances of interviewing at Google by 2x See who you know",
+      "score": 19,
+      "matchedSkills": [
+        "Redux",
+        "JavaScript",
+        "TypeScript",
+        "SQL"
       ],
       "excluded": false
     }
