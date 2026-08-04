@@ -1,65 +1,187 @@
 {
-  "generatedAt": "2026-08-03T06:56:12.099Z",
-  "totalScraped": 310,
-  "totalMatched": 14,
+  "generatedAt": "2026-08-04T06:13:45.572Z",
+  "totalScraped": 500,
+  "totalMatched": 19,
   "jobs": [
     {
-      "title": "Full Stack Developer – React.js/Next.js",
-      "company": "Quest Global",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-react-js-next-js-at-quest-global-4447648973",
-      "postedAt": "2026-08-02",
-      "jobId": "4447648973",
-      "description": "",
-      "score": 40,
+      "title": "React Native Developer",
+      "company": "Ignite Solutions",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-ignite-solutions-4448183701",
+      "postedAt": "2026-08-03",
+      "jobId": "4448183701",
+      "description": "React Native Developer Ignite Solutions Pune Division, Maharashtra, India 17 hours ago 166 applicants See who Ignite Solutions has hired for this role Apply Join or sign in to find your next job Join to apply for the React Native Developer role at Ignite Solutions Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . We are looking for a talented and passionate React Native Developer with a strong foundation in native Android and/or iOS development to join our team. You will work on exciting projects across both mobile platforms, using technologies like React Native, Flutter, Kotlin, Swift, Jetpack Compose, SwiftUI, and more. Requirements You have 3+ years of experience in Android and/or iOS development and 2+ years of production-level experience with React Native. You are highly proficient in JavaScript/TypeScript and have a strong understanding of asynchronous programming, the JavaScript event loop, promises, async/await, and modern state management patterns. You have hands-on experience with modern React Native architecture and best practices, including Redux Toolkit, Zustand, Context API, React Query/TanStack Query, and scalable project structures such as Clean Architecture, modular architecture, or feature-based architecture. You understand platform-specific behaviors on Android and iOS and are comfortable integrating React Native with native code using Native Modules, TurboModules, and JSI when required. You have experience working with native Android (Kotlin/Jetpack Compose) and/or native iOS (Swift/SwiftUI development) and understand how React Native integrates within hybrid or existing native applications. You are comfortable building responsive and adaptive mobile user interfaces across different screen sizes and devices, with experience optimizing layouts for phones and tablets. You have worked with RESTful APIs (including authentication flows such as OAuth and JWT), GraphQL (nice to have), third-party SDKs and payment gateways, Push notifications (Firebase Cloud Messaging / APNs). You have experience interfacing with device capabilities such as camera, media handling, GPS and geolocation services, background services and permissions, and Bluetooth/NFC (nice to have). You understand mobile app performance optimization (rendering performance, memory usage, frame drops, Flipper, Hermes profiling, Android Studio Profiler, and Xcode Instruments). You have built apps supporting offline-first functionality, local persistence (AsyncStorage, MMKV, SQLite, or Realm), and data synchronization strategies. You are familiar with CI/CD pipelines using GitHub Actions, Bitrise, Codemagic, Fastlane, or similar tools. Automated builds and store deployment (Google Play Console, App Store Connect), code signing, and store compliance requirements You write clean, maintainable, testable code and have experience with: Unit testing (Jest) Component testing (React Native Testing Library) End-to-end testing (Detox or Maestro) You are proficient with Git-based workflows (GitFlow or trunk-based development). You understand the complete mobile development lifecycle: discovery, architecture design, development, QA, release, monitoring, and post-launch iteration. You are comfortable working in agile environments and collaborating with designers, backend engineers, QA, and product stakeholders. You demonstrate strong communication skills and a proactive, ownership-driven mindset. Nice To Have Experience with Hermes for performance optimization and debugging. Experience with Expo and the Expo ecosystem (where applicable). Familiarity with deep linking and universal/app links. Experience integrating Firebase services, including Analytics, Crashlytics, and Remote Config. Experience implementing over-the-air (OTA) updates using CodePush or Expo Updates. This job was posted by Meghana Dhamale from Ignite Solutions. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Information Technology and Engineering Industries Software Development, IT Services and IT Consulting, and Technology, Information and Internet Referrals increase your chances of interviewing at Ignite Solutions by 2x See who you know",
+      "score": 54,
       "matchedSkills": [
         "React",
-        "Next.js"
+        "Redux",
+        "JavaScript",
+        "TypeScript",
+        "REST",
+        "GraphQL",
+        "CI/CD",
+        "SQL",
+        "Jest",
+        "Testing Library"
       ],
       "excluded": false
     },
     {
-      "title": "Software Engineer - React JS, Node.Js, SQL, API Mngt",
-      "company": "Optum India",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-react-js-node-js-sql-api-mngt-at-optum-india-4447591707",
-      "postedAt": "2026-08-02",
-      "jobId": "4447591707",
+      "title": "Software Engineer [Angular (21+version), Typescript , Node.JS and Rest Api Design]",
+      "company": "NielsenIQ",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-angular-21%2Bversion-typescript-node-js-and-rest-api-design-at-nielseniq-4447906556",
+      "postedAt": "2026-08-03",
+      "jobId": "4447906556",
+      "description": "Software Engineer [Angular (21+version), Typescript , Node.JS and Rest Api Design] NielsenIQ Pune/Pimpri-Chinchwad Area 19 hours ago 172 applicants See who NielsenIQ has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Job Description You are a passionate software engineer who knows the ins and outs of software engineering and how it fits the broader SDLC. Modelling the world, thinking in terms of design patterns, object oriented design, functional programming, test driven development are your second nature. You have participated in the development or written yourself several applications from scratch, many are still in production to the delight of their users. You enjoy working in a team of like-minded professionals and keen to provide feedback on other's code as well as act on feedback received on yours. You are used to work in agile teams delivering small, incremental improvements through continuous delivery pipelines. You are proud of the quality, security and robustness of the code you write, and because you write your code with an in depth understanding of the execution environment these qualities translate to the systems you implement as well. Responsibilities You will be a pivotal member of our development team and have the opportunity to lay the technical foundations of the products we are building. You will be working as part of a front-end engineering team. Work with an Agile team to influence the overall system architecture and performance goals. Ensure timely delivery of software projects while maintaining the quality. Ensure high software quality by writing unit and integration tests in TDD approach. Identify and address application and data issues that affect application integrity. Fix any defects and performance problems discovered in testing. Suggest initiatives (e.g. training) that improve working efficiency and quality. Actively contributing in agile practices, such as estimating and planning. Qualifications 4+ years in web development using JavaScript (Angular + TypeScript, ReactJs, NodeJs) Experience with NX monorepos Experience in building Single Page Applications Experience in pre-processor languages fo r CSS (LESS or SASS) REST, API design Have automated testing experience with continuous integration and continuous delivery pipelines End-to-End testing using Playwright or Cypress Experience in unit testing and mocking frameworks (Jasmine, Karma, Jest, JustMock, Mockito) Good understanding of version control tools like GitHub/ GitLab/ BitBucket with its configuration and ci/cd pipeline Good understanding of Design Pattern and object oriented design (SOLID principles, Dependency Injection, Factory pattern) An open and collaborative mindset both within and outside your team Good communicator, fluent in English and ability to clearly express oneself It would be a great addition if you had experience with Databases, including No-SQL Databases Good understanding of IT architectures Experience with enterprise web-applications Microsoft Azure or similar could platforms Micro frontend architecture Additional Information Enjoy a flexible and rewarding work environment with peer-to-peer recognition platforms Recharge and revitalize with help of wellness plans made for you and your family Plan your future with financial wellness tools Stay relevant and upskill yourself with career development opportunities Our Benefits Flexible working environment Volunteer time off LinkedIn Learning Employee-Assistance-Program (EAP) NIQ may utilize artificial intelligence (AI) tools at various stages of the recruitment process, including résumé screening, candidate assessments, interview scheduling, job matching, communication support, and certain administrative tasks that help streamline workflows. These tools are intended to improve efficiency and support fair and consistent evaluation based on job-related criteria. All use of AI is governed by NIQ’s principles of fairness, transparency, human oversight, and inclusion. Final hiring decisions are made exclusively by humans. NIQ regularly reviews its AI tools to help mitigate bias and ensure compliance with applicable laws and regulations. If you have questions, require accommodations, or wish to request human review were permitted by law, please contact your local HR representative. For more information, please visit NIQ’s AI Safety Policies and Guiding Principles: https://nielseniq.com/global/en/info/niqs-ai-safety-policies/ About NIQ NIQ is the world’s leading consumer intelligence company, delivering the most complete understanding of consumer buying behavior and revealing new pathways to growth. In 2023, NIQ combined with GfK, bringing together the two industry leaders with unparalleled global reach. With a holistic retail read and the most comprehensive consumer insights—delivered with advanced analytics through state-of-the-art platforms—NIQ delivers the Full View™. NIQ is an Advent International portfolio company with operations in 100+ markets, covering more than 90% of the world’s population. For more information, visit NIQ.com Want to keep up with our latest updates? Follow us on: LinkedIn | Instagram | Twitter | Facebook Our commitment to Diversity, Equity, and Inclusion At NIQ, we are steadfast in our commitment to fostering an inclusive workplace that mirrors the rich diversity of the communities and markets we serve. We believe that embracing a wide range of perspectives drives innovation and excellence. All employment decisions at NIQ are made without regard to race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, genetic information, marital status, veteran status, or any other characteristic protected by applicable laws. We invite individuals who share our dedication to inclusivity and equity to join us in making a meaningful impact. To learn more about our ongoing efforts in diversity and inclusion, please visit the https://nielseniq.com/global/en/news-center/diversity-inclusion Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function General Business Industries Market Research Referrals increase your chances of interviewing at NielsenIQ by 2x See who you know",
+      "score": 43,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Node",
+        "Express",
+        "REST",
+        "CI/CD",
+        "SQL",
+        "Jest"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer [Angular  (21+version), Typescript , Node.JS and Rest Api Design]",
+      "company": "NielsenIQ",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-angular-21%2Bversion-typescript-node-js-and-rest-api-design-at-nielseniq-4447932269",
+      "postedAt": "2026-08-03",
+      "jobId": "4447932269",
+      "description": "Software Engineer [Angular (21+version), Typescript , Node.JS and Rest Api Design] NielsenIQ Pune/Pimpri-Chinchwad Area 18 hours ago Over 200 applicants See who NielsenIQ has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Job Description You are a passionate software engineer who knows the ins and outs of software engineering and how it fits the broader SDLC. Modelling the world, thinking in terms of design patterns, object oriented design, functional programming, test driven development are your second nature. You have participated in the development or written yourself several applications from scratch, many are still in production to the delight of their users. You enjoy working in a team of like-minded professionals and keen to provide feedback on other's code as well as act on feedback received on yours. You are used to work in agile teams delivering small, incremental improvements through continuous delivery pipelines. You are proud of the quality, security and robustness of the code you write, and because you write your code with an in depth understanding of the execution environment these qualities translate to the systems you implement as well. Responsibilities You will be a pivotal member of our development team and have the opportunity to lay the technical foundations of the products we are building. You will be working as part of a front-end engineering team. Work with an Agile team to influence the overall system architecture and performance goals. Ensure timely delivery of software projects while maintaining the quality. Ensure high software quality by writing unit and integration tests in TDD approach. Identify and address application and data issues that affect application integrity. Fix any defects and performance problems discovered in testing. Suggest initiatives (e.g. training) that improve working efficiency and quality. Actively contributing in agile practices, such as estimating and planning. Qualifications 2+ years in web development using JavaScript (Angular + TypeScript, ReactJs, NodeJs) Experience with NX monorepos Experience in building Single Page Applications Experience in pre-processor languages for CSS (LESS or SASS) REST, API design Have automated testing experience with continuous integration and continuous delivery pipelines End-to-End testing using Playwright or Cypress Experience in unit testing and mocking frameworks (Jasmine, Karma, Jest, JustMock, Mockito) Good understanding of version control tools like GitHub/ GitLab/ BitBucket with its configuration and ci/cd pipeline Good understanding of Design Pattern and object oriented design (SOLID principles, Dependency Injection, Factory pattern) An open and collaborative mindset both within and outside your team Good communicator, fluent in English and ability to clearly express oneself It would be a great addition if you had experience with Databases, including No-SQL Databases Good understanding of IT architectures Experience with enterprise web-applications Microsoft Azure or similar could platforms Micro frontend architecture Additional Information Enjoy a flexible and rewarding work environment with peer-to-peer recognition platforms Recharge and revitalize with help of wellness plans made for you and your family Plan your future with financial wellness tools Stay relevant and upskill yourself with career development opportunities Our Benefits Flexible working environment Volunteer time off LinkedIn Learning Employee-Assistance-Program (EAP) NIQ may utilize artificial intelligence (AI) tools at various stages of the recruitment process, including résumé screening, candidate assessments, interview scheduling, job matching, communication support, and certain administrative tasks that help streamline workflows. These tools are intended to improve efficiency and support fair and consistent evaluation based on job-related criteria. All use of AI is governed by NIQ’s principles of fairness, transparency, human oversight, and inclusion. Final hiring decisions are made exclusively by humans. NIQ regularly reviews its AI tools to help mitigate bias and ensure compliance with applicable laws and regulations. If you have questions, require accommodations, or wish to request human review were permitted by law, please contact your local HR representative. For more information, please visit NIQ’s AI Safety Policies and Guiding Principles: https://nielseniq.com/global/en/info/niqs-ai-safety-policies/ About NIQ NIQ is the world’s leading consumer intelligence company, delivering the most complete understanding of consumer buying behavior and revealing new pathways to growth. In 2023, NIQ combined with GfK, bringing together the two industry leaders with unparalleled global reach. With a holistic retail read and the most comprehensive consumer insights—delivered with advanced analytics through state-of-the-art platforms—NIQ delivers the Full View™. NIQ is an Advent International portfolio company with operations in 100+ markets, covering more than 90% of the world’s population. For more information, visit NIQ.com Want to keep up with our latest updates? Follow us on: LinkedIn | Instagram | Twitter | Facebook Our commitment to Diversity, Equity, and Inclusion At NIQ, we are steadfast in our commitment to fostering an inclusive workplace that mirrors the rich diversity of the communities and markets we serve. We believe that embracing a wide range of perspectives drives innovation and excellence. All employment decisions at NIQ are made without regard to race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, genetic information, marital status, veteran status, or any other characteristic protected by applicable laws. We invite individuals who share our dedication to inclusivity and equity to join us in making a meaningful impact. To learn more about our ongoing efforts in diversity and inclusion, please visit the https://nielseniq.com/global/en/news-center/diversity-inclusion Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function General Business Industries Market Research Referrals increase your chances of interviewing at NielsenIQ by 2x See who you know",
+      "score": 43,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Node",
+        "Express",
+        "REST",
+        "CI/CD",
+        "SQL",
+        "Jest"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React, Typescript, node",
+      "company": "MetLife",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-typescript-node-at-metlife-4448310027",
+      "postedAt": "2026-08-03",
+      "jobId": "4448310027",
       "description": "",
       "score": 32,
       "matchedSkills": [
         "React",
-        "Node",
+        "TypeScript",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "Sun-Net Inc.",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-sun-net-inc-4446296560",
+      "postedAt": "2026-08-04",
+      "jobId": "4446296560",
+      "description": "Full Stack Engineer Sun-Net Inc. Pune Division, Maharashtra, India 55 minutes ago 111 applicants See who Sun-Net Inc. has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sun-Net is looking for smart, agile, intellectually curious engineers who will help us in our mission to build secure, scalable, reliable, and efficient software for our customers in the Electric Utility industry. Sun-Net's iTOA software is being used by thousands of people who deliver power on a daily basis. We are a close-knit team with a passion for improving overall user experience and are well regarded among our customers for our reliable product and excellent customer service. Sun-Net offices are located in San Jose, California by SJC, and we are starting to grow our team in India. You can look us up at: www.sunnetsoftware.com This is a unique opportunity where you can explore and implement your skills in both frontend and backend aspects of software development. The ideal candidate will be a self-starter who can collaborate with peers to solve day-to-day problems, has a passion for designing efficient algorithms and has great debugging skills. Responsibilities: You will be working with a team of talented engineers, Project Management, and get a chance to work closely with our customers to solve problems and build software that impacts daily operations of energy utilities. As a Software Engineer, you will take part in Requirement gathering, Efforts estimation, Design and Development for our enterprise product iTOA (integrated Tools for Operations Application). Technical Qualifications: 2 to 5 years of industry software engineering, software development experience Bachelors or Masters in Computer Science or related disciplines Experience in developing, debugging, and maintaining code in object-oriented languages and database querying languages. Strong coding, debugging, algorithm design and problem-solving skills. We are currently hiring candidates with a strong knowledge of: Front-end Technologies: - Advanced JavaScript, CSS, HTML and responsive web design. - Experience with React, Angular or similar frameworks - Bonus: Knowledge of TypeScript, Webpack, LESS, SASS and Testing libraries like Chai/Mocha. Back-end Technologies: - Java, J2EE - Hibernate, JPA, Spring, Spring Boot - RESTful API, SOAP API, GraphQL - SQL, Oracle, MS SQL Server Data Structures and Algorithms: - Java Collections - Problem solving with Java - Design patterns - Time complexity - Space Complexity Bonus : Knowledge of Maven, Caching, Message Queues, Vaadin framework, Spring AI, Experience using specific MCP with AI assistants, LLM, data analytics and predictive analytics with AI. We are looking for candidates with at least 3 years of solid real-world work experience with the above technologies. You should be able to demonstrate your expertise and back your experience. Additionally, on the non-technical side, here are our expectations: Work closely with product manager, development lead and users to gather requirements and translate them into scenarios and actual code. Ability to estimate effort required to complete assigned projects/enhancements Collaborate with QA team to ensure quality of software deliverables. Effective and positive communication skills Motivation to document work and also write technical/functional specifications. Day to day work will also involve ad-hoc end-user customer support. Applicant must be authorized to work in India Job Type: Full-time Show more Show less Seniority level Entry level Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Sun-Net Inc. by 2x See who you know",
+      "score": 31,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Webpack",
+        "HTML",
+        "REST",
+        "GraphQL",
         "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Software Development Engineer",
-      "company": "Peppermint Robotics",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-peppermint-robotics-4447694234",
-      "postedAt": "2026-08-03",
-      "jobId": "4447694234",
-      "description": "Software Development Engineer Peppermint Robotics Pune Division, Maharashtra, India 3 hours ago Over 200 applicants See who Peppermint Robotics has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Key Responsibilities Collaborate with the team to design, develop, test, and deploy software features for our robot platform. Write clean, maintainable, and efficient code. Debug and resolve bugs across the stack — frontend, backend, or integration layers. Participate in code reviews and learn from constructive feedback. Work in an agile team environment: sprint planning, stand-ups, demos, and retrospectives. Contribute to internal tools and scripts that support engineering operations. Stay curious and explore new technologies that can be applied to our stack. Qualifications Bachelor’s degree in Computer Science, Engineering, or related field. 0–2 years of software development experience (internships/projects count). Familiarity with one or more programming languages: Python, JavaScript, Go, or similar. Understanding of basic data structures, algorithms, and problem-solving techniques. Exposure to Git or other version control systems. Willingness to work in a Linux-based development environment. Good-to-Have Skills Hands-on experience with frontend frameworks (e.g., React) or mobile (Flutter). Exposure to Docker, CI/CD, or cloud platforms (AWS/GCP). Interest in robotics, automation, or hardware-software integration. Past contributions to college clubs, hackathons, open-source projects, or personal tech projects. Skills: algorithms,aws,software Show more Show less Seniority level Entry level Employment type Full-time Job function Engineering and Information Technology Industries Robot Manufacturing Referrals increase your chances of interviewing at Peppermint Robotics by 2x See who you know",
-      "score": 25,
+      "title": "Software Engineer",
+      "company": "Applicantz",
+      "location": "Pune District, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-applicantz-4448806984",
+      "postedAt": "2026-08-04",
+      "jobId": "4448806984",
+      "description": "Software Engineer Applicantz Pune District, Maharashtra, India 41 minutes ago 97 applicants See who Applicantz has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Direct message the job poster from Applicantz Saurabh Goyal Saurabh Goyal Staffing Account Manager| NIT Nagpur We are looking for a Software Development Engineer with strong expertise in modern web application development using TypeScript, React, Node.js, and JavaScript . The ideal candidate should have experience building scalable, high-performance applications, working across the full software development lifecycle, and collaborating with cross-functional teams. Minimum Qualification sBachelor's degree in Computer Science, Information Technology, Engineering, or a related field .Relevant experience in software development .Strong hands-on experience with TypeScript, React, Node.js, and JavaScrip t .Experience designing and developing scalable web applications and REST/GraphQL APIs .Good understanding of software design principles, data structures, and object-oriented programming .Experience with version control systems such as Gi t .Knowledge of software testing, debugging, and troubleshooting techniques .Experience working in Agile/Scrum environments .Strong analytical, problem-solving, and communication skills . Preferred Qualificatio nsExperience wit h Graph Q L.Working knowledge o f Ja va and/o r C + +.Exposure to automation frameworks and automated testin g.Experience working with CI/CD pipelines and DevOps practice s. Key Responsibilit iesDesign, develop, and maintain web applications using TypeScript, React, Node.js, and JavaScri pt.Build reusable, scalable, and maintainable front-end and back-end componen ts.Develop and consume GraphQL and REST AP Is.Participate in software design, code reviews, testing, and deployment activiti es.Troubleshoot and resolve application defects and performance issu es.Collaborate with Product Managers, Designers, QA Engineers, and other develope rs.Write clean, efficient, and well-documented code following engineering best practic es.Participate in Agile ceremonies and contribute throughout the Software Development Life Cycle (SDL C). Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Information Technology Industries Software Development, Construction, and Design Services Referrals increase your chances of interviewing at Applicantz by 2x See who you know",
+      "score": 28,
       "matchedSkills": [
         "React",
         "JavaScript",
+        "TypeScript",
+        "Node",
         "REST",
-        "Docker",
-        "GCP",
+        "GraphQL",
         "CI/CD"
       ],
       "excluded": false
     },
     {
-      "title": "Dot Net Full Stack Developer with React",
-      "company": "Wall Street Consulting Services LLC",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-full-stack-developer-with-react-at-wall-street-consulting-services-llc-4448114189",
-      "postedAt": "2026-08-02",
-      "jobId": "4448114189",
+      "title": "Senior Software Engineer (React/Node)",
+      "company": "Cvent",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-node-at-cvent-4448250282",
+      "postedAt": "2026-08-03",
+      "jobId": "4448250282",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Oliver Wyman - Senior/Lead Software Engineer (Django, Flask, FastAPI & React, Angular, TypeScript)",
+      "company": "Oliver Wyman",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/oliver-wyman-senior-lead-software-engineer-django-flask-fastapi-react-angular-typescript-at-oliver-wyman-4448637279",
+      "postedAt": "2026-08-03",
+      "jobId": "4448637279",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "TypeScript"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer I",
+      "company": "Optum India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-i-at-optum-india-4448689918",
+      "postedAt": "2026-08-04",
+      "jobId": "4448689918",
+      "description": "Senior Software Engineer I Optum India Bengaluru, Karnataka, India 2 hours ago 35 applicants See who Optum India has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer I role at Optum India Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start Caring. Connecting. Growing together. Primary Responsibilities Work as a Full Stack Engineer/Tech Lead on an Agile Scrum team Work with Product Management and business stakeholders for Backlog refinement and planning Design and develop UI using modern front end frameworks Design and implement web services with security Design and implement database schema Design and development of well documented source code Mentors Junior level and mid level engineers on coding style and coding best practices Solves complex technical problems independently Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so Required Qualifications Bachelors/Masters Degree in Computer Science Hands‑on experience with standard DevOps tools: GitHub, GitHub Actions, Docker Proficiency and hands‑on experience using AI Builder, Azure OpenAI services, Python, and other AI/automation tools to enhance development workflows, analytics, and solution capabilities Proficient in handling software application development teams using modern technologies such as .NET Core, Azure, RESTful APIs, SQL, Angular/React, HTML, CSS, GitHub Proven ability to perform functional, regression, and system integration tests Proven solid analytical, problem‑solving, and decision‑making skills Proven growth mindset, with willingness to adopt emerging AI technologies to improve engineering efficiency and product quality Builder Responsibilities Design, develop, and deploy AI-powered solutions using no-code, low-code, and advanced platforms, translating business needs into scalable applications that enhance products, workflows, and decision-making. At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone-of every race, gender, sexuality, age, location and income-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes - an enterprise priority reflected in our mission. #NIC#NJP Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Optum India by 2x See who you know",
+      "score": 22,
+      "matchedSkills": [
+        "React",
+        "HTML",
+        "REST",
+        "Docker",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Lead Software Engineer - UI/UX & ReactJS",
+      "company": "Wells Fargo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-software-engineer-ui-ux-reactjs-at-wells-fargo-4448313525",
+      "postedAt": "2026-08-03",
+      "jobId": "4448313525",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -68,12 +190,12 @@
       "excluded": false
     },
     {
-      "title": "React.js Developer",
-      "company": "Concentrix",
+      "title": "Software Engineer – React",
+      "company": "Quintype Technologies Inc.",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-concentrix-4445866416",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-%E2%80%93-react-at-quintype-technologies-inc-4447990331",
       "postedAt": "2026-08-03",
-      "jobId": "4445866416",
+      "jobId": "4447990331",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -83,11 +205,11 @@
     },
     {
       "title": "React Developer",
-      "company": "HuntingCube",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-huntingcube-4448114766",
+      "company": "Nineleaps",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-nineleaps-4448186758",
       "postedAt": "2026-08-03",
-      "jobId": "4448114766",
+      "jobId": "4448186758",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -96,82 +218,12 @@
       "excluded": false
     },
     {
-      "title": "Senior React Developer",
-      "company": "Quest Global",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-developer-at-quest-global-4447668089",
-      "postedAt": "2026-08-02",
-      "jobId": "4447668089",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full Stack Developer- React Native",
-      "company": "Reltio",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-react-native-at-reltio-4417233326",
-      "postedAt": "2026-08-02",
-      "jobId": "4417233326",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Frontend Engineer (React + Chrome Extension)",
-      "company": "TTEC Digital",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-react-%2B-chrome-extension-at-ttec-digital-4448136635",
+      "title": "React JS- Senior Software Engineer II- GR- 40193- 74310- JR200330",
+      "company": "Carelon Global Solutions India",
+      "location": "Bengaluru South, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-senior-software-engineer-ii-gr-40193-74310-jr200330-at-carelon-global-solutions-india-4448196609",
       "postedAt": "2026-08-03",
-      "jobId": "4448136635",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Azure+.net+fullstack(angular/react)|",
-      "company": "Capgemini",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/azure%2B-net%2Bfullstack-angular-react-at-capgemini-4443937842",
-      "postedAt": "2026-08-02",
-      "jobId": "4443937842",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".Net Fullstack (React) Developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-fullstack-react-developer-at-infosys-4438948425",
-      "postedAt": "2026-08-02",
-      "jobId": "4438948425",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Dot Net Full Stack with React and AWS",
-      "company": "Tata Consultancy Services",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/dot-net-full-stack-with-react-and-aws-at-tata-consultancy-services-4447893769",
-      "postedAt": "2026-08-02",
-      "jobId": "4447893769",
+      "jobId": "4448196609",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -194,19 +246,72 @@
       "excluded": false
     },
     {
-      "title": "Web Solutions Engineer, Technology and Insights Partnership Systems YouTube",
-      "company": "Google",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/web-solutions-engineer-technology-and-insights-partnership-systems-youtube-at-google-4429672938",
-      "postedAt": "2026-08-02",
-      "jobId": "4429672938",
-      "description": "Web Solutions Engineer, Technology and Insights Partnership Systems YouTube Google Bengaluru, Karnataka, India 19 hours ago Over 200 applicants See who Google has hired for this role Apply Join or sign in to find your next job Join to apply for the Web Solutions Engineer, Technology and Insights Partnership Systems YouTube role at Google Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Minimum qualifications: Bachelor's degree in Computer Science, Electrical Engineering, Math or related quantitative field, or equivalent practical experience in software development. 4 years of experience in full-stack software development and system design. Experience with front-end languages (e.g., JavaScript or TypeScript). Experience with back-end languages (e.g., Java, Python, or C++). Experience working with database technologies (e.g., SQL, NoSQL). Preferred qualifications: Experience writing and reviewing technical documents and performing code reviews in compiled or scripted languages. Experience implementing software unit testing, integration testing, and system monitoring. Experience building and scaling full-stack web applications and back-end systems and developing with generative AI, large language models, vector embeddings, RAG, or agentic AI. Experience with protocol buffers, gRPC, and distributed data processing frameworks and experience in system refactoring, technical debt reduction, and migrating legacy data silos to modern, distributed architectures. Experience working with varied monitoring and testing solutions. Proficient in multiple programming languages and libraries including Python, Java, Angular, Lit, and Redux. About The Job The YouTube Go-to-Market Operations (GTMO) Technology and Insights (T&amp;I) focuses on providing the foundational tools and systems to support the growth of YouTube. The Content Partnerships Systems (CPS) space is the technical engine that powers YouTube's relationships with its global creators and partners. We develop the critical infrastructure and tooling used by strategic partner managers to drive channel growth, manage complex portfolios, and optimize product activations. As a Web Solutions Engineer on the YouTube BizTech team, you are an entrepreneurial full-stack engineer working with minimal guidance to deliver flawless, scalable solutions. You will be integrating next-generation AI into daily operations, modernizing legacy enterprise middleware, and driving data consolidation. You will bridge the gap between intuitive front-end user experiences and highly complex back-end data pipelines. With a strong understanding of web architecture and system design, you will address ambiguous technical challenges, manage edge cases effectively, and collaborate closely with technical stakeholders. You will develop project plans and scalable solutions that have an immediate, obvious impact on YouTube's global partner ecosystem. Responsibilities Design, build, and deploy highly scalable web applications, back-end services, and data platforms that manage YouTube’s content partner ecosystem, demonstrating a solid understanding of algorithms, data structures, and scaling factors. Drive the integration of industry-leading AI/ML technologies into core business platforms to expand operational capacity and provide conversational analytics to end-users. Execute complex system migrations and help re-architect legacy back-end systems into modular, highly available services with API endpoints. Ensure data pipelines and system reliability. Implement comprehensive testing, monitoring, and alerting while migrating workflows to modern cloud data warehouses. Write and review complex Technical Design Documents (TDDs) and perform thorough code reviews. Collaborate across time zones with stakeholders, escalating concerns appropriately and acting as a technical consultant to translate business objectives into tangible engineering solutions. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form . Show more Show less Seniority level Not Applicable Employment type Full-time Job function Project Management, Consulting, and Engineering Industries Information Services and Technology, Information and Internet Referrals increase your chances of interviewing at Google by 2x See who you know",
-      "score": 19,
+      "title": "Experienced React Developer - Immediate Joiner",
+      "company": "IENERGY ®",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/experienced-react-developer-immediate-joiner-at-ienergy-%C2%AE-4448207204",
+      "postedAt": "2026-08-03",
+      "jobId": "4448207204",
+      "description": "",
+      "score": 20,
       "matchedSkills": [
-        "Redux",
-        "JavaScript",
-        "TypeScript",
-        "SQL"
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Web Tech Lead (angular + React)",
+      "company": "Enveu",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/web-tech-lead-angular-%2B-react-at-enveu-4447983133",
+      "postedAt": "2026-08-03",
+      "jobId": "4447983133",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Frontend Engineer (React + Chrome Extension)",
+      "company": "TTEC Digital",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-react-%2B-chrome-extension-at-ttec-digital-4446295637",
+      "postedAt": "2026-08-04",
+      "jobId": "4446295637",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Angular and Next.js Developer",
+      "company": "Revalsys Technologies",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/angular-and-next-js-developer-at-revalsys-technologies-4448171974",
+      "postedAt": "2026-08-03",
+      "jobId": "4448171974",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "Next.js"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Application Support Engineer",
+      "company": "Accenture in India",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/application-support-engineer-at-accenture-in-india-4448353291",
+      "postedAt": "2026-08-03",
+      "jobId": "4448353291",
+      "description": "Application Support Engineer Accenture in India Hyderabad, Telangana, India 11 hours ago Be among the first 25 applicants See who Accenture in India has hired for this role Apply Join or sign in to find your next job Join to apply for the Application Support Engineer role at Accenture in India Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Project Role : Application Support Engineer Project Role Description : Act as software detectives, provide a dynamic service identifying and solving issues within multiple components of critical business systems. Must have skills : React.js Good to have skills : NA Minimum 3 Year(s) Of Experience Is Required Educational Qualification : 15 years full time education Summary: As an Application Support Engineer, a typical day involves acting as a software detective by investigating and resolving issues across various components of essential business systems. This role requires a proactive approach to identifying problems, analyzing system behavior, and ensuring smooth operation of critical applications. The position demands continuous monitoring, collaboration with different teams, and delivering timely solutions to maintain system reliability and performance in a dynamic work environment. Roles &amp; Responsibilities: Expected to perform independently and become an SME. Required active participation/contribution in team discussions. Contribute in providing solutions to work related problems. Collaborate with cross-functional teams to understand system issues and implement effective resolutions. Document findings and solutions clearly to support knowledge sharing and future troubleshooting. Assist in the continuous improvement of support processes and tools to enhance service quality. Provide guidance and support to junior team members to foster their professional growth. Professional &amp; Technical Skills: Must To Have Skills: Proficiency in React.js. Strong understanding of front-end development principles and component-based architecture. Experience with debugging and troubleshooting complex software issues in web applications. Familiarity with version control systems and collaborative development workflows. Ability to analyze system logs and performance metrics to identify root causes of problems. Good communication skills to effectively interact with technical and non-technical stakeholders. Additional Information: The candidate should have minimum 3 years of experience in React.js. This position is based at our Hyderabad office. A 15 years full time education is required. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Accenture in India by 2x See who you know",
+      "score": 10,
+      "matchedSkills": [
+        "React"
       ],
       "excluded": false
     }
