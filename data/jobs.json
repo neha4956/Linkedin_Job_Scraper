@@ -1,65 +1,72 @@
 {
-  "generatedAt": "2026-08-06T06:22:50.601Z",
-  "totalScraped": 492,
+  "generatedAt": "2026-08-07T05:24:58.451Z",
+  "totalScraped": 469,
   "totalMatched": 29,
   "jobs": [
     {
-      "title": "Staff Software Engineer",
-      "company": "ChargePoint",
-      "location": "Bangalore Urban, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/staff-software-engineer-at-chargepoint-4425753913",
-      "postedAt": "2026-08-05",
-      "jobId": "4425753913",
-      "description": "Staff Software Engineer ChargePoint Bangalore Urban, Karnataka, India 22 hours ago 159 applicants See who ChargePoint has hired for this role Apply Join or sign in to find your next job Join to apply for the Staff Software Engineer role at ChargePoint Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job About Us With electric vehicles expected to be nearly 30% of new vehicle sales by 2025 and more than 50% by 2040, electric mobility is becoming a reality. ChargePoint (NYSE: CHPT) is at the center of this revolution, powering one of the world’s leading EV charging networks and a comprehensive set of hardware, software and mobile solutions for every charging need across North America and Europe. We bring together drivers, businesses, automakers, policymakers, utilities and other stakeholders to make e-mobility a global reality. Since our founding in 2007, ChargePoint has focused solely on making the transition to electric easy for businesses, fleets and drivers. ChargePoint offers a once-in-a-lifetime opportunity to create an all-electric future and a trillion-dollar market. At ChargePoint, we foster a positive and productive work environment by committing to live our values of Be Courageous, Charge Together, Love our Customers, Operate with Openness, and Relentlessly Pursue Awesome. These values guide how we show up every day, align, and work together to build a brighter future for all of us. Join the team that is building the EV charging industry and make your mark on how people and goods will get everywhere they need to go, in any context, for generations to come. Reports To Director, NOC Delivery &amp; Automation What You Will Be Doing Design, develop &amp; maintain cloud native solutions &amp; analytics dashboards related to proactive monitoring and network hygiene Ensures appropriate documentation for all development and modification. Ensures integrity and security of institutional data. Design Data flow diagrams to define work flow and data structure diagrams to refine data base needs in a simple system. What You Will Bring To ChargePoint Solid grasp on architecture principles, design principles and design patterns Ability to translate software requirements to low level design. Evangelize clean architecture, clean code practices and follow the same. Comprehensive understanding of the current state of web technologies and best practices Operate with a security and reliability-first mindset Have a playbook for running agile teams with minimal overhead Have the skills to create simple solutions for complex problems quickly; often benefiting from tried-and-true techniques Put user value before tech, learn quickly, work iteratively and naturally seek collaboration Strong communication skills Comfortable working as a team, helping train, guide, and lead others in building projects start to finish Perform code reviews Requirements 7+ years Engineer experience, extensively with Django/Flask, React and relational databases in microservice based architecture Bachelor’s degree in Computer Science, Computer Engineering preferred Strong experience with AWS technologies, including Route53, CloudFront, API Gateway, Aurora RDS, DynamoDB, ElasticCache, EKS, ECS, S3, AWS SDK, Lambda,and SQS Proficient in writing unit and integration test cases and hands-on experience with complete CI/CD tooling, including GIT, CICD tools, and security scans Knowledge of Linux administration, adept at using console commands, scripting, and utilities such as Python and BASH Demonstrated experience in building REST APIs and utilizing OpenAPI/Swagger Spec Knowledge in Kafka or Flink Proven experience with Agile Development, CI/CD tools, project tracking tools, and familiarity with GRPC, GraphQL, and automation tools like Ansible, Chef, Puppet. Experience in 3 party integrations and custom application development and deployment Proficient in SQL/NoSQL and other databases/persistent stores including: MySQL, Postgres, Redis, DynamoDB, ElasticSearch and MongoDB Experience with BI Tools like Tableau, PowerBI Experiences Desired Experience dealing with large scale, technologically complex accounts which are constantly challenging product capabilities Demonstrated ability to communicate, present and influence credibly and effectively at all levels of the organization. Location Bangalore, India We are committed to an inclusive and diverse team. ChargePoint is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status. If there is a match between your experiences/skills and the Company needs, we will contact you directly. ChargePoint is committed to fostering an inclusive workplace that welcomes and supports all qualified individuals. In alignment with this commitment, we ensure that persons with disabilities are provided with reasonable accommodations throughout the employment process. If you need a reasonable accommodation to participate in the application or interview process, to perform essential job functions, or to access any other benefits and privileges of employment, please contact us at accommodations@chargepoint.com . ChargePoint is an equal opportunity employer. Applicants only - Recruiting agencies do not contact. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering and Information Technology Industries Electrical Equipment Manufacturing Referrals increase your chances of interviewing at ChargePoint by 2x See who you know",
-      "score": 28,
+      "title": "Fullstack AI Engineer",
+      "company": "Tracxn",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-ai-engineer-at-tracxn-4448440000",
+      "postedAt": "2026-08-06",
+      "jobId": "4448440000",
+      "description": "Fullstack AI Engineer Tracxn Bengaluru, Karnataka, India 14 hours ago Over 200 applicants See who Tracxn has hired for this role Apply Join or sign in to find your next job Join to apply for the Fullstack AI Engineer role at Tracxn Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Tracxn provided pay range This range is provided by Tracxn. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more. Base pay range ₹600,000.00/yr - ₹2,000,000.00/yr Total Experience: 1+ years Mode of Hire: Permanent Required Skills Set (Mandatory): HTML, JavaScript, Node.js, Express.js, MongoDB, React/Next.js, AI Integration (LLMs/APIs - OpenAI, Anthropic, Gemini) Desired Skills (Good if you have): Cloud Platforms (AWS), System Design, Application Security What is the role all about? We're hiring full-stack engineers who build with AI, not the traditional way. You should be fluent in modern web engineering, primarily Node.js, and just as fluent in using LLMs and AI tools (Cursor, Claude Code, and similar) to ship fast. Work that once took a month should take a week; what took a week should take a day. The role spans a range, from architecting backends for non-trivial products like assistants and agents, to rapidly turning a requirement into a clean, customer-facing app or MVP. Be strong in at least one area, be comfortable across the system as a whole, and tell us where you're strongest so we can place you accordingly. What will you do? Plan, build, and ship product features end-to-end, with AI embedded where it has the most impact. Integrate LLMs and AI APIs into production-grade applications. Use AI tools to prototype, build, and deliver at high speed without sacrificing quality. Design scalable APIs and data models with Node.js, Express.js, and MongoDB. Build responsive, performant, customer-facing interfaces with React/Next.js. Contribute to design discussions, code reviews, and architectural decisions. What are we looking for? AI Leverage You've shipped real things using LLMs or AI APIs and instinctively reach for AI to move faster. Comfortable with prompt engineering and judging AI output for production-readiness. Engineering Depth And Delivery Solid fundamentals: problem-solving, data structures, and how systems fit together. At least 2+ years across frontend (React/Next.js), APIs (Node.js/Express.js), and databases (MongoDB). You write clean, production-grade code and you ship. Knowledge of application security or ethical hacking is an advantage. Culture Work with performance-oriented teams driven by ownership and passion. Learn to design systems for high accuracy, efficiency, and scalability. No strict deadlines, focus on delivering quality work. Meritocracy-driven, candid culture. No politics. Very high visibility regarding which startups and markets are exciting globally. About Tracxn Tracxn (Tracxn.com) is a Bangalore-based product company that provides a research and deal-sourcing platform for Venture Capital, Private Equity, Corp Dev, and professionals in the startup ecosystem. We are a team of 800+ working professionals serving customers across the globe. Our clients include Funds such as Andreessen Horowitz, Matrix Partners, and GGV Capital, as well as Large Corporates such as Citi, Embraer &amp; Ferrero. Founders Neha Singh (ex-Sequoia, BCG | MBA - Stanford GSB) Abhishek Goyal (ex-Accel Partners, Amazon | BTech - IIT Kanpur) About Technology Team Tracxn's Technology team is 50+ members strong and growing. The technology team is subdivided into multiple smaller teams, each of which owns one or more services/components of the technology platform. Ours is a young team of motivated engineers with a minimal management structure, in which almost everyone is actively involved in technical development and design. We have a team-centric culture where ownership and responsibility for a feature or module lie with a team rather than an individual. We work on an array of technologies, including but not limited to ReactJS, Next.js, Storybook, Webpack, Node, Mongo, AWS Lambda, Spring, Elastic Stack, MySQL, Kafka, Redis, Ansible, etc. We value ownership, continuous learning, consistency, and discipline as a team. Skills:- Javascript, React.js, NodeJS (Node.js), NextJs (Next.js), Artificial Intelligence (AI) and Large Language Models (LLM) Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering and Information Technology Industries Venture Capital and Private Equity Principals Referrals increase your chances of interviewing at Tracxn by 2x See who you know",
+      "score": 41,
       "matchedSkills": [
         "React",
+        "Next.js",
+        "JavaScript",
+        "Webpack",
+        "HTML",
+        "Node",
         "Express",
-        "REST",
-        "GraphQL",
-        "CI/CD",
         "SQL",
         "MongoDB"
       ],
       "excluded": false
     },
     {
-      "title": "Software Engineer (Full Stack Developer, Node JS & React JS))",
-      "company": "NetApp",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-full-stack-developer-node-js-react-js-at-netapp-4449970876",
+      "title": "Senior Software Engineer (R&D)",
+      "company": "Broadcom",
+      "location": "Greater Hyderabad Area",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-r-d-at-broadcom-4440732619",
       "postedAt": "2026-08-06",
-      "jobId": "4449970876",
-      "description": "",
-      "score": 26,
+      "jobId": "4440732619",
+      "description": "Senior Software Engineer (R&amp;D) Broadcom Greater Hyderabad Area 11 hours ago Over 200 applicants See who Broadcom has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer (R&amp;D) role at Broadcom Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Job Description: About The Job We are seeking talented, self-motivated, and experienced Software Engineer with a passion for building high-quality software systems using Agile practices. In this role, you will be a key member of the development team and will focus on AI driven designing, implementing, testing, and supporting leading edge security products on API Management &amp; Observability used by many of the world’s largest companies. Educational Qualifications: B.Tech/B.E/M.Tech/M.E (Experience : 8 - 15 years) What makes you a strong fit AI Expertise: You are an expert in using AI Code assist tools (Claude/Cursor etc) as Coworkers and not as prompt engineers. Good understanding of AI Spec driven development methodologies like Plan/BMAD mode etc and use it thoroughly, to map out and implement all phases of SDLC. Understand Context Engineering &amp; Token Optimization techniques and create/maintain reusable skills, contexts across multiple teams and repos. Understand Agent Orchestration, manage multi-agent workflows to handle complex, multi-step engineering tasks like new capabilities, codebase refactoring, upgrades, and vulnerability patching. Code Review &amp; Quality Control: Critically review AI-generated code for architectural alignment, design, and performance bottlenecks. Required Skills : Expertise in Java/GO and related technologies. Expertise in Container Technologies (like Helm, Docker, Kubernetes) Expertise in any cloud service - AWS, Azure , GCP etc. Expertise in Restful Web services. Good understanding of React or similar technologies. Good understanding of Scalable Distributed Systems. Good understanding of data structures and algorithms. Strong troubleshooting and problem solving skills. Desired Skills : Database : MySQL and Cloud Databases. Linux : Debian, RHEL, others. Security : Secure coding practices and understanding of OWASP, OAuth etc. Protocols : HTTP, HTTPS, FTP, SFTP, GraphQL etc. Key Responsibilities : Be responsible for defining, developing, and evolving software in a fast-paced and agile development environment. E2E ownership in leading features from incubation to delivery. Understand product requirements &amp; vision Work with tech leaders and architects to develop implementation plans Drive world-class quality in the development and support of products Strive to be subject-matter experts of complex systems. Apply principles of Software Development Life Cycle and methodologies like Agile, Continuous Integration, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing Techniques Understand performance parameters and assess application performance Proactively share information across the team with the appropriate level of detail and timeliness Work with Junior engineers to mentor, review code and setup best practices/tools/frameworks R026314 Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering and Information Technology Industries Semiconductor Manufacturing Referrals increase your chances of interviewing at Broadcom by 2x See who you know",
+      "score": 28,
       "matchedSkills": [
         "React",
-        "Node"
+        "REST",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "GCP",
+        "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Software Engineer (Full Stack Developer, Node JS & React JS)",
-      "company": "NetApp",
+      "title": "Frontend Engineer - React JS, AWS, CI/CD | 4 to 8 yrs",
+      "company": "Cisco",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-full-stack-developer-node-js-react-js-at-netapp-4449982183",
+      "url": "https://in.linkedin.com/jobs/view/frontend-engineer-react-js-aws-ci-cd-4-to-8-yrs-at-cisco-4450269890",
       "postedAt": "2026-08-06",
-      "jobId": "4449982183",
+      "jobId": "4450269890",
       "description": "",
       "score": 26,
       "matchedSkills": [
         "React",
-        "Node"
+        "CI/CD"
       ],
       "excluded": false
     },
     {
-      "title": "Full Stack Engineer (NodeJS, React or Angular) - Immediate joiners only and local to Bangalore only",
-      "company": "Wissen Technology",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-nodejs-react-or-angular-immediate-joiners-only-and-local-to-bangalore-only-at-wissen-technology-4449668388",
-      "postedAt": "2026-08-05",
-      "jobId": "4449668388",
+      "title": "React + Node Lead",
+      "company": "Coforge",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/react-%2B-node-lead-at-coforge-4448443165",
+      "postedAt": "2026-08-06",
+      "jobId": "4448443165",
       "description": "",
       "score": 26,
       "matchedSkills": [
@@ -84,12 +91,49 @@
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer (Frontend - React)",
-      "company": "Impact Analytics",
+      "title": "Sr. Full Stack Software Engineer",
+      "company": "MetLife",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-full-stack-software-engineer-at-metlife-4448195328",
+      "postedAt": "2026-08-07",
+      "jobId": "4448195328",
+      "description": "Sr. Full Stack Software Engineer MetLife Hyderabad, Telangana, India 3 hours ago 33 applicants See who MetLife has hired for this role Apply Join or sign in to find your next job Join to apply for the Sr. Full Stack Software Engineer role at MetLife Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Role Value Proposition The UI Full Stack Engineer is a hands‑on engineer responsible for building and delivering scalable, cloud‑native, API‑driven digital experiences with a strong emphasis on modern React user interfaces and Java-based backend services. You will develop responsive, accessible, high‑performance web applications and integrate them with secure, well‑designed REST APIs and microservices. You will drive implementation across the stack—React (UI), Java/Spring Boot (services), and data/API integration—while enforcing engineering standards that promote consistency, reliability, security, and maintainability. This includes applying DevSecOps practices, automated testing, code quality gates, and production readiness patterns to support resilient solutions at scale. Key Responsibility Ensuring secure, high‑quality code across UI and backend components, adhering to enterprise engineering standards Investigating and resolving production management incidents, problems, and service requests across React UI, APIs, and Java services Interfacing closely with the Scrum/Sprint team to deliver user stories, contribute to estimations, and support iterative delivery Working with cross‑functional teams (Product, UX, QA, Platform, DevOps) to ensure seamless end‑to‑end feature delivery Performing design and code reviews for React UI and Java backend, ensuring compliance with best practices, security guidelines, and acceptable performance standards Technical Hands-on development experience with Java and frontend technologies including React, along with backend frameworks such as Spring and Spring Boot, deployed on Azure Hands-on development of UI‑driven full stack applications and microservices from the ground up, building React-based user interfaces integrated with Java REST APIs Hands-on experience with code management, branching strategies, and CI/CD pipelines using tools such as Git and Azure DevOps Proficiency with database technologies, including SQL (Oracle or MS SQL Server preferred) and NoSQL data stores Experience with container-based development leveraging Docker and/or Kubernetes Experience with DevSecOps practices and tooling for CI/CD, release management, automation, and quality gates using Azure DevOps Preferred Experience with frontend architecture patterns, state management, and performance optimization in React-based applications Experience with integration tools such as Azure Function Apps, Logic Apps, or similar event-driven integration mechanisms Experience with Microsoft Azure services, including AKS and related cloud-native components Experience working with Microservices Architecture, distributed systems, and API-driven integrations Experience with Veracode, static code analysis tools, and secure coding best practices Experience 10 - 15 years Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Insurance Referrals increase your chances of interviewing at MetLife by 2x See who you know",
+      "score": 25,
+      "matchedSkills": [
+        "React",
+        "REST",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Agentic AI- Senior Software Engineer",
+      "company": "Sopra Steria",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/agentic-ai-senior-software-engineer-at-sopra-steria-4450264417",
+      "postedAt": "2026-08-06",
+      "jobId": "4450264417",
+      "description": "Agentic AI- Senior Software Engineer Sopra Steria Noida, Uttar Pradesh, India 14 hours ago 70 applicants See who Sopra Steria has hired for this role Apply Join or sign in to find your next job Join to apply for the Agentic AI- Senior Software Engineer role at Sopra Steria Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Company Description About Sopra Steria Sopra Steria, a major Tech player in Europe with 51,000 employees in nearly 30 countries, is recognised for its consulting, digital services and solutions. It helps its clients drive their digital transformation and obtain tangible and sustainable benefits. The Group provides end-to-end solutions to make large companies and organisations more competitive by combining in-depth knowledge of a wide range of business sectors and innovative technologies with a collaborative approach. Sopra Steria places people at the heart of everything it does and is committed to putting digital to work for its clients in order to build a positive future for all. In 2025, the Group generated revenues of €5.6 billion. Job Description The world is how we shape it. Role Overview We are looking for a hands-on AI Engineer to design, develop, and deploy AI-powered applications leveraging LLMs, Agentic AI frameworks, and modern AI engineering tools. The ideal candidate should have practical experience building AI agents, copilots, and RAG-based solutions that solve real business problems and create measurable value. Key Responsibilities Design and develop AI agents, copilots, and autonomous workflows. Build solutions using frameworks such as LangChain, LangGraph, CrewAI, AutoGen, and Google ADK. Develop RAG solutions, semantic search capabilities, and enterprise knowledge assistants. Integrate AI solutions with business applications, APIs, databases, and enterprise systems. Leverage AI-assisted development tools such as Claude Code, Cursor, and GitHub Copilot. Package, deploy, and monitor AI applications in cloud environments. Contribute reusable frameworks, accelerators, and AI engineering best practices. Required Technical Skills Programming &amp; Engineering Strong proficiency in Python. Experience with REST APIs and integrations. FastAPI, Flask, or similar frameworks. Strong software engineering and system design fundamentals. Agentic AI &amp; LLMs Hands-on experience with one or more: LangChain LangGraph CrewAI AutoGen Google ADK Prompt Engineering Function/Tool Calling Agent Workflows and Memory Concepts Building LLM-powered applications RAG &amp; Knowledge Systems Retrieval-Augmented Generation (RAG) Vector Databases (Pinecone, Chroma, Weaviate, Milvus, etc.) Semantic Search and Embeddings Cloud &amp; Deployment Docker Azure, AWS, or GCP CI/CD fundamentals Preferred Skills Model Context Protocol (MCP) Multi-Agent Systems GraphRAG Semantic Kernel OpenAI Agents SDK PydanticAI AI Evaluation Frameworks (Promptfoo, RAGAS) Knowledge Graphs React or Streamlit-based AI applications Professional Attributes (Mandatory) Strong collaborator capable of working effectively across engineering, product, business, and leadership teams. Excellent communication skills with the ability to explain technical concepts to diverse audiences. Confident, proactive, and self-driven individual who takes ownership and delivers results. Strong networking and relationship-building abilities, with the capability to engage stakeholders across teams and geographies. Comfortable conducting demos, presentations, workshops, and technical discussions. Passionate about continuous learning and staying current with emerging AI technologies. Experience Requirements 3–8 years of overall software engineering experience. Minimum 2 years of hands-on experience in Generative AI, Agentic AI, or LLM-based application development. Experience building and delivering AI-powered applications, agents, copilots, or automation solutions in enterprise or production environments. Total Experience Expected: 02-04 years Qualifications Bachelor of Technology Additional Information Ideal Candidate Summary A hands-on AI Engineer with strong software engineering fundamentals and at least 2 years of experience in Generative AI and Agentic AI . The ideal candidate has experience building AI agents, copilots, and RAG-based solutions using modern agent frameworks and LLM technologies. Beyond technical expertise, they are a confident communicator, strong collaborator, and relationship builder who can effectively influence stakeholders, drive cross-functional collaboration, and help accelerate AI innovation across the organization. At our organization, we are committed to fighting against all forms of discrimination. We foster a work environment that is inclusive and respectful of all differences. All of our positions are open to people with disabilities. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Information Technology Industries Software Development, IT Services and IT Consulting, and Business Consulting and Services Referrals increase your chances of interviewing at Sopra Steria by 2x See who you know",
+      "score": 22,
+      "matchedSkills": [
+        "React",
+        "REST",
+        "Docker",
+        "GCP",
+        "CI/CD"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Developer",
+      "company": "Apptad",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-react-at-impact-analytics-4449667179",
-      "postedAt": "2026-08-05",
-      "jobId": "4449667179",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-apptad-4449799359",
+      "postedAt": "2026-08-06",
+      "jobId": "4449799359",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -98,12 +142,26 @@
       "excluded": false
     },
     {
-      "title": "SENIOR SOFTWARE ENGINEER - React JS",
+      "title": "React Developer | 4 - 8 Years | Bangalore | Immediate Joiner",
+      "company": "Antal International",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-4-8-years-bangalore-immediate-joiner-at-antal-international-4450052908",
+      "postedAt": "2026-08-07",
+      "jobId": "4450052908",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "TECHNICAL LEAD - ReactJS",
       "company": "Happiest Minds Technologies",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-js-at-happiest-minds-technologies-4449480780",
-      "postedAt": "2026-08-05",
-      "jobId": "4449480780",
+      "url": "https://in.linkedin.com/jobs/view/technical-lead-reactjs-at-happiest-minds-technologies-4450237529",
+      "postedAt": "2026-08-06",
+      "jobId": "4450237529",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -112,12 +170,12 @@
       "excluded": false
     },
     {
-      "title": "Senior React Developer",
-      "company": "Principle Pride",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-developer-at-principle-pride-4448039418",
-      "postedAt": "2026-08-05",
-      "jobId": "4448039418",
+      "title": "React js Full stack developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-full-stack-developer-at-infosys-4440250960",
+      "postedAt": "2026-08-06",
+      "jobId": "4440250960",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -126,12 +184,26 @@
       "excluded": false
     },
     {
-      "title": "TECHNICAL LEAD - React JS",
-      "company": "Happiest Minds Technologies",
+      "title": "React and Angular Developer",
+      "company": "algoleap",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/technical-lead-react-js-at-happiest-minds-technologies-4449489601",
-      "postedAt": "2026-08-05",
-      "jobId": "4449489601",
+      "url": "https://in.linkedin.com/jobs/view/react-and-angular-developer-at-algoleap-4448404983",
+      "postedAt": "2026-08-06",
+      "jobId": "4448404983",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Angular/React + AI",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/angular-react-%2B-ai-at-infosys-4440261514",
+      "postedAt": "2026-08-06",
+      "jobId": "4440261514",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -141,67 +213,25 @@
     },
     {
       "title": "React Native Developer",
-      "company": "Schneider Electric",
+      "company": "HTC Global Services",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-htc-global-services-4450648949",
+      "postedAt": "2026-08-06",
+      "jobId": "4450648949",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "IN_Senior Associate_ React Developer __ Data & Analytics_ Advisory _Bangalore",
+      "company": "PwC India",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-schneider-electric-4447379841",
-      "postedAt": "2026-08-05",
-      "jobId": "4447379841",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Junior React Developer",
-      "company": "Overt Minds",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/junior-react-developer-at-overt-minds-4447359870",
-      "postedAt": "2026-08-05",
-      "jobId": "4447359870",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Developer",
-      "company": "IoT App Development Company",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-iot-app-development-company-4449106407",
-      "postedAt": "2026-08-05",
-      "jobId": "4449106407",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior React JS Developer",
-      "company": "The NineHertz",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-js-developer-at-the-ninehertz-4448993323",
-      "postedAt": "2026-08-05",
-      "jobId": "4448993323",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "ReactJS Developer",
-      "company": "Pineswift Technologies",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/reactjs-developer-at-pineswift-technologies-4449490382",
-      "postedAt": "2026-08-05",
-      "jobId": "4449490382",
+      "url": "https://in.linkedin.com/jobs/view/in-senior-associate-react-developer-data-analytics-advisory-bangalore-at-pwc-india-4450607701",
+      "postedAt": "2026-08-06",
+      "jobId": "4450607701",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -211,25 +241,11 @@
     },
     {
       "title": "React JS Developer",
-      "company": "Pineswift Technologies",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-pineswift-technologies-4449484505",
-      "postedAt": "2026-08-05",
-      "jobId": "4449484505",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Software Engineer I - React",
-      "company": "Optum India",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-i-react-at-optum-india-4448920992",
+      "company": "CGI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-cgi-4448462393",
       "postedAt": "2026-08-06",
-      "jobId": "4448920992",
+      "jobId": "4448462393",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -238,12 +254,26 @@
       "excluded": false
     },
     {
-      "title": ".Net/ReactJS Senior Software Engineer",
-      "company": "Sopra Steria",
+      "title": "React Developers",
+      "company": "NTT DATA North America",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-developers-at-ntt-data-north-america-4449998760",
+      "postedAt": "2026-08-06",
+      "jobId": "4449998760",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Lead IRC298790",
+      "company": "GlobalLogic",
       "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/net-reactjs-senior-software-engineer-at-sopra-steria-4449452566",
-      "postedAt": "2026-08-05",
-      "jobId": "4449452566",
+      "url": "https://in.linkedin.com/jobs/view/react-lead-irc298790-at-globallogic-4449743939",
+      "postedAt": "2026-08-06",
+      "jobId": "4449743939",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -252,40 +282,40 @@
       "excluded": false
     },
     {
-      "title": "React Native Mobile App Developer (Intern / Junior)",
-      "company": "Zenia Mobile",
+      "title": "React JS + Next JS- C1- Senior Consultant",
+      "company": "Capgemini",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-%2B-next-js-c1-senior-consultant-at-capgemini-4450224743",
+      "postedAt": "2026-08-06",
+      "jobId": "4450224743",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Web UI (ReactJS) - Team Lead",
+      "company": "Advantal Technologies Limited",
+      "location": "Delhi, Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/web-ui-reactjs-team-lead-at-advantal-technologies-limited-4449763842",
+      "postedAt": "2026-08-06",
+      "jobId": "4449763842",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Developer in Noida",
+      "company": "iocombats",
       "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-mobile-app-developer-intern-junior-at-zenia-mobile-4448014978",
-      "postedAt": "2026-08-05",
-      "jobId": "4448014978",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Next.js Frontend Developer",
-      "company": "Prasanz",
-      "location": "Greater Hyderabad Area",
-      "url": "https://in.linkedin.com/jobs/view/next-js-frontend-developer-at-prasanz-4448035683",
-      "postedAt": "2026-08-05",
-      "jobId": "4448035683",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "Next.js"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Expert ReactJS Developer",
-      "company": "Anaqua",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/expert-reactjs-developer-at-anaqua-4417972630",
-      "postedAt": "2026-08-05",
-      "jobId": "4417972630",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-in-noida-at-iocombats-4450644239",
+      "postedAt": "2026-08-06",
+      "jobId": "4450644239",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -308,26 +338,12 @@
       "excluded": false
     },
     {
-      "title": "Mobile Developer (React Native)",
-      "company": "Orbitnexa Technologies",
+      "title": "React Native Developer",
+      "company": "Infosys",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/mobile-developer-react-native-at-orbitnexa-technologies-4449601225",
-      "postedAt": "2026-08-05",
-      "jobId": "4449601225",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full-Stack Developer (PHP + React.JS)",
-      "company": "WillWare Technologies",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-php-%2B-react-js-at-willware-technologies-4449998024",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-infosys-4440647831",
       "postedAt": "2026-08-06",
-      "jobId": "4449998024",
+      "jobId": "4440647831",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -336,12 +352,12 @@
       "excluded": false
     },
     {
-      "title": ".Net Full Stack Developer with ReactJS",
-      "company": "Tata Consultancy Services",
-      "location": "Pune District, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-with-reactjs-at-tata-consultancy-services-4448982058",
-      "postedAt": "2026-08-05",
-      "jobId": "4448982058",
+      "title": "React Native Developer",
+      "company": "Navtech",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-navtech-4450263095",
+      "postedAt": "2026-08-06",
+      "jobId": "4450263095",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -350,12 +366,12 @@
       "excluded": false
     },
     {
-      "title": "Fullstack Developer -(Fast Api +React.js)",
-      "company": "Spectral Consultants",
-      "location": "Bangalore Rural, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-developer-fast-api-%2Breact-js-at-spectral-consultants-4447359315",
-      "postedAt": "2026-08-05",
-      "jobId": "4447359315",
+      "title": "Sr Lead Software Engineer - Full Stack (.NET with React)(12+ years) - 11787",
+      "company": "Coupa",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-lead-software-engineer-full-stack-net-with-react-12%2B-years-11787-at-coupa-4448724226",
+      "postedAt": "2026-08-07",
+      "jobId": "4448724226",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -364,65 +380,62 @@
       "excluded": false
     },
     {
-      "title": "Technical Architect",
-      "company": "ParentPay Group",
+      "title": "Senior Associate - .NET/React",
+      "company": "Davies",
       "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/technical-architect-at-parentpay-group-4429951946",
-      "postedAt": "2026-08-05",
-      "jobId": "4429951946",
-      "description": "Technical Architect ParentPay Group Pune Division, Maharashtra, India 15 hours ago Over 200 applicants See who ParentPay Group has hired for this role Apply Join or sign in to find your next job Join to apply for the Technical Architect role at ParentPay Group Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Department: Development Employment Type: Permanent - Full Time Location: Pune, India Description ParentPay Group is Europe’s leading software product company and the UK’s largest education technology business. We are on a mission to bring next-generation innovation to positively impact on the lives of millions of parents, teachers, and students every day in over 49 countries. Our market leading products use cutting edge cloud-based technology to streamline school processes, including secure web and mobile apps that enable secure online payments for school items such as meals, trips, clubs and uniform, improve parental engagement, simplify meal management and - through our product SIMS - collect and manage a database of student information and core school operations. ParentPay Group’s new offices in Pune are a fantastic tech hub for those looking to boost their careers in software product development. Our bright team FastTrack their career with international exposure and ways of working based on agile development best practices from globally renowned technology consultancies. Key Responsibilities Driving outcomes: focuses on results and desired outcomes and how best to achieve them. Able to execute plans through to action. Persistent to complete tasks and a strong commitment to take action that moves things along to ensure delivery of objectives. Ownership &amp; accountability: takes personal accountability and ownership for their work. This includes personal follow through, making and defending difficult decisions and trade-offs, removing blockers, driving collective progress. Continuous Improvement: advances by ongoing, incremental improvement through continuous learning, pair-programming, questioning the status quo and trying out creative and novel ideas. Shows curiosity and has a keen interest to drive learning for themselves and others. Pragmatic in approach, understanding that software and its architecture are fundamentally about trade-offs. What works today may not work tomorrow, evolutionary architecture is the goal. Truly full stack, from UI, Backend, DB, CI/CD to cloud infrastructure and IaC. Ability to work in a team of very experienced individuals, understands that egos are not productive, ability to listen and provide objective feedback. A lot more focus should be on leading by example and mentoring across all the teams to ensure that the team are successful within their remit. Skills, Knowledge and Expertise Hands on experience of .NET Core, React, SQL and Azure. Experience with leading industry standard practices for software development and cloud infra such as DDD, TDD and deployment patterns (blue/green). Provide hands on technical leadership to the teams, resolve tech queries, ensure that the teams follow architectural principles/guidelines overall tech standards. Evaluate and improve the common platform components to help accelerate the programme. Actively participate in architectural governance forums such as centre of excellence (CoE) and technical guilds. Furthermore, ensure that decisions made are followed through within the teams. Work collaboratively with the Group Director of Technology, Head of Technology and fellow architects to influence and steer technical leads as well as their teams towards pragmatic decisions as well as communicate team progress. Undertake R&amp;D, prototype new approaches, technologies, techniques and ensure knowledge sharing to streams. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Education Referrals increase your chances of interviewing at ParentPay Group by 2x See who you know",
-      "score": 19,
+      "url": "https://in.linkedin.com/jobs/view/senior-associate-net-react-at-davies-4450207925",
+      "postedAt": "2026-08-06",
+      "jobId": "4450207925",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Core .NET Technologies with React js",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/core-net-technologies-with-react-js-at-tata-consultancy-services-4449363883",
+      "postedAt": "2026-08-06",
+      "jobId": "4449363883",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Trading Engineer (Full Stack)",
+      "company": "Cargill",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/trading-engineer-full-stack-at-cargill-4438426961",
+      "postedAt": "2026-08-06",
+      "jobId": "4438426961",
+      "description": "Trading Engineer (Full Stack) Cargill Bengaluru, Karnataka, India 12 hours ago 31 applicants See who Cargill has hired for this role Apply Join or sign in to find your next job Join to apply for the Trading Engineer (Full Stack) role at Cargill Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Job Purpose and Impact The Full Stack Developer – Corporate Risk Reporting role focuses on the risk visualization layer of the Corporate Risk Reporting (CRR) platform. The role is responsible for building application capabilities that enable fast, flexible, and intuitive consumption of enterprise risk data for internal risk management users. Within the CRR architecture, core risk logic is implemented in PostgreSQL, with curated risk results published into OpenSearch to support high-performance reporting, fuzzy filtering, and interactive exploration. This role remains hands-on in building solutions using .NET-based backend services and React-based frontend applications, while also leading and coaching junior full stack developers to deliver cohesive, high-quality visualization capabilities. The position plays a key role in translating complex risk datasets into scalable and user-friendly reporting experiences, while setting technical direction and standards for the CRR visualization layer. Key Accountabilities RISK VISUALIZATION DELIVERY: Designs and implements user-facing risk reporting capabilities that enable efficient visualization and exploration of enterprise risk data, including positions, P&amp;L, FX exposures, and entering adjustments. FRONTEND EXPERIENCE DELIVERY: Development of high-performance and intuitive user interfaces using React and AgGrid, optimized for large datasets and advanced interaction patterns such as drilldowns, pivots, filtering, and navigation. BACKEND SERVICES AND APIs: Develops .NET-based backend services that mediate access to OpenSearch, support aggregation and query orchestration, and enable consistent data consumption patterns. OPENSEARCH CONSUMPTION: Implements effective OpenSearch query, indexing and consumption patterns to support fast retrieval, fuzzy filtering, and flexible exploration of risk data published from PostgreSQL. ENGINEERING QUALITY: Enforces engineering standards for the visualization layer, including code quality, testing practices, and CI/CD adoption, ensuring maintainable and reliable solutions. PERFORMANCE AND USABILITY: Owns performance and usability outcomes for the visualization layer, actively identifying and addressing bottlenecks across frontend, backend, and OpenSearch interactions. COLLABORATION: Works closely with the CRR Development Lead and Senior Business Analyst to align visualization capabilities with platform architecture and business risk requirements. CONTINUOUS IMPROVEMENT: Continuously evaluates and improves visualization patterns, technical approaches, and team practices to enhance the effectiveness and scalability of CRR risk reporting. Qualifications Minimum requirement of 3 years of relevant work experience, typically reflecting 5+ years in delivering full-stack applications in data-intensive or analytics-driven environments. Demonstrated experience delivery of user-facing reporting or analytics solutions, with proven ability to guide and mentor other engineers. Required Skills: Mandatory: Strong experience developing backend services using .NET Strong experience building frontend applications using React Hands-on experience with AgGrid for large, data-intensive reporting views Exposure to cloud-native deployment models and CI/CD pipelines Good to Have: Experience working with risk, finance, or trading reporting platforms Experience consuming and querying OpenSearch for fast, flexible reporting and fuzzy filtering Familiarity with PostgreSQL-backed data solutions Experience coaching or mentoring engineers in a delivery-focused environment #Standard Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Chemical Manufacturing, Food and Beverage Services, and Food and Beverage Manufacturing Referrals increase your chances of interviewing at Cargill by 2x See who you know",
+      "score": 16,
       "matchedSkills": [
         "React",
-        "REST",
         "CI/CD",
         "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Fullstack developer",
-      "company": "IBM",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-developer-at-ibm-4434856517",
-      "postedAt": "2026-08-05",
-      "jobId": "4434856517",
-      "description": "Fullstack developer IBM Bengaluru, Karnataka, India 13 hours ago Over 200 applicants See who IBM has hired for this role Apply Join or sign in to find your next job Join to apply for the Fullstack developer role at IBM Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Introduction India Systems Development Lab (ISDL) is part of IBM Systems world-wide technology development lab. Established in 1996, the Lab is headquartered in India's Silicon Valley and startup hub - Bengaluru, with a strong presence in Pune and Hyderabad. Developers at ISDL deliver technology innovations across the entire Systems portfolio - z Systems, Power / OpenPOWER Systems and Storage. The team here works across the entire stack from processor design, firmware, operating system to software defined storage. The lab also focuses on innovations, thanks to the creative energies of the teams. The lab has contributed over 400+ patents in cutting edge technologies and inventions so far.While computing veers towards cognitive, cloud, mobile, social, and security, the lab has significantly contributed to not just new products focused in these areas, but has also ushered in new development models such as Agile, Design Thinking and DevOps. Your Role And Responsibilities Who you are: We are Firmware professional working on Z systems and we build the most secure systems for our customers to deploy their enterprise applications. Also, We provide atmost security and enable IBM LinuxONE enterprise customers with on-premise, customer-managed container solution through Secure Service Containers which provides data protection as well protection from Insider threats. We develop new features of Dynamic partition manager which is a quicker and easier way to deploy Linux servers on a z System (Mainframe). DPM is a configuration manager that is designed for setting up and managing Linux servers that run on a mainframe system. What You’ll Do To Build the world most secure system via Z systems which helps customers to deploy their application, also provide a platform to deploy Cloud to defend against threats like Cyber Threats, etc and making the enablement experience quicker and easier. How We’ll Help You Grow You’ll have access to all the technical and management training courses you need to become the expert you want to be You’ll learn directly from expert developers in the field; our team leads love to mentor You have the opportunity to work in many different areas to figure out what really excites you Preferred Education Bachelor's Degree Required Technical And Professional Expertise 3+ years of relevant industry experience. Strong programming skills in Java, Javascript, ReactJS. Expertise in OS concepts, Container technologies, Security, Virtualization Management, REST API, App Dev on Cloud Platform, DevOps (Continuous Integration) Demonstrated execution experience of App cloud development / container technologies DevOps. Good communication skills and be able to work effectively in a global team environment. Preferred Technical And Professional Experience Z Systems experience, Private Cloud knowledge, Exposure to Catalog Services, Micro Services. Prior experience / exposure to Storage, Networking and Security would be an added advantage Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at IBM by 2x See who you know",
+      "title": "Lead Product Designer",
+      "company": "Cohere Health",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-product-designer-at-cohere-health-4361025463",
+      "postedAt": "2026-08-06",
+      "jobId": "4361025463",
+      "description": "Lead Product Designer Cohere Health Hyderabad, Telangana, India 16 hours ago Over 200 applicants See who Cohere Health has hired for this role Apply Join or sign in to find your next job Join to apply for the Lead Product Designer role at Cohere Health Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Opportunity Overview We are seeking an exceptional Lead Product Designer to join our stellar design team. The ideal candidate for this role is an experienced digital product designer who excels in highly collaborative environments, is proficient in modern design tools (we’re a Figma-first organization), and consistently delivers high-quality experiences in complex problem spaces. You enjoy taking ownership of ambiguous and challenging problems, shaping them into thoughtful and intuitive experiences that make a meaningful difference for users. As a senior member of our design team, and a founding member of the India design team, you will set a strong foundation for integrating design practices with our engineering team. Your work will have a direct impact on over 700,000 healthcare professionals who use our solutions daily to process more than 12 million prior authorisations annually. You combine deep UX expertise with strong visual craft, applying research insights, interaction patterns, and strategic storytelling to influence decisions and ship value. You know how to navigate constraints, advocate for the user, and collaborate seamlessly with product and engineering from discovery through delivery. In this role, you will also be a force multiplier for the entire product organization. You will design, maintain, and evolve our design system, ensuring it enhances the efficiency, consistency, quality, and accessibility of experiences across multiple product surfaces. Your work will empower designers, engineers, and product teams to ship value faster and more confidently, reducing friction and enhancing collaboration. You bring strong knowledge of interaction patterns, visual design principles, accessibility standards, and component architecture. You know when to extend the system and when to keep it lean, and you are comfortable negotiating with engineers to maintain design and technical cohesion. To summarize, this is a hybrid role split between leading and supporting product design across all our products and evolving our design system and design operations globally. Last but not least, people who succeed here are empathetic teammates who are candid, kind, and caring, embodying our core values and principles. We believe that diverse, inclusive teams make the most impactful work. Cohere is deeply invested in ensuring that we have a supportive, growth-oriented environment that works for everyone. What You Will Do Lead end-to-end design for complex product areas—from framing problems through polished delivery and iteration Define experience principles, flows, and interaction patterns that provide clarity across cross-functional teams Build high-fidelity prototypes to communicate concepts, test usability, and validate solutions Craft beautiful, emotionally compelling visual designs that reinforce product strategy and brand expression Collaborate closely with product managers, engineers, data teams, and operations to shape the roadmap and deliver measurable impact Own and evolve the design system—tokens, components, patterns, documentation, and guardrails—across all Cohere products Uses AI to connect Figma designs with front-end code and generates rapid prototypes to validate design concepts Refine existing components and design new systematic elements that scale across complex workflows, product areas, and user needs Partner closely with designers and engineers to ensure components are technically feasible, accessible, resilient, and high-quality Participate in and contribute to design critiques—both giving and receiving feedback that raises quality across the team ISMS Roles And Responsibilities Good knowledge of Information practices. Assist the manager in all the information security activities implementation and maintenance process. Ensuring the team and imparted with Competence related to Information security Responsible for implementation of security policies and procedures and report any issues to the Information Security Manager. Required Qualifications Must-haves 5+ years of experience in software product design, with ownership of end-to-end delivery for multiple products or substantial product areas, with at least part of that time spent working on or heavily with a design system Proven ability to operate in complex domains—enterprise, healthcare, fintech, analytics, or similarly data-dense problem spaces Familiarity with frontend technologies (Google’s Material Design, React, HTML/CSS, Design Tokens standards) to collaborate effectively with engineers Deep expertise in UX best practices, interaction design, and visual design craft Experience working with cross-functional agile scrum teams Bachelor’s or Master’s degree in Design, HCI, Human Factors, or equivalent experience An outstanding portfolio demonstrating clear problem framing, user-centered design processes, design systems work (components, tokens, patterns), and the real impact of your work Strong storytelling and communication skills—able to articulate decisions and generate alignment across disciplines and seniority Strong conceptual thinking—balancing user needs, product strategy, business goals, and technical constraints Uses AI tools like Claude Code to accelerate design research, prototyping, and generation. Continuously adopts emerging capabilities to improve team velocity. Nice-to-haves Experience designing for healthcare Experience in influencing design system adoption with engineering teams Experience with tooling that supports system delivery (Storybook, ZeroHeight, Tokens Studio, DesignDocs, etc.) Strength in motion design or micro-interactions Experience launching v1 products or building 0→1 experiences Ability To Commute/relocate Hyderabad, Telangana: Reliably commute or planning to relocate before starting work (Preferred) Interview Process*: Connect with Talent Acquisition Meet with the Hiring Manager Behavioral Interview(s) Case Study Interview with Senior Leadership Subject to change About Cohere Health Cohere Health’s clinical intelligence platform and agentic AI-powered solutions connect health plans’ strategic goals and providers’ needs, optimizing the speed, cost, and quality of care. With an enterprise approach that streamlines payer-provider decision-making across the care continuum–including policy, prior authorization, payment accuracy, and more–the company improves collaboration and reduces burden, resulting in up to 8x ROI and 94% provider satisfaction. With the acquisition of ZignaAI, we expanded our AI-native platform with a comprehensive Payment Integrity Suite that spans data mining, clinical and coding validation, authorization and claims reconciliation, and end-to-end payment integrity services across pre- and post-pay workflows. By connecting clinical and payment insights, our transparent, AI-powered solutions help health plans proactively improve payment accuracy, reduce waste and vendor dependency, strengthen provider relationships, and build smarter, more efficient payment integrity programs. Cohere Health’s innovations continue to receive industry-wide recognition. We’ve been recognized on TIME’s World Top HealthTech Companies 2025 list, the 2025 Inc. 5000 list, in the Gartner® Hype Cycle™ for U.S. Healthcare Payers (2022-2025), and ranked as a Top 5 LinkedIn™ Startup for 2023 &amp; 2024. We can’t wait to learn more about you and meet you at Cohere Health! Equal Opportunity Statement Cohere Health is an Equal Opportunity Employer. We are committed to fostering an environment of mutual respect where equal employment opportunities are available to all. To us, it’s personal. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Design, Art/Creative, and Information Technology Industries Software Development Referrals increase your chances of interviewing at Cohere Health by 2x See who you know",
       "score": 16,
       "matchedSkills": [
         "React",
-        "JavaScript",
-        "REST"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "UI Engineer",
-      "company": "iocombats",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/ui-engineer-at-iocombats-4449475332",
-      "postedAt": "2026-08-05",
-      "jobId": "4449475332",
-      "description": "UI Engineer iocombats Pune Division, Maharashtra, India 19 hours ago 192 applicants See who iocombats has hired for this role Apply Join or sign in to find your next job Join to apply for the UI Engineer role at iocombats Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Vivid Computing Pune, Maharashtra, India Posted about 17 hours agosvg]:size-3 gap-1 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden border-transparent bg-secondary text-secondary-foreground [a&amp;]:hover:bg-secondary/90\"&gt;FULL TIME Careers | UI Engineer UI Engineer Location: Pune, India Pune, India As a UI Engineer at VIVID COMPUTING, you’ll play a vital role in designing and developing user interfaces for our solutions and products using AngularJS or React framework. From crafting responsive layouts to optimizing performance, you’ll have the opportunity to make a meaningful impact and shape the future of user experience. Experience: 2 to 2+ Years Responsibilities – Collaborate with product managers, designers, and backend engineers to translate design mockups and wireframes into responsive and interactive user interfaces. – Develop reusable UI components and libraries using AngularJS or React framework. – Optimize UI performance for speed and responsiveness, ensuring a seamless user experience across devices and browsers. – Implement best practices for front-end development, including code quality, maintainability, and scalability. – Conduct code reviews and provide feedback to ensure high-quality code standards are maintained. – Stay updated on the latest trends and best practices in front-end development, and incorporate them into your work. – Work closely with cross-functional teams to deliver high-quality UI solutions that meet customer needs and business requirements. Requirements – Bachelor’s or Master’s degree in Computer Science, Engineering, Design, or a related field. – Proven experience in front-end development, with a focus on building user interfaces using AngularJS or React framework. – Proficiency in HTML, CSS, and JavaScript, with a strong understanding of web standards and best practices. – Experience with responsive design principles and techniques, including CSS frameworks like Bootstrap or Material Design. – Familiarity with version control systems such as Git. – Strong problem-solving and troubleshooting skills, with a keen eye for detail. – Excellent communication and collaboration skills, with the ability to work effectively in a cross-functional team environment. Apply Now UI Engineer Resume or Cover letter Upload or drag and drop PDF(Preferred), DOCX, DOC, RTF, TXT, Up To 1MB Upload Ready to Manifest Your Vivid Capabilities? Join Us and Turn Your Potential into Impact! Let’s Connect Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Education Referrals increase your chances of interviewing at iocombats by 2x See who you know",
-      "score": 16,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "HTML"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer, AVP",
-      "company": "NatWest Group",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-avp-at-natwest-group-4449648295",
-      "postedAt": "2026-08-05",
-      "jobId": "4449648295",
-      "description": "Software Engineer, AVP NatWest Group Bengaluru, Karnataka, India 14 hours ago 32 applicants See who NatWest Group has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer, AVP role at NatWest Group Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Join us as a Software Engineer This is an opportunity for a driven Software Engineer to take on an exciting new career challenge Day-to-day, you'll build a wide network of stakeholders of varying levels of seniority It’s a chance to hone your existing technical skills and advance your career We're offering this role at associate vice president level What you'll do In your new role, you’ll engineer and maintain innovative, customer centric, high performance, secure and robust solutions. You’ll be working within a feature team and using your extensive experience to engineer software, scripts and tools that are often complex, as well as liaising with other engineers, architects and business analysts across the platform. You’ll Also Be Producing complex and critical software rapidly and of high quality which adds value to the business Working in permanent teams who are responsible for the full life cycle, from initial development, through enhancement and maintenance to replacement or decommissioning Collaborating to optimise our software engineering capability Designing, producing, testing and implementing our working code Working across the life cycle, from requirements analysis and design, through coding to testing, deployment and operations The skills you'll need You’ll need at least eight years of experience in software engineering, software design, architecture, and an understanding of how your area of expertise supports our customers. You’ll Also Need Extensive experience in test‑driven development, including automated test frameworks such as NUnit and XUnit, and mocking tools, stubbing, and unit testing tools Experience with Azure PaaS services such as Functions, Web Apps, Service Bus, API Gateway, and AKS Experience in React JS and Azure deployments and pipelines Expertise in C# development and common design patterns, including Gang of Four, SOLID principles, and Clean Coding practices Show more Show less Seniority level Not Applicable Employment type Full-time Job function Information Technology Industries Software Development Referrals increase your chances of interviewing at NatWest Group by 2x See who you know",
-      "score": 10,
-      "matchedSkills": [
-        "React"
+        "HTML",
+        "Express"
       ],
       "excluded": false
     }
