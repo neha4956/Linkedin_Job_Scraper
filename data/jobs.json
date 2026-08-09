@@ -1,37 +1,35 @@
 {
-  "generatedAt": "2026-08-08T04:46:53.254Z",
-  "totalScraped": 473,
-  "totalMatched": 20,
+  "generatedAt": "2026-08-09T04:57:11.609Z",
+  "totalScraped": 337,
+  "totalMatched": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer (Mechatronics) (M/F/D)*",
-      "company": "TGW Logistics",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-mechatronics-m-f-d-at-tgw-logistics-4441177201",
-      "postedAt": "2026-08-07",
-      "jobId": "4441177201",
-      "description": "Senior Software Engineer (Mechatronics) (M/F/D)* TGW Logistics Pune Division, Maharashtra, India 19 hours ago 29 applicants See who TGW Logistics has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer (Mechatronics) (M/F/D)* role at TGW Logistics Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job We are looking for a Senior Software Engineer to join our Global Software Engineering &amp; Technology team in Pune, India. In this role, you will design, develop, test, and enhance high-quality software components within the TGW architecture for global warehouse automation solutions.You will work on complex technical modules, contribute to software architecture, collaborate with cross-functional teams, and support the development of scalable, reliable, and high-performance applications. What you'll be handling: Design, develop, and maintain backend applications using .NET technologies. Develop responsive frontend applications using Angular (preferred) or React. Build and integrate RESTful APIs and backend services. Develop software for controlling and monitoring TGW mechatronic systems. Write clean, maintainable, and testable code following engineering best practices. Participate in code reviews and mentor junior developers. Collaborate with Product Owners, QA, Controls Engineering, and global development teams throughout the SDLC. Perform system integration, troubleshooting, and root cause analysis. Contribute to unit, integration, and system testing to ensure software quality and reliability. Support CI/CD, deployment automation, and continuous improvement initiatives. What you'll need: Required Skills 4–8 years of experience in .NET Full Stack development. Strong experience with .NET/.NET Core, ASP.NET Core, C#, and Web APIs. Hands-on experience with Angular (preferred) or React, HTML5, CSS3, JavaScript/TypeScript. Good understanding of REST APIs, Microservices, and distributed systems. Strong knowledge of SQL databases; exposure to NoSQL is an advantage. Good understanding of OOP, SOLID Principles, Design Patterns, and Clean Code. Experience with Git, CI/CD pipelines, Docker, and Kubernetes. Experience working in Agile (Scrum/Kanban) environments. Good to Have Experience with Redis, RabbitMQ, or MQTT. Exposure to Azure or AWS cloud platforms. Knowledge of Domain-Driven Design (DDD). Experience in automation, warehouse management, or industrial software. Qualifications Bachelor's degree in Computer Science, Information Technology, Software Engineering, or a related field. Strong analytical, problem-solving, and communication skills. What you'll receive: Opportunity to work with a global leader in warehouse automation, robotics, and logistics solutions. Training and development programs, including internal learning opportunities and career growth support. Modern work environment with advanced technology and collaborative teams. Flexible working arrangements (availability varies by role and location). International career opportunities across Europe, Asia, and North America. *TGW is an employer that promotes equal opportunities. We invite everybody interested in this job to apply. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering and Information Technology Industries Automation Machinery Manufacturing Referrals increase your chances of interviewing at TGW Logistics by 2x See who you know",
-      "score": 34,
+      "title": "Software Developer - Network Automation",
+      "company": "CrowdStrike",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-network-automation-at-crowdstrike-4433834251",
+      "postedAt": "2026-08-08",
+      "jobId": "4433834251",
+      "description": "Software Developer - Network Automation CrowdStrike Bengaluru, Karnataka, India 19 hours ago 167 applicants See who CrowdStrike has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Developer - Network Automation role at CrowdStrike Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We're proud to work for a mission-driven company leveraging AI to transform the way we work. CrowdStrikers drive their careers through flexibility and autonomy while also being expected to contribute to a culture of responsible AI adoption, experimentation, and innovation. We use an AI-first mindset as a force multiplier to proactively and continuously accelerate execution, build expertise, uncover insights, and solve complex problems. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you. About The Role: CrowdStrike is looking for a network software developer who has a solid track record of building network centric software applications. In this role, you will develop tools to improve automated workflows, create UI portals for partner interactions, develop REST API endpoints, and create and maintain microservices to support our network infrastructure. You will work collaboratively with other teams, network engineers, and leads to provide software solutions to decrease deployment times, improve engineer efficiency, and create self-service tools. What You’ll Do: Supports full lifecycle automated solutions to work with existing and new network technologies running on switches, routers, load balancers, firewalls, and servers Build new features in modern UI Single Page Applications Develop and maintain microservices using Python, Golang, and modern cloud-native technologies Build and enhance gRPC and RESTful APIs Participate in code reviews and provide constructive feedback to other developers Contribute to continuous integration and deployment pipelines Write automated tests for your code Responsible for resolving deployment or tooling outage events and will be part of an On-Call rotation What You’ll Need: 5+ years of experience in software development supporting production networks at-scale Solid understanding of networking concepts and protocols. Experience with front end frameworks such as React/Next.js, Vue, Ember, and Lit Internal tooling development experience, including API development and integration experience Hands-on experience with infrastructure-as-code using tools such as Python, Golang, Ansible, YAML, or Netconf/YANG, Chef, and Terraform Experience in building end to end pipelines with CI tools such as Jenkins, Temporal, etc Hands-on experience with cloud-native technologies like Docker and Kubernetes. Knowledge of CI/CD best practices and tools for improving and maintaining performance and code quality Comprehensive knowledge of design metrics, analytics tools, benchmarking activities, and related reporting to identify best practices. Exposure to Monitoring/Observability/IPAM tools such as: Prometheus, Grafana, Splunk, Netbox, PagerDuty, etc. Experience operating in Linux environments Familiarity with Agile/Scrum methodologies Strong communication and collaboration abilities Strong problem-solving skills and the ability to work well under pressure. Proven experience utilizing AI technologies to enhance decision-making, streamline workflows and processes, improve efficiency and drive business outcomes. Bonus Points: Ability to work varying hours to interface with other teams and leads Experience with automating and deploying distributed network services on Linux servers Exposure to Streams processing using Kafka and data visualization reporting experience using Grafana etc is a plus Authored and led successful open source libraries and projects. Contributions to the open source community (GitHub, Stack Overflow, blogging). Benefits Of Working At CrowdStrike: Market leader in compensation and equity awards Comprehensive physical and mental wellness programs Competitive vacation and holidays for recharge Paid parental and adoption leaves Professional development opportunities for all employees regardless of level or role Employee Networks, geographic neighborhood groups, and volunteer opportunities to build connections Vibrant office culture with world class amenities Great Place to Work Certified™ across the globe CrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program. CrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions--including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on valid job requirements. If you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at recruiting@crowdstrike.com for further assistance. , Bonus Points: Ability to work varying hours to interface with other teams and leads Experience with automating and deploying distributed network services on Linux servers Exposure to Streams processing using Kafka and data visualization reporting experience using Grafana etc is a plus Authored and led successful open source libraries and projects. Contributions to the open source community (GitHub, Stack Overflow, blogging). Show more Show less Seniority level Not Applicable Employment type Full-time Job function Quality Assurance Industries Computer and Network Security Referrals increase your chances of interviewing at CrowdStrike by 2x See who you know",
+      "score": 35,
       "matchedSkills": [
         "React",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
+        "Next.js",
         "REST",
         "Docker",
         "Kubernetes",
-        "CI/CD",
-        "SQL"
+        "Jenkins",
+        "CI/CD"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Full Stack Engineer (React + Node)",
-      "company": "Fractal",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-react-%2B-node-at-fractal-4450349266",
-      "postedAt": "2026-08-07",
-      "jobId": "4450349266",
+      "title": "Full Stack Development (React.js + Node.js) - MERN Internship in Noida",
+      "company": "MeeTri Infotech",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-development-react-js-%2B-node-js-mern-internship-in-noida-at-meetri-infotech-4451315292",
+      "postedAt": "2026-08-09",
+      "jobId": "4451315292",
       "description": "",
       "score": 26,
       "matchedSkills": [
@@ -41,245 +39,27 @@
       "excluded": false
     },
     {
-      "title": "Full Stack Engineer-Node/React/AWS",
-      "company": "Applicantz",
-      "location": "Pune District, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-node-react-aws-at-applicantz-4450073520",
-      "postedAt": "2026-08-07",
-      "jobId": "4450073520",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer- Fullstack",
-      "company": "Cisco",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-fullstack-at-cisco-4433352247",
-      "postedAt": "2026-08-07",
-      "jobId": "4433352247",
-      "description": "Software Engineer- Fullstack Cisco Bengaluru, Karnataka, India 11 hours ago Over 200 applicants See who Cisco has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer- Fullstack role at Cisco Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Meet the Team You will work with a team focused on enabling customers to optimally onboard to Cisco Spaces offers. The team develops custom solutions, internal tools and dashboards, and provides advanced technical support. Your Impact Analyze, design, and build software solutions that enable seamless onboarding to Cisco Spaces offers. Develop monitoring tools and automation scripts. Collaborate with stakeholders to translate customer needs into scalable solutions. Adhere to engineering standards, quality benchmarks, and best practices. Minimum Qualifications Bachelor’s degree in Engineering/Computer Science with 5–9 years of experience. Strong expertise in Java, Kotlin, Angular, React, Node.js, JavaScript, databases (MySQL/MongoDB/Redis/Cassandra), Git, distributed systems, Agile, Linux, cloud platforms, and strong communication skills. Preferred Qualifications Product engineering experience, AWS/cloud expertise, exposure to Agentic AI, adaptability and passion for software development. Why Cisco? At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint. Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere. We are Cisco, and our power starts with you. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Cisco by 2x See who you know",
-      "score": 22,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "Node",
-        "SQL",
-        "MongoDB"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer - Periscope",
-      "company": "McKinsey & Company",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-periscope-at-mckinsey-company-4450726945",
-      "postedAt": "2026-08-07",
-      "jobId": "4450726945",
-      "description": "Software Engineer - Periscope McKinsey &amp; Company Bengaluru, Karnataka, India 11 hours ago 112 applicants See who McKinsey &amp; Company has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer - Periscope role at McKinsey &amp; Company Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Who You'll Work With Driving lasting impact and building long-term capabilities with our clients is not easy work. You are the kind of person who thrives in a high performance/high reward culture - doing hard things, picking yourself up when you stumble, and having the resilience to try another way forward. In return for your drive, determination, and curiosity, we'll provide the resources, mentorship, and opportunities you need to become a stronger leader faster than you ever thought possible. Your colleagues—at all levels—will invest deeply in your development, just as much as they invest in delivering exceptional results for clients. Every day, you’ll receive apprenticeship, coaching, and exposure that will accelerate your growth in ways you won’t find anywhere else. When you join us, you will have: Continuous learning: Our learning and apprenticeship culture, backed by structured programs, is all about helping you grow while creating an environment where feedback is clear, actionable, and focused on your development. The real magic happens when you take the input from others to heart and embrace the fast-paced learning experience, owning your journey. A voice that matters: From day one, we value your ideas and contributions. You’ll make a tangible impact by offering innovative ideas and practical solutions. We not only encourage diverse perspectives, but they are critical in driving us toward the best possible outcomes. Global community: With colleagues across 65+ countries and over 100 different nationalities, our firm’s diversity fuels creativity and helps us come up with the best solutions for our clients. Plus, you’ll have the opportunity to learn from exceptional colleagues with diverse backgrounds and experiences. World-class benefits: On top of a competitive salary (based on your location, experience, and skills), we provide a comprehensive benefits package to enable holistic well-being for you and your family. Your Impact You will be involved in leading software development projects in a hands-on manner. You will spend about 70% of your time writing and reviewing code and creating software designs. Your expertise will expand into database design, core middle tier modules, performance tuning, cloud technologies, DevOps, and continuous delivery domains over time. You will be an active learner, tinkering with new open-source libraries, using unfamiliar technologies without supervision, and learning frameworks and approaches. You will have a strong understanding of key agile engineering practices to guide teams on improvement opportunities in their engineering practices. You will provide ongoing coaching and mentoring to the developers to improve our organizational capability. You will be based in our Bengaluru or Gurugram office as part of our Growth, Marketing &amp; Sales team. You will be a core member of Periscope’s technology team with responsibilities that range from developing and implementing our core enterprise products to ensuring that McKinsey’s craft stays on the leading edge of technology. Periscope® By McKinsey enables better commercial decisions by uncovering actionable insights. The Periscope platform combines world leading intellectual property, prescriptive analytics, and cloud-based tools to provide more than 25 solutions focused on insights and marketing, with expert support and training. It is a unique combination that drives revenue growth both now and in the future. Customer experience, performance, pricing, category, and sales optimization are powered by the Periscope platform. Periscope has a presence in 26 locations across 16 countries with a team of 1000+ business and IT professionals and a network of 300+ experts. To learn more about how Periscope’s solutions and experts are helping businesses continually drive better performance, visit their site. Your Qualifications and Skills A degree in computer science or a related field 3+ years' experience in software development, particularly in designing and implementing complex enterprise systems that handle large-scale data processing Experience in frontend and backend development with a good understanding of React.js, Node.js and its core principles Demonstrable experience with relational databases such as SQL Server, PostgreSQL and NoSQL databases such as Mongo, Cosmos and Elastic search Proficient in cloud infrastructure, with a strong preference for experience in Azure and/or AWS environments Skilled in the use of container technologies including Docker and Kubernetes, with experience in containerizing Node.js or Spark applications and managing them in production environments Good to have experience in SAAS platforms Proficient in modern engineering practices including code refactoring, application of design patterns, design-driven development, continuous integration, scalability of applications, and application security Familiar with the Agile software development methodology and proficient with performance optimization tools Excellent analytical and problem-solving skills, with a proven track record of developing innovative and efficient solutions Strong focus on customer service and quality, with the ability to work independently as well as collaboratively in diverse team settings; prior experience leading a small team is advantageous Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Consulting, Engineering, and Information Technology Industries Software Development and IT Services and IT Consulting Referrals increase your chances of interviewing at McKinsey &amp; Company by 2x See who you know",
-      "score": 22,
-      "matchedSkills": [
-        "React",
-        "Node",
-        "Docker",
-        "Kubernetes",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer III - React AWS",
-      "company": "JPMorganChase",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-react-aws-at-jpmorganchase-4451033187",
+      "title": "Full Stack Developer Intern - React & Node JS",
+      "company": "Interloop - Zoho Partner| Manage Engine | Managed HR Services",
+      "location": "Delhi, Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-react-node-js-at-interloop-zoho-partner-manage-engine-managed-hr-services-4451081170",
       "postedAt": "2026-08-08",
-      "jobId": "4451033187",
+      "jobId": "4451081170",
       "description": "",
-      "score": 20,
+      "score": 26,
       "matchedSkills": [
-        "React"
+        "React",
+        "Node"
       ],
       "excluded": false
     },
     {
-      "title": "React Developer",
-      "company": "Pace Wisdom Solutions",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-pace-wisdom-solutions-4448779714",
-      "postedAt": "2026-08-07",
-      "jobId": "4448779714",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Frontend Engineer",
-      "company": "Uplers",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-frontend-engineer-at-uplers-4450705950",
-      "postedAt": "2026-08-07",
-      "jobId": "4450705950",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "MODULE LEAD - React JS",
+      "title": "TECHNICAL LEAD - ReactJS",
       "company": "Happiest Minds Technologies",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/module-lead-react-js-at-happiest-minds-technologies-4448773665",
-      "postedAt": "2026-08-07",
-      "jobId": "4448773665",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead Reactjs Developer",
-      "company": "Trigent Software - Professional Services",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-reactjs-developer-at-trigent-software-professional-services-4450079370",
-      "postedAt": "2026-08-07",
-      "jobId": "4450079370",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Advanced Engineer Software - React Native [T500-28321]",
-      "company": "Albertsons Companies India",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/advanced-engineer-software-react-native-t500-28321-at-albertsons-companies-india-4450686607",
-      "postedAt": "2026-08-07",
-      "jobId": "4450686607",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Engineer Software - React Native [T500-28328]",
-      "company": "Albertsons Companies India",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-engineer-software-react-native-t500-28328-at-albertsons-companies-india-4450702439",
-      "postedAt": "2026-08-07",
-      "jobId": "4450702439",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Software Engineer (ROR+React)",
-      "company": "BigStep Technologies",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-ror%2Breact-at-bigstep-technologies-4448748870",
-      "postedAt": "2026-08-07",
-      "jobId": "4448748870",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Engineering Manager (Reactjs/Nextjs)",
-      "company": "Gartner",
-      "location": "Gurgaon, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/engineering-manager-reactjs-nextjs-at-gartner-4430025091",
-      "postedAt": "2026-08-07",
-      "jobId": "4430025091",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead React Native Developer",
-      "company": "Oolio",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-react-native-developer-at-oolio-4448745876",
-      "postedAt": "2026-08-07",
-      "jobId": "4448745876",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Web UI Developer (React)",
-      "company": "NonStop io Technologies",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/web-ui-developer-react-at-nonstop-io-technologies-4449201324",
-      "postedAt": "2026-08-07",
-      "jobId": "4449201324",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Frontend Developer:(Angular, ReactJs)",
-      "company": "Averta Strategy Pvt Ltd",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/frontend-developer-angular-reactjs-at-averta-strategy-pvt-ltd-4450379368",
-      "postedAt": "2026-08-07",
-      "jobId": "4450379368",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Full Stack Engineer (ReactJS + Dot Net)",
-      "company": "Fractal",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-reactjs-%2B-dot-net-at-fractal-4332241466",
-      "postedAt": "2026-08-07",
-      "jobId": "4332241466",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Mars Telecom Systems - Senior Full Stack Engineer - .Net/React.js",
-      "company": "MARS Telecom Systems Pvt. Ltd.",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/mars-telecom-systems-senior-full-stack-engineer-net-react-js-at-mars-telecom-systems-pvt-ltd-4450508641",
+      "url": "https://in.linkedin.com/jobs/view/technical-lead-reactjs-at-happiest-minds-technologies-4451054008",
       "postedAt": "2026-08-08",
-      "jobId": "4450508641",
+      "jobId": "4451054008",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -288,12 +68,68 @@
       "excluded": false
     },
     {
-      "title": "React JS Developer",
-      "company": "iocombats",
+      "title": "React JS",
+      "company": "BigAppCompany",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-iocombats-4450304312",
-      "postedAt": "2026-08-07",
-      "jobId": "4450304312",
+      "url": "https://in.linkedin.com/jobs/view/react-js-at-bigappcompany-4450578757",
+      "postedAt": "2026-08-08",
+      "jobId": "4450578757",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "UI Specialist - Angular / React Job",
+      "company": "YASH Technologies Middle East",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/ui-specialist-angular-react-job-at-yash-technologies-middle-east-4449283054",
+      "postedAt": "2026-08-09",
+      "jobId": "4449283054",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer (Fintech)",
+      "company": "Real Jobs Consulting Services",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-fintech-at-real-jobs-consulting-services-4450577716",
+      "postedAt": "2026-08-08",
+      "jobId": "4450577716",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Sr. React Native developer",
+      "company": "Bluelupin Technologies Pvt. Ltd.",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-react-native-developer-at-bluelupin-technologies-pvt-ltd-4449264259",
+      "postedAt": "2026-08-08",
+      "jobId": "4449264259",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Frontend (React) Engineering Lead - AITDS",
+      "company": "Cognizant",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/frontend-react-engineering-lead-aitds-at-cognizant-4414469117",
+      "postedAt": "2026-08-08",
+      "jobId": "4414469117",
       "description": "",
       "score": 20,
       "matchedSkills": [
