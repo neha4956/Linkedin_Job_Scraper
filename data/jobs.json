@@ -1,35 +1,15 @@
 {
-  "generatedAt": "2026-08-09T04:57:11.609Z",
-  "totalScraped": 337,
-  "totalMatched": 9,
+  "generatedAt": "2026-08-10T05:16:11.973Z",
+  "totalScraped": 280,
+  "totalMatched": 12,
   "jobs": [
     {
-      "title": "Software Developer - Network Automation",
-      "company": "CrowdStrike",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-developer-network-automation-at-crowdstrike-4433834251",
-      "postedAt": "2026-08-08",
-      "jobId": "4433834251",
-      "description": "Software Developer - Network Automation CrowdStrike Bengaluru, Karnataka, India 19 hours ago 167 applicants See who CrowdStrike has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Developer - Network Automation role at CrowdStrike Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses running, their communities safe and their lives moving forward. We're proud to work for a mission-driven company leveraging AI to transform the way we work. CrowdStrikers drive their careers through flexibility and autonomy while also being expected to contribute to a culture of responsible AI adoption, experimentation, and innovation. We use an AI-first mindset as a force multiplier to proactively and continuously accelerate execution, build expertise, uncover insights, and solve complex problems. We’re always looking to add talented CrowdStrikers to the team who have limitless passion, a relentless focus on innovation and a fanatical commitment to our customers, our community and each other. Ready to join a mission that matters? The future of cybersecurity starts with you. About The Role: CrowdStrike is looking for a network software developer who has a solid track record of building network centric software applications. In this role, you will develop tools to improve automated workflows, create UI portals for partner interactions, develop REST API endpoints, and create and maintain microservices to support our network infrastructure. You will work collaboratively with other teams, network engineers, and leads to provide software solutions to decrease deployment times, improve engineer efficiency, and create self-service tools. What You’ll Do: Supports full lifecycle automated solutions to work with existing and new network technologies running on switches, routers, load balancers, firewalls, and servers Build new features in modern UI Single Page Applications Develop and maintain microservices using Python, Golang, and modern cloud-native technologies Build and enhance gRPC and RESTful APIs Participate in code reviews and provide constructive feedback to other developers Contribute to continuous integration and deployment pipelines Write automated tests for your code Responsible for resolving deployment or tooling outage events and will be part of an On-Call rotation What You’ll Need: 5+ years of experience in software development supporting production networks at-scale Solid understanding of networking concepts and protocols. Experience with front end frameworks such as React/Next.js, Vue, Ember, and Lit Internal tooling development experience, including API development and integration experience Hands-on experience with infrastructure-as-code using tools such as Python, Golang, Ansible, YAML, or Netconf/YANG, Chef, and Terraform Experience in building end to end pipelines with CI tools such as Jenkins, Temporal, etc Hands-on experience with cloud-native technologies like Docker and Kubernetes. Knowledge of CI/CD best practices and tools for improving and maintaining performance and code quality Comprehensive knowledge of design metrics, analytics tools, benchmarking activities, and related reporting to identify best practices. Exposure to Monitoring/Observability/IPAM tools such as: Prometheus, Grafana, Splunk, Netbox, PagerDuty, etc. Experience operating in Linux environments Familiarity with Agile/Scrum methodologies Strong communication and collaboration abilities Strong problem-solving skills and the ability to work well under pressure. Proven experience utilizing AI technologies to enhance decision-making, streamline workflows and processes, improve efficiency and drive business outcomes. Bonus Points: Ability to work varying hours to interface with other teams and leads Experience with automating and deploying distributed network services on Linux servers Exposure to Streams processing using Kafka and data visualization reporting experience using Grafana etc is a plus Authored and led successful open source libraries and projects. Contributions to the open source community (GitHub, Stack Overflow, blogging). Benefits Of Working At CrowdStrike: Market leader in compensation and equity awards Comprehensive physical and mental wellness programs Competitive vacation and holidays for recharge Paid parental and adoption leaves Professional development opportunities for all employees regardless of level or role Employee Networks, geographic neighborhood groups, and volunteer opportunities to build connections Vibrant office culture with world class amenities Great Place to Work Certified™ across the globe CrowdStrike is proud to be an equal opportunity employer. We are committed to fostering a culture of belonging where everyone is valued for who they are and empowered to succeed. We support veterans and individuals with disabilities through our affirmative action program. CrowdStrike is committed to providing equal employment opportunity for all employees and applicants for employment. The Company does not discriminate in employment opportunities or practices on the basis of race, color, creed, ethnicity, religion, sex (including pregnancy or pregnancy-related medical conditions), sexual orientation, gender identity, marital or family status, veteran status, age, national origin, ancestry, physical disability (including HIV and AIDS), mental disability, medical condition, genetic information, membership or activity in a local human rights commission, status with regard to public assistance, or any other characteristic protected by law. We base all employment decisions--including recruitment, selection, training, compensation, benefits, discipline, promotions, transfers, lay-offs, return from lay-off, terminations and social/recreational programs--on valid job requirements. If you need assistance accessing or reviewing the information on this website or need help submitting an application for employment or requesting an accommodation, please contact us at recruiting@crowdstrike.com for further assistance. , Bonus Points: Ability to work varying hours to interface with other teams and leads Experience with automating and deploying distributed network services on Linux servers Exposure to Streams processing using Kafka and data visualization reporting experience using Grafana etc is a plus Authored and led successful open source libraries and projects. Contributions to the open source community (GitHub, Stack Overflow, blogging). Show more Show less Seniority level Not Applicable Employment type Full-time Job function Quality Assurance Industries Computer and Network Security Referrals increase your chances of interviewing at CrowdStrike by 2x See who you know",
-      "score": 35,
-      "matchedSkills": [
-        "React",
-        "Next.js",
-        "REST",
-        "Docker",
-        "Kubernetes",
-        "Jenkins",
-        "CI/CD"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full Stack Development (React.js + Node.js) - MERN Internship in Noida",
-      "company": "MeeTri Infotech",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-development-react-js-%2B-node-js-mern-internship-in-noida-at-meetri-infotech-4451315292",
-      "postedAt": "2026-08-09",
-      "jobId": "4451315292",
+      "title": "Full Stack Engineer-Node/React/AWS",
+      "company": "Applicantz",
+      "location": "Pune District, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-node-react-aws-at-applicantz-4451388174",
+      "postedAt": "2026-08-10",
+      "jobId": "4451388174",
       "description": "",
       "score": 26,
       "matchedSkills": [
@@ -40,11 +20,11 @@
     },
     {
       "title": "Full Stack Developer Intern - React & Node JS",
-      "company": "Interloop - Zoho Partner| Manage Engine | Managed HR Services",
-      "location": "Delhi, Delhi, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-react-node-js-at-interloop-zoho-partner-manage-engine-managed-hr-services-4451081170",
-      "postedAt": "2026-08-08",
-      "jobId": "4451081170",
+      "company": "iocombats",
+      "location": "Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-react-node-js-at-iocombats-4451357743",
+      "postedAt": "2026-08-09",
+      "jobId": "4451357743",
       "description": "",
       "score": 26,
       "matchedSkills": [
@@ -54,12 +34,12 @@
       "excluded": false
     },
     {
-      "title": "TECHNICAL LEAD - ReactJS",
-      "company": "Happiest Minds Technologies",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/technical-lead-reactjs-at-happiest-minds-technologies-4451054008",
-      "postedAt": "2026-08-08",
-      "jobId": "4451054008",
+      "title": "React JS Developer",
+      "company": "Infosys",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4450935928",
+      "postedAt": "2026-08-09",
+      "jobId": "4450935928",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -68,12 +48,26 @@
       "excluded": false
     },
     {
-      "title": "React JS",
-      "company": "BigAppCompany",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-at-bigappcompany-4450578757",
-      "postedAt": "2026-08-08",
-      "jobId": "4450578757",
+      "title": "React JS Developer",
+      "company": "Infosys",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4450943862",
+      "postedAt": "2026-08-09",
+      "jobId": "4450943862",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React.js Developer",
+      "company": "Infosys",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4433471833",
+      "postedAt": "2026-08-09",
+      "jobId": "4433471833",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -83,11 +77,11 @@
     },
     {
       "title": "UI Specialist - Angular / React Job",
-      "company": "YASH Technologies Middle East",
+      "company": "iocombats",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/ui-specialist-angular-react-job-at-yash-technologies-middle-east-4449283054",
+      "url": "https://in.linkedin.com/jobs/view/ui-specialist-angular-react-job-at-iocombats-4451364590",
       "postedAt": "2026-08-09",
-      "jobId": "4449283054",
+      "jobId": "4451364590",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -96,12 +90,40 @@
       "excluded": false
     },
     {
-      "title": "React Native Developer (Fintech)",
-      "company": "Real Jobs Consulting Services",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-fintech-at-real-jobs-consulting-services-4450577716",
-      "postedAt": "2026-08-08",
-      "jobId": "4450577716",
+      "title": "Sr. Software Engineer - ReactJS Job",
+      "company": "YASH Technologies Middle East",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-software-engineer-reactjs-job-at-yash-technologies-middle-east-4449524431",
+      "postedAt": "2026-08-10",
+      "jobId": "4449524431",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Developer",
+      "company": "HuntingCube",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-huntingcube-4451353052",
+      "postedAt": "2026-08-09",
+      "jobId": "4451353052",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-infosys-4433473777",
+      "postedAt": "2026-08-09",
+      "jobId": "4433473777",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -111,11 +133,11 @@
     },
     {
       "title": "Sr. React Native developer",
-      "company": "Bluelupin Technologies Pvt. Ltd.",
+      "company": "iocombats",
       "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-react-native-developer-at-bluelupin-technologies-pvt-ltd-4449264259",
-      "postedAt": "2026-08-08",
-      "jobId": "4449264259",
+      "url": "https://in.linkedin.com/jobs/view/sr-react-native-developer-at-iocombats-4451356773",
+      "postedAt": "2026-08-09",
+      "jobId": "4451356773",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -124,12 +146,26 @@
       "excluded": false
     },
     {
-      "title": "Frontend (React) Engineering Lead - AITDS",
-      "company": "Cognizant",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/frontend-react-engineering-lead-aitds-at-cognizant-4414469117",
-      "postedAt": "2026-08-08",
-      "jobId": "4414469117",
+      "title": "Senior UI Developer - Angular or React JS - Assistant Vice Presient",
+      "company": "Citi",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-ui-developer-angular-or-react-js-assistant-vice-presient-at-citi-4393002633",
+      "postedAt": "2026-08-09",
+      "jobId": "4393002633",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior React Developer",
+      "company": "hackajob",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-developer-at-hackajob-4424035065",
+      "postedAt": "2026-08-09",
+      "jobId": "4424035065",
       "description": "",
       "score": 20,
       "matchedSkills": [
