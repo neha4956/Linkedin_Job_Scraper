@@ -1,29 +1,76 @@
 {
-  "generatedAt": "2026-08-17T04:22:39.988Z",
-  "totalScraped": 253,
-  "totalMatched": 8,
+  "generatedAt": "2026-08-18T04:18:10.925Z",
+  "totalScraped": 408,
+  "totalMatched": 23,
   "jobs": [
     {
-      "title": "AI-Driven - Full Stack Engineer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/ai-driven-full-stack-engineer-at-infosys-4416379939",
-      "postedAt": "2026-08-16",
-      "jobId": "4416379939",
-      "description": "AI-Driven - Full Stack Engineer Infosys Bengaluru East, Karnataka, India 14 hours ago Over 200 applicants See who Infosys has hired for this role Apply Join or sign in to find your next job Join to apply for the AI-Driven - Full Stack Engineer role at Infosys Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save AI-Driven - Full Stack Engineer at Infosys Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . AI ENGINEERING REQUIREMENTS High proficiency using AI coding agents (GitHub Copilot, Claude Code) with a strong understanding of AI-driven and AI-managed coding workflows. Solid grounding in prompt engineering — structuring, iterating, and validating prompts for consistent, production-quality code generation. Hands-on experience designing and constructing AI coding agent customisations: agents, skills, hooks, MCP servers, and plugins. CORE SKILLS &amp; QUALIFICATIONS Frontend React / Angular (micro-frontend architecture with single-spa / Module Federation) TypeScript, HTML5, CSS Unit testing: Jasmine, Karma, Jest Backend &amp; Integration Java (Spring Boot / Spring Cloud) — primary backend services Node.js — lightweight APIs and integration services RESTful APIs &amp; microservices architecture KEY RESPONSIBILITIES Design, build, and deliver end-to-end features across React/Angular frontends and Java/Node.js microservices, integrated with REST APIs and Kafka-based event streams. Own prompt structuring, validation, and refinement for AI-generated code — ensuring correctness, security compliance, and adherence to Citizens' engineering standards. Leverage AI coding agents (GitHub Copilot, Claude Code) by authoring customisations — agents, skills, hooks, MCP servers, and plugins — to accelerate development without sacrificing quality. Build multi-agent AI applications using Agent SDKs to orchestrate workflows where agents collaborate or hand off tasks to each other. Implement and champion test-driven development (TDD) across unit, integration, and contract testing layers using Jasmine/Jest/Karma. Contribute to and improve CI/CD pipelines (Jenkins, Azure DevOps, GitHub Actions) and cloud-native deployments on AWS/Azure using Docker and Kubernetes (AKS/EKS). Maintain observability standards — structured logging (ELK/Datadog), alerting (Prometheus/Grafana/AppDynamics), and performance profiling. Collaborate with product, design, and architecture teams to translate business goals into scalable, compliant technical solutions. Manage parallel workstreams and evolving requirements, ensuring incremental and continuous value delivery through agile practices. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Infosys by 2x See who you know",
+      "title": "Frontend Developer (Next.js, React.js)",
+      "company": "GrubPac Technologies",
+      "location": "Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/frontend-developer-next-js-react-js-at-grubpac-technologies-4454241134",
+      "postedAt": "2026-08-17",
+      "jobId": "4454241134",
+      "description": "",
       "score": 40,
       "matchedSkills": [
         "React",
+        "Next.js"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer - Frontend (React + Node/NextJS + Typescript)",
+      "company": "Gartner",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-frontend-react-%2B-node-nextjs-%2B-typescript-at-gartner-4454420670",
+      "postedAt": "2026-08-17",
+      "jobId": "4454420670",
+      "description": "",
+      "score": 32,
+      "matchedSkills": [
+        "React",
         "TypeScript",
-        "Module Federation",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Sr Mobile - Developer",
+      "company": "Bajaj Capital Ltd",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-mobile-developer-at-bajaj-capital-ltd-4452230096",
+      "postedAt": "2026-08-17",
+      "jobId": "4452230096",
+      "description": "Sr Mobile - Developer Bajaj Capital Ltd Gurugram, Haryana, India 21 hours ago Over 200 applicants See who Bajaj Capital Ltd has hired for this role Apply Save Report this job Direct message the job poster from Bajaj Capital Ltd Gaurav S. Gaurav S. Associate Vice President - Talent Acquisition BAJAJ CAPITAL LIMITED Job Description Senior Mobile Developer — React Native Gurgaon | Full-Time About Bajaj Capital Bajaj Capital is building the next generation of mobile-first financial products used by millions of investors across India. Our mobile engineering team delivers AI-augmented wealth management, investment, and insurance experiences on iOS and Android. Role Overview We are looking for a Senior Mobile Developer with deep React Native expertise to lead feature development on our investor-facing and advisor-facing mobile applications. You will own critical mobile modules end-to-end — from architecture through App Store release — and actively integrate AI capabilities into the mobile experience. Key Responsibilities Design and develop high-quality, production-grade React Native features for iOS and Android apps serving retail investors and wealth advisors. Own module-level architecture decisions: navigation, state management, offline handling, performance optimisation, and security. Integrate with backend APIs for real-time portfolio data, transaction processing, KYC workflows (Digilocker, V-CIP, eSign), UPI, and payment flows. Implement AI-powered mobile features: intelligent recommendations, conversational interfaces, AI-assisted portfolio insights, and smart alerts. Write unit tests, integration tests, and E2E tests; maintain high coverage on critical modules. Conduct thorough code reviews; mentor junior and mid-level mobile engineers. Optimise app performance: startup time, frame rates, memory profiling, and battery usage. Manage app release pipelines: CI/CD, TestFlight/Play Console beta, App Store/Play Store deployment, and OTA updates. Collaborate with Product, Design (Figma), and Backend teams in Agile sprints. Required Qualifications 4–8 years of mobile development experience with 3+ years in production React Native apps. Strong JavaScript/TypeScript fundamentals; deep understanding of React hooks, context, and performance patterns. Experience with state management (Redux Toolkit, Zustand, or Jotai) and navigation (React Navigation v6+). Hands-on with native modules/bridging when React Native abstractions are insufficient. Experience with mobile CI/CD (Fastlane, GitHub Actions, Bitrise, or equivalent). Knowledge of mobile app security: certificate pinning, biometric auth, secure storage, jailbreak/root detection. B.Tech / B.E. in Computer Science or equivalent from a reputed institution. Good to Have Experience in fintech or BFSI mobile apps — MF transaction apps, trading apps, insurance apps, or payment apps. Familiarity with SEBI/AMFI/IRDAI compliance requirements for digital financial products. Exposure to LLM integration on mobile: streaming responses or AI assistant UX patterns. Experience with React Native New Architecture (Fabric, JSI, TurboModules). AI Expectations Use AI coding assistants (GitHub Copilot, Cursor, Claude) as standard daily practice. Actively propose and prototype AI-powered mobile features: smart search, chatbots, personalised nudges, intelligent onboarding. Drive AI adoption within the mobile team through AI-assisted tests, documentation, and code review. Candidate should apply Between the Compensation range( 12 LPA- 17 LPA) Regards Gaurav Singh Show more Show less Seniority level Associate Employment type Full-time Job function Engineering Industries Financial Services Referrals increase your chances of interviewing at Bajaj Capital Ltd by 2x See who you know",
+      "score": 32,
+      "matchedSkills": [
+        "React",
+        "Redux",
+        "JavaScript",
+        "TypeScript",
+        "Jotai",
+        "CI/CD"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Product & Platform Engineer",
+      "company": "Accenture in India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-product-platform-engineer-at-accenture-in-india-4455367648",
+      "postedAt": "2026-08-17",
+      "jobId": "4455367648",
+      "description": "Software Product &amp; Platform Engineer Accenture in India Bengaluru, Karnataka, India 7 hours ago Be among the first 25 applicants See who Accenture in India has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Product &amp; Platform Engineer role at Accenture in India Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Job Title - Software Prod &amp; Plat Engineer Management Level: 09 Location: Bengaluru / Gurugram Must have skills: Backend Development (Java / Golang / Node.js / C#), Docker, AWS, Relational Databases (PostgreSQL / MySQL), Unit &amp; Integration Testing, hands-on experience with AI coding tools (Cursor / Claude), strong Computer Science fundamentals Good to have skills: Kubernetes, Frontend Development (React / Angular / HTML), building custom AI skills / tools Experience: Minimum 5 year(s) of experience is required Educational Qualification: B.Tech / BE from a Tier-1 institute (IIT / NIT / BITS / IIIT or equivalent top-tier college) Job Summary: We don't want you typing - we want you thinking; let AI be your typist. As a Software Prod &amp; Plat Engineer at Accenture LearnVantage (ALV), you'll be a hands-on, AI-native engineer who builds and owns components, uses AI agents to move fast, and applies rigorous and responsible judgment to the code you ship. With strong CS fundamentals, you pick up new languages and stacks quickly and aren't afraid of unfamiliar territory. Roles &amp; Responsibilities: Build and own backend components and features, hands-on in code, with growing independence. Use AI development tools (Cursor / Claude) day in, day out to accelerate delivery - rigorously and responsibly, reviewing and verifying what ships. Write unit and integration tests; follow strong engineering hygiene (Git, CI/CD, deployments). Collaborate across the team to convert requirements into working, well-tested solutions. Continuously learn - new languages, tools, and parts of the stack - grounded in CS fundamentals. Professional &amp; Technical Skills: Must To Have Skills: Hands-on backend development in a widely used language (Java / Golang / Node.js / C#), backed by solid CS fundamentals. Hands-on experience with Docker, AWS, and relational databases (PostgreSQL / MySQL). First-hand experience writing unit and integration tests. Demonstrable, current use of AI coding tools (Cursor / Claude). Good to have: Kubernetes, and working knowledge of frontend development (React / Angular / HTML). Additional Information: The ideal candidate is a hands-on, AI-native go-getter who brings solutions and interesting questions. This position is based at our Bengaluru / Gurugram office Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Accenture in India by 2x See who you know",
+      "score": 31,
+      "matchedSkills": [
+        "React",
         "HTML",
         "Node",
         "REST",
         "Docker",
         "Kubernetes",
-        "Jenkins",
         "CI/CD",
-        "Jest"
+        "SQL"
       ],
       "excluded": false
     },
@@ -32,9 +79,9 @@
       "company": "Siemens Healthineers",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://in.linkedin.com/jobs/view/ai-native-software-developer-at-siemens-healthineers-4440148609",
-      "postedAt": "2026-08-17",
+      "postedAt": "2026-08-18",
       "jobId": "4440148609",
-      "description": "AI-Native Software Developer Siemens Healthineers Bengaluru, Karnataka, India 2 hours ago Over 200 applicants See who Siemens Healthineers has hired for this role Apply Join or sign in to find your next job Join to apply for the AI-Native Software Developer role at Siemens Healthineers Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save AI-Native Software Developer at Siemens Healthineers Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . About Siemens Healthineers At Siemens Healthineers, we pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Our purpose is to empower healthcare providers with innovative, reliable, and intelligent technologies that improve patient outcomes and make healthcare more accessible. By combining advanced medical devices, intelligent software, and modern engineering practices, we build solutions that address real-world healthcare challenges while ensuring sustainability and long-term impact. As AI transforms the way software is engineered and experienced, we are looking for AI-Native Software Developers who can leverage AI throughout the software development lifecycle while building secure, scalable, and intelligent healthcare applications. Role Overview As an AI-Native Software Developer, you will design, develop, and maintain high-quality software while effectively leveraging AI to accelerate engineering productivity and enhance software capabilities. You will integrate AI-powered services into applications, validate AI-generated outputs, and apply responsible AI principles to deliver reliable, secure, and scalable healthcare solutions. You will collaborate with cross-functional teams to deliver innovative products while continuously adopting emerging AI technologies and modern engineering practices. Key Responsibilities Analyze business and technical requirements and identify opportunities to incorporate AI capabilities where they add value. Design, develop, and maintain secure, scalable, and high-quality software solutions using modern engineering practices. Leverage AI-assisted engineering practices to improve productivity while validating AI-generated code, tests, and documentation. Integrate AI-powered features, services, or intelligent agents into applications using enterprise AI platforms and context engineering principles. Ensure software quality, reliability, and performance through automated testing, continuous delivery, and validation of AI-enabled features. Apply secure coding and responsible AI practices to ensure privacy, compliance, and trustworthy AI solutions. Collaborate across global teams and continuously adopt emerging technologies to drive engineering excellence. Qualifications Bachelor's or Master's degree in Computer Science/Software Engineering/Information Technology, or related discipline. 4-7 years of experience in software development using modern engineering practices. Strong understanding of software architecture, object-oriented design, and design patterns. Experience developing enterprise-scale cloud-native applications. Technical Skills Software Engineering C# , .NET / .NET Core REST APIs, Microservices Angular / React / JavaScript / TypeScript /HTML5 / CSS Cloud &amp; DevOps Microsoft Azure (preferred) Docker / Kubernetes Azure DevOps, CI/CD pipelines Infrastructure as Code (desirable) AI Engineering Experience integrating AI services or Large Language Models into applications. Familiarity with AI-assisted software development tools (e.g., GitHub Copilot or equivalent). Understanding of context engineering principles for enterprise AI applications. Knowledge of Retrieval-Augmented Generation (RAG) concepts and AI orchestration frameworks is desirable. Familiarity with AI evaluation, guardrails, and responsible AI practices. Software Quality Test automation TDD / BDD Secure coding Performance optimization Observability and monitoring Behavioral Competencies Strong analytical and problem-solving skills. Growth mindset with passion for continuous learning. Ability to effectively collaborate across global teams. Strong communication and stakeholder management skills. Ability to balance engineering excellence with rapid innovation. Ownership mindset and commitment to delivering customer value. Preferred Qualifications Experience developing healthcare software or regulated products. Familiarity with medical device software standards and secure software development practices. Exposure to AI agents, workflow automation, or enterprise AI platforms. Contributions to open-source projects or developer communities are an advantage. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Research Industries Medical Equipment Manufacturing, Hospitals and Health Care, and Biotechnology Research Referrals increase your chances of interviewing at Siemens Healthineers by 2x See who you know",
+      "description": "AI-Native Software Developer Siemens Healthineers Bengaluru, Karnataka, India 4 hours ago Over 200 applicants See who Siemens Healthineers has hired for this role Apply Join or sign in to find your next job Join to apply for the AI-Native Software Developer role at Siemens Healthineers Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job About Siemens Healthineers At Siemens Healthineers, we pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Our purpose is to empower healthcare providers with innovative, reliable, and intelligent technologies that improve patient outcomes and make healthcare more accessible. By combining advanced medical devices, intelligent software, and modern engineering practices, we build solutions that address real-world healthcare challenges while ensuring sustainability and long-term impact. As AI transforms the way software is engineered and experienced, we are looking for AI-Native Software Developers who can leverage AI throughout the software development lifecycle while building secure, scalable, and intelligent healthcare applications. Role Overview As an AI-Native Software Developer, you will design, develop, and maintain high-quality software while effectively leveraging AI to accelerate engineering productivity and enhance software capabilities. You will integrate AI-powered services into applications, validate AI-generated outputs, and apply responsible AI principles to deliver reliable, secure, and scalable healthcare solutions. You will collaborate with cross-functional teams to deliver innovative products while continuously adopting emerging AI technologies and modern engineering practices. Key Responsibilities Analyze business and technical requirements and identify opportunities to incorporate AI capabilities where they add value. Design, develop, and maintain secure, scalable, and high-quality software solutions using modern engineering practices. Leverage AI-assisted engineering practices to improve productivity while validating AI-generated code, tests, and documentation. Integrate AI-powered features, services, or intelligent agents into applications using enterprise AI platforms and context engineering principles. Ensure software quality, reliability, and performance through automated testing, continuous delivery, and validation of AI-enabled features. Apply secure coding and responsible AI practices to ensure privacy, compliance, and trustworthy AI solutions. Collaborate across global teams and continuously adopt emerging technologies to drive engineering excellence. Qualifications Bachelor's or Master's degree in Computer Science/Software Engineering/Information Technology, or related discipline. 4-7 years of experience in software development using modern engineering practices. Strong understanding of software architecture, object-oriented design, and design patterns. Experience developing enterprise-scale cloud-native applications. Technical Skills Software Engineering C# , .NET / .NET Core REST APIs, Microservices Angular / React / JavaScript / TypeScript /HTML5 / CSS Cloud &amp; DevOps Microsoft Azure (preferred) Docker / Kubernetes Azure DevOps, CI/CD pipelines Infrastructure as Code (desirable) AI Engineering Experience integrating AI services or Large Language Models into applications. Familiarity with AI-assisted software development tools (e.g., GitHub Copilot or equivalent). Understanding of context engineering principles for enterprise AI applications. Knowledge of Retrieval-Augmented Generation (RAG) concepts and AI orchestration frameworks is desirable. Familiarity with AI evaluation, guardrails, and responsible AI practices. Software Quality Test automation TDD / BDD Secure coding Performance optimization Observability and monitoring Behavioral Competencies Strong analytical and problem-solving skills. Growth mindset with passion for continuous learning. Ability to effectively collaborate across global teams. Strong communication and stakeholder management skills. Ability to balance engineering excellence with rapid innovation. Ownership mindset and commitment to delivering customer value. Preferred Qualifications Experience developing healthcare software or regulated products. Familiarity with medical device software standards and secure software development practices. Exposure to AI agents, workflow automation, or enterprise AI platforms. Contributions to open-source projects or developer communities are an advantage. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Research Industries Medical Equipment Manufacturing, Hospitals and Health Care, and Biotechnology Research Referrals increase your chances of interviewing at Siemens Healthineers by 2x See who you know",
       "score": 31,
       "matchedSkills": [
         "React",
@@ -49,32 +96,12 @@
       "excluded": false
     },
     {
-      "title": "Computer Scientist - Fullstack",
-      "company": "Adobe",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/computer-scientist-fullstack-at-adobe-4407613271",
-      "postedAt": "2026-08-16",
-      "jobId": "4407613271",
-      "description": "Computer Scientist - Fullstack Adobe Bengaluru East, Karnataka, India 11 hours ago Over 200 applicants See who Adobe has hired for this role Apply Join or sign in to find your next job Join to apply for the Computer Scientist - Fullstack role at Adobe Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Computer Scientist - Fullstack at Adobe Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . We are looking for a Full Stack Engineer with strong expertise in TypeScript, JavaScript, and Web Component Frameworks , and hands-on experience building multistage LLM pipelines and AI-powered content generation systems . In this role, you will own end-to-end feature development , contribute to system design , and help integrate AI capabilities into product experiences . You will work closely with cross-functional teams to build scalable, reliable, and intelligent systems that improve user productivity and automate complex workflows. Key Responsibilities AI / Agentic Workflows (Primary Focus) Build and integrate AI-powered features using LLMs and external AI services. Design and implement agentic workflows involving multi-step task execution, tool usage, and state management. Contribute to prompt design, evaluation, and iteration to improve quality and reliability of AI outputs. Implement basic guardrails, monitoring, and fallback mechanisms for production-grade AI systems. Collaborate with product and design teams to identify opportunities for AI-driven automation and user value. Full Stack Development Design, develop, and maintain end-to-end features across frontend and backend systems. Build scalable frontend applications using React, TypeScript, and modern JavaScript. Develop backend services and APIs to support application and AI workflows. Ensure performance, reliability, and maintainability of systems. System Design &amp; Collaboration Participate in low-to-mid complexity system design discussions. Break down ambiguous requirements into clear technical tasks and deliverables. Collaborate effectively with product managers, designers, and QA. Contribute to code reviews and uphold engineering best practices. Tooling &amp; Engineering Excellence Work within monorepos using Bazel and Rush. Use Git for version control and code reviews. Track work and execution using Jira in Agile environments. Contribute to CI/CD pipelines, testing, and release processes. Required Qualifications 4–6 years of experience in software engineering. Strong proficiency in TypeScript, JavaScript, Lit or other web component frameworks (React is a plus). Experience building full stack applications (frontend + backend). Hands-on experience integrating AI/LLM APIs into applications. Hands-on experience with multistage LLM pipelines – writing, debugging, and iterating system prompts for structured JSON output from models. Familiarity with REST APIs, asynchronous systems, and distributed services. Experience with Git-based workflows and Agile development using Jira. Strong debugging, problem-solving, and communication skills. Preferred Qualifications Knowledge of backend frameworks (e.g., Node.js, Express, or similar). Familiarity with Bazel and Rush in large-scale codebases. Experience with observability, logging, and monitoring for production systems. Familiarity with CI/CD pipelines and automated testing. Understanding of secure and responsible AI practices. What Success Looks Like Independently delivers well-scoped features end-to-end. Writes clean, maintainable, and well-tested code. Demonstrates good judgment in using AI capabilities effectively. Actively contributes to team velocity and code quality. Begins to mentor junior engineers and influence best practices. Why Join Build AI-first product experiences at scale. Work on modern web architecture + intelligent workflows. Collaborate with high-performing teams in a product-driven engineering culture. About Adobe Adobe empowers everyone to create through innovative platforms and tools that unleash creativity, productivity and personalized customer experiences. Adobe’s industry-leading offerings including Adobe Acrobat Studio, Adobe Express, Adobe Firefly, Creative Cloud, Adobe Experience Platform, Adobe Experience Manager, and GenStudio enable people and businesses to turn ideas into impact, powered by AI and driven by human ingenuity. Our 30,000+ employees worldwide are creating the future and raising the bar as we drive the next decade of growth. We’re on a mission to hire the very best and believe in creating a company culture where all employees are empowered to make an impact. At Adobe, we believe that great ideas can come from anywhere in the organization. The next big idea could be yours. Let’s Adobe together At Adobe, we believe in creating a company culture where all employees are empowered to make an impact. Learn more about Adobe life, including our values and culture, focus on people, purpose and community, Adobe for All, comprehensive benefits programs, the stories we tell, the customers we serve, and how you can help us advance our mission of empowering everyone to create. Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other protected characteristic. Learn more. Adobe aims to make our Careers website and recruiting process accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call +1 408-536-3015. AI Use Guidelines for Interviews: Our interviews are designed to reflect your own skills and thinking. The use of AI or recording tools during live interviews is not permitted unless explicitly invited by the interviewer or approved in advance as part of a reasonable accommodation. If these tools are used inappropriately or in a way that misrepresents your work, your application may not move forward in the process. At Adobe, we empower employees to innovate with AI — and we look for candidates eager to do the same. As part of the hiring experience, we provide clear guidance on where AI is encouraged during the process and where it’s restricted during live interviews. See how we think about AI in the hiring experience. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Adobe by 2x See who you know",
-      "score": 28,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "TypeScript",
-        "Node",
-        "Express",
-        "REST",
-        "CI/CD"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Fullstack (React JS + Node JS) Developer",
+      "title": "React Node Senior Developer",
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-react-js-%2B-node-js-developer-at-infosys-4444687936",
-      "postedAt": "2026-08-16",
-      "jobId": "4444687936",
+      "url": "https://in.linkedin.com/jobs/view/react-node-senior-developer-at-infosys-4454267258",
+      "postedAt": "2026-08-17",
+      "jobId": "4454267258",
       "description": "",
       "score": 26,
       "matchedSkills": [
@@ -84,45 +111,72 @@
       "excluded": false
     },
     {
-      "title": "Software Engineer - Ag & Trade",
-      "company": "Cargill",
+      "title": "Senior Software Engineer (React/Node)",
+      "company": "Cvent",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ag-trade-at-cargill-4431525751",
-      "postedAt": "2026-08-16",
-      "jobId": "4431525751",
-      "description": "Software Engineer - Ag &amp; Trade Cargill Bengaluru, Karnataka, India 11 hours ago Over 200 applicants See who Cargill has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer - Ag &amp; Trade role at Cargill Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer - Ag &amp; Trade at Cargill Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Job Purpose and Impact The Software Engineer – Ag &amp; Trade will design, develop, and maintain scalable, high quality software applications that support Cargill's Ag &amp; Trade business. The ideal candidate is a hands-on full-stack engineer with strong Python backend expertise, React/React Native frontend experience, and a passion for building modern, AI-enabled applications. This role partners closely with Product Managers, Architects, UX Designers, and fellow Engineers to deliver secure, reliable, and performant software solutions. The engineer will leverage modern development practices, AI-assisted development tools, and cloud-native technologies to accelerate delivery while maintaining high engineering standards. The role also participates actively in code reviews, technical design discussions, and continuous improvement initiatives. Key Accountabilities SOFTWARE DEVELOPMENT Design, develop, test, and maintain scalable software applications using Python for backend services and React/React Native for frontend development. Write clean, maintainable, reusable, and well-tested code following engineering best practices. FULL-STACK APPLICATION DEVELOPMENT Build and enhance end-to-end web and mobile applications by developingRESTful APIs, backend services, frontend components, and database integrations while ensuring seamless user experiences. AI-ENABLED ENGINEERING Utilize AI-assisted development tools such as GitHub Copilot, Cursor, ChatGPT, Claude, or similar tools to improve developer productivity. Experience integrating LLM APIs or AI capabilities into applications is highly desirable. COLLABORATION Collaborate with Product Managers, Business Analysts, UX Designers, Architects, QA Engineers, and cross-functional engineering teams to understand requirements, estimate work, and deliver high-quality software aligned with business objectives. TESTING &amp; QUALITY Develop unit tests, integration tests, and participate in code reviews to ensure high code quality, reliability, maintainability, and application performance. CLOUD &amp; DEVOPS (Preferred) Contribute to configuration of CI/CD pipelines, containerized deployments, and cloud native application development using technologies such as Docker, Kubernetes, Azure, or AWS. CONTINUOUS IMPROVEMENT Identify opportunities to improve development practices, software architecture, engineering standards, and automation. Adopt modern engineering practices and AI assisted workflows to enhance team productivity. TECHNICAL SUPPORT Troubleshoot production issues, perform root cause analysis, and provide timely resolutions while ensuring application stability and availability. Qualifications Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent practical experience). 3–5 years of professional software development experience. Minimum 3 years of hands-on Python development experience. Experience developing production-grade applications using React or React Native. Strong understanding of object-oriented programming, data structures, algorithms, and software design principles. Experience developing REST APIs and microservices. Strong knowledge of Git, SQL, and modern software development practices. Experience working in Agile/Scrum development teams. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Chemical Manufacturing, Food and Beverage Services, and Food and Beverage Manufacturing Referrals increase your chances of interviewing at Cargill by 2x See who you know",
-      "score": 25,
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-node-at-cvent-4448250282",
+      "postedAt": "2026-08-17",
+      "jobId": "4448250282",
+      "description": "",
+      "score": 26,
       "matchedSkills": [
         "React",
-        "REST",
-        "Docker",
-        "Kubernetes",
-        "CI/CD",
-        "SQL"
+        "Node"
       ],
       "excluded": false
     },
     {
-      "title": ".NET React Developer",
+      "title": "Senior Full Stack Engineer (Node/React) - Remote",
+      "company": "Kake",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4452250857",
+      "postedAt": "2026-08-17",
+      "jobId": "4452250857",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "UI Specialist - React & Node.js Job",
+      "company": "YASH Technologies Middle East",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "url": "https://in.linkedin.com/jobs/view/ui-specialist-react-node-js-job-at-yash-technologies-middle-east-4452536583",
+      "postedAt": "2026-08-18",
+      "jobId": "4452536583",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React JS + Node Js Lead",
       "company": "Infosys",
       "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-react-developer-at-infosys-4444681988",
-      "postedAt": "2026-08-16",
-      "jobId": "4444681988",
+      "url": "https://in.linkedin.com/jobs/view/react-js-%2B-node-js-lead-at-infosys-4454268255",
+      "postedAt": "2026-08-17",
+      "jobId": "4454268255",
       "description": "",
-      "score": 20,
+      "score": 26,
       "matchedSkills": [
-        "React"
+        "React",
+        "Node"
       ],
       "excluded": false
     },
     {
-      "title": "Tech Lead– .NET Core, ReactJS, AWS",
-      "company": "r3 Consultant",
+      "title": "ReactJS Developer ( 2–3 Years )",
+      "company": "Magneton Technologies Pvt Ltd",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/tech-lead%E2%80%93-net-core-reactjs-aws-at-r3-consultant-4455183763",
-      "postedAt": "2026-08-16",
-      "jobId": "4455183763",
+      "url": "https://in.linkedin.com/jobs/view/reactjs-developer-2%E2%80%933-years-at-magneton-technologies-pvt-ltd-4454266216",
+      "postedAt": "2026-08-17",
+      "jobId": "4454266216",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -131,12 +185,166 @@
       "excluded": false
     },
     {
-      "title": ".NET React Developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-react-developer-at-infosys-4444676958",
-      "postedAt": "2026-08-16",
-      "jobId": "4444676958",
+      "title": "MODULE LEAD - ReactJS",
+      "company": "Happiest Minds Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/module-lead-reactjs-at-happiest-minds-technologies-4455233447",
+      "postedAt": "2026-08-17",
+      "jobId": "4455233447",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer (Fintech)",
+      "company": "Real Jobs Consulting Services",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-fintech-at-real-jobs-consulting-services-4454249051",
+      "postedAt": "2026-08-17",
+      "jobId": "4454249051",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer (Mobile)",
+      "company": "ULTISOURCE",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-mobile-at-ultisource-4455368045",
+      "postedAt": "2026-08-17",
+      "jobId": "4455368045",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "UX React - Senior Engineer",
+      "company": "Iris Software Inc.",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/ux-react-senior-engineer-at-iris-software-inc-4455342478",
+      "postedAt": "2026-08-17",
+      "jobId": "4455342478",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React developer",
+      "company": "NTT DATA North America",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-ntt-data-north-america-4455288545",
+      "postedAt": "2026-08-17",
+      "jobId": "4455288545",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior React JS  Developer",
+      "company": "The NineHertz",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-js-developer-at-the-ninehertz-4454210876",
+      "postedAt": "2026-08-17",
+      "jobId": "4454210876",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "SharePoint Developer – SPFx + React (4+ Years Experience)",
+      "company": "Binmile",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/sharepoint-developer-%E2%80%93-spfx-%2B-react-4%2B-years-experience-at-binmile-4454248336",
+      "postedAt": "2026-08-17",
+      "jobId": "4454248336",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Lead React Native Developer",
+      "company": "Kite",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-react-native-developer-at-kite-4455292211",
+      "postedAt": "2026-08-17",
+      "jobId": "4455292211",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior React Developer",
+      "company": "Quess Singapore",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-developer-at-quess-singapore-4454463041",
+      "postedAt": "2026-08-18",
+      "jobId": "4454463041",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer(React js Developer)",
+      "company": "Mastercard",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-js-developer-at-mastercard-4452274405",
+      "postedAt": "2026-08-17",
+      "jobId": "4452274405",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "UX React - Senior Engineer",
+      "company": "Iris Software Inc.",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/ux-react-senior-engineer-at-iris-software-inc-4455332503",
+      "postedAt": "2026-08-17",
+      "jobId": "4455332503",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": ".Net Full Stack Developer with ReactJS",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-with-reactjs-at-tata-consultancy-services-4454223871",
+      "postedAt": "2026-08-17",
+      "jobId": "4454223871",
       "description": "",
       "score": 20,
       "matchedSkills": [
