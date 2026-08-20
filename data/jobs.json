@@ -1,52 +1,32 @@
 {
-  "generatedAt": "2026-08-19T04:19:16.478Z",
+  "generatedAt": "2026-08-20T04:18:40.889Z",
   "totalScraped": 476,
-  "totalMatched": 13,
+  "totalMatched": 19,
   "jobs": [
     {
-      "title": "Full Stack UI Frontend Developer",
-      "company": "Comviva",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-ui-frontend-developer-at-comviva-4455717105",
-      "postedAt": "2026-08-18",
-      "jobId": "4455717105",
-      "description": "Full Stack UI Frontend Developer Comviva Bengaluru, Karnataka, India 19 hours ago Over 200 applicants See who Comviva has hired for this role Apply Join or sign in to find your next job Join to apply for the Full Stack UI Frontend Developer role at Comviva Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Job Description As a ReactJs Full Stack UI Developer With a strong customer focus and excellent interpersonal skills, you will work in a team of designers, developers and functional management. You design on the basis of design guidelines and standards architecture. You align on the best approach to fix bugs and you ensure that the software is ready for testing in a user acceptance test environment. You also support the installation of the software on production. This is an exciting role with a company that is market leading with its innovative omni-channel solution. Full training on the company’s product and solution will be provided to the successful candidate. Responsibilities Designing software according to the requirements and specifications Develop software including unit test for the new feature additions Adherence to coding guidelines and standard software development principles Contribute to product enhancements by bringing in new ideas As a scrum team member being able to work and contribute in Agile / scrum way of working Minimize technical debt in the assigned area of work Key Qualifications And Skills Frontend Strong experience in ReactJS, JavaScript (ES6+), TypeScript, HTML5, CSS3, and responsive web development. Hands-on experience with React Hooks, Redux/Redux Toolkit, Context API, and REST API integration. Good understanding of component-based architecture, state management, and performance optimization techniques. Experience with Git, CI/CD pipelines, and testing frameworks such as Jest and React Testing Library. Familiarity with Agile methodologies and the ability to develop scalable, high-performance enterprise applications. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Comviva by 2x See who you know",
-      "score": 41,
+      "title": "Senior Full Stack UI Engineer (5+ Years in React.js, TypeScript/JavaScript and RESTful APIs)",
+      "company": "FIS",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-ui-engineer-5%2B-years-in-react-js-typescript-javascript-and-restful-apis-at-fis-4456357268",
+      "postedAt": "2026-08-19",
+      "jobId": "4456357268",
+      "description": "",
+      "score": 38,
       "matchedSkills": [
         "React",
-        "Redux",
         "JavaScript",
         "TypeScript",
-        "HTML",
-        "REST",
-        "CI/CD",
-        "Jest",
-        "Testing Library"
+        "REST"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer- (React & Next.JS )",
-      "company": "BOLD",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-next-js-at-bold-4455757383",
-      "postedAt": "2026-08-18",
-      "jobId": "4455757383",
-      "description": "",
-      "score": 40,
-      "matchedSkills": [
-        "React",
-        "Next.js"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Software Engineer (Node.js & React.js)",
-      "company": "Okta",
+      "title": "Senior Software Engineer (React/Node)",
+      "company": "Cvent",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-node-js-react-js-at-okta-4452809223",
-      "postedAt": "2026-08-18",
-      "jobId": "4452809223",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-node-at-cvent-4448250282",
+      "postedAt": "2026-08-19",
+      "jobId": "4448250282",
       "description": "",
       "score": 26,
       "matchedSkills": [
@@ -56,35 +36,67 @@
       "excluded": false
     },
     {
-      "title": "Fullstack AI Engineer (React + \"agentic AI\" + GCP CLoud)",
-      "company": "Innodata Inc.",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-ai-engineer-react-%2B-agentic-ai-%2B-gcp-cloud-at-innodata-inc-4452587248",
-      "postedAt": "2026-08-18",
-      "jobId": "4452587248",
+      "title": "Full stack developer( .Net/React/Azure/SQL)",
+      "company": "Infosys",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-net-react-azure-sql-at-infosys-4456187183",
+      "postedAt": "2026-08-19",
+      "jobId": "4456187183",
       "description": "",
       "score": 26,
       "matchedSkills": [
         "React",
-        "GCP"
+        "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "SDE - Customer Experience (L1)",
-      "company": "Zinier",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/sde-customer-experience-l1-at-zinier-4453668487",
-      "postedAt": "2026-08-18",
-      "jobId": "4453668487",
-      "description": "SDE - Customer Experience (L1) Zinier Bengaluru, Karnataka, India 14 hours ago Over 200 applicants See who Zinier has hired for this role Apply Join or sign in to find your next job Join to apply for the SDE - Customer Experience (L1) role at Zinier Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . About Zinier Software Development Engineer - Customer Experience (L1) Zinier is on a mission to empower frontline workers — and the people supporting them — to achieve greater things for themselves and the world around them. With 80% of the global workforce being deskless, Zinier's no-code customisation platform drives Technology Equity, improving the lives and productivity of workers who keep the world up and running. We are a global team headquartered in Silicon Valley, with a hybrid workforce across the United States, Canada, Europe, Latin America, Singapore, and Bangalore, India. Our investors include Accel, ICONIQ Capital, Founders Fund, Newfund Capital, NGP Capital, Tiger Global Management, and Qualcomm Ventures LLC. To learn more, check out www.zinier.com Role Overview Zinier is seeking a Software Development Engineer to join our global 24/7 Support Engineering team. As a front-line custodian of our customer experience, you will provide high-impact technical support across the entire Zinier platform. To succeed in this role, you should bring strong hands-on expertise in JavaScript development, API integrations, and MySQL or any SQL based DBMS. Expertise in React would be an added bonus. This is an exciting opportunity for engineers who thrive on deep debugging, complex problem-solving, and direct customer engagement—with clear career progression pathways into senior technical or customer-centric roles, such as Senior Software Development Engineer, Solution Developer, Solution Architect and Delivery. For those who are interested in Customer Success, that could be a career path as well. Identify gaps in knowledge-base articles and contribute new documentation to reduce repeat queries. Ideate and implement AI solutions that would help customer experience or improve the product itself. This role will be mapped to customers’ locations across the world and hence would primarily be working in US and EMEA working hours which would be compensated accordingly. In future this role might be required to work over weekends as well. Key Responsibilities Monitor and respond to customer issues reported over the customer portal tickets or email or slack within defined SLAs. Diagnose and resolve technical issues, including workflow misconfigurations, API failures, code based issues and data discrepancies. Investigate logs, trace workflow execution paths, and analyse JSON payloads to isolate breaking logic. Resolve complex requests independently; escalate appropriately when required, with clear documentation of findings and own customer issues end-to-end. File production deployment requests on behalf of customers, coordinating with internal teams. If bandwidth allows, you will be working on Engineering and Implementation/Delivery Projects as well. People with Solution Architecture aspirations will work closely with the sales team(s) as well. Identify gaps in knowledge-base articles and contribute new documentation to reduce repeat queries. Ideate and implement AI solutions that would help customer experience or improve the product itself. Maintain Zinier's high standards for customer communication and response-time adherence. Engage actively in product and technical training to deepen platform knowledge. Participate in on-call rotations and occasional weekend support as required by shift patterns. Required Skills &amp; Experience Bachelor's degree in a relevant field with 2+ years of experience in JavaScript development, Solutions development, Application Support, Customer Engineering or a related role. Hands-on proficiency with JavaScript, JSON, HTML, and CSS for debugging and configuration analysis. Familiarity with log analysis, REST APIs, and basic SQL queries. Knowledge of operating systems, cloud services, and multi-tier web application architecture. Experience with CRM and ticketing systems (e.g., Jira, Salesforce) and remote support tools. Excellent written and verbal communication skills with the ability to engage stakeholders at varying levels of technical expertise. Strong analytical mindset and customer-first orientation. Willingness to work night shifts, weekends and 24/7 on-call rotations. Desirable Skills Exposure to Grafana or similar monitoring/observability tools. Experience with workflow-based or field-service management systems. Knowledge of Java, Python, or JEE frameworks. ITIL V3/V4 certification or equivalent foundation in service management. User-level familiarity with Linux environments. WHY JOIN US Unique opportunity to form a front-facing layer that not only is the front-line to customer deployments, but also has the ability to work closely with Solution Architects and others to influence Product blueprints. Work across the full tech stack — from debugging backend services(Java, spring boot) to exploring front-end interfaces built with React and extending into mobile UI development. Build internal tools, fix production issues, and contribute to engineering stability, all while learning from experienced platform, product and solution engineers. Be part of a high-impact team that bridges engineering and customer experience, where your work helps improve both product quality and customer trust. Join a company that values learning, ownership, and long-term growth. High performers progress to: Senior Software Development Engineer, Support Engineering Solution Developer, Solution Delivery Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Zinier by 2x See who you know",
+      "title": "Front-End Developer",
+      "company": "Luxoft",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/front-end-developer-at-luxoft-4456345322",
+      "postedAt": "2026-08-19",
+      "jobId": "4456345322",
+      "description": "Front-End Developer Luxoft Gurugram, Haryana, India 11 hours ago Over 200 applicants See who Luxoft has hired for this role Apply Save Report this job Project Description: Responsible for designing, building, and supporting high-quality front-end applications for client onboarding, a strategic platform for modernising product onboarding, bid capture, regulatory processes, and sales enablement across wholesale banking. The role will contribute to building modern user interfaces, including user-facing front-end journeys, workflows, validation screens, navigation patterns, and integration experiences. The Front-End Engineer will work closely with Product Owners, Business Analysts, UX Designers, Back-End Engineers, Architects, and platform teams to deliver secure, accessible, performant, and maintainable user experiences aligned with engineering standards Responsibilities: • Design, develop, and maintain front-end components and application screens that support error recovery, validation, and operational resilience. • Build responsive, accessible, and reusable user interface components. • Implement user-facing workflows for product onboarding, lead capture, validation, confirmation, and operational processing. • Ensure front-end implementation aligns with approved UX designs, design standards, and engineering guardrails. • Contribute to front-end architecture decisions, component patterns, and state management approaches. • Ensure user interface behaviour is consistent, reliable, and supportable across the platform. • Implement front-end patterns required for application navigation, sidebar integration, and seamless switching between applications. • Support integration of application screens with platform-level capabilities such as authentication, navigation, audit capture, and user context. • Work with platform teams to ensure front-end delivery aligns with mini-app standards and deployment practices. • Collaborate with Solution Designers and Architects to align front-end implementation with the overall solution design. • Write unit, integration, and UI tests for front-end components and workflows. • Support field-level workshops, screen flow reviews, and usability feedback sessions. Mandatory Skills Description: • 5+ years of experience in front-end engineering or full-stack engineering with a strong front-end focus. • Strong hands-on experience building enterprise-grade React applications with solid JavaScript and TypeScript skills. • Experience delivering front-end applications in complex technology environments and integrating front-end applications with REST APIs. • Experience working with component-based front-end architecture, API-driven architectures, and distributed systems. • Experience working in Agile delivery teams with Product Owners, Business Analysts, Designers, Engineers, and Architects. • Experience in banking, financial services, Markets, client onboarding, or workflow platforms is desirable. • Strong understanding of component-based front-end architecture, browser performance, accessibility, and secure front-end development. • Experience with CI/CD tools and modern engineering workflows. • Ability to troubleshoot complex front-end and integration issues. Nice-to-Have Skills Description: • Experience with product onboarding, Lead Management, order capture, or sales workflow platforms. • Experience in greenfield implementation of CRM applications. • Experience with customer and reference data integration. Languages: English: B2 Upper Intermediate Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Luxoft by 2x See who you know",
       "score": 22,
       "matchedSkills": [
         "React",
         "JavaScript",
-        "HTML",
+        "TypeScript",
         "REST",
+        "CI/CD"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Sr. AI Engineer (Fullstack)",
+      "company": "Cyara",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-ai-engineer-fullstack-at-cyara-4452438149",
+      "postedAt": "2026-08-19",
+      "jobId": "4452438149",
+      "description": "Sr. AI Engineer (Fullstack) Cyara Hyderabad, Telangana, India 13 hours ago Be among the first 25 applicants See who Cyara has hired for this role Apply Save Report this job As the global leader in AI-powered customer experience assurance, we help some of the world's most recognized brands deliver seamless, reliable, and engaging interactions across voice, digital, messaging, and AI-powered channels. Every year, our platform helps optimize hundreds of millions of customer journeys, ensuring businesses can confidently deliver exceptional experiences at scale. As enterprises race to deploy agentic AI, the defining question is no longer whether AI can handle customer interactions, it’s whether those interactions can be trusted. Cyara is the confidence layer that answers that question, testing AI agents with AI agents to detect hallucinations, validate decisions, and ensure compliance before failures ever reach your customers. Joining Cyara means helping shape the future of customer experience, partnering with some of the world’s biggest brands, and working alongside passionate, talented people who are committed to making every customer interaction better. Primary Skills: 5+ years of strong exp in AI &amp; Full stack environment AI/ML &amp; Generative AI Expertise Extensive professional experience in Machine Learning, Generative AI, and Natural Language Processing (NLP) with Python Proven, hands-on experience designing and implementing solutions using LLMs (e.g., RAG systems, fine-tuning, prompt engineering) Deep understanding of ML and LLM/NLP evaluation techniques (e.g., precision, recall, F1 and metrics for assessing hallucination, relevance, and context) Demonstrable experience integrating AI/ML models into applications via APIs, microservices, and other integration patterns Experience analyzing and benchmarking model performance across multiple datasets and use cases Strong understanding of AI trustworthiness principles, including model accuracy, interpretability, robustness, and responsible AI practices Secondary Skills: Fullstack Expertise Extensive professional experience in full-stack development Strong proficiency in backend development with NodeJS Strong proficiency in front-end development with React Deep experience with database design and management, specifically Postgres and general SQL Proven experience with cloud platforms, specifically AWS (e.g., EC2, S3, Lambda, RDS, Bedrock, SageMaker) Proven track record in designing and maintaining enterprise-grade, scalable web applications Experience with containerization (Docker, Kubernetes) Good to have skills - AI Agents, Agentic AI, MCP Why you should join us: Looking for a place where your ideas matter, your growth is accelerated, and your work creates real impact? Welcome to Cyara. We're building the assurance layer that gives enterprises the confidence to deploy agentic AI at scale with a global team that values curiosity, collaboration, and continuous learning. Whether you're launching new ideas, solving complex problems, or learning from talented colleagues across the world, you'll be surrounded by people who challenge and support you to do your best work. At Cyara, inclusivity isn't a buzzword, it's part of who we are. We foster a culture where everyone feels seen, heard, and empowered to contribute. Pair that with competitive pay, comprehensive benefits, flexible work options, recognition programs, and a strong focus on employee well-being, and you've got a workplace designed for both success and fulfilment. Big opportunities. Real impact. Amazing people. That's the Cyara experience. Cyara’s Diversity, Equity, Inclusive and Belonging Statement: At Cyara, we are dedicated to fostering a workplace that embodies equal opportunity and champions diversity, equity, inclusion, and belonging (DEIB). We strive to cultivate an environment where every individual feels valued, respected, and empowered to bring their whole selves to work, contributing unique perspectives and talents. Our commitment includes continuously evaluating and enhancing our policies, practices, and culture to align with our DEIB principles. We ensure a discrimination-free environment where individuals are evaluated solely on their merits and abilities, regardless of legally protected statuses such as sex, race, color, ethnicity, national origin, age, religion, disability, sexual orientation, gender identity, veteran status, or medical condition. By celebrating our differences and championing inclusivity, we enrich our organization, make more thoughtful decisions, and drive collective success. Cyara’s Values Statement: At Cyara, our values shape everything we do. We're passionate about Delivering Excellence by putting the customer first, collaborating globally, and always striving to improve. We take smart risks and Innovate Boldly, setting new standards and learning from every experience. Integrity First is our cornerstone, we value humility, authenticity, and respect for diversity, building trust in all we do. We Embrace Curiosity by empowering you to experiment, learn, and grow in a dynamic environment. At Cyara, our values drive us forward, shaping a culture where innovation and excellence thrive. Agencies: Thanks, but we’ve got this one! Please, no phone calls or emails to any employees of Cyara outside of the Talent Acquisition team. Cyara’s policy is to only accept resumes from Agencies via the Cyara Agency Portal. Agencies must have a valid fee agreement in place, and they must have been assigned the specific requisition to which they submit resumes, by the Cyara Talent Acquisition team before submitting any CVs. Any resume submitted outside of this process will be deemed the sole property of Cyara and, in the event, a candidate is submitted outside of this policy is hired, no fee or payment of any kind will be paid. We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. Show more Show less Seniority level Associate Employment type Full-time Job function Engineering and Information Technology Industries Business Consulting and Services, IT Services and IT Consulting, and Professional Training and Coaching Referrals increase your chances of interviewing at Cyara by 2x See who you know",
+      "score": 22,
+      "matchedSkills": [
+        "React",
+        "Node",
+        "Docker",
+        "Kubernetes",
         "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer (Next.js)",
+      "company": "Welatino Traveltech LLP",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-next-js-at-welatino-traveltech-llp-4455459852",
+      "postedAt": "2026-08-19",
+      "jobId": "4455459852",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "Next.js"
       ],
       "excluded": false
     },
@@ -92,9 +104,9 @@
       "title": "React JS",
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-at-infosys-4454900548",
-      "postedAt": "2026-08-18",
-      "jobId": "4454900548",
+      "url": "https://in.linkedin.com/jobs/view/react-js-at-infosys-4455418335",
+      "postedAt": "2026-08-19",
+      "jobId": "4455418335",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -103,12 +115,12 @@
       "excluded": false
     },
     {
-      "title": "UI React - Senior Engineer",
-      "company": "Iris Software Inc.",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/ui-react-senior-engineer-at-iris-software-inc-4455723110",
-      "postedAt": "2026-08-18",
-      "jobId": "4455723110",
+      "title": "Member of Technical Staff,  Portworx - Fullstack Engineering Lead (React & Go)",
+      "company": "Everpure",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/member-of-technical-staff-portworx-fullstack-engineering-lead-react-go-at-everpure-4455411262",
+      "postedAt": "2026-08-19",
+      "jobId": "4455411262",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -117,12 +129,12 @@
       "excluded": false
     },
     {
-      "title": "UI React - Lead",
-      "company": "Iris Software Inc.",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/ui-react-lead-at-iris-software-inc-4455770885",
-      "postedAt": "2026-08-18",
-      "jobId": "4455770885",
+      "title": "React Native Developer",
+      "company": "Trigent Software - Professional Services",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-trigent-software-professional-services-4456306180",
+      "postedAt": "2026-08-19",
+      "jobId": "4456306180",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -131,12 +143,12 @@
       "excluded": false
     },
     {
-      "title": "Mobile Apps Engineer (React Native) - Jetpac",
-      "company": "Circles",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/mobile-apps-engineer-react-native-jetpac-at-circles-4454752465",
-      "postedAt": "2026-08-18",
-      "jobId": "4454752465",
+      "title": "Full-Stack Developer (.NET & ReactJS)",
+      "company": "Merck Group",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-net-reactjs-at-merck-group-4437862282",
+      "postedAt": "2026-08-19",
+      "jobId": "4437862282",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -149,7 +161,7 @@
       "company": "Blend",
       "location": "Hyderabad, Telangana, India",
       "url": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-reactjs-at-blend-4455706401",
-      "postedAt": "2026-08-18",
+      "postedAt": "2026-08-19",
       "jobId": "4455706401",
       "description": "",
       "score": 20,
@@ -159,12 +171,12 @@
       "excluded": false
     },
     {
-      "title": ".Net+React JS Senior Developer",
-      "company": "Infosys",
+      "title": ".Net Fullstack with Angular/ Reactjs (Software Engineer II)",
+      "company": "JPMorganChase",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/net%2Breact-js-senior-developer-at-infosys-4445194201",
-      "postedAt": "2026-08-18",
-      "jobId": "4445194201",
+      "url": "https://in.linkedin.com/jobs/view/net-fullstack-with-angular-reactjs-software-engineer-ii-at-jpmorganchase-4456445703",
+      "postedAt": "2026-08-20",
+      "jobId": "4456445703",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -173,12 +185,12 @@
       "excluded": false
     },
     {
-      "title": "Staff Software Engineer II - ReactJS, Java8, Microservices, Springboot & Cloud",
-      "company": "Blue Yonder",
+      "title": "Fullstack Developer - .Net & React [T500-28701]",
+      "company": "CIBC India",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/staff-software-engineer-ii-reactjs-java8-microservices-springboot-cloud-at-blue-yonder-4455969489",
-      "postedAt": "2026-08-18",
-      "jobId": "4455969489",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-developer-net-react-t500-28701-at-cibc-india-4456310306",
+      "postedAt": "2026-08-19",
+      "jobId": "4456310306",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -187,12 +199,82 @@
       "excluded": false
     },
     {
-      "title": "Full Stack Developer | .NET Core + React.js + Azure",
-      "company": "SJ Mobilita",
-      "location": "Bangalore Urban, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-net-core-%2B-react-js-%2B-azure-at-sj-mobilita-4455708029",
-      "postedAt": "2026-08-18",
-      "jobId": "4455708029",
+      "title": "Nous Infosystems - Full Stack Developer - .Net/React.js",
+      "company": "Nous Infosystems",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/nous-infosystems-full-stack-developer-net-react-js-at-nous-infosystems-4456410705",
+      "postedAt": "2026-08-20",
+      "jobId": "4456410705",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer (.Net, React)",
+      "company": "ConnectWise",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-react-at-connectwise-4456317484",
+      "postedAt": "2026-08-19",
+      "jobId": "4456317484",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Product Lead-React-.Net Core-TST-Manager",
+      "company": "EY",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/product-lead-react-net-core-tst-manager-at-ey-4453455605",
+      "postedAt": "2026-08-19",
+      "jobId": "4453455605",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Product Lead-React-.Net Core-TST-Manager",
+      "company": "EY",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/product-lead-react-net-core-tst-manager-at-ey-4453439738",
+      "postedAt": "2026-08-19",
+      "jobId": "4453439738",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Product Lead-React-.Net Core-TST-Manager",
+      "company": "EY",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/product-lead-react-net-core-tst-manager-at-ey-4453451652",
+      "postedAt": "2026-08-19",
+      "jobId": "4453451652",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full-Stack Developer – .NET Core with React",
+      "company": "Intellistaff Services Pvt. Ltd",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-%E2%80%93-net-core-with-react-at-intellistaff-services-pvt-ltd-4453424449",
+      "postedAt": "2026-08-19",
+      "jobId": "4453424449",
       "description": "",
       "score": 20,
       "matchedSkills": [
