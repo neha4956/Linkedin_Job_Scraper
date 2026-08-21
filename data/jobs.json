@@ -1,32 +1,146 @@
 {
-  "generatedAt": "2026-08-20T04:18:40.889Z",
-  "totalScraped": 476,
-  "totalMatched": 19,
+  "generatedAt": "2026-08-21T04:21:17.700Z",
+  "totalScraped": 478,
+  "totalMatched": 27,
   "jobs": [
     {
-      "title": "Senior Full Stack UI Engineer (5+ Years in React.js, TypeScript/JavaScript and RESTful APIs)",
-      "company": "FIS",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-ui-engineer-5%2B-years-in-react-js-typescript-javascript-and-restful-apis-at-fis-4456357268",
-      "postedAt": "2026-08-19",
-      "jobId": "4456357268",
-      "description": "",
-      "score": 38,
+      "title": "Full Stack Engineer",
+      "company": "Duruper",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-duruper-4452895640",
+      "postedAt": "2026-08-21",
+      "jobId": "4452895640",
+      "description": "Full Stack Engineer Duruper Bengaluru, Karnataka, India 56 minutes ago 141 applicants See who Duruper has hired for this role Apply Join or sign in to find your next job Join to apply for the Full Stack Engineer role at Duruper Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Join our Team at Duruper ! Job Summary We are looking for a talented full-stack engineer to join our team in building DuruFlow, an enterprise B2B platform. The ideal candidate will have strong software engineering fundamentals and hands-on experience across the full application stack. You should be proficient in leveraging AI-assisted development tools to accelerate software delivery while maintaining ownership of architecture, code quality, testing, debugging, and production readiness. Roles &amp; Responsibilities Develop end-to-end features across frontend, backend, and database layers. Design and develop scalable REST APIs, business logic, and data models using Java 21, Spring Boot, and PostgreSQL. Build responsive, user-friendly enterprise applications using Next.js, React, and TypeScript. Work with Redis, AWS, Docker, and CI/CD pipelines to build and deploy cloud-native applications. Write optimized SQL queries, database migrations, and performance-focused data access layers. Develop and maintain automated unit, integration, and end-to-end tests. Troubleshoot and resolve production issues across the complete application stack. Utilize AI coding assistants (Claude Code, Codex, Cursor, Augment, or similar) for development, testing, debugging, refactoring, and code reviews. Critically review AI-generated code, identify architectural or logical issues, and ensure production-quality implementations. Take ownership of features from requirements gathering through deployment and ongoing maintenance. Mandatory Requirements Bachelor's degree in Computer Science, Software Engineering, or a related field. 3–5 years of experience in full-stack software development. Strong proficiency in Java 21, Spring Boot, React, Next.js, TypeScript, and PostgreSQL. Solid understanding of object-oriented programming (OOP), clean code principles, and software design patterns. Experience designing and developing RESTful APIs and scalable backend systems. Strong knowledge of relational databases, SQL optimization, indexes, and transactions. Understanding of authentication, authorization, and application security fundamentals. Experience with Git, automated testing, CI/CD pipelines, Docker, and cloud platforms (AWS preferred). Hands-on experience using AI-assisted development tools such as Claude Code, Codex, Cursor, Augment, or similar. Strong debugging, analytical, and problem-solving skills. Show more Show less Seniority level Associate Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Duruper by 2x See who you know",
+      "score": 35,
       "matchedSkills": [
         "React",
-        "JavaScript",
+        "Next.js",
         "TypeScript",
-        "REST"
+        "REST",
+        "Docker",
+        "CI/CD",
+        "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer (React/Node)",
-      "company": "Cvent",
+      "title": "Full Stack Developer",
+      "company": "Weekday (YC W21)",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-node-at-cvent-4448250282",
-      "postedAt": "2026-08-19",
-      "jobId": "4448250282",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-at-weekday-yc-w21-4448031125",
+      "postedAt": "2026-08-20",
+      "jobId": "4448031125",
+      "description": "Full Stack Developer Weekday (YC W21) Bengaluru, Karnataka, India 17 hours ago Over 200 applicants See who Weekday (YC W21) has hired for this role Apply Save Report this job Weekday (YC W21) provided pay range This range is provided by Weekday (YC W21). Your actual pay will be based on your skills and experience — talk with your recruiter to learn more. Base pay range ₹900,000.00/yr - ₹2,500,000.00/yr This role is for one of our clients Industry: Real Estate Seniority level: Associate level Experience: 2+ yrs Location: Bengaluru Job Type: Full-time We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. We are looking for a passionate Full Stack Developer who enjoys building scalable products from the ground up and delivering high-quality software that solves real-world business problems. In this role, you will work across the entire software development lifecycle—from designing intuitive user interfaces to building robust backend services and deploying production-ready applications. As part of a high-impact engineering team, you will collaborate closely with cross-functional stakeholders to transform business workflows into modern software solutions. You'll also have the opportunity to experiment with emerging technologies, AI-driven capabilities, and automation to create innovative digital products. Key Responsibilities Design, develop, and maintain end-to-end full stack applications supporting business operations and customer-facing experiences Build scalable, secure, and high-performance web applications using modern frontend and backend technologies Collaborate with product managers, designers, business stakeholders, and engineering teams to understand requirements and deliver impactful solutions Design and develop RESTful APIs, backend services, and database architectures Develop responsive and user-friendly interfaces using modern JavaScript frameworks Prototype, test, and rapidly iterate on new features while maintaining high code quality Integrate AI-driven capabilities, automation, and analytics into business applications where applicable Optimize application performance, scalability, security, and reliability Deploy, monitor, maintain, and continuously improve production applications Participate in code reviews, technical discussions, and architecture decisions Write clean, maintainable, and well-documented code following engineering best practices Requirements Must-Have Skills 1–3 years of experience as a Full Stack Developer or equivalent experience building production-grade software Strong programming skills in Python and JavaScript Experience developing frontend applications using React Knowledge of backend development using modern frameworks and API development Strong understanding of backend architecture, system design, and RESTful APIs Experience working with relational databases such as PostgreSQL Familiarity with cloud platforms such as AWS or Google Cloud Platform (GCP) Understanding of software development best practices, version control, and Agile methodologies Strong problem-solving skills and ability to work across the full application stack Good-to-Have Skills Experience with FastAPI or Django Knowledge of TypeScript and Next.js Exposure to AI applications, machine learning workflows, or data engineering concepts Familiarity with automation, analytics, or IoT-based applications Strong understanding of product development and user experience principles Experience building scalable cloud-native applications Preferred Qualifications Bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related field 1–3 years of professional experience in Full Stack Software Development Experience delivering complete web applications from concept through deployment Passion for learning emerging technologies, AI, and modern software engineering practices Soft Skills Strong analytical and problem-solving abilities Excellent communication and collaboration skills Self-driven with a proactive and ownership-oriented mindset Ability to work effectively in a fast-paced, agile environment Curiosity to learn new technologies and experiment with innovative solutions Strong product thinking with a focus on user experience and business impact Success Metrics Success in this role will be measured by the ability to deliver scalable, reliable, and user-centric applications that create measurable business value. Performance will be evaluated based on the timely delivery of high-quality features, application performance, code quality, system reliability, and successful deployment of end-to-end solutions. Additionally, success will be reflected in effective collaboration with cross-functional teams, continuous improvement of software architecture, and the ability to leverage automation, AI, and modern engineering practices to improve product functionality and operational efficiency. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Business Consulting and Services, IT Services and IT Consulting, and Professional Training and Coaching Referrals increase your chances of interviewing at Weekday (YC W21) by 2x See who you know",
+      "score": 35,
+      "matchedSkills": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "TypeScript",
+        "REST",
+        "GCP",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-full-stack-developer-react-%2B-node-js-%2B-graphql-8%2B-years-any-ust-location-immediate-joiner-at-ust-4429688991",
+      "postedAt": "2026-08-20",
+      "jobId": "4429688991",
+      "description": "",
+      "score": 32,
+      "matchedSkills": [
+        "React",
+        "Node",
+        "GraphQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "EXL",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-exl-4446727290",
+      "postedAt": "2026-08-20",
+      "jobId": "4446727290",
+      "description": "Full Stack Engineer EXL Bengaluru, Karnataka, India 16 hours ago Over 200 applicants See who EXL has hired for this role Apply Join or sign in to find your next job Join to apply for the Full Stack Engineer role at EXL Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Role: Full-Stack Engineer (React &amp; Node.js) Location: Hyderabad/Bangalore - (Hybrid) Experience: 5+ Years Overview We are seeking a **Full-Stack Engineer** with deep expertise in **React and Node.js** to lead the design and development of complex, scalable web applications. This role goes beyond feature delivery—you'll help shape architecture, influence technical direction, and raise the engineering bar across the team. You'll work end-to-end across frontend, backend, and infrastructure concerns, partnering closely with product, design, and engineering leadership to build resilient, high-quality systems. What You'll Do Own the design and implementation of major product features and systems across the full stack Architect scalable, maintainable frontend applications using **React** and modern state management patterns Design and build robust backend services and APIs using **Node.js** (Express, Nest.Js, or similar) Make architectural decisions that balance speed, scalability, security, and maintainability Lead by example through high-quality code, thoughtful reviews, and strong engineering practices Collaborate with product and design to shape requirements, scope solutions, and manage tradeoffs Mentor mid-level engineers and contribute to the growth of the team Improve system performance, reliability, and observability in production environments Drive adoption of best practices around testing, CI/CD, and code quality Required Qualifications 5+ years of professional software engineering experience, with significant **full-stack ownership** Expert-level experience with **React** (hooks, advanced patterns, performance optimization) Strong backend experience with **Node.js** and modern frameworks Proficiency in **TypeScript** across frontend and backend Strong understanding of system design, API design, and data modeling Experience working with relational and NoSQL databases Proven ability to work independently and lead technical initiatives Strong communication skills and comfort influencing technical decisions Strong Plus Experience designing systems that operate at scale or support high-availability requirements Cloud experience (AWS preferred), including deployments, monitoring, and cost awareness Experience with Docker and containerized workloads Familiarity with microservices, event-driven systems, or message queues Experience in security-conscious or regulated environments (e.g., fintech, payments, enterprise platforms) Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Business Consulting and Services Referrals increase your chances of interviewing at EXL by 2x See who you know",
+      "score": 28,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Node",
+        "Express",
+        "Docker",
+        "CI/CD",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Associate Software Engineer",
+      "company": "PFI Innovation Centre India",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/associate-software-engineer-at-pfi-innovation-centre-india-4443722175",
+      "postedAt": "2026-08-20",
+      "jobId": "4443722175",
+      "description": "Associate Software Engineer PFI Innovation Centre India Gurugram, Haryana, India 16 hours ago Over 200 applicants See who PFI Innovation Centre India has hired for this role Apply Join or sign in to find your next job Join to apply for the Associate Software Engineer role at PFI Innovation Centre India Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job PFI Innovation Centre India is an exciting new innovation center. We’re building a future that helps people live better lives longer – and we’re looking for bold thinkers and team players to help us do it. Here, you’ll tackle complex challenges, collaborate with brilliant minds across the globe, and grow your career while helping millions achieve financial security. a Purpose Driven Company – 150 Years While the PFI Innovation Centre brand is new to India, you’ll be a part of the Prudential Financial, Inc. family. Founded in Newark, NJ, we serve 50 million customers across more than 50 countries. With $1.334 trillion in assets, we’re a global leader in institutional asset management. The 2nd largest life insurer in the US and the 9th largest institutional global asset manager. At the PFI Innovation Centre India, you’ll find high-performance culture that’s flexible, collaborative, and grounded in respect. We engage with candor, take calibrated risks, and hold ourselves accountable – always focused on delivering for our customers. It’s the standard we choose every day as we grow, perform, and win as one team. We offer valuable leadership, mentoring and learning opportunities, paired with flexibility and support to help you thrive. Whether you’re just starting out or ready to take your next step, we’ll help you grow with purpose and do the best work of your career. What You Will Do As a Software Engineer on/in Compliance Technology you will partner with product owners, tech leads, designers, engineers and delivery professionals to improve the portfolio of application and tools for Compliance. You will code, configure, test and debug new and existing applications as you implement capabilities to solve sophisticated business problems, deploy innovative products, services and experiences to delight our customers! In addition to applied technical understanding and knowledge, you will bring excellent problem solving, communication and teamwork skills, along with agile ways of working, strong business insight, an inclusive leadership attitude and a continuous learning focus to all that you do. What You Can Expect Build applications ensuring that the code follows latest coding practices and industry standards, using modern design patterns and architectural principles; with guidance, actively code against the roadmap Develop high quality, well documented and efficient code adhering to all applicable Prudential standards Collaborate with product owners in understanding needs and defining feature stories, tech leads in defining technical design and other team members to understand the system end-to-end and deliver robust solutions that bring about business impact Write unit, integration tests and functional automation, researching problems discovered by quality assurance or product support, developing solutions to address the problems Learn and master a portfolio of vendor applications in order to provide consultative support to solve business problems, and application configuration services. Work on problems of diverse scope in which analysis of data requires evaluation of identifiable factors Use programming languages including but not limited to Python, .Net, Java, or JavaScript and React, Springboot, Node.js frameworks What You Will Bring Bachelor of Computer Science or Engineering or experience in related fields Leverage diverse ideas, experiences, thoughts and perspectives to the benefit of the organization Experience with agile development methodologies and Test-Driven Development (TDD) Knowledge of business concepts, tools and processes that are needed for making sound decisions in the context of the company's business Ability to learn new skills and knowledge on an on-going basis through self-initiative and tackling challenges Excellent problem solving, communication and collaboration skills What will set you apart? Experience with the following: Programming Languages: Python, Java or Java Script; and .NET working in distributed systems, object-oriented programming, design patterns and design methodology; JAVA services using Spring CLI, Maven, Microservice, multi-threading, Concurrency and parallel processing Frameworks: React, Springboot, Node.js, such as Full / MEAN / MERN stack Data Store: NoSQL or Relational Data structures; MongoDB BPM tools Data Streaming: SQS, Kinesis Knowledge/understanding of the following: Application Programming Interfaces (API): Consumption &amp; Development; implementing service-oriented architecture (SOA) patterns; Web service technologies such as APIs, REST, JSON, SOAP, XML, JDBC, MySQL Unit, interface and end user testing concepts and tooling (functional &amp; non-functional) Automated testing Accessibility awareness Dev Ops Tools &amp; Practices: Branching techniques and usage of GitHub, Bitbucket or Subversion; DevOps, Jenkins Software Development Life Cycle (SDLC): Monitoring and logging techniques AWS Core Services: AWS Services such as CloudWatch, Code-Deploy Preferred qualifications: Knowledge of Compliance applications such as Star Compliance, ComplySci or MCO AWS Development Architecture Patterns Design Thinking Financial/Insurance industry knowledge is a plus, not a must Prior experience supporting vendor applications and SaaS tools Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Financial Services Referrals increase your chances of interviewing at PFI Innovation Centre India by 2x See who you know",
+      "score": 28,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "Node",
+        "REST",
+        "Jenkins",
+        "SQL",
+        "MongoDB"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Specialist Manager - Full Stack Web Developer - Brand, Marketing and Communication",
+      "company": "Deloitte",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/specialist-manager-full-stack-web-developer-brand-marketing-and-communication-at-deloitte-4446445634",
+      "postedAt": "2026-08-20",
+      "jobId": "4446445634",
+      "description": "Specialist Manager - Full Stack Web Developer - Brand, Marketing and Communication Deloitte Hyderabad, Telangana, India 18 hours ago 71 applicants See who Deloitte has hired for this role Apply Join or sign in to find your next job Join to apply for the Specialist Manager - Full Stack Web Developer - Brand, Marketing and Communication role at Deloitte Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Summary Position Summary Specialist Manager, Full Stack Web Developer Seeking a full-stack web developer to lead the design and delivery of scalable digital solutions that advance business objectives and enhance user experience. This role combines technical execution with strategic partnership, influencing solution design, shaping development standards, and ensuring alignment across stakeholders. Key responsibilities include translating design concepts into high-quality applications, driving performance and security improvements, maintaining code quality, and supporting team capability through coaching and mentorship. Work you'll do Build reusable code, components, and libraries for future use. Translate UI/UX designs and wireframes into functional user interfaces. Ensure technical feasibility of UI/UX concepts and front-end solutions. Optimize applications for performance, scalability, and responsiveness. Maintain high-quality graphic standards and brand consistency. Apply knowledge of front-end architecture, design patterns, and modern front-end technologies. Participate in Agile ceremonies, including sprint planning, daily stand-ups, and retrospectives. Use performance optimization techniques such as lazy loading and code splitting. Support planning for future technology needs and team skill development. Team Management: Manage recruitment, performance management, stakeholder management, and training development to improve quality, efficiency, and effectiveness. Drive and implement corporate initiatives as needed. Communicate directly and candidly to support team development and improve department skills. Collaborate with back-end developers, designers, and cross-functional teams. Collaborate with team members and stakeholders. Demonstrate strong leadership and team management skills. The team Our Brand, Marketing and Communications team culture is collaborative and encourages team members to take the initiative and seek on-the-job learning opportunities. Our client experience management professionals work with a strong camaraderie toward collective success, and creative brainstorming to deliver value and commitment to excellence. We embody strategic and innovative thinking, new ways of working and constantly strive to deliver personalized digital experiences. Location: Hyderabad/ Bangalore Shift Timings: 2 PM to 11 PM Qualifications Required: Experience with JavaScript frameworks and libraries, including Node.js, React.js, and AngularJS Experience with MongoDB and MySQL 4+ years of experience with D3.js and data visualization tools Experience with continuous integration/continuous deployment pipelines and containerization tools, including Jenkins and Docker Experience designing and implementing front-end test automation Experience with Adobe Experience Manager (AEM) Experience working in Agile delivery environments Preferred: Bachelor’s degree in Computer Science, Information Technology, or Computer Engineering 10-12 years of front-end development experience 6+ years of experience managing teams and departments Our purpose Deloitte’s purpose is to make an impact that matters for our people, clients, and communities. At Deloitte, purpose is synonymous with how we work every day. It defines who we are. Our purpose comes through in our work with clients that enables impact and value in their organizations, as well as through our own investments, commitments, and actions across areas that help drive positive outcomes for our communities. Our people and culture Our inclusive culture empowers our people to be who they are, contribute their unique perspectives, and make a difference individually and collectively. It enables us to leverage different ways of thinking, ideas and perspectives, and bring more creativity and innovation to help solve our clients’ most complex challenges. This makes Deloitte one of the most rewarding places to work. Professional development At Deloitte, professionals have the opportunity to work with some of the best and discover what works best for them. Here, we prioritize professional growth, offering diverse learning and networking opportunities to help accelerate careers and enhance leadership skills. Our state-of-the-art DU: The Leadership Center in India, located in Hyderabad, represents a tangible symbol of our commitment to the holistic growth and development of our people. Explore DU: The Leadership Center in India . Benefits To Help You Thrive At Deloitte, we know that great people make a great organization. Our comprehensive rewards program helps us deliver a distinctly Deloitte experience that helps that empowers our professionals to thrive mentally, physically, and financially—and live their purpose. To support our professionals and their loved ones, we offer a broad range of benefits. Eligibility requirements may be based on role, tenure, type of employment and/ or other criteria. Learn more about what working at Deloitte can mean for you. Recruiting tips From developing a stand out resume to putting your best foot forward in the interview, we want you to feel prepared and confident as you explore opportunities at Deloitte. Check out recruiting tips from Deloitte recruiters. Requisition code: 361030 Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Business Consulting and Services Referrals increase your chances of interviewing at Deloitte by 2x See who you know",
+      "score": 28,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "Node",
+        "Docker",
+        "Jenkins",
+        "SQL",
+        "MongoDB"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full stack Developer ( React.js + Typescript+ Azure)",
+      "company": "Tesslogs IT Solutions",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-react-js-%2B-typescript%2B-azure-at-tesslogs-it-solutions-4454105485",
+      "postedAt": "2026-08-20",
+      "jobId": "4454105485",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "TypeScript"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer (React JS + Node JS) | 6 YoE | Any UST Location | Immediate Joiner",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-react-js-%2B-node-js-6-yoe-any-ust-location-immediate-joiner-at-ust-4393854508",
+      "postedAt": "2026-08-20",
+      "jobId": "4393854508",
       "description": "",
       "score": 26,
       "matchedSkills": [
@@ -36,53 +150,167 @@
       "excluded": false
     },
     {
-      "title": "Full stack developer( .Net/React/Azure/SQL)",
+      "title": "React JS + Node Js Lead",
       "company": "Infosys",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-net-react-azure-sql-at-infosys-4456187183",
-      "postedAt": "2026-08-19",
-      "jobId": "4456187183",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-%2B-node-js-lead-at-infosys-4456041327",
+      "postedAt": "2026-08-20",
+      "jobId": "4456041327",
       "description": "",
       "score": 26,
       "matchedSkills": [
         "React",
-        "SQL"
+        "Node"
       ],
       "excluded": false
     },
     {
-      "title": "Front-End Developer",
-      "company": "Luxoft",
+      "title": "Full Stack Web Developer – React / Node.js",
+      "company": "EXL",
       "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/front-end-developer-at-luxoft-4456345322",
-      "postedAt": "2026-08-19",
-      "jobId": "4456345322",
-      "description": "Front-End Developer Luxoft Gurugram, Haryana, India 11 hours ago Over 200 applicants See who Luxoft has hired for this role Apply Save Report this job Project Description: Responsible for designing, building, and supporting high-quality front-end applications for client onboarding, a strategic platform for modernising product onboarding, bid capture, regulatory processes, and sales enablement across wholesale banking. The role will contribute to building modern user interfaces, including user-facing front-end journeys, workflows, validation screens, navigation patterns, and integration experiences. The Front-End Engineer will work closely with Product Owners, Business Analysts, UX Designers, Back-End Engineers, Architects, and platform teams to deliver secure, accessible, performant, and maintainable user experiences aligned with engineering standards Responsibilities: • Design, develop, and maintain front-end components and application screens that support error recovery, validation, and operational resilience. • Build responsive, accessible, and reusable user interface components. • Implement user-facing workflows for product onboarding, lead capture, validation, confirmation, and operational processing. • Ensure front-end implementation aligns with approved UX designs, design standards, and engineering guardrails. • Contribute to front-end architecture decisions, component patterns, and state management approaches. • Ensure user interface behaviour is consistent, reliable, and supportable across the platform. • Implement front-end patterns required for application navigation, sidebar integration, and seamless switching between applications. • Support integration of application screens with platform-level capabilities such as authentication, navigation, audit capture, and user context. • Work with platform teams to ensure front-end delivery aligns with mini-app standards and deployment practices. • Collaborate with Solution Designers and Architects to align front-end implementation with the overall solution design. • Write unit, integration, and UI tests for front-end components and workflows. • Support field-level workshops, screen flow reviews, and usability feedback sessions. Mandatory Skills Description: • 5+ years of experience in front-end engineering or full-stack engineering with a strong front-end focus. • Strong hands-on experience building enterprise-grade React applications with solid JavaScript and TypeScript skills. • Experience delivering front-end applications in complex technology environments and integrating front-end applications with REST APIs. • Experience working with component-based front-end architecture, API-driven architectures, and distributed systems. • Experience working in Agile delivery teams with Product Owners, Business Analysts, Designers, Engineers, and Architects. • Experience in banking, financial services, Markets, client onboarding, or workflow platforms is desirable. • Strong understanding of component-based front-end architecture, browser performance, accessibility, and secure front-end development. • Experience with CI/CD tools and modern engineering workflows. • Ability to troubleshoot complex front-end and integration issues. Nice-to-Have Skills Description: • Experience with product onboarding, Lead Management, order capture, or sales workflow platforms. • Experience in greenfield implementation of CRM applications. • Experience with customer and reference data integration. Languages: English: B2 Upper Intermediate Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Luxoft by 2x See who you know",
-      "score": 22,
+      "url": "https://in.linkedin.com/jobs/view/full-stack-web-developer-%E2%80%93-react-node-js-at-exl-4446577561",
+      "postedAt": "2026-08-20",
+      "jobId": "4446577561",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer - Full Stack",
+      "company": "Freshworks",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-freshworks-4456475291",
+      "postedAt": "2026-08-20",
+      "jobId": "4456475291",
+      "description": "Senior Software Engineer - Full Stack Freshworks Hyderabad, Telangana, India 22 hours ago Over 200 applicants See who Freshworks has hired for this role Apply Save Report this job About Freshworks: Organizations everywhere struggle under the crushing costs and complexities of “solutions” that promise to simplify their lives. To create a better experience for their customers and employees. To help them grow. Software is a choice that can make or break a business. Create better or worse experiences. Propel or throttle growth. Business software has become a blocker instead of ways to get work done. There’s another option. Freshworks. With a fresh vision for how the world works. Freshworks Inc. builds uncomplicated service software that delivers exceptional employee and customer experiences. Our people-first approach to AI eliminates friction, helping businesses reduce complexity, lower cost-to-serve, and deliver faster, more human support through enterprise-grade yet easy-to-use CX and IT solutions. Nearly 75,000 companies, including Bridgestone, New Balance, Nucor, S&amp;P Global, and Sony Music, trust Freshworks to power their Employee Experience (EX) and Customer Experience (CX) operations. Fresh vision. Real impact. Come build it with us. Job Description As a Senior Software Engineer – Full Stack, you will play a key role in building fast, accessible, scalable, and intuitive web applications. This is a frontend-focused full-stack role where strong expertise in modern frontend engineering is essential, complemented by solid backend development experience. You’ll translate complex business requirements into elegant user experiences, build reusable and high-performance UI components, and work across the stack to deliver reliable, maintainable solutions. If you think in components, care deeply about user experience and frontend performance, and are comfortable working with backend services and APIs, you’ll feel right at home. Responsibilities Build modular, reusable, and high-performance UI components using ReactJS and/or EmberJS. Design and implement responsive, accessible, and intuitive user interfaces using HTML, CSS, JavaScript, and modern frontend practices. Own frontend architecture, performance optimization, rendering efficiency, and maintainability across applications. Develop and integrate REST APIs and backend services using any programming languages. Contribute to backend development, service integrations, databases, and other components across the technology stack. Write clean, modular, scalable, and testable code with a strong focus on quality and performance. Diagnose and resolve complex frontend and full-stack issues through effective debugging and troubleshooting. Collaborate closely with Product, Design, Backend, SRE, and other engineering teams to deliver high-quality customer experiences. Contribute to design systems, reusable UI patterns, accessibility standards, and frontend engineering best practices. Participate in code reviews, technical discussions, architecture/design decisions, and Agile ceremonies. Explore and adopt AI-powered tools and technologies to improve engineering productivity and development efficiency. Contribute to building reliable, observable, and scalable applications with appropriate attention to availability and fault tolerance. Qualifications Requirements ● 3–5 years of experience building and scaling full‑stack systems. ● Expertise in HTML, CSS, JavaScript, and modern frameworks (ReactJS, EmberJS). ● Good backend experience with any programming languages. ● Solid understanding of data structures, algorithms, and REST APIs. ● Experience with RDBMS, caching strategies, distributed queues, and microservices. ● Familiarity with CI/CD pipelines, cloud platforms (AWS/GCP), and Agile development. ● Strong debugging and problem‑solving skills. ● Passion for design systems, UX patterns, and performance optimization. Skills Inventory ● Frontend engineering: Strong proficiency in HTML, CSS, JavaScript with hands-on experience in ReactJS / EmberJS ● Programming fundamentals: Solid grasp of OOP, design patterns, and clean code principles ● Performance &amp; UX: Focus on frontend performance, accessibility, and rendering efficiency ● Problem-solving: Strong debugging, analytical, and troubleshooting skills ● Collaboration: Effective cross-functional communication in Agile teams Additional Information At Freshworks, we have fostered an environment that enables everyone to find their true potential, purpose, and passion, welcoming colleagues of all backgrounds, genders, sexual orientations, religions, and ethnicities. We are committed to providing equal opportunity and believe that diversity in the workplace creates a more vibrant, richer environment that boosts the goals of our employees, communities, and business. Fresh vision. Real impact. Come build it with us. At Freshworks, we have fostered an environment that enables everyone to find their true potential, purpose, and passion, welcoming colleagues of all backgrounds, genders, sexual orientations, religions, and ethnicities. We are committed to providing equal opportunity and believe that diversity in the workplace creates a more vibrant, richer environment that boosts the goals of our employees, communities, and business. Fresh vision. Real impact. Come build it with us. Show more Show less Seniority level Associate Employment type Full-time Job function Other Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Freshworks by 2x See who you know",
+      "score": 25,
       "matchedSkills": [
         "React",
         "JavaScript",
-        "TypeScript",
+        "HTML",
         "REST",
+        "GCP",
         "CI/CD"
       ],
       "excluded": false
     },
     {
-      "title": "Sr. AI Engineer (Fullstack)",
-      "company": "Cyara",
+      "title": "Lead Software Engineer",
+      "company": "V3 Staffing",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-ai-engineer-fullstack-at-cyara-4452438149",
-      "postedAt": "2026-08-19",
-      "jobId": "4452438149",
-      "description": "Sr. AI Engineer (Fullstack) Cyara Hyderabad, Telangana, India 13 hours ago Be among the first 25 applicants See who Cyara has hired for this role Apply Save Report this job As the global leader in AI-powered customer experience assurance, we help some of the world's most recognized brands deliver seamless, reliable, and engaging interactions across voice, digital, messaging, and AI-powered channels. Every year, our platform helps optimize hundreds of millions of customer journeys, ensuring businesses can confidently deliver exceptional experiences at scale. As enterprises race to deploy agentic AI, the defining question is no longer whether AI can handle customer interactions, it’s whether those interactions can be trusted. Cyara is the confidence layer that answers that question, testing AI agents with AI agents to detect hallucinations, validate decisions, and ensure compliance before failures ever reach your customers. Joining Cyara means helping shape the future of customer experience, partnering with some of the world’s biggest brands, and working alongside passionate, talented people who are committed to making every customer interaction better. Primary Skills: 5+ years of strong exp in AI &amp; Full stack environment AI/ML &amp; Generative AI Expertise Extensive professional experience in Machine Learning, Generative AI, and Natural Language Processing (NLP) with Python Proven, hands-on experience designing and implementing solutions using LLMs (e.g., RAG systems, fine-tuning, prompt engineering) Deep understanding of ML and LLM/NLP evaluation techniques (e.g., precision, recall, F1 and metrics for assessing hallucination, relevance, and context) Demonstrable experience integrating AI/ML models into applications via APIs, microservices, and other integration patterns Experience analyzing and benchmarking model performance across multiple datasets and use cases Strong understanding of AI trustworthiness principles, including model accuracy, interpretability, robustness, and responsible AI practices Secondary Skills: Fullstack Expertise Extensive professional experience in full-stack development Strong proficiency in backend development with NodeJS Strong proficiency in front-end development with React Deep experience with database design and management, specifically Postgres and general SQL Proven experience with cloud platforms, specifically AWS (e.g., EC2, S3, Lambda, RDS, Bedrock, SageMaker) Proven track record in designing and maintaining enterprise-grade, scalable web applications Experience with containerization (Docker, Kubernetes) Good to have skills - AI Agents, Agentic AI, MCP Why you should join us: Looking for a place where your ideas matter, your growth is accelerated, and your work creates real impact? Welcome to Cyara. We're building the assurance layer that gives enterprises the confidence to deploy agentic AI at scale with a global team that values curiosity, collaboration, and continuous learning. Whether you're launching new ideas, solving complex problems, or learning from talented colleagues across the world, you'll be surrounded by people who challenge and support you to do your best work. At Cyara, inclusivity isn't a buzzword, it's part of who we are. We foster a culture where everyone feels seen, heard, and empowered to contribute. Pair that with competitive pay, comprehensive benefits, flexible work options, recognition programs, and a strong focus on employee well-being, and you've got a workplace designed for both success and fulfilment. Big opportunities. Real impact. Amazing people. That's the Cyara experience. Cyara’s Diversity, Equity, Inclusive and Belonging Statement: At Cyara, we are dedicated to fostering a workplace that embodies equal opportunity and champions diversity, equity, inclusion, and belonging (DEIB). We strive to cultivate an environment where every individual feels valued, respected, and empowered to bring their whole selves to work, contributing unique perspectives and talents. Our commitment includes continuously evaluating and enhancing our policies, practices, and culture to align with our DEIB principles. We ensure a discrimination-free environment where individuals are evaluated solely on their merits and abilities, regardless of legally protected statuses such as sex, race, color, ethnicity, national origin, age, religion, disability, sexual orientation, gender identity, veteran status, or medical condition. By celebrating our differences and championing inclusivity, we enrich our organization, make more thoughtful decisions, and drive collective success. Cyara’s Values Statement: At Cyara, our values shape everything we do. We're passionate about Delivering Excellence by putting the customer first, collaborating globally, and always striving to improve. We take smart risks and Innovate Boldly, setting new standards and learning from every experience. Integrity First is our cornerstone, we value humility, authenticity, and respect for diversity, building trust in all we do. We Embrace Curiosity by empowering you to experiment, learn, and grow in a dynamic environment. At Cyara, our values drive us forward, shaping a culture where innovation and excellence thrive. Agencies: Thanks, but we’ve got this one! Please, no phone calls or emails to any employees of Cyara outside of the Talent Acquisition team. Cyara’s policy is to only accept resumes from Agencies via the Cyara Agency Portal. Agencies must have a valid fee agreement in place, and they must have been assigned the specific requisition to which they submit resumes, by the Cyara Talent Acquisition team before submitting any CVs. Any resume submitted outside of this process will be deemed the sole property of Cyara and, in the event, a candidate is submitted outside of this policy is hired, no fee or payment of any kind will be paid. We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. Show more Show less Seniority level Associate Employment type Full-time Job function Engineering and Information Technology Industries Business Consulting and Services, IT Services and IT Consulting, and Professional Training and Coaching Referrals increase your chances of interviewing at Cyara by 2x See who you know",
+      "url": "https://in.linkedin.com/jobs/view/lead-software-engineer-at-v3-staffing-4442034687",
+      "postedAt": "2026-08-20",
+      "jobId": "4442034687",
+      "description": "Lead Software Engineer V3 Staffing Hyderabad, Telangana, India 15 hours ago Over 200 applicants See who V3 Staffing has hired for this role Apply Save Report this job Job Title: Lead Software Engineer – .NET Full Stack (Azure | React | Kafka | Terraform) Location: Hyderabad, India | On-site Experience: 8–12 Years Employment Type: Full-time | Immediate to 30 Days Notice Preferred About the Role We are hiring a Lead Software Engineer for a high-growth Global Capability Centre (GCC) in Hyderabad. This is a senior individual contributor and team lead role — you will own end-to-end delivery, drive architectural decisions, and mentor engineers while staying hands-on with code. The stack is Azure-first, event-driven, and cloud-native. What You'll Do Lead end-to-end design and delivery of enterprise-grade cloud-native applications Architect and build microservices and event-driven systems using Kafka and Azure-native services Develop scalable backend APIs using .NET Core and C# with clean architecture principles Build and maintain React-based frontends integrated with robust backend systems Own infrastructure-as-code delivery using Terraform on Azure Containerise and orchestrate services using Docker and Kubernetes Define and enforce CI/CD pipeline standards across the team Write and enforce integration testing standards for production-grade quality Mentor 3–6 engineers through code reviews, design sessions, and technical guidance Collaborate with product, architecture, and DevOps stakeholders across geographies What We're Looking For Mandatory: 8–12 years of hands-on software engineering experience Expert-level .NET Core / ASP.NET Core and C# development Strong React and TypeScript with production delivery experience LINQ proficiency for data access and manipulation Kafka — producer/consumer design, event-driven architecture Azure cloud depth — Azure Functions and Azure App Services Terraform for infrastructure provisioning on Azure Docker/containerisation and CI/CD pipeline ownership Integration testing as a discipline, not an afterthought Demonstrated team lead or tech lead experience Good to Have: Kubernetes / AKS at scale Azure Solution Architect or Developer certification Micro-frontend architecture experience Experience working in GCC or product engineering environments SpecFlow / BDD testing frameworks Why Join Architecture-level ownership from day one Lead a high-calibre engineering team in a GCC with global exposure Modern event-driven stack with real scale and complexity Strong growth path toward Principal Engineer or Architect roles Keyskills: NET Core · React · Azure · Terraform · Kafka · Docker · Microservices · CI/CD Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering Industries Software Development, Technology, Information and Media, and Hospitals and Health Care Referrals increase your chances of interviewing at V3 Staffing by 2x See who you know",
       "score": 22,
       "matchedSkills": [
         "React",
-        "Node",
+        "TypeScript",
         "Docker",
         "Kubernetes",
-        "SQL"
+        "CI/CD"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Staff Software Development Engineer (Browser Extension/React)",
+      "company": "Zscaler",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/staff-software-development-engineer-browser-extension-react-at-zscaler-4446802329",
+      "postedAt": "2026-08-20",
+      "jobId": "4446802329",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Staff Engineer Software - React [T500-28749]",
+      "company": "Albertsons Companies India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/staff-engineer-software-react-t500-28749-at-albertsons-companies-india-4456496564",
+      "postedAt": "2026-08-20",
+      "jobId": "4456496564",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Developer",
+      "company": "TEKsystems",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-teksystems-4455635202",
+      "postedAt": "2026-08-20",
+      "jobId": "4455635202",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React GenAI Developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-genai-developer-at-infosys-4436593794",
+      "postedAt": "2026-08-20",
+      "jobId": "4436593794",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "AEM + React Full Stack Developer",
+      "company": "Innova ESI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/aem-%2B-react-full-stack-developer-at-innova-esi-4456478496",
+      "postedAt": "2026-08-20",
+      "jobId": "4456478496",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior UI Developer (ReactJS)",
+      "company": "ixigo",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-ui-developer-reactjs-at-ixigo-4456490337",
+      "postedAt": "2026-08-20",
+      "jobId": "4456490337",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "AEM + React JS Customization Developer",
+      "company": "Innova ESI",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/aem-%2B-react-js-customization-developer-at-innova-esi-4456477280",
+      "postedAt": "2026-08-20",
+      "jobId": "4456477280",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
       ],
       "excluded": false
     },
@@ -90,9 +318,9 @@
       "title": "Full Stack Developer (Next.js)",
       "company": "Welatino Traveltech LLP",
       "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-next-js-at-welatino-traveltech-llp-4455459852",
-      "postedAt": "2026-08-19",
-      "jobId": "4455459852",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-next-js-at-welatino-traveltech-llp-4454126002",
+      "postedAt": "2026-08-20",
+      "jobId": "4454126002",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -101,82 +329,12 @@
       "excluded": false
     },
     {
-      "title": "React JS",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-at-infosys-4455418335",
-      "postedAt": "2026-08-19",
-      "jobId": "4455418335",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Member of Technical Staff,  Portworx - Fullstack Engineering Lead (React & Go)",
-      "company": "Everpure",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/member-of-technical-staff-portworx-fullstack-engineering-lead-react-go-at-everpure-4455411262",
-      "postedAt": "2026-08-19",
-      "jobId": "4455411262",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
       "title": "React Native Developer",
-      "company": "Trigent Software - Professional Services",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-trigent-software-professional-services-4456306180",
-      "postedAt": "2026-08-19",
-      "jobId": "4456306180",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full-Stack Developer (.NET & ReactJS)",
-      "company": "Merck Group",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-net-reactjs-at-merck-group-4437862282",
-      "postedAt": "2026-08-19",
-      "jobId": "4437862282",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Full Stack Developer - ReactJs",
-      "company": "Blend",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-reactjs-at-blend-4455706401",
-      "postedAt": "2026-08-19",
-      "jobId": "4455706401",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".Net Fullstack with Angular/ Reactjs (Software Engineer II)",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/net-fullstack-with-angular-reactjs-software-engineer-ii-at-jpmorganchase-4456445703",
+      "company": "ADGRID",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-adgrid-4455695603",
       "postedAt": "2026-08-20",
-      "jobId": "4456445703",
+      "jobId": "4455695603",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -185,26 +343,12 @@
       "excluded": false
     },
     {
-      "title": "Fullstack Developer - .Net & React [T500-28701]",
-      "company": "CIBC India",
+      "title": "Expert ReactJS Developer",
+      "company": "Anaqua",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-developer-net-react-t500-28701-at-cibc-india-4456310306",
-      "postedAt": "2026-08-19",
-      "jobId": "4456310306",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Nous Infosystems - Full Stack Developer - .Net/React.js",
-      "company": "Nous Infosystems",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/nous-infosystems-full-stack-developer-net-react-js-at-nous-infosystems-4456410705",
+      "url": "https://in.linkedin.com/jobs/view/expert-reactjs-developer-at-anaqua-4417972630",
       "postedAt": "2026-08-20",
-      "jobId": "4456410705",
+      "jobId": "4417972630",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -213,40 +357,26 @@
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer (.Net, React)",
-      "company": "ConnectWise",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-react-at-connectwise-4456317484",
-      "postedAt": "2026-08-19",
-      "jobId": "4456317484",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Product Lead-React-.Net Core-TST-Manager",
-      "company": "EY",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/product-lead-react-net-core-tst-manager-at-ey-4453455605",
-      "postedAt": "2026-08-19",
-      "jobId": "4453455605",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Product Lead-React-.Net Core-TST-Manager",
-      "company": "EY",
+      "title": "Revalsys Technologies - Angular &amp; Next.js Engineer",
+      "company": "Revalsys Technologies",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/product-lead-react-net-core-tst-manager-at-ey-4453439738",
-      "postedAt": "2026-08-19",
-      "jobId": "4453439738",
+      "url": "https://in.linkedin.com/jobs/view/revalsys-technologies-angular-amp-next-js-engineer-at-revalsys-technologies-4457041413",
+      "postedAt": "2026-08-21",
+      "jobId": "4457041413",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "Next.js"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Lead React Native Developer",
+      "company": "Oolio",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-react-native-developer-at-oolio-4453869243",
+      "postedAt": "2026-08-20",
+      "jobId": "4453869243",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -255,12 +385,12 @@
       "excluded": false
     },
     {
-      "title": "Product Lead-React-.Net Core-TST-Manager",
-      "company": "EY",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/product-lead-react-net-core-tst-manager-at-ey-4453451652",
-      "postedAt": "2026-08-19",
-      "jobId": "4453451652",
+      "title": "Frontend Lead Developer (Angular + React)",
+      "company": "Zensar Technologies",
+      "location": "Pune District, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/frontend-lead-developer-angular-%2B-react-at-zensar-technologies-4455694326",
+      "postedAt": "2026-08-20",
+      "jobId": "4455694326",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -269,16 +399,31 @@
       "excluded": false
     },
     {
-      "title": "Senior Full-Stack Developer – .NET Core with React",
-      "company": "Intellistaff Services Pvt. Ltd",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-%E2%80%93-net-core-with-react-at-intellistaff-services-pvt-ltd-4453424449",
-      "postedAt": "2026-08-19",
-      "jobId": "4453424449",
+      "title": "AEM + React JS Full Stack Developer | Customization Developer",
+      "company": "Innova ESI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/aem-%2B-react-js-full-stack-developer-customization-developer-at-innova-esi-4456465586",
+      "postedAt": "2026-08-20",
+      "jobId": "4456465586",
       "description": "",
       "score": 20,
       "matchedSkills": [
         "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Phenom",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-phenom-4457002431",
+      "postedAt": "2026-08-20",
+      "jobId": "4457002431",
+      "description": "Senior Software Engineer Phenom Hyderabad, Telangana, India 8 hours ago Be among the first 25 applicants See who Phenom has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer role at Phenom Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Job Requirements About Phenom Phenom is the global leader in Talent Experience Management (TXM). Our AI-powered platform helps companies attract, engage, convert, and retain phenomenal talent. We believe in creating a workplace that’s collaborative, inclusive, and future-focused—where every employee contributes to building the next era of intelligent talent experiences. Role Overview We are looking for a Product Integration Engineer I to join our Implementation team. In this role, you will enable smooth, scalable integrations of Phenom products into customer environments and act as a key technical partner throughout the implementation lifecycle. What You’ll Do Work closely with the Implementation team to understand client requirements and design integration solutions - Develop and maintain integration scripts and tools to facilitate smooth integration of our products with client systems - Troubleshoot and resolve any integration issues that may arise during the implementation process - Collaborate with cross-functional teams, including Product Management and Engineering, to ensure seamless integration of new product features - Provide technical support to clients during the integration process and post- implementation - Document integration processes and provide training to clients on how to use our integration tools - Stay updated on industry trends and best practices in integration to continuously improve our processes and tools. What You Bring Bachelor’s degree in Computer Science, Engineering, Information Technology, or equivalent experience. 3 to 5 years of experience in software integration, preferably in a customer-facing role - Strong understanding of web services, APIs, and data integration techniques - Proficiency in programming languages such as Java, - Need to have mongo DB knowledge. - Experience with integration tools such Apache Nifi,MuleSoft. - React Js, Java Script, HTML, CSS. - Excellent problem-solving and troubleshooting skills Strong communication and interpersonal skills - Ability to work independently and in a team environment - Willingness to learn and adapt to new technologies and processes Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Phenom by 2x See who you know",
+      "score": 13,
+      "matchedSkills": [
+        "React",
+        "HTML"
       ],
       "excluded": false
     }
