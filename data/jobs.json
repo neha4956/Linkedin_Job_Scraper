@@ -1,107 +1,30 @@
 {
-  "generatedAt": "2026-08-24T04:25:09.950Z",
-  "totalScraped": 259,
-  "totalMatched": 10,
+  "generatedAt": "2026-08-25T04:20:04.627Z",
+  "totalScraped": 428,
+  "totalMatched": 9,
   "jobs": [
     {
-      "title": "Software Engineer - (C#/.NET & React) Job",
-      "company": "YASH Technologies",
+      "title": "React + Next.js developer",
+      "company": "Recro",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-c%23-net-react-job-at-yash-technologies-4421080436",
-      "postedAt": "2026-08-23",
-      "jobId": "4421080436",
-      "description": "Software Engineer - (C#/.NET &amp; React) Job YASH Technologies Bengaluru, Karnataka, India 19 hours ago Over 200 applicants See who YASH Technologies has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer - (C#/.NET &amp; React) Job role at YASH Technologies Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation. At YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future. We are looking forward to hire .NET C# Professionals in the following areas : Full Stack Developer (C#/.NET &amp; React) Experience Required 3–5 years of hands-on experience in full stack development Key Responsibilities Design, develop, and maintain scalable web applications using .NET (C#) and React Build and integrate RESTful APIs and backend services Collaborate with cross-functional teams to define, design, and deliver new features Ensure application performance, responsiveness, and security Participate in code reviews and adhere to best coding practices Troubleshoot and resolve technical issues in development and production environments Leverage prompt engineering techniques to effectively use AI tools for development, debugging, and optimization Required Skills &amp; Qualifications Proficiency in: C#, .NET Framework / .NET Core React.js Good understanding of: Object-Oriented Programming (OOP) Software Development Lifecycle (SDLC) Database concepts (SQL/NoSQL) Experience with APIs and microservices architecture Familiarity with version control systems (Git) Exposure to AI-assisted development, including: Prompt engineering Using AI tools to improve efficiency and output quality Strong analytical, problem-solving, and communication skills Work Location - Chennai or Bangalore At YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale. Our Hyperlearning workplace is grounded upon four principles Flexible work arrangements, Free spirit, and emotional positivity Agile self-determination, trust, transparency, and open collaboration All Support needed for the realization of business goals, Stable employment with a great atmosphere and ethical corporate culture Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at YASH Technologies by 2x See who you know",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "REST",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full Stack Developer (Node.js / React.js)",
-      "company": "GEOGO Techsolutions",
-      "location": "Bangalore Urban district, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-node-js-react-js-at-geogo-techsolutions-4455806323",
-      "postedAt": "2026-08-23",
-      "jobId": "4455806323",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Guidewire Digital/Jutro Developer",
-      "company": "r3 Consultant",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/guidewire-digital-jutro-developer-at-r3-consultant-4457897652",
-      "postedAt": "2026-08-23",
-      "jobId": "4457897652",
-      "description": "Guidewire Digital/Jutro Developer r3 Consultant Bengaluru, Karnataka, India 12 hours ago Be among the first 25 applicants See who r3 Consultant has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Direct message the job poster from r3 Consultant Tanvir Singh Tanvir Singh Talent Acquisition Leader | Placing 500+ Tech Professionals Annually | 25+ Years HR Expertise | Strategic Recruitment Partner | Building… Overview We are seeking an experienced Guidewire Digital/Jutro Developer to build and enhance digital solutions on the Guidewire Cloud Platform for Claims applications. The role requires strong expertise in Guidewire Digital technologies, Guidewire platform development, and modern front-end frameworks to deliver scalable, cloud-native solutions. Skills &amp; Experience 5+ years of software development experience on the Guidewire Cloud Platform and Guidewire applications. Hands-on experience with Guidewire Digital applications, including ProducerEngage for ClaimCenter, CustomerEngage for ClaimCenter, and the Jutro Digital Platform. Strong experience with Guidewire platform components, including Gosu, Edge APIs, UI customization, and Data Model. Proficiency in React.js, JavaScript, HTML5, CSS3, Bootstrap, Node.js, and JavaScript build tools such as GruntJS or Gulp. Experience developing and consuming RESTful APIs. Experience working within CI/CD environments and modern software delivery practices. Familiarity with unit testing frameworks such as Jasmine. Guidewire Certification is preferred. Experience in the Property &amp; Casualty insurance domain is preferred Responsibilities Design, develop, and support Guidewire Digital applications for the Claims platform in alignment with Guidewire Cloud standards and development best practices. Deliver high-quality software through coding, unit testing, defect resolution, production support, and release activities. Develop digital experiences using Jutro and Guidewire Digital applications while leveraging Guidewire platform capabilities. Collaborate with architects, technical leads, business analysts, QA teams, and other stakeholders to deliver scalable technical solutions. Analyze production issues, perform root cause analysis, and implement sustainable resolutions. Manage code versioning, resolve merge conflicts, and support code promotion across environments. Contribute to CI/CD practices to improve release quality and deployment efficiency. Participate in Agile ceremonies and contribute to continuous improvement initiatives. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering Industries IT Services and IT Consulting and Insurance Referrals increase your chances of interviewing at r3 Consultant by 2x See who you know",
-      "score": 25,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "Node",
-        "REST",
-        "CI/CD"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".Net Fullstack (React) Developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-fullstack-react-developer-at-infosys-4438948425",
-      "postedAt": "2026-08-23",
-      "jobId": "4438948425",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Software Engineer-React.JS",
-      "company": "PTC",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-js-at-ptc-4457877540",
-      "postedAt": "2026-08-23",
-      "jobId": "4457877540",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior/Lead Full Stack Engineer | C# | .NET | React.js | 6+ Years | Noida",
-      "company": "Remote_WFH_INDIA",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-lead-full-stack-engineer-c%23-net-react-js-6%2B-years-noida-at-remote-wfh-india-4455820340",
+      "url": "https://in.linkedin.com/jobs/view/react-%2B-next-js-developer-at-recro-4457145138",
       "postedAt": "2026-08-24",
-      "jobId": "4455820340",
+      "jobId": "4457145138",
       "description": "",
-      "score": 20,
+      "score": 40,
       "matchedSkills": [
-        "React"
+        "React",
+        "Next.js"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer-React.JS",
-      "company": "PTC",
+      "title": "Product Developer, Sr- React JS, Kafka",
+      "company": "Epicor",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-js-at-ptc-4457876578",
-      "postedAt": "2026-08-23",
-      "jobId": "4457876578",
+      "url": "https://in.linkedin.com/jobs/view/product-developer-sr-react-js-kafka-at-epicor-4440016231",
+      "postedAt": "2026-08-24",
+      "jobId": "4440016231",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -110,12 +33,12 @@
       "excluded": false
     },
     {
-      "title": "React JS Developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4447612114",
-      "postedAt": "2026-08-23",
-      "jobId": "4447612114",
+      "title": "Lead React JS Developer",
+      "company": "Virtual Connect Solutions",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-react-js-developer-at-virtual-connect-solutions-4456859615",
+      "postedAt": "2026-08-24",
+      "jobId": "4456859615",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -124,12 +47,26 @@
       "excluded": false
     },
     {
-      "title": "React Native Technical Lead",
+      "title": "Product Developer-.Net and React",
+      "company": "Epicor",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/product-developer-net-and-react-at-epicor-4458194126",
+      "postedAt": "2026-08-24",
+      "jobId": "4458194126",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer",
       "company": "Real Jobs Consulting Services",
       "location": "Greater Bengaluru Area",
-      "url": "https://in.linkedin.com/jobs/view/react-native-technical-lead-at-real-jobs-consulting-services-4455841729",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-real-jobs-consulting-services-4455822777",
       "postedAt": "2026-08-24",
-      "jobId": "4455841729",
+      "jobId": "4455822777",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -138,19 +75,58 @@
       "excluded": false
     },
     {
-      "title": "Software Engineer-2",
-      "company": "Visa",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-2-at-visa-4458101714",
-      "postedAt": "2026-08-23",
-      "jobId": "4458101714",
-      "description": "Software Engineer-2 Visa Bengaluru, Karnataka, India 10 hours ago Over 200 applicants See who Visa has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer-2 role at Visa Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . About Us Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid. At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world. Join Visa and do work that matters – to you, to your community, and to the world. Progress starts with you. Job Description Work as a member of a team responsible for designing, coding, testing and maintaining Visa's Business Solutions B2B line of products. Contribute to enhancements and changes to existing B2B applications codebase. Develop code that complies with design specifications and meets security and Java/J2EE best practices. Create code that is easily maintainable and have high system performance. Collaborate with Development &amp; QA staff on individual and team deliverables. Create documentation and procedures for installation and maintenance. Work with operations team for any production issues Identify opportunities for future enhancements and refinements to standards, best practices and development methodologies. Work closely with project team and other groups (e.g. Network, QA, Ops, Engineering). Follow Coding and Design best practices. Participate in design and code review sessions Interact with business units to define requirements/modifications and use case to utilize in designing appropriate solutions Adapt quickly to new application knowledge and changes Work in a loosely structured, fast-paced organization. This is a hybrid position. Expectation of days in the office will be confirmed by your Hiring Manager. Qualifications Basic Qualifications: Bachelor's degree, OR 3+ years of relevant work experience Preferred Qualifications Bachelor's degree, OR 3+ years of relevant work experience Education &amp; Experience 1+ years of professional software engineering experience Bachelor's degree in Computer Science, Software Engineering, or related field (Master's degree preferred) Core Technical Skills Java &amp; Backend Development Strong experience with JAVA, Spring Boot, Spring Framework, Hibernate/JPA Solid understanding of object-oriented design principles and design patterns Experience with RESTful API development and microservices architecture Proficiency in code development using IntelliJ IDEA, Eclipse, or similar Java IDEs Experience with unit testing frameworks (JUnit, Mockito, TestNG) Understanding of multithreading, concurrency, and Java memory management Familiarity with reactive programming (Spring WebFlux, RxJava) is a plus Development Tools &amp; Practices Proficient with GIT/Stash for version control Experience with Maven or Gradle for dependency management and builds Hands-on experience with Jenkins, GitLab CI, or similar CI/CD tools Understanding of code review best practices and collaborative development Experience with Agile/Scrum methodologies AI-Assisted Development Experience using AI coding assistants (GitHub Copilot, Amazon CodeWhisperer, or similar) Ability to leverage AI tools to improve coding efficiency and code quality Understanding of prompt engineering for effective AI collaboration Interest in exploring AI/ML integration in software applications Familiarity with LLM APIs (OpenAI, Azure OpenAI) is a plus Visa is an EEO Employer Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law. Show more Show less Seniority level Associate Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Visa by 2x See who you know",
-      "score": 19,
+      "title": "Senior React Native Developer",
+      "company": "Real Jobs Consulting Services",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-native-developer-at-real-jobs-consulting-services-4455828700",
+      "postedAt": "2026-08-24",
+      "jobId": "4455828700",
+      "description": "",
+      "score": 20,
       "matchedSkills": [
-        "React",
-        "REST",
-        "Jenkins",
-        "CI/CD"
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "SENIOR SOFTWARE ENGINEER - ReactJS",
+      "company": "Happiest Minds Technologies",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-reactjs-at-happiest-minds-technologies-4458196533",
+      "postedAt": "2026-08-24",
+      "jobId": "4458196533",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Developer II (REACT Front-End)",
+      "company": "ABC Fitness",
+      "location": "Greater Hyderabad Area",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-ii-react-front-end-at-abc-fitness-4456870846",
+      "postedAt": "2026-08-24",
+      "jobId": "4456870846",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer | .NET Core + React.js + Azure",
+      "company": "SJ Mobilita",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-net-core-%2B-react-js-%2B-azure-at-sj-mobilita-4455708029",
+      "postedAt": "2026-08-24",
+      "jobId": "4455708029",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
       ],
       "excluded": false
     }
