@@ -1,35 +1,112 @@
 {
-  "generatedAt": "2026-08-28T15:45:38.060Z",
-  "totalScraped": 383,
-  "totalMatched": 22,
+  "generatedAt": "2026-08-29T10:30:47.054Z",
+  "totalScraped": 439,
+  "totalMatched": 17,
   "jobs": [
     {
-      "title": "Frontend Developer (React / Next.js)",
-      "company": "HYrEzy Tech Solutions",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/frontend-developer-react-next-js-at-hyrezy-tech-solutions-4458941532",
+      "title": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-full-stack-developer-react-%2B-node-js-%2B-graphql-8%2B-years-any-ust-location-immediate-joiner-at-ust-4429688991",
       "postedAt": "2026-08-28",
-      "jobId": "4458941532",
-      "description": "",
-      "score": 40,
+      "jobId": "4429688991",
+      "description": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner UST Bengaluru, Karnataka, India 17 hours ago Over 200 applicants See who UST has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Direct message the job poster from UST Nitin Patil Nitin Patil TA Lead at UST Candidates ready to join immediately can share their details via email for quick processing. 📌 CCTC | ECTC | Notice Period | Location Preference nitin.patil@ust.com Act fast for immediate attention! ⏳📩 __________________________________________________________________________________________________ Must-Have Skills 8+ years of software development experience. Strong hands-on experience in React.js, TypeScript, JavaScript (ES6+), Redux, and modern frontend development. Experience building responsive, reusable, and scalable UI components. Good hands-on experience in Node.js, Express.js/NestJS. Strong experience with GraphQL (Queries, Mutations, Schema Design, API Integration). Experience developing and consuming REST APIs and GraphQL APIs. Strong understanding of Microservices Architecture. Experience with SQL/NoSQL databases such as PostgreSQL, MySQL, MongoDB. Experience with Git, CI/CD pipelines, and Agile/Scrum methodologies. Strong debugging, performance optimization, and problem-solving skills. Good-to-Have Skills Experience with Next.js. Exposure to AWS/Azure cloud platforms. Experience with Docker and Kubernetes. Knowledge of Micro Frontend Architecture. Exposure to AI/GenAI-based applications. Experience in leading small teams and code reviews. Skills React.js, Node.js, GraphQL, TypeScript, JavaScript, Redux, Next.js, REST APIs, Microservices, PostgreSQL, MongoDB, AWS, Docker Show more Show less Seniority level Not Applicable Employment type Full-time Job function Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at UST by 2x See who you know",
+      "score": 79,
       "matchedSkills": [
         "React",
-        "Next.js"
+        "Next.js",
+        "Redux",
+        "JavaScript",
+        "TypeScript",
+        "Node",
+        "Express",
+        "REST",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "SQL",
+        "MongoDB"
       ],
       "excluded": false
     },
     {
-      "title": "Junior UI Developer - React & Next.js",
-      "company": "EdPlatza Tuition",
-      "location": "Delhi, India",
-      "url": "https://in.linkedin.com/jobs/view/junior-ui-developer-react-next-js-at-edplatza-tuition-4460169002",
-      "postedAt": "2026-08-28",
-      "jobId": "4460169002",
-      "description": "",
-      "score": 40,
+      "title": "Apply only if you're Currently in Bangalore | Senior Full Stack Developer | Onsite | JP Nagar | Upto 10 LPA | Immediate Joiners Only",
+      "company": "Hello Mentor",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/apply-only-if-you-re-currently-in-bangalore-senior-full-stack-developer-onsite-jp-nagar-upto-10-lpa-immediate-joiners-only-at-hello-mentor-4459494081",
+      "postedAt": "2026-08-29",
+      "jobId": "4459494081",
+      "description": "Apply only if you're Currently in Bangalore | Senior Full Stack Developer | Onsite | JP Nagar | Upto 10 LPA | Immediate Joiners Only Hello Mentor Greater Bengaluru Area 10 minutes ago Be among the first 25 applicants See who Hello Mentor has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Roles &amp; Responsibilities Design, develop, and maintain scalable full-stack web applications using modern frontend and backend technologies. Build responsive, high-performance user interfaces using React.js and Next.js. Develop secure and scalable backend services and RESTful APIs using Node.js andExpress.js. Design, optimize, and maintain databases using PostgreSQL and MongoDB. Collaborate with Product, Design, QA, and Engineering teams to deliver high-quality software solutions. Take ownership of application features from design and development through deployment and maintenance. Participate in architecture discussions and contribute to technical decision-making. Conduct code reviews, mentor junior developers, and drive engineering best practices. Optimize application performance, scalability, security, and maintainability. Troubleshoot production issues and implement long-term technical improvements. Required Skills Core Technical Skills React.js &amp; Next.js Node.js&amp;Express.js Java Script (ES6+) &amp; TypeScript PostgreSQL&amp; MongoDB RESTful API Development HTML5,CSS3&amp;Responsive Design Git &amp; Version Control Component-Based Architecture Software Design Principles Performance Optimization Preferred Skills Docker &amp;CI/CD Pipelines AWS, Azure, or Google Cloud Platform (GCP) Redux Toolkit &amp;RTK Query Jest &amp; React Testing Library Microservices Architecture Agile/Scrum Development Perks &amp; Benefits: Paid Annual Leaves Long vacation during new year PF, Health Insurance, Team Lunches Great job satisfaction Immense learning &amp;personal development Additional Details: Job Title: Senior Full Stack Developer CTC: Upto10 LPA Location: JP Nagar, Bengaluru Job Type: Full Time(Onsite) Working Days: 6 Days Experience: 4- 7 Years Notice Period: Immediate to 7 day Show more Show less Seniority level Not Applicable Employment type Full-time Industries Education Referrals increase your chances of interviewing at Hello Mentor by 2x See who you know",
+      "score": 66,
       "matchedSkills": [
         "React",
-        "Next.js"
+        "Next.js",
+        "Redux",
+        "TypeScript",
+        "HTML",
+        "Node",
+        "Express",
+        "REST",
+        "Docker",
+        "GCP",
+        "CI/CD",
+        "SQL",
+        "MongoDB",
+        "Jest",
+        "Testing Library"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "Toddle - Your Teaching Partner",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-toddle-your-teaching-partner-4458984184",
+      "postedAt": "2026-08-28",
+      "jobId": "4458984184",
+      "description": "Full Stack Engineer Toddle - Your Teaching Partner Bengaluru, Karnataka, India 19 hours ago Over 200 applicants See who Toddle - Your Teaching Partner has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Toddle is an AI-powered teaching and learning platform for K–12 schools. Built by educators, for educators, it is used by over 200,000 educators across 2,500+ schools in 100+ countries. Teachers today work 50+ hours a week. Too much of that time is spent navigating fragmented systems and administrative overhead. Our&nbsp;BHAG (Big Hairy Audacious Goal)&nbsp;is to save teachers 10+ hours every week while helping elevate their practices, so that time can go back to what matters most - teaching, learning, and meaningful time with students. Our approach is three-pronged. First,&nbsp;Toddle brings the entire teaching and learning lifecycle into one place. Teachers plan and map curriculum, create assessments and gradebooks, maintain student portfolios, communicate with families, and generate progress reports and transcripts - all from a single, coherent system. Toddle also supports adjacent workflows where teachers are closely involved, including attendance, timetables, calendars, accreditation, behaviour management, analytics, and insights. Second, every layer of the platform is deeply AI-powered.&nbsp;Educators work with a thoughtful AI partner to plan curriculum, create lessons and assessments, assist with grading, write progress report comments, and derive insights from data. Toddle also offers student-facing AI Tutors, enabling highly personalized and immersive learning experiences. Third,&nbsp;Toddle integrates seamlessly with the broader school technology ecosystem.&nbsp;The platform supports 50+ integrations across SIS platforms, content providers, data &amp; integration platforms, and workspaces such as Google, Apple, and Microsoft. You can watch our founder and CEO’s overview of Toddle&nbsp; here . Headquartered in India with a multicultural team across 20+ countries, Toddle is built by former educators and school practitioners who understand the realities of classrooms firsthand. We care deeply about craft, clarity, and reducing unnecessary complexity for teachers. People who thrive at Toddle enjoy building thoughtful systems, care about real-world impact, and are motivated by long-term change in K-12 education. Here’s what you’ll be doing We are looking for a passionate and motivated product&nbsp;engineer&nbsp;who partners with us to build intuitive, scalable, and delightful user experiences for teachers, students, and parents. As a product Engineer, you will contribute to designing, developing, and deploying high-quality product. You will collaborate closely with engineers, product managers, designers, educators, and gain exposure to real-world usage in schools. This role offers hands-on ownership, continuous technical growth and product understanding in a fast-growing SaaS environment. What you’ll achieve in your first 3 months Understand the codebase, architecture, and core product workflows Build strong fundamentals in frontend and backend concepts Start contributing to feature development, production fixes &amp; optimization What you’ll achieve in your first 6 months Independently deliver major features by writing&nbsp;clean, modular, and optimized code Participate in code reviews and collaborate cross-functionally What you’ll achieve in your first 12 months Own modules&nbsp;end-to-end, coordinating closely with&nbsp;Product and Support teams&nbsp;through scoping, design review, development, release, and post-release support Get the opportunity to work on&nbsp;performance, optmization and infra projects Contribute to hiring, onboarding, technical knowledge sharing, and continuous improvement of engineering processes Must have Skills: Frontend Languages &amp; Frameworks&nbsp;- JavaScript (ES6+) , HTML5 / CSS3, React, Redux/Apollo Client Backend Languages &amp; Frameworks&nbsp;- Node.js, Express &amp; GraphQL,&nbsp;PostgreSQL Tools &amp; Platforms&nbsp;- Git, Build tools (Webpack), Profiling tools (React Profiler, Memory profiling), GitHub Copilot or other AI-assisted development tools, Knex Strong problem-solving skills and eagerness to learn Ability to write clean, readable, and maintainable code Good to have: Exposure to&nbsp;AWS ecosystem&nbsp;(Lambda, SQS, CloudWatch, API Gateway, etc.) Working experience in ReactNative Product mindset with empathy for end users Clear communication skills and ability to collaborate cross-functionally Past working experience in SaaS or product based companies Is this someone that looks like you? Education: B.E/B.Tech degree Experience: 2 to 5 years of relevant working experience (SaaS preferred) post graduation. Soft Skills: Having a bias towards action, a good sense of design, empathy, and good communication skills We deeply value building the right culture at Toddle, and these are a few things that we look for in each hire – Coach-ability, Curiosity, Ownership, Hustle, and Humility Excited about the role? Here are some more benefits: 1) Flexibility at work Work from anywhere - home, co-working space, cafe or even the hills Block “no-meeting hours” to enable uninterrupted focused work 2) Exposure to diverse learning opportunities Work across different projects &amp; teams to develop skills outside of your core expertise 3) Industry best leave policy We trust you fully on your commitment to our mission and your judgement on planning your time and taking leaves: No cap on the number of sick or casual leaves Special paid leaves for childbirth, wedding etc. Menstrual leave 4) No bell curve performance evaluations We put in a lot of work to hire the best, and therefore we don’t expect anyone to deliver less than the best! 5)&nbsp;And yes,&nbsp;a super fun and diverse group&nbsp;of folks to collaborate and grow with Still with us? Here’s the process: 1) Shortlisting: Complete the form on this page. We’ll check out your application and assess it for a fit. If shortlisted, you’ll hear from us within&nbsp;2-3 days. 2) Interview Process: Typically, we do&nbsp;2-3 rounds of interviews, a&nbsp;written assignment, and&nbsp;deep reference checks. 3) We value your time and aim to communicate proactively at all stages of your application. You can always reach out with any questions! Show more Show less Seniority level Entry level Employment type Full-time Job function Engineering and Information Technology Industries Education Referrals increase your chances of interviewing at Toddle - Your Teaching Partner by 2x See who you know",
+      "score": 41,
+      "matchedSkills": [
+        "React",
+        "Redux",
+        "JavaScript",
+        "Webpack",
+        "HTML",
+        "Node",
+        "Express",
+        "GraphQL",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full Stack Engineer (React + Node)",
+      "company": "Fractal",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-react-%2B-node-at-fractal-4450349266",
+      "postedAt": "2026-08-29",
+      "jobId": "4450349266",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer (React JS + Node JS) | 6 YoE | Any UST Location | Immediate Joiner",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-react-js-%2B-node-js-6-yoe-any-ust-location-immediate-joiner-at-ust-4393854508",
+      "postedAt": "2026-08-28",
+      "jobId": "4393854508",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
       ],
       "excluded": false
     },
@@ -49,27 +126,12 @@
       "excluded": false
     },
     {
-      "title": "Frontend Engineer - React JS, AWS, CI/CD | 4 to 8 yrs",
-      "company": "Cisco",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/frontend-engineer-react-js-aws-ci-cd-4-to-8-yrs-at-cisco-4450269890",
-      "postedAt": "2026-08-27",
-      "jobId": "4450269890",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "CI/CD"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React JS Node JS",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-node-js-at-infosys-4458917451",
+      "title": "React/Nodejs Developer",
+      "company": "HTC Global Services",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-nodejs-developer-at-htc-global-services-4460387170",
       "postedAt": "2026-08-28",
-      "jobId": "4458917451",
+      "jobId": "4460387170",
       "description": "",
       "score": 26,
       "matchedSkills": [
@@ -79,40 +141,12 @@
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer (.Net/React)",
-      "company": "The Access Group",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-net-react-at-the-access-group-4460190984",
-      "postedAt": "2026-08-28",
-      "jobId": "4460190984",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "UI Specialist - ReactJS Job",
-      "company": "YASH Technologies",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/ui-specialist-reactjs-job-at-yash-technologies-4458926919",
-      "postedAt": "2026-08-28",
-      "jobId": "4458926919",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "UI Specialist - ReactJS Job",
-      "company": "YASH Technologies Middle East",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/ui-specialist-reactjs-job-at-yash-technologies-middle-east-4458096553",
-      "postedAt": "2026-08-28",
-      "jobId": "4458096553",
+      "title": "React JS",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-at-infosys-4459460141",
+      "postedAt": "2026-08-29",
+      "jobId": "4459460141",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -135,16 +169,44 @@
       "excluded": false
     },
     {
-      "title": "Revalsys Technologies - Product Development Owner - AngularJS/Next.js",
-      "company": "Revalsys Technologies",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/revalsys-technologies-product-development-owner-angularjs-next-js-at-revalsys-technologies-4460144524",
-      "postedAt": "2026-08-28",
-      "jobId": "4460144524",
+      "title": "React Native Developer",
+      "company": "Real Jobs Consulting Services",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-real-jobs-consulting-services-4458465539",
+      "postedAt": "2026-08-29",
+      "jobId": "4458465539",
       "description": "",
       "score": 20,
       "matchedSkills": [
-        "Next.js"
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full Stack Engineer (ReactJS + Dot Net)",
+      "company": "Fractal",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-reactjs-%2B-dot-net-at-fractal-4332241466",
+      "postedAt": "2026-08-28",
+      "jobId": "4332241466",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Lead IRC298790",
+      "company": "GlobalLogic",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/react-lead-irc298790-at-globallogic-4449743939",
+      "postedAt": "2026-08-28",
+      "jobId": "4449743939",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
       ],
       "excluded": false
     },
@@ -177,20 +239,6 @@
       "excluded": false
     },
     {
-      "title": "Software Engineer (React Native/Kotlin/Swift)",
-      "company": "The Access Group",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-react-native-kotlin-swift-at-the-access-group-4460308138",
-      "postedAt": "2026-08-28",
-      "jobId": "4460308138",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
       "title": "Mobile Application Developer – React Native",
       "company": "Frugality",
       "location": "Pune Division, Maharashtra, India",
@@ -205,55 +253,13 @@
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer (React Native/Kotlin/Swift)",
-      "company": "The Access Group",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-native-kotlin-swift-at-the-access-group-4460199924",
-      "postedAt": "2026-08-28",
-      "jobId": "4460199924",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Native Developer",
-      "company": "Synechron",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-synechron-4458066334",
-      "postedAt": "2026-08-28",
-      "jobId": "4458066334",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Full Stack Engineer (ReactJS + Dot Net)",
-      "company": "Fractal",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-reactjs-%2B-dot-net-at-fractal-4332241466",
-      "postedAt": "2026-08-28",
-      "jobId": "4332241466",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React AI Lead",
+      "title": "Angular/React + AI",
       "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-ai-lead-at-infosys-4458697802",
+      "url": "https://in.linkedin.com/jobs/view/angular-react-%2B-ai-at-infosys-4440261514",
       "postedAt": "2026-08-28",
-      "jobId": "4458697802",
-      "description": "",
+      "jobId": "4440261514",
+      "description": "Angular/React + AI Infosys Bengaluru East, Karnataka, India 20 hours ago Over 200 applicants See who Infosys has hired for this role Apply Join or sign in to find your next job Join to apply for the Angular/React + AI role at Infosys Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Primary skills:Technology-&gt;AI-Responsible AI-&gt;Responsible AI,Technology-&gt;Reactive Programming-&gt;react JS,Technology-&gt;UI &amp; Markup Language-&gt;Angular JS/Angular 1.x-&gt;Angular 2 A day in the life of an Infoscion As part of the Infosys consulting team, your primary role would be to actively aid the consulting team in different phases of the project including problem definition, effort estimation, diagnosis, solution generation and design and deployment You will explore the alternatives to the recommended solutions based on research that includes literature surveys, information available in public domains, vendor evaluation information, etc. and build POCs You will create requirement specifications from the business needs, define the to-be-processes and detailed functional designs based on requirements. You will support configuring solution requirements on the products; understand if any issues, diagnose the root-cause of such issues, seek clarifications, and then identify and shortlist solution alternatives You will also contribute to unit-level and organizational initiatives with an objective of providing high quality value adding solutions to customers. If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! A b i l i t y t o w o r k w i t h c l i e n t s t o i d e n t i f y b u s i n e s s c h a l l e n g e s a n d c o n t r i b u t e t o c l i e n t d e l i v e r a b l e s b y r e f i n i n g , a n a l y z i n g , a n d s t r u c t u r i n g r e l e v a n t d a t a A w a r e n e s s o f l a t e s t t e c h n o l o g i e s a n d t r e n d s L o g i c a l t h i n k i n g a n d p r o b l e m s o l v i n g s k i l l s a l o n g w i t h a n a b i l i t y t o c o l l a b o r a t e A b i l i t y t o a s s e s s t h e c u r r e n t p r o c e s s e s , i d e n t i f y i m p r o v e m e n t a r e a s a n d s u g g e s t t h e t e c h n o l o g y s o l u t i o n s O n e o r t w o i n d u s t r y d o m a i n k n o w l e d g e Show more Show less Seniority level Not Applicable Employment type Full-time Job function Other Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Infosys by 2x See who you know",
       "score": 20,
       "matchedSkills": [
         "React"
@@ -271,54 +277,6 @@
       "score": 20,
       "matchedSkills": [
         "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer II",
-      "company": "Pearson",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-at-pearson-4440627235",
-      "postedAt": "2026-08-28",
-      "jobId": "4440627235",
-      "description": "Software Engineer II Pearson Bengaluru East, Karnataka, India 5 hours ago Over 200 applicants See who Pearson has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer II role at Pearson Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Role: Software Engineer II Location: Chennai/Bangalore (Hybrid - 3 days/week in Office) Pearson Marketing Cloud is one of Pearson’s global technology platforms, globally distributed instances, multi-tenant, driving the digital transformation for eCommerce and web content. PMC currently processes more than 90% of global Pearson eCommerce revenue and serves over 80% of all Pearson web traffic. We currently run large content &amp; eCommerce platforms serving the full-stack, but we want to start to move towards the next-generation of architectures – headless, API-first, cloud-native and micro-service based. Join a high performing team within a highly specialized technology department which focuses on delivery and transformation! About the job We are seeking a highly skilled Full Stack Java Developer - E-Commerce with 3 to 6 years of experience to join our engineering team. This unique role requires a blend of enterprise e-commerce platform expertise and modern full-stack development capability. You will play a crucial role in implementing complex modules using Java, Spring Boot, React, and Node.js, while leveraging SAP Hybris and BigCommerce to deliver seamless, scalable, and modern digital commerce solutions. Key Responsibilities Module Development: Implement, document, and unit test complex software modules using React, Java, Spring Boot, Node.js , and enterprise commerce platforms ( SAP Hybris / BigCommerce ). Quality Assurance: Ensure all code meets high-quality standards and strictly adheres to predefined non-functional requirements (performance, scalability, security). Technical Excellence: Follow and actively contribute to the project's best technical practices, development standards, and code reviews to ensure code remains flexible and reusable. Cross-Functional Collaboration: Work closely with Project Management and Business Analysts to manage flexible project scopes alongside business owners. Testing Support: Maintain a strong focus on end-to-end quality throughout the entire development lifecycle, working in tight alignment with the Quality Assurance stream. Systems Integration: Collaborate with DevOps, Technical Leads, Solutions Architects, and Enterprise Architects to ensure seamless e-commerce integration across a complex ecosystem. Architecture Modernization: Support new architectural visions (such as headless commerce and decoupled frontends) and actively help migrate legacy or custom components into modern architectural patterns. Skills &amp; Abilities Core Technical Stack: Proven project experience utilizing React, Java, Spring Boot, Node.js , alongside REST API development . E-Commerce Platform Expertise: Strong development experience with SAP Hybris (SAP Commerce Cloud) Or BigCommerce platform ecosystems. Cloud &amp; Microservices: Hands-on experience with AWS (including serverless development with AWS Lambda ) and Microservice architecture . Software Foundations: Excellent understanding of Object-Oriented Programming (OOP) , design patterns, relational databases, complex integration landscapes, and e-commerce non-functional requirements. AI-Assisted Engineering: Direct experience leveraging GitHub Copilot to optimize and accelerate application development. System Observability: Practical experience handling system diagnostics using modern troubleshooting, logging, and monitoring tools . Soft Skills: Excellent verbal and written communication skills with the ability to articulate technical concepts to both technical and non-technical stakeholders. Who we are: At Pearson, our purpose is simple: to help people realize the life they imagine through learning. We believe that every learning opportunity is a chance for a personal breakthrough. We are the world's lifelong learning company. For us, learning isn't just what we do. It's who we are. To learn more: We are Pearson. Pearson is an Equal Opportunity Employer and a member of E-Verify. Employment decisions are based on qualifications, merit and business need. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, sexual orientation, gender identity, gender expression, age, national origin, protected veteran status, disability status or any other group protected by law. We actively seek qualified candidates who are protected veterans and individuals with disabilities as defined under VEVRAA and Section 503 of the Rehabilitation Act. If you are an individual with a disability and are unable or limited in your ability to use or access our career site as a result of your disability, you may request reasonable accommodations by emailing TalentExperienceGlobalTeam@grp.pearson.com. Job: Engineering Job Family: TECHNOLOGY Organization: OCTO Schedule: FULL_TIME Workplace Type: Hybrid Req ID: 24944 Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Education Administration Programs and E-Learning Providers Referrals increase your chances of interviewing at Pearson by 2x See who you know",
-      "score": 19,
-      "matchedSkills": [
-        "React",
-        "Node",
-        "Express",
-        "REST"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "The Core Engineering-Bengaluru-Associate-Software Engineering",
-      "company": "Goldman Sachs",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/the-core-engineering-bengaluru-associate-software-engineering-at-goldman-sachs-4448761679",
-      "postedAt": "2026-08-28",
-      "jobId": "4448761679",
-      "description": "The Core Engineering-Bengaluru-Associate-Software Engineering Goldman Sachs Bengaluru, Karnataka, India 1 hour ago Over 200 applicants See who Goldman Sachs has hired for this role Apply Join or sign in to find your next job Join to apply for the The Core Engineering-Bengaluru-Associate-Software Engineering role at Goldman Sachs Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Job Description The Core Engineering Responsibilities The Core Engineering builds and operates the platforms, applications, data solutions, models, and analytics that power critical processes for The Core divisions of the firm (e.g., Risk, responsible for the risk profile of firm activities; Controllers, responsible for the financial control and reporting obligations; Compliance, responsible for the firm’s compliance, regulatory, and reputational risks; Corporate Treasury, responsible for the firm’s liquidity, funding, balance sheet, etc.; and Human Capital Management, responsible for attracting, developing, and managing a global workforce). A centralized engineering structure in support of The Core enables a common platform model and operating framework that promotes consistent governance and scalable solutions, leveraging cloud, AI, and machine learning for innovation and efficiency. The Core Engineering’s 2,000+ engineers and strats deliver engineering, data, analytics, and quantitative capabilities within six business units: Metrics &amp; Analytics Platforms: responsible for the measurement and management of the firm’s risk, capital, and liquidity for The Core functions The Core Strats: responsible for the development and implementation of models and other quantitative methodologies, including the accuracy and attribution of modeled metrics Financials &amp; Reporting: responsible for facilitating the production of the firm’s financials and a wide range of reporting functions Non-Financial Risk &amp; Controls: responsible for non-financial risk and control processes Enterprise Platforms: responsible for platforms and applications that support critical operational processes across The Core such as payments, people processes, and procurement Shared Services: responsible for driving the adoption of consistent engineering strategy, including data platforms, cloud, and AI enablement, as well as the management of technology risk Requirements Design and architecture systems for The Core functions (including client documentation, reporting and tax withholding) with high scalability, high throughput, and large amounts of data Contribute to the technical design of the strategic engine by evaluating and employing Distributed Caching implementations for Multi-threaded and Concurrent Highly-Scalable processing. Complex Matching Algorithms for highly flexible, optimized and extremely fast matching Organizations enterprise platforms including Forms Engine and Data Lake Design and Implement user workflows using BPMN notation Manage project deliverables and tasks during development, user acceptance (UAT) and production implementation phases Manage user requirements, testing cycles and perform change management duties Develop highly scalable, resilient distributed systems using service oriented paradigms Perform memory, thread and CPU profiling of all core features for high volume processing and preform process analysis using JProfiler and VisualVM, jMap, jStack, jConsole Manage regulatory deliverables within a fast changing environment Work closely with the global counterparts (both technology &amp; user teams) and other technology communities in the firm as part of team charged with managing global tax requirements for GS clients Qualifications 3+ years of Java development 1+ years of service oriented architecture development Knowledge of Web UI technologies like React and Angular Familiarity with Spring Frameworks Strong skill in databases like DB2, Sybase IQ, MongoDB Knowledge of BPMN modelling and designing 1+ years of experience implementing systems with automated testing using junit, fitnesse, karate, etc. Preferred Experience in Financial Services/Industry Messaging related technologies such as JMS, Apache Kafka About Goldman Sachs At Goldman Sachs, we commit our people, capital and ideas to help our clients, shareholders and the communities we serve to grow. Founded in 1869, we are a leading global investment banking, securities and investment management firm. Headquartered in New York, we maintain offices around the world. We believe who you are makes you better at what you do. We're committed to fostering and advancing diversity and inclusion in our own workplace and beyond by ensuring every individual within our firm has a number of opportunities to grow professionally and personally, from our training and development opportunities and firmwide networks to benefits, wellness and personal finance offerings and mindfulness programs. Learn more about our culture, benefits, and people at GS.com/careers. We’re committed to finding reasonable accommodations for candidates with special needs or disabilities during our recruiting process. Learn more: https://www.goldmansachs.com/careers/footer/disability-statement.html © The Goldman Sachs Group, Inc., 2023. All rights reserved. Goldman Sachs is an equal employment/affirmative action employer Show more Show less Seniority level Associate Employment type Full-time Job function Engineering and Information Technology Industries Financial Services Referrals increase your chances of interviewing at Goldman Sachs by 2x See who you know",
-      "score": 16,
-      "matchedSkills": [
-        "React",
-        "HTML",
-        "MongoDB"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "Chargebee",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-chargebee-4458919981",
-      "postedAt": "2026-08-28",
-      "jobId": "4458919981",
-      "description": "Senior Software Engineer Chargebee Bengaluru, Karnataka, India 11 hours ago Over 200 applicants See who Chargebee has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Direct message the job poster from Chargebee Prakash Selvakumar Prakash Selvakumar TA-Talent Acquisition | Technical Recruiter | Sourcer | Talent Partner | SAAS | Technology Hiring About Chargebee Chargebee is a leading provider of billing and monetization solutions, empowering businesses with recurring revenue models to streamline revenue and finance operations, capture actionable insights, and drive growth. Chargebee is trusted by businesses of all sizes, including Zapier, LegalZoom, Lambda, Freshworks, DeepL, Condé Nast, and Pret a Manger, and is proud to have been consistently recognized by customers as a Leader in Subscription Management on G2. With headquarters in North Bethesda, Maryland, our team members are based primarily in India, the U.S., and Europe. About the Team Our Growth Suite team is looking for a Senior Software Engineer — someone who’s excited about building the monetization and experimentation layer that powers how businesses acquire, expand, and retain customers. About the role (Job Summary) This is a full-stack engineering role, with a strong emphasis on Java/Spring (backend) and React/Vue/Angular (frontend) development. You’ll be working on creating powerful yet easy-to-use customer experiences across acquisition, expansion, and retention flows — making growth workflows low-code, fast, and delightful for businesses. Imagine shaping how companies design, test, and optimize their hosted experiences, pricing strategies, offers, and experiments to drive revenue and engagement. That’s the kind of impact you’ll have her e. What you’ll do (role and responsibilities) Build and scale full-stack features around pricing pages, offer management, and experimentation workflows Translate product requirements into clean, high-quality code across backend and frontend Own modules end-to-end — from implementation to production support Collaborate with designers and PMs to deliver user-centric monetization experiences Optimize performance, scalability, and security for high-traffic pricing and checkout flows Contribute to team best practices, code reviews, and continuous improvement What you’ll bring (required skills and experience) 4–6 years of hands-on software development experience Strong backend skills with Java/Spring , and experience building scalable APIs Proficiency in React or Vue , with an eye for building dynamic, interactive UIs Strong debugging skills and attention to detail across the stack A product mindset — you care about the why , not just the how Bonus points for experience with pricing pages, checkout flows, billing, or experimentation platforms. Nice to have (preferred) Daily hands-on use of AI coding tools, with a clear sense of when they help and when they don't A clear line between AI-generated code and production-ready code, you review, test, and own everything you ship Ability to write clear, specific prompts that get consistent, high-quality output from LLMs A habit of breaking work into small, reviewable chunks instead of accepting large AI-generated changes wholesale Benefits we offer At Chargebee, we believe that feeling supported is the foundation for doing great work. We offer a comprehensive benefits package designed to support your personal, financial, and professional growth and ensure you thrive in every aspect of your life. Our commitment to supporting our employees is universal, while our benefits are thoughtfully designed to meet the unique needs of each region. We offer comprehensive packages that generally include: Health &amp; Wellness: Robust coverage and access to programs to support your physical and mental well-being. Financial Security: Initiatives to help you build long-term financial stability. Work-Life Balance: Flexible options and resources to help you thrive both professionally and personally. Chargebee is an equal opportunity employer. At Chargebee, we believe that diversity of backgrounds, perspectives, and experiences is not a “good-to-have” but a “must-have” as it strengthens us as a company and as individuals. We are committed to fostering an inclusive workplace where everyone feels valued, respected, and empowered to thrive. We do not discriminate on the basis of race, color, religion, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender identity/expression, age, national origin, ancestry, caste, citizenship, physical or mental disability, genetic information, marital status, military or veteran status, or any other characteristic protected by applicable law. Show more Show less Seniority level Associate Employment type Full-time Job function Engineering, Information Technology, and Finance Industries Technology, Information and Media, Software Development, and IT Services and IT Consulting Referrals increase your chances of interviewing at Chargebee by 2x See who you know",
-      "score": 13,
-      "matchedSkills": [
-        "React",
-        "Express"
       ],
       "excluded": false
     }
