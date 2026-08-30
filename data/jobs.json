@@ -1,85 +1,8 @@
 {
-  "generatedAt": "2026-08-29T10:30:47.054Z",
-  "totalScraped": 439,
-  "totalMatched": 17,
+  "generatedAt": "2026-08-30T09:35:47.019Z",
+  "totalScraped": 349,
+  "totalMatched": 6,
   "jobs": [
-    {
-      "title": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner",
-      "company": "UST",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-full-stack-developer-react-%2B-node-js-%2B-graphql-8%2B-years-any-ust-location-immediate-joiner-at-ust-4429688991",
-      "postedAt": "2026-08-28",
-      "jobId": "4429688991",
-      "description": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner UST Bengaluru, Karnataka, India 17 hours ago Over 200 applicants See who UST has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Direct message the job poster from UST Nitin Patil Nitin Patil TA Lead at UST Candidates ready to join immediately can share their details via email for quick processing. 📌 CCTC | ECTC | Notice Period | Location Preference nitin.patil@ust.com Act fast for immediate attention! ⏳📩 __________________________________________________________________________________________________ Must-Have Skills 8+ years of software development experience. Strong hands-on experience in React.js, TypeScript, JavaScript (ES6+), Redux, and modern frontend development. Experience building responsive, reusable, and scalable UI components. Good hands-on experience in Node.js, Express.js/NestJS. Strong experience with GraphQL (Queries, Mutations, Schema Design, API Integration). Experience developing and consuming REST APIs and GraphQL APIs. Strong understanding of Microservices Architecture. Experience with SQL/NoSQL databases such as PostgreSQL, MySQL, MongoDB. Experience with Git, CI/CD pipelines, and Agile/Scrum methodologies. Strong debugging, performance optimization, and problem-solving skills. Good-to-Have Skills Experience with Next.js. Exposure to AWS/Azure cloud platforms. Experience with Docker and Kubernetes. Knowledge of Micro Frontend Architecture. Exposure to AI/GenAI-based applications. Experience in leading small teams and code reviews. Skills React.js, Node.js, GraphQL, TypeScript, JavaScript, Redux, Next.js, REST APIs, Microservices, PostgreSQL, MongoDB, AWS, Docker Show more Show less Seniority level Not Applicable Employment type Full-time Job function Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at UST by 2x See who you know",
-      "score": 79,
-      "matchedSkills": [
-        "React",
-        "Next.js",
-        "Redux",
-        "JavaScript",
-        "TypeScript",
-        "Node",
-        "Express",
-        "REST",
-        "GraphQL",
-        "Docker",
-        "Kubernetes",
-        "CI/CD",
-        "SQL",
-        "MongoDB"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Apply only if you're Currently in Bangalore | Senior Full Stack Developer | Onsite | JP Nagar | Upto 10 LPA | Immediate Joiners Only",
-      "company": "Hello Mentor",
-      "location": "Greater Bengaluru Area",
-      "url": "https://in.linkedin.com/jobs/view/apply-only-if-you-re-currently-in-bangalore-senior-full-stack-developer-onsite-jp-nagar-upto-10-lpa-immediate-joiners-only-at-hello-mentor-4459494081",
-      "postedAt": "2026-08-29",
-      "jobId": "4459494081",
-      "description": "Apply only if you're Currently in Bangalore | Senior Full Stack Developer | Onsite | JP Nagar | Upto 10 LPA | Immediate Joiners Only Hello Mentor Greater Bengaluru Area 10 minutes ago Be among the first 25 applicants See who Hello Mentor has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Roles &amp; Responsibilities Design, develop, and maintain scalable full-stack web applications using modern frontend and backend technologies. Build responsive, high-performance user interfaces using React.js and Next.js. Develop secure and scalable backend services and RESTful APIs using Node.js andExpress.js. Design, optimize, and maintain databases using PostgreSQL and MongoDB. Collaborate with Product, Design, QA, and Engineering teams to deliver high-quality software solutions. Take ownership of application features from design and development through deployment and maintenance. Participate in architecture discussions and contribute to technical decision-making. Conduct code reviews, mentor junior developers, and drive engineering best practices. Optimize application performance, scalability, security, and maintainability. Troubleshoot production issues and implement long-term technical improvements. Required Skills Core Technical Skills React.js &amp; Next.js Node.js&amp;Express.js Java Script (ES6+) &amp; TypeScript PostgreSQL&amp; MongoDB RESTful API Development HTML5,CSS3&amp;Responsive Design Git &amp; Version Control Component-Based Architecture Software Design Principles Performance Optimization Preferred Skills Docker &amp;CI/CD Pipelines AWS, Azure, or Google Cloud Platform (GCP) Redux Toolkit &amp;RTK Query Jest &amp; React Testing Library Microservices Architecture Agile/Scrum Development Perks &amp; Benefits: Paid Annual Leaves Long vacation during new year PF, Health Insurance, Team Lunches Great job satisfaction Immense learning &amp;personal development Additional Details: Job Title: Senior Full Stack Developer CTC: Upto10 LPA Location: JP Nagar, Bengaluru Job Type: Full Time(Onsite) Working Days: 6 Days Experience: 4- 7 Years Notice Period: Immediate to 7 day Show more Show less Seniority level Not Applicable Employment type Full-time Industries Education Referrals increase your chances of interviewing at Hello Mentor by 2x See who you know",
-      "score": 66,
-      "matchedSkills": [
-        "React",
-        "Next.js",
-        "Redux",
-        "TypeScript",
-        "HTML",
-        "Node",
-        "Express",
-        "REST",
-        "Docker",
-        "GCP",
-        "CI/CD",
-        "SQL",
-        "MongoDB",
-        "Jest",
-        "Testing Library"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full Stack Engineer",
-      "company": "Toddle - Your Teaching Partner",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-toddle-your-teaching-partner-4458984184",
-      "postedAt": "2026-08-28",
-      "jobId": "4458984184",
-      "description": "Full Stack Engineer Toddle - Your Teaching Partner Bengaluru, Karnataka, India 19 hours ago Over 200 applicants See who Toddle - Your Teaching Partner has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Toddle is an AI-powered teaching and learning platform for K–12 schools. Built by educators, for educators, it is used by over 200,000 educators across 2,500+ schools in 100+ countries. Teachers today work 50+ hours a week. Too much of that time is spent navigating fragmented systems and administrative overhead. Our&nbsp;BHAG (Big Hairy Audacious Goal)&nbsp;is to save teachers 10+ hours every week while helping elevate their practices, so that time can go back to what matters most - teaching, learning, and meaningful time with students. Our approach is three-pronged. First,&nbsp;Toddle brings the entire teaching and learning lifecycle into one place. Teachers plan and map curriculum, create assessments and gradebooks, maintain student portfolios, communicate with families, and generate progress reports and transcripts - all from a single, coherent system. Toddle also supports adjacent workflows where teachers are closely involved, including attendance, timetables, calendars, accreditation, behaviour management, analytics, and insights. Second, every layer of the platform is deeply AI-powered.&nbsp;Educators work with a thoughtful AI partner to plan curriculum, create lessons and assessments, assist with grading, write progress report comments, and derive insights from data. Toddle also offers student-facing AI Tutors, enabling highly personalized and immersive learning experiences. Third,&nbsp;Toddle integrates seamlessly with the broader school technology ecosystem.&nbsp;The platform supports 50+ integrations across SIS platforms, content providers, data &amp; integration platforms, and workspaces such as Google, Apple, and Microsoft. You can watch our founder and CEO’s overview of Toddle&nbsp; here . Headquartered in India with a multicultural team across 20+ countries, Toddle is built by former educators and school practitioners who understand the realities of classrooms firsthand. We care deeply about craft, clarity, and reducing unnecessary complexity for teachers. People who thrive at Toddle enjoy building thoughtful systems, care about real-world impact, and are motivated by long-term change in K-12 education. Here’s what you’ll be doing We are looking for a passionate and motivated product&nbsp;engineer&nbsp;who partners with us to build intuitive, scalable, and delightful user experiences for teachers, students, and parents. As a product Engineer, you will contribute to designing, developing, and deploying high-quality product. You will collaborate closely with engineers, product managers, designers, educators, and gain exposure to real-world usage in schools. This role offers hands-on ownership, continuous technical growth and product understanding in a fast-growing SaaS environment. What you’ll achieve in your first 3 months Understand the codebase, architecture, and core product workflows Build strong fundamentals in frontend and backend concepts Start contributing to feature development, production fixes &amp; optimization What you’ll achieve in your first 6 months Independently deliver major features by writing&nbsp;clean, modular, and optimized code Participate in code reviews and collaborate cross-functionally What you’ll achieve in your first 12 months Own modules&nbsp;end-to-end, coordinating closely with&nbsp;Product and Support teams&nbsp;through scoping, design review, development, release, and post-release support Get the opportunity to work on&nbsp;performance, optmization and infra projects Contribute to hiring, onboarding, technical knowledge sharing, and continuous improvement of engineering processes Must have Skills: Frontend Languages &amp; Frameworks&nbsp;- JavaScript (ES6+) , HTML5 / CSS3, React, Redux/Apollo Client Backend Languages &amp; Frameworks&nbsp;- Node.js, Express &amp; GraphQL,&nbsp;PostgreSQL Tools &amp; Platforms&nbsp;- Git, Build tools (Webpack), Profiling tools (React Profiler, Memory profiling), GitHub Copilot or other AI-assisted development tools, Knex Strong problem-solving skills and eagerness to learn Ability to write clean, readable, and maintainable code Good to have: Exposure to&nbsp;AWS ecosystem&nbsp;(Lambda, SQS, CloudWatch, API Gateway, etc.) Working experience in ReactNative Product mindset with empathy for end users Clear communication skills and ability to collaborate cross-functionally Past working experience in SaaS or product based companies Is this someone that looks like you? Education: B.E/B.Tech degree Experience: 2 to 5 years of relevant working experience (SaaS preferred) post graduation. Soft Skills: Having a bias towards action, a good sense of design, empathy, and good communication skills We deeply value building the right culture at Toddle, and these are a few things that we look for in each hire – Coach-ability, Curiosity, Ownership, Hustle, and Humility Excited about the role? Here are some more benefits: 1) Flexibility at work Work from anywhere - home, co-working space, cafe or even the hills Block “no-meeting hours” to enable uninterrupted focused work 2) Exposure to diverse learning opportunities Work across different projects &amp; teams to develop skills outside of your core expertise 3) Industry best leave policy We trust you fully on your commitment to our mission and your judgement on planning your time and taking leaves: No cap on the number of sick or casual leaves Special paid leaves for childbirth, wedding etc. Menstrual leave 4) No bell curve performance evaluations We put in a lot of work to hire the best, and therefore we don’t expect anyone to deliver less than the best! 5)&nbsp;And yes,&nbsp;a super fun and diverse group&nbsp;of folks to collaborate and grow with Still with us? Here’s the process: 1) Shortlisting: Complete the form on this page. We’ll check out your application and assess it for a fit. If shortlisted, you’ll hear from us within&nbsp;2-3 days. 2) Interview Process: Typically, we do&nbsp;2-3 rounds of interviews, a&nbsp;written assignment, and&nbsp;deep reference checks. 3) We value your time and aim to communicate proactively at all stages of your application. You can always reach out with any questions! Show more Show less Seniority level Entry level Employment type Full-time Job function Engineering and Information Technology Industries Education Referrals increase your chances of interviewing at Toddle - Your Teaching Partner by 2x See who you know",
-      "score": 41,
-      "matchedSkills": [
-        "React",
-        "Redux",
-        "JavaScript",
-        "Webpack",
-        "HTML",
-        "Node",
-        "Express",
-        "GraphQL",
-        "SQL"
-      ],
-      "excluded": false
-    },
     {
       "title": "Senior Full Stack Engineer (React + Node)",
       "company": "Fractal",
@@ -96,85 +19,12 @@
       "excluded": false
     },
     {
-      "title": "Full Stack Developer (React JS + Node JS) | 6 YoE | Any UST Location | Immediate Joiner",
-      "company": "UST",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-react-js-%2B-node-js-6-yoe-any-ust-location-immediate-joiner-at-ust-4393854508",
-      "postedAt": "2026-08-28",
-      "jobId": "4393854508",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Oliver Wyman - Senior/Lead Software Engineer (Django, Flask, FastAPI & React, Angular, TypeScript)",
-      "company": "Oliver Wyman",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/oliver-wyman-senior-lead-software-engineer-django-flask-fastapi-react-angular-typescript-at-oliver-wyman-4460346980",
-      "postedAt": "2026-08-28",
-      "jobId": "4460346980",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "TypeScript"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React/Nodejs Developer",
-      "company": "HTC Global Services",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-nodejs-developer-at-htc-global-services-4460387170",
-      "postedAt": "2026-08-28",
-      "jobId": "4460387170",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React JS",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-at-infosys-4459460141",
-      "postedAt": "2026-08-29",
-      "jobId": "4459460141",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React js Full stack developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-full-stack-developer-at-infosys-4440250960",
-      "postedAt": "2026-08-28",
-      "jobId": "4440250960",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Native Developer",
-      "company": "Real Jobs Consulting Services",
+      "title": "React Developer",
+      "company": "BiCSoM",
       "location": "Greater Bengaluru Area",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-real-jobs-consulting-services-4458465539",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-bicsom-4460865482",
       "postedAt": "2026-08-29",
-      "jobId": "4458465539",
+      "jobId": "4460865482",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -183,12 +33,12 @@
       "excluded": false
     },
     {
-      "title": "Senior Full Stack Engineer (ReactJS + Dot Net)",
-      "company": "Fractal",
+      "title": "Senior React Native Engineer",
+      "company": "Alion",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-reactjs-%2B-dot-net-at-fractal-4332241466",
-      "postedAt": "2026-08-28",
-      "jobId": "4332241466",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-at-alion-4460859437",
+      "postedAt": "2026-08-29",
+      "jobId": "4460859437",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -197,12 +47,12 @@
       "excluded": false
     },
     {
-      "title": "React Lead IRC298790",
-      "company": "GlobalLogic",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/react-lead-irc298790-at-globallogic-4449743939",
-      "postedAt": "2026-08-28",
-      "jobId": "4449743939",
+      "title": "React Native Developer (Freelance · Remote)",
+      "company": "1000xcodes",
+      "location": "New Delhi, Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-freelance-%C2%B7-remote-at-1000xcodes-4458849559",
+      "postedAt": "2026-08-30",
+      "jobId": "4458849559",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -211,12 +61,12 @@
       "excluded": false
     },
     {
-      "title": "React Native Developer",
-      "company": "Infosys",
+      "title": "Frontend (React) Engineering Lead - AITDS",
+      "company": "Cognizant",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-infosys-4440647831",
-      "postedAt": "2026-08-28",
-      "jobId": "4440647831",
+      "url": "https://in.linkedin.com/jobs/view/frontend-react-engineering-lead-aitds-at-cognizant-4414469117",
+      "postedAt": "2026-08-29",
+      "jobId": "4414469117",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -225,54 +75,12 @@
       "excluded": false
     },
     {
-      "title": "Senior React Native Engineer (Mobile) - Remote",
-      "company": "Kake",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-mobile-remote-at-kake-4458093699",
-      "postedAt": "2026-08-28",
-      "jobId": "4458093699",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Mobile Application Developer – React Native",
-      "company": "Frugality",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/mobile-application-developer-%E2%80%93-react-native-at-frugality-4458085014",
-      "postedAt": "2026-08-28",
-      "jobId": "4458085014",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Angular/React + AI",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/angular-react-%2B-ai-at-infosys-4440261514",
-      "postedAt": "2026-08-28",
-      "jobId": "4440261514",
-      "description": "Angular/React + AI Infosys Bengaluru East, Karnataka, India 20 hours ago Over 200 applicants See who Infosys has hired for this role Apply Join or sign in to find your next job Join to apply for the Angular/React + AI role at Infosys Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Primary skills:Technology-&gt;AI-Responsible AI-&gt;Responsible AI,Technology-&gt;Reactive Programming-&gt;react JS,Technology-&gt;UI &amp; Markup Language-&gt;Angular JS/Angular 1.x-&gt;Angular 2 A day in the life of an Infoscion As part of the Infosys consulting team, your primary role would be to actively aid the consulting team in different phases of the project including problem definition, effort estimation, diagnosis, solution generation and design and deployment You will explore the alternatives to the recommended solutions based on research that includes literature surveys, information available in public domains, vendor evaluation information, etc. and build POCs You will create requirement specifications from the business needs, define the to-be-processes and detailed functional designs based on requirements. You will support configuring solution requirements on the products; understand if any issues, diagnose the root-cause of such issues, seek clarifications, and then identify and shortlist solution alternatives You will also contribute to unit-level and organizational initiatives with an objective of providing high quality value adding solutions to customers. If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! A b i l i t y t o w o r k w i t h c l i e n t s t o i d e n t i f y b u s i n e s s c h a l l e n g e s a n d c o n t r i b u t e t o c l i e n t d e l i v e r a b l e s b y r e f i n i n g , a n a l y z i n g , a n d s t r u c t u r i n g r e l e v a n t d a t a A w a r e n e s s o f l a t e s t t e c h n o l o g i e s a n d t r e n d s L o g i c a l t h i n k i n g a n d p r o b l e m s o l v i n g s k i l l s a l o n g w i t h a n a b i l i t y t o c o l l a b o r a t e A b i l i t y t o a s s e s s t h e c u r r e n t p r o c e s s e s , i d e n t i f y i m p r o v e m e n t a r e a s a n d s u g g e s t t h e t e c h n o l o g y s o l u t i o n s O n e o r t w o i n d u s t r y d o m a i n k n o w l e d g e Show more Show less Seniority level Not Applicable Employment type Full-time Job function Other Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Infosys by 2x See who you know",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "J2EE-FS (React)-AWS Development – Technical Lead (Exp: 8+ Yrs to 12 Yrs)",
-      "company": "Bilvantis Technologies",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/j2ee-fs-react-aws-development-%E2%80%93-technical-lead-exp-8%2B-yrs-to-12-yrs-at-bilvantis-technologies-4458970364",
-      "postedAt": "2026-08-28",
-      "jobId": "4458970364",
+      "title": "Senior Pega Constellation Developer with React JS",
+      "company": "NTT DATA North America",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-pega-constellation-developer-with-react-js-at-ntt-data-north-america-4441482455",
+      "postedAt": "2026-08-29",
+      "jobId": "4441482455",
       "description": "",
       "score": 20,
       "matchedSkills": [
