@@ -1,30 +1,79 @@
 {
-  "generatedAt": "2026-08-30T09:35:47.019Z",
-  "totalScraped": 349,
-  "totalMatched": 6,
+  "generatedAt": "2026-08-31T10:10:44.453Z",
+  "totalScraped": 300,
+  "totalMatched": 18,
   "jobs": [
     {
-      "title": "Senior Full Stack Engineer (React + Node)",
-      "company": "Fractal",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-react-%2B-node-at-fractal-4450349266",
-      "postedAt": "2026-08-29",
-      "jobId": "4450349266",
+      "title": "Senior Frontend Developer (React.js / Next.js / TypeScript)",
+      "company": "HYrEzy Tech Solutions",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-frontend-developer-react-js-next-js-typescript-at-hyrezy-tech-solutions-4459734360",
+      "postedAt": "2026-08-30",
+      "jobId": "4459734360",
       "description": "",
-      "score": 26,
+      "score": 46,
       "matchedSkills": [
         "React",
+        "Next.js",
+        "TypeScript"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Frontend Developer (React.js / Next.js / TypeScript)",
+      "company": "HYrEzy Tech Solutions",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-frontend-developer-react-js-next-js-typescript-at-hyrezy-tech-solutions-4459731361",
+      "postedAt": "2026-08-30",
+      "jobId": "4459731361",
+      "description": "",
+      "score": 46,
+      "matchedSkills": [
+        "React",
+        "Next.js",
+        "TypeScript"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-full-stack-developer-react-%2B-node-js-%2B-graphql-8%2B-years-any-ust-location-immediate-joiner-at-ust-4429688991",
+      "postedAt": "2026-08-31",
+      "jobId": "4429688991",
+      "description": "",
+      "score": 32,
+      "matchedSkills": [
+        "React",
+        "Node",
+        "GraphQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer - Frontend (React JS + NodeJS/NextJS + Typescript)",
+      "company": "Gartner",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-react-js-%2B-nodejs-nextjs-%2B-typescript-at-gartner-4459739779",
+      "postedAt": "2026-08-30",
+      "jobId": "4459739779",
+      "description": "",
+      "score": 32,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
         "Node"
       ],
       "excluded": false
     },
     {
-      "title": "React Developer",
-      "company": "BiCSoM",
-      "location": "Greater Bengaluru Area",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-bicsom-4460865482",
-      "postedAt": "2026-08-29",
-      "jobId": "4460865482",
+      "title": "React Module Lead",
+      "company": "Sopra Steria",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/react-module-lead-at-sopra-steria-4454037785",
+      "postedAt": "2026-08-31",
+      "jobId": "4454037785",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -33,12 +82,26 @@
       "excluded": false
     },
     {
-      "title": "Senior React Native Engineer",
-      "company": "Alion",
+      "title": "Software Engineer (.Net/React)",
+      "company": "The Access Group",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-net-react-at-the-access-group-4461063240",
+      "postedAt": "2026-08-31",
+      "jobId": "4461063240",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Frontend Developer (React.JS)",
+      "company": "Andor Tech",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-at-alion-4460859437",
-      "postedAt": "2026-08-29",
-      "jobId": "4460859437",
+      "url": "https://in.linkedin.com/jobs/view/frontend-developer-react-js-at-andor-tech-4461060604",
+      "postedAt": "2026-08-31",
+      "jobId": "4461060604",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -47,12 +110,12 @@
       "excluded": false
     },
     {
-      "title": "React Native Developer (Freelance · Remote)",
-      "company": "1000xcodes",
-      "location": "New Delhi, Delhi, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-freelance-%C2%B7-remote-at-1000xcodes-4458849559",
-      "postedAt": "2026-08-30",
-      "jobId": "4458849559",
+      "title": ".Net React Fullstack Developer",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-react-fullstack-developer-at-tata-consultancy-services-4459768583",
+      "postedAt": "2026-08-31",
+      "jobId": "4459768583",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -61,12 +124,26 @@
       "excluded": false
     },
     {
-      "title": "Frontend (React) Engineering Lead - AITDS",
-      "company": "Cognizant",
+      "title": "React Module Lead",
+      "company": "Sopra Steria",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/react-module-lead-at-sopra-steria-4454023925",
+      "postedAt": "2026-08-31",
+      "jobId": "4454023925",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React JS Developer",
+      "company": "Infosys",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/frontend-react-engineering-lead-aitds-at-cognizant-4414469117",
-      "postedAt": "2026-08-29",
-      "jobId": "4414469117",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4450935928",
+      "postedAt": "2026-08-30",
+      "jobId": "4450935928",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -75,16 +152,116 @@
       "excluded": false
     },
     {
-      "title": "Senior Pega Constellation Developer with React JS",
-      "company": "NTT DATA North America",
-      "location": "Bangalore Urban, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-pega-constellation-developer-with-react-js-at-ntt-data-north-america-4441482455",
-      "postedAt": "2026-08-29",
-      "jobId": "4441482455",
+      "title": "Senior React Native Engineer (Expo, New Architecture)",
+      "company": "MaxIQ",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-expo-new-architecture-at-maxiq-4458892555",
+      "postedAt": "2026-08-31",
+      "jobId": "4458892555",
       "description": "",
       "score": 20,
       "matchedSkills": [
         "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React JS",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-at-infosys-4459764093",
+      "postedAt": "2026-08-31",
+      "jobId": "4459764093",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Full Stack Developer",
+      "company": "True Blue HR Consultants",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-full-stack-developer-at-true-blue-hr-consultants-4458893179",
+      "postedAt": "2026-08-31",
+      "jobId": "4458893179",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Technical Lead",
+      "company": "Real Jobs Consulting Services",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/react-native-technical-lead-at-real-jobs-consulting-services-4458877263",
+      "postedAt": "2026-08-31",
+      "jobId": "4458877263",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Developer",
+      "company": "Arrow Electronics",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-arrow-electronics-4461078425",
+      "postedAt": "2026-08-31",
+      "jobId": "4461078425",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer",
+      "company": "InterviewDo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-interviewdo-4455058189",
+      "postedAt": "2026-08-30",
+      "jobId": "4455058189",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Developer",
+      "company": "Arrow Electronics",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-arrow-electronics-4461072534",
+      "postedAt": "2026-08-31",
+      "jobId": "4461072534",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Intern, Corporate Systems",
+      "company": "Cvent",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/intern-corporate-systems-at-cvent-4459780134",
+      "postedAt": "2026-08-31",
+      "jobId": "4459780134",
+      "description": "Intern, Corporate Systems Cvent Gurugram, Haryana, India 5 hours ago Over 200 applicants See who Cvent has hired for this role Apply Join or sign in to find your next job Join to apply for the Intern, Corporate Systems role at Cvent Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Intern, Corporate Systems at Cvent Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Cvent is a leading meetings, events, and hospitality technology provider with more than 5,000+ employees and 24,000+ customers worldwide, including 60% of the Fortune 500. Founded in 1999, Cvent delivers a comprehensive event marketing and management platform for marketers and event professionals and offers software solutions to hotels, special event venues and destinations to help them grow their group/MICE and corporate travel business. Our technology brings millions of people together at events around the world. In short, we’re transforming the meetings and events industry through innovative technology that powers the human connection. Cvent's strength lies in its people, fostering a culture where everyone is encouraged to think like entrepreneurs, taking risks and making decisions confidently. We value diverse perspectives and celebrate differences, working together with colleagues and clients to build strong connections. AI at Cvent: Leading the Future Are you ready to shape the future of work at the intersection of human expertise and AI innovation? At Cvent, we’re committed to continuous learning and adaptation—AI isn’t just a tool for us, it’s part of our DNA. We’re looking for candidates who are eager to evolve alongside technology. If you love to experiment boldly, share your discoveries, and help define best practices for AI-augmented work, you’ll thrive here. Our team values professionals who thoughtfully integrate AI into their daily work, delivering exceptional results while relying on the human judgment and creativity that drive real innovation. Throughout our interview process, you’ll have the chance to demonstrate how you use AI to learn, iterate, and amplify your impact. If you’re excited to be part of a team that’s leading the way in AI-powered collaboration, we’d love to meet you. Intern RPA Identify opportunities for enhancing the automation and digitization. Strong knowledge any one programming language (Python/Java script/ Node js/react/ AWS infra) Basic knowledge of automation Lifecycle. Open to learning new tools and technologies. Good to have basic understanding of any of the automation tools (RoboCorp/UiPath/Any UI Automation tool) Intern, Intergrations Data integration across multi-cloud, hybrid and on-premise systems like Salesforce, Oracle EBS, Marketo etc. using Informatica Intelligent Cloud Services (IICS). Application integration involving ResT and Soap services. Involve in the POC to evaluate the feasibility and effort of implementing integrations on API’s, Data Quality structure and master data management solutions in Salesforce CRM. Implementation in Informatica Data Quality (IDQ) to build web services and club them into ETL workflows to drive business processes. Should use unstructured data, parse and standardize it into understandable and business value added services. Utilise JAVA and Python to optimise the application integration Developed Salesforce SOQL queries to create metadata pertaining to Informatica scripts. Created complex informatica mappings using unconnected Lookup, Sorter, Aggregator, router and tracking slowly changing dimensions for populating data in efficient manner. Should be able to develop scripts on python/java. Strong functional understanding of RDBMS &amp; DWH-BI conceptual knowledge. Intern, CRM The person will be required to manage Cvent’s Salesforce.com platform which includes Sales Cloud, Service Cloud, DocuSign and other Third Party Apps implemented on Salesforce platform and used by Cvent in various process. Manage ongoing Support Requests of user base (2300+ Sales Cloud and Service Cloud users). Display strong Salesforce skills, and leverage those to complete everyday tasks and deliver on all the responsibilities. Implementation of security and sharing rules at object, field, and record level for different users at different levels of organization as well as creating various profiles and configured the permissions based on the organizational hierarchy. Develop fields, objects, validation rules, workflow rules, approval processes to address and improve new and existing business needs; when appropriate, develop in test environment and promote into production. Troubleshoot issues with Salesforce and work closely with different teams to fix the issues. Communicate with business at all levels, run successful meetings and prepare detailed notes. Review, analyze, and create detailed documentation of use cases, business processes along with user's needs including release notes, workflow, data, functions, design aspects and steps required to develop or modify processes or systems. Define configuration specifications and business analysis requirements. Analyzing data to draw business-relevant conclusions and in data visualization techniques and tools. Constantly be on the lookout for ways to improve monitoring, discover issues and deliver better value to the clients. Work with diverse teams with multiple restrictions and time schedules while acting as an interface between the business teams and developers. Work directly with and serve as the liaison between business units, key stakeholders, technology, and support teams. B.Tech Degree with a Specialization in CS or IT Preferably Show more Show less Seniority level Not Applicable Employment type Internship Job function Science and Consulting Industries Civil Engineering Referrals increase your chances of interviewing at Cvent by 2x See who you know",
+      "score": 16,
+      "matchedSkills": [
+        "React",
+        "Node",
+        "REST"
       ],
       "excluded": false
     }
