@@ -1,205 +1,193 @@
 {
-  "generatedAt": "2026-08-31T10:10:44.453Z",
-  "totalScraped": 300,
-  "totalMatched": 18,
+  "generatedAt": "2026-09-01T09:02:26.406Z",
+  "totalScraped": 467,
+  "totalMatched": 37,
   "jobs": [
     {
-      "title": "Senior Frontend Developer (React.js / Next.js / TypeScript)",
-      "company": "HYrEzy Tech Solutions",
+      "title": "Group Bayport - Lead Frontend Engineer - React.js/Next.js",
+      "company": "Group Bayport",
       "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-frontend-developer-react-js-next-js-typescript-at-hyrezy-tech-solutions-4459734360",
-      "postedAt": "2026-08-30",
-      "jobId": "4459734360",
+      "url": "https://in.linkedin.com/jobs/view/group-bayport-lead-frontend-engineer-react-js-next-js-at-group-bayport-4461515617",
+      "postedAt": "2026-09-01",
+      "jobId": "4461515617",
       "description": "",
-      "score": 46,
+      "score": 40,
+      "matchedSkills": [
+        "React",
+        "Next.js"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Sr. Engineer II - App Engg & AI",
+      "company": "Anblicks",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-engineer-ii-app-engg-ai-at-anblicks-4459277780",
+      "postedAt": "2026-09-01",
+      "jobId": "4459277780",
+      "description": "Sr. Engineer II - App Engg &amp; AI Anblicks Hyderabad, Telangana, India 1 hour ago Be among the first 25 applicants See who Anblicks has hired for this role Apply Join or sign in to find your next job Join to apply for the Sr. Engineer II - App Engg &amp; AI role at Anblicks Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Sr. Engineer II - App Engg &amp; AI at Anblicks Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . About The Role Senior engineer owning the customer-facing experience of a metrics and reporting platform — a React application, module-federated into a wider micro-frontend shell, served by a FastAPI backend over a curated analytics data layer. Dashboards, tables, filters, charts, and saved views are yours: the layer where correct metrics become answers a customer can act on. This is a full-stack position with a frontend centre of gravity. You will spend the majority of your time in TypeScript and React, and you are expected to be productive in the Python and FastAPI codebase as well — extending an endpoint, writing a migration, and reviewing backend pull requests. This cross-capability is a requirement of the role, not a preference. The team is deliberately structured so that no layer has a single owner, with every engineer able to take a feature through end-to-end development and support it in production. If you would prefer to stay within a single layer, this is not the right role. Key Responsibilities Own the customer-facing application — dashboards, data tables, filtering, charts, and saved views, built in React and TypeScript Integrate with the platform shell — ship the application as a module-federated remote that behaves as a first-class part of the host application Own server state — TanStack Query cache keys, invalidation, pagination, and optimistic updates against the metrics API Build data-dense interfaces — TanStack Table with sorting, filtering, and virtualization that stays responsive at scale Design the visualization layer — Recharts implementations chosen for the question the user is actually asking, not for decoration Enforce the API contract on the client — Zod schemas validating at the boundary, with inferred types flowing through the application Make state addressable — typed routing with TanStack Router, filters and saved views represented in the URL so any view can be shared Uphold the design system — Tailwind CSS with shadcn/ui, composing and extending components rather than forking them Build and review backend work — extend FastAPI endpoints, write database migrations, review backend pull requests, and take end-to-end ownership of a slice when the work calls for it Own quality and performance — Vitest coverage, render performance, bundle size, and accessibility as delivery standards rather than afterthoughts Support the application in production — triage and resolve customer-raised issues across the stack, from rendering defects through to the queries behind them Qualifications 6+ years building production web applications; 4+ years with React at scale Working proficiency in Python (required) — able to extend a FastAPI endpoint, write a migration, and review backend code to the team standard. Strong TypeScript — generics, discriminated unions, and disciplined use of the type system rather than escape hatches Modern React: hooks, composition patterns, and hands-on render performance optimization Next.js and Vite build tooling TanStack Query in production — caching, invalidation, and pagination strategy TanStack Table for large, interactive datasets, including virtualization TanStack Router or comparable typed routing, with search-parameter state management Zustand or equivalent for genuine client state, and a clear sense of what does not belong there Zod for runtime schema validation at the API boundary Data visualization experience with Recharts, D3, or similar, and sound judgement about chart selection Tailwind CSS and component libraries such as shadcn/ui or Radix Vitest and React Testing Library Comfort with SQL: reading and writing queries against a relational database Micro-frontend or module federation experience is a strong plus Experience with analytics, reporting, or dashboard products is a strong plus Accessibility (WCAG) and design-system contribution experience is a plus Strong written communication and the ability to work within defined overlap hours across time zones Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Anblicks by 2x See who you know",
+      "score": 35,
       "matchedSkills": [
         "React",
         "Next.js",
-        "TypeScript"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Frontend Developer (React.js / Next.js / TypeScript)",
-      "company": "HYrEzy Tech Solutions",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-frontend-developer-react-js-next-js-typescript-at-hyrezy-tech-solutions-4459731361",
-      "postedAt": "2026-08-30",
-      "jobId": "4459731361",
-      "description": "",
-      "score": 46,
-      "matchedSkills": [
-        "React",
-        "Next.js",
-        "TypeScript"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Sr. Full Stack Developer (React + Node.js + GraphQL) | 8+ Years | Any UST Location | Immediate Joiner",
-      "company": "UST",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-full-stack-developer-react-%2B-node-js-%2B-graphql-8%2B-years-any-ust-location-immediate-joiner-at-ust-4429688991",
-      "postedAt": "2026-08-31",
-      "jobId": "4429688991",
-      "description": "",
-      "score": 32,
-      "matchedSkills": [
-        "React",
-        "Node",
-        "GraphQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Software Engineer - Frontend (React JS + NodeJS/NextJS + Typescript)",
-      "company": "Gartner",
-      "location": "Gurgaon, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-react-js-%2B-nodejs-nextjs-%2B-typescript-at-gartner-4459739779",
-      "postedAt": "2026-08-30",
-      "jobId": "4459739779",
-      "description": "",
-      "score": 32,
-      "matchedSkills": [
-        "React",
         "TypeScript",
+        "Module Federation",
+        "Tailwind",
+        "SQL",
+        "Testing Library"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer II – Full stack",
+      "company": "DevHub",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-%E2%80%93-full-stack-at-devhub-4460209564",
+      "postedAt": "2026-09-01",
+      "jobId": "4460209564",
+      "description": "Software Engineer II – Full stack DevHub Bengaluru, Karnataka, India 5 hours ago 35 applicants See who DevHub has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer II – Full stack role at DevHub Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer II – Full stack at DevHub Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Job Description Company Summary First American (India) is a GCC (Global Capability Center) of the First American Financial Corporation (NYSE: FAF) family of companies. FAI is a proud member of the FORTUNE 500 companies and has been amongst the Fortune 100 Best Companies to Work For® list for eight consecutive years. First American Financial Corporation provides comprehensive title insurance, closing/settlement, property data and technology solutions. First American (India) creates quality solutions for its customers by combining software, back office, and knowledge processing operations to fulfill First American's business requirements. Our priorities are our employees, customers, and shareholders - in that order. First American (India) has been ranked amongst India's Best Companies To Work For™ 2023: Listed amongst the Top 100 by Great Place To Work® India, FAI is also certified Best Workplaces for Women and Workplace with Inclusive Practices. Software Services helps build First American's product suite that encompasses the best in class Title Insurance, Settlement and Mortgage solutions platforms. Leverages technology product stack across Microsoft platform predominantly to develop, enhance and maintain the best in class applications. The R &amp; D division delivers solutions for the title insurance industry leveraging the best of NLP, AI and ML. Job Summary We are seeking a highly motivated and skilled Software Engineer with 3–5 years of professional experience in designing, developing, and deploying scalable cloud-native applications. The ideal candidate will have strong expertise in backend and frontend technologies, event-driven architectures, AWS cloud services, workflow orchestration, and modern DevOps practices. Key Responsibilities Design, develop, and maintain scalable microservices and web applications. Build RESTful APIs and backend services using Python and TypeScript frameworks. Develop modern, responsive frontend applications using React and Next.js. Implement event-driven and asynchronous architectures using AWS messaging and streaming services. Design and optimize database schemas and queries for relational and NoSQL databases. Develop workflow automation and orchestration solutions using Camunda BPM. Build and maintain CI/CD pipelines and infrastructure automation. Monitor system performance, troubleshoot production issues, and improve observability. Collaborate with product managers, architects, DevOps engineers, and data teams. Participate in code reviews, technical design discussions, and best practice initiatives. Contribute to scalable analytics and data integration solutions. Required Technical Skills Backend Development: Python (FastAPI, Flask), TypeScript, NestJS Frontend Development: React 18, Next.js 14, TypeScript Databases &amp; Data Technologies: PostgreSQL/Aurora, DynamoDB, Elasticsearch, Redis AWS Cloud Services: Lambda, ECS Fargate, SQS/SNS, EventBridge, Kinesis, S3, Cognito, API Gateway Workflow &amp; Automation: Camunda 7 (BPMN 2.0, DMN, External Tasks) DevOps &amp; Infrastructure: Docker, Terraform, GitHub Actions, JFrog Artifactory Observability &amp; Monitoring: UVP/Elastic Stack, OpenTelemetry, CloudWatch Required Qualifications Bachelor’s degree in Computer Science, Engineering, or related field. 3–5 years of software development experience. Strong problem-solving and debugging skills. Experience working in Agile/Scrum environments. Excellent communication and collaboration skills. FAI is committed to create an environment that respects, supports and inspires all individuals. We do not discriminate on the basis of color, religion, sex, gender identity, sexual orientation and age. At FAI, we celebrate diversity and believe that an inclusive workforce benefits employees, the organization and our community. We are an Equal Opportunity Employer. For more information about our company and dedication to putting People First, check out https://firstam.wd1.myworkdayjobs.com/faicareers. Location Bengaluru Salary ₹3L - ₹4L Experience Not specified Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at DevHub by 2x See who you know",
+      "score": 35,
+      "matchedSkills": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "REST",
+        "Docker",
+        "CI/CD",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer (Full Stack Developer, Node JS & React JS)",
+      "company": "NetApp",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-full-stack-developer-node-js-react-js-at-netapp-4459220618",
+      "postedAt": "2026-08-31",
+      "jobId": "4459220618",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
         "Node"
       ],
       "excluded": false
     },
     {
-      "title": "React Module Lead",
-      "company": "Sopra Steria",
+      "title": "Senior Full Stack Engineer (Node/React) - Remote",
+      "company": "Kake",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4459201724",
+      "postedAt": "2026-08-31",
+      "jobId": "4459201724",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Lead Engineer - Full Stack - Node & React [T500-27989]",
+      "company": "REA Cyber City",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-lead-engineer-full-stack-node-react-t500-27989-at-rea-cyber-city-4461080877",
+      "postedAt": "2026-08-31",
+      "jobId": "4461080877",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full Stack Engineer (Node/React) - Remote",
+      "company": "Kake",
+      "location": "Pune District, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4459222622",
+      "postedAt": "2026-08-31",
+      "jobId": "4459222622",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React + Node.js Developer(6-9Y)",
+      "company": "CGI",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-%2B-node-js-developer-6-9y-at-cgi-4461284057",
+      "postedAt": "2026-08-31",
+      "jobId": "4461284057",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer – React.js, Node.js & .NET Core",
+      "company": "Teamware Solutions",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-react-js-node-js-net-core-at-teamware-solutions-4461569107",
+      "postedAt": "2026-09-01",
+      "jobId": "4461569107",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Web AI Software Engineer",
+      "company": "Siemens Digital Industries Software",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/web-ai-software-engineer-at-siemens-digital-industries-software-4460229285",
+      "postedAt": "2026-09-01",
+      "jobId": "4460229285",
+      "description": "Web AI Software Engineer Siemens Digital Industries Software Bengaluru, Karnataka, India 2 hours ago 33 applicants See who Siemens Digital Industries Software has hired for this role Apply Join or sign in to find your next job Join to apply for the Web AI Software Engineer role at Siemens Digital Industries Software Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Web AI Software Engineer at Siemens Digital Industries Software Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . We are Siemens Siemens Digital Industries Software is a leading provider of solutions for the design, simulation, and manufacture of products across many different industries. Formula 1 cars, skyscrapers, ships, space exploration vehicles, and many of the objects we see in our daily lives are being conceived and manufactured using our software. Simcenter X is a secure, cloud-based platform that brings together advanced simulation, data analytics, and high-performance computing. It enables engineers to access capabilities such as remote visualization, GPU-based computing, design optimization, and data analytics through a unified cloud environment. Join a team dedicated to bringing AI-driven simulation solutions to the Simcenter X platform. As a Web AI Software Engineer, you will help transform existing desktop-based simulation and AI capabilities into scalable, cloud-native applications. You will work across the application, AI/simulation, and cloud technology stack to integrate, modernize, and productionize engineering solutions that can be accessed by users anywhere. This role is ideal for a software engineer who enjoys solving complex problems, working across technology boundaries, learning new technologies, and building products from proof of concept through production. Key Responsibilities Build end-to-end capabilities: Design, implement, test, and deliver scalable software features across the application and cloud stack, taking ownership from technical design through production. Cloud-enable AI and simulation: Integrate existing AI and simulation capabilities into cloud-based workflows, transforming desktop-oriented solutions into reliable and scalable cloud-native applications. Solve complex technical problems: Work across application, AI/simulation, data, and cloud technologies to identify challenges, evaluate alternatives, and develop robust solutions. Develop and productionize prototypes: Build proof-of-concept solutions using emerging cloud, web, AI, and platform technologies, and help evolve successful concepts into production-ready capabilities. Build scalable platform components: Develop services and components that leverage modern cloud architecture, APIs, containers, orchestration, and real-time communication technologies. Collaborate across disciplines: Work closely with AI/ML engineers, simulation experts, product teams, and software engineers to translate complex engineering requirements into practical software solutions. Continuously learn and innovate: Stay curious about emerging technologies and rapidly develop the technical knowledge required to solve new problems and improve the platform. Qualifications Bachelor’s or Master’s degree in Computer Science, Computer Engineering, Software Engineering, or a related technical discipline. 5+ years of professional software development experience, with a strong understanding of software engineering principles and the ability to develop production-quality applications. Strong foundation in data structures, algorithms, Object-Oriented Programming, and software design, with excellent analytical and problem-solving abilities. Strong proficiency in Python, with experience developing scalable software applications and/or services. Hands-on experience designing and developing cloud-native applications, with an understanding of modern cloud architecture and distributed systems. Practical experience with containerization and orchestration technologies, such as Docker and Kubernetes, and familiarity with deploying and operating cloud-based applications. Experience building AI-agent and LLM-powered features, including tool/function calling and the Model Context Protocol (MCP) to connect models with engineering tools and data. Strong communication and collaboration skills, with the ability to work effectively across AI, simulation, product, and software engineering teams and clearly communicate technical concepts. Preferred Experience Proficiency in JavaScript, TypeScript, and React, with experience contributing to full-stack web applications. Experience with C++, Java, or Golang, particularly when integrating existing engineering or simulation software. Experience with WebSockets or other real-time communication technologies. Familiarity with CAE/CAD data, engineering workflows, or simulation software. Experience working with AI/ML applications or AI-enabled software products. Experience with graph databases and graph-based data models. Familiarity with REST APIs, microservices, event-driven architectures, and cloud-native design patterns. Experience developing and transitioning proof-of-concept solutions into production systems. This position will be subject to U.S. export control requirements under the International Traffic in Arms Regulations (ITAR) and/or Export Administration Regulations (EAR). Employment is contingent on either verifying the U.S. Person status or obtaining any necessary export license. Why Us At Siemens Software, flexibility is how we work - hybrid by default, built on trust and autonomy. Together, 30,000 people across more than 200 countries build technology that shapes the real world. You'll grow through real projects, strong technical peers, and global mobility, backed by the scale and benefits of an industrial software leader. We're committed to equality and inclusion, and we hire based on merit, skills, and impact. Bring your curiosity and creativity and help us shape tomorrow! Diversity &amp; Inclusion We value equal opportunities and welcome applications from people with disabilities. At Siemens, we believe people who've had real experiences dealing with being different will excel as leaders. Let's foster a culture of creativity and innovation. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation. The pay range for this position is $109,800 - $197,700 annually with a target incentive of 5-8% of the base salary. The actual wage offered may be lower or higher depending on budget and candidate experience, knowledge, skills, qualifications, and premium geographic location. Siemens Software. Transform the Everyday #DISWSIM #SWSaaS 109,800 197,700 5-8% Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Research Industries Software Development Referrals increase your chances of interviewing at Siemens Digital Industries Software by 2x See who you know",
+      "score": 25,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "REST",
+        "Docker",
+        "Kubernetes"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer (Next.js)",
+      "company": "Welatino Traveltech LLP",
       "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/react-module-lead-at-sopra-steria-4454037785",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-next-js-at-welatino-traveltech-llp-4459226324",
       "postedAt": "2026-08-31",
-      "jobId": "4454037785",
+      "jobId": "4459226324",
       "description": "",
       "score": 20,
       "matchedSkills": [
-        "React"
+        "Next.js"
       ],
       "excluded": false
     },
     {
-      "title": "Software Engineer (.Net/React)",
-      "company": "The Access Group",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-net-react-at-the-access-group-4461063240",
+      "title": "Staff Software Engineer- Frontend (ReactJS)",
+      "company": "ChargePoint",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/staff-software-engineer-frontend-reactjs-at-chargepoint-4459221343",
       "postedAt": "2026-08-31",
-      "jobId": "4461063240",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Frontend Developer (React.JS)",
-      "company": "Andor Tech",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/frontend-developer-react-js-at-andor-tech-4461060604",
-      "postedAt": "2026-08-31",
-      "jobId": "4461060604",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".Net React Fullstack Developer",
-      "company": "Tata Consultancy Services",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-react-fullstack-developer-at-tata-consultancy-services-4459768583",
-      "postedAt": "2026-08-31",
-      "jobId": "4459768583",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Module Lead",
-      "company": "Sopra Steria",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/react-module-lead-at-sopra-steria-4454023925",
-      "postedAt": "2026-08-31",
-      "jobId": "4454023925",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React JS Developer",
-      "company": "Infosys",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4450935928",
-      "postedAt": "2026-08-30",
-      "jobId": "4450935928",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior React Native Engineer (Expo, New Architecture)",
-      "company": "MaxIQ",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-expo-new-architecture-at-maxiq-4458892555",
-      "postedAt": "2026-08-31",
-      "jobId": "4458892555",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React JS",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-at-infosys-4459764093",
-      "postedAt": "2026-08-31",
-      "jobId": "4459764093",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Full Stack Developer",
-      "company": "True Blue HR Consultants",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-full-stack-developer-at-true-blue-hr-consultants-4458893179",
-      "postedAt": "2026-08-31",
-      "jobId": "4458893179",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Native Technical Lead",
-      "company": "Real Jobs Consulting Services",
-      "location": "Greater Bengaluru Area",
-      "url": "https://in.linkedin.com/jobs/view/react-native-technical-lead-at-real-jobs-consulting-services-4458877263",
-      "postedAt": "2026-08-31",
-      "jobId": "4458877263",
+      "jobId": "4459221343",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -222,12 +210,12 @@
       "excluded": false
     },
     {
-      "title": "React Native Developer",
-      "company": "InterviewDo",
+      "title": "UI Specialist - ReactJS Job",
+      "company": "YASH Technologies",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-interviewdo-4455058189",
-      "postedAt": "2026-08-30",
-      "jobId": "4455058189",
+      "url": "https://in.linkedin.com/jobs/view/ui-specialist-reactjs-job-at-yash-technologies-4458926919",
+      "postedAt": "2026-09-01",
+      "jobId": "4458926919",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -237,11 +225,11 @@
     },
     {
       "title": "React Developer",
-      "company": "Arrow Electronics",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-arrow-electronics-4461072534",
+      "company": "Arrow Components",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-arrow-components-4461089936",
       "postedAt": "2026-08-31",
-      "jobId": "4461072534",
+      "jobId": "4461089936",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -250,18 +238,322 @@
       "excluded": false
     },
     {
-      "title": "Intern, Corporate Systems",
-      "company": "Cvent",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/intern-corporate-systems-at-cvent-4459780134",
+      "title": "Frontend Developer- ReactJs",
+      "company": "Andor Tech",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/frontend-developer-reactjs-at-andor-tech-4461077865",
       "postedAt": "2026-08-31",
-      "jobId": "4459780134",
-      "description": "Intern, Corporate Systems Cvent Gurugram, Haryana, India 5 hours ago Over 200 applicants See who Cvent has hired for this role Apply Join or sign in to find your next job Join to apply for the Intern, Corporate Systems role at Cvent Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Intern, Corporate Systems at Cvent Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Cvent is a leading meetings, events, and hospitality technology provider with more than 5,000+ employees and 24,000+ customers worldwide, including 60% of the Fortune 500. Founded in 1999, Cvent delivers a comprehensive event marketing and management platform for marketers and event professionals and offers software solutions to hotels, special event venues and destinations to help them grow their group/MICE and corporate travel business. Our technology brings millions of people together at events around the world. In short, we’re transforming the meetings and events industry through innovative technology that powers the human connection. Cvent's strength lies in its people, fostering a culture where everyone is encouraged to think like entrepreneurs, taking risks and making decisions confidently. We value diverse perspectives and celebrate differences, working together with colleagues and clients to build strong connections. AI at Cvent: Leading the Future Are you ready to shape the future of work at the intersection of human expertise and AI innovation? At Cvent, we’re committed to continuous learning and adaptation—AI isn’t just a tool for us, it’s part of our DNA. We’re looking for candidates who are eager to evolve alongside technology. If you love to experiment boldly, share your discoveries, and help define best practices for AI-augmented work, you’ll thrive here. Our team values professionals who thoughtfully integrate AI into their daily work, delivering exceptional results while relying on the human judgment and creativity that drive real innovation. Throughout our interview process, you’ll have the chance to demonstrate how you use AI to learn, iterate, and amplify your impact. If you’re excited to be part of a team that’s leading the way in AI-powered collaboration, we’d love to meet you. Intern RPA Identify opportunities for enhancing the automation and digitization. Strong knowledge any one programming language (Python/Java script/ Node js/react/ AWS infra) Basic knowledge of automation Lifecycle. Open to learning new tools and technologies. Good to have basic understanding of any of the automation tools (RoboCorp/UiPath/Any UI Automation tool) Intern, Intergrations Data integration across multi-cloud, hybrid and on-premise systems like Salesforce, Oracle EBS, Marketo etc. using Informatica Intelligent Cloud Services (IICS). Application integration involving ResT and Soap services. Involve in the POC to evaluate the feasibility and effort of implementing integrations on API’s, Data Quality structure and master data management solutions in Salesforce CRM. Implementation in Informatica Data Quality (IDQ) to build web services and club them into ETL workflows to drive business processes. Should use unstructured data, parse and standardize it into understandable and business value added services. Utilise JAVA and Python to optimise the application integration Developed Salesforce SOQL queries to create metadata pertaining to Informatica scripts. Created complex informatica mappings using unconnected Lookup, Sorter, Aggregator, router and tracking slowly changing dimensions for populating data in efficient manner. Should be able to develop scripts on python/java. Strong functional understanding of RDBMS &amp; DWH-BI conceptual knowledge. Intern, CRM The person will be required to manage Cvent’s Salesforce.com platform which includes Sales Cloud, Service Cloud, DocuSign and other Third Party Apps implemented on Salesforce platform and used by Cvent in various process. Manage ongoing Support Requests of user base (2300+ Sales Cloud and Service Cloud users). Display strong Salesforce skills, and leverage those to complete everyday tasks and deliver on all the responsibilities. Implementation of security and sharing rules at object, field, and record level for different users at different levels of organization as well as creating various profiles and configured the permissions based on the organizational hierarchy. Develop fields, objects, validation rules, workflow rules, approval processes to address and improve new and existing business needs; when appropriate, develop in test environment and promote into production. Troubleshoot issues with Salesforce and work closely with different teams to fix the issues. Communicate with business at all levels, run successful meetings and prepare detailed notes. Review, analyze, and create detailed documentation of use cases, business processes along with user's needs including release notes, workflow, data, functions, design aspects and steps required to develop or modify processes or systems. Define configuration specifications and business analysis requirements. Analyzing data to draw business-relevant conclusions and in data visualization techniques and tools. Constantly be on the lookout for ways to improve monitoring, discover issues and deliver better value to the clients. Work with diverse teams with multiple restrictions and time schedules while acting as an interface between the business teams and developers. Work directly with and serve as the liaison between business units, key stakeholders, technology, and support teams. B.Tech Degree with a Specialization in CS or IT Preferably Show more Show less Seniority level Not Applicable Employment type Internship Job function Science and Consulting Industries Civil Engineering Referrals increase your chances of interviewing at Cvent by 2x See who you know",
-      "score": 16,
+      "jobId": "4461077865",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "UI Specialist - Angular / React Job",
+      "company": "YASH Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/ui-specialist-angular-react-job-at-yash-technologies-4437977005",
+      "postedAt": "2026-09-01",
+      "jobId": "4437977005",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer",
+      "company": "Recro",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-recro-4460228822",
+      "postedAt": "2026-09-01",
+      "jobId": "4460228822",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer",
+      "company": "Real Jobs Consulting Services",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-real-jobs-consulting-services-4459280187",
+      "postedAt": "2026-09-01",
+      "jobId": "4459280187",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-infosys-4433473777",
+      "postedAt": "2026-08-31",
+      "jobId": "4433473777",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "UI React - Senior Engineer",
+      "company": "Iris Software Inc.",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/ui-react-senior-engineer-at-iris-software-inc-4461563408",
+      "postedAt": "2026-09-01",
+      "jobId": "4461563408",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Module Lead",
+      "company": "Sopra Steria",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/react-module-lead-at-sopra-steria-4454037785",
+      "postedAt": "2026-09-01",
+      "jobId": "4454037785",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Mobile Apps Engineer (React Native) - Jetpac",
+      "company": "Circles",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/mobile-apps-engineer-react-native-jetpac-at-circles-4454752465",
+      "postedAt": "2026-09-01",
+      "jobId": "4454752465",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React JS Developer",
+      "company": "Infosys",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4450943862",
+      "postedAt": "2026-08-31",
+      "jobId": "4450943862",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React.js Developer",
+      "company": "Infosys",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4433471833",
+      "postedAt": "2026-08-31",
+      "jobId": "4433471833",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Angular + Next.js Engineering Lead – Hyderabad Residents Only",
+      "company": "Revalsys Technologies",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/angular-%2B-next-js-engineering-lead-%E2%80%93-hyderabad-residents-only-at-revalsys-technologies-4460248108",
+      "postedAt": "2026-09-01",
+      "jobId": "4460248108",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "Next.js"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Reactjs Developer",
+      "company": "Infosys",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/reactjs-developer-at-infosys-4433462994",
+      "postedAt": "2026-08-31",
+      "jobId": "4433462994",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer (React Native/Kotlin/Swift)",
+      "company": "The Access Group",
+      "location": "Pune/Pimpri-Chinchwad Area",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-react-native-kotlin-swift-at-the-access-group-4461577033",
+      "postedAt": "2026-09-01",
+      "jobId": "4461577033",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer - WordPress / PHP / Next.js",
+      "company": "FLAME University",
+      "location": "Pune District, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-wordpress-php-next-js-at-flame-university-4461076553",
+      "postedAt": "2026-08-31",
+      "jobId": "4461076553",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "Next.js"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior React Native Engineer (Expo, New Architecture)",
+      "company": "MaxIQ",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-expo-new-architecture-at-maxiq-4458892555",
+      "postedAt": "2026-08-31",
+      "jobId": "4458892555",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full-Stack Developer – .NET Core + React",
+      "company": "Reveille Technologies,Inc",
+      "location": "Pune District, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-%E2%80%93-net-core-%2B-react-at-reveille-technologies-inc-4460257278",
+      "postedAt": "2026-09-01",
+      "jobId": "4460257278",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Technical Lead – .NET, Azure & React",
+      "company": "Zywave",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/technical-lead-%E2%80%93-net-azure-react-at-zywave-4303540294",
+      "postedAt": "2026-08-31",
+      "jobId": "4303540294",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Sr. Full Stack Software Engineer I",
+      "company": "MetLife",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-full-stack-software-engineer-i-at-metlife-4461089765",
+      "postedAt": "2026-08-31",
+      "jobId": "4461089765",
+      "description": "Sr. Full Stack Software Engineer I MetLife Hyderabad, Telangana, India 19 hours ago Over 200 applicants See who MetLife has hired for this role Apply Join or sign in to find your next job Join to apply for the Sr. Full Stack Software Engineer I role at MetLife Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Sr. Full Stack Software Engineer I at MetLife Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Software Engineer - Hyderabad, India Department: Global Technology Role Overview MetLife is seeking experienced Software Engineers to contribute to its digital and AI transformation. This role involves designing, developing, and maintaining cloud-native software solutions while working in an Agile environment. Key Responsibilities Develop applications using modern technologies (Front-end, Back-end, APIs, Databases). Implement best practices for cloud, AI/Data, and emerging technologies. Troubleshoot and resolve production issues efficiently. Collaborate with global teams to drive digital transformation. Follow Agile methodologies, CI/CD, and DevOps practices. Qualifications &amp; Skills Education: Bachelor’s in Computer Science or equivalent Experience: 2+ years in application software development, cloud-native applications, and APIs Tech Stack: Java (Spring Boot), ReactJS, SQL Server, Cosmos DB, Azure Kubernetes, CI/CD (Azure DevOps), Swift, React Native Languages: Business proficiency in English; Japanese language is a plus. Other Skills: Strong problem-solving, communication, and collaboration in a fast-paced environment. This is a great opportunity to be part of MetLife’s technology transformation journey. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Insurance Referrals increase your chances of interviewing at MetLife by 2x See who you know",
+      "score": 19,
+      "matchedSkills": [
+        "React",
+        "Kubernetes",
+        "CI/CD",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Consultant - Tech Consulting - FS - CNS - TC - TECHNOLOGY STRATEGY & TRANS - Hyderabad",
+      "company": "EY",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-consultant-tech-consulting-fs-cns-tc-technology-strategy-trans-hyderabad-at-ey-4459247367",
+      "postedAt": "2026-08-31",
+      "jobId": "4459247367",
+      "description": "Senior Consultant - Tech Consulting - FS - CNS - TC - TECHNOLOGY STRATEGY &amp; TRANS - Hyderabad EY Hyderabad, Telangana, India 12 hours ago Be among the first 25 applicants See who EY has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Consultant - Tech Consulting - FS - CNS - TC - TECHNOLOGY STRATEGY &amp; TRANS - Hyderabad role at EY Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Senior Consultant - Tech Consulting - FS - CNS - TC - TECHNOLOGY STRATEGY &amp; TRANS - Hyderabad at EY Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Requisition Id: 1736931 As a global leader in assurance, tax, transaction and advisory services, we hire and develop the most passionate people in their field to help build a better working world. This starts with a culture that believes in giving you the training, opportunities and creative freedom. At EY, we don't just focus on who you are now, but who you can become. We believe that it’s your career and ‘It’s yours to build’ which means potential here is limitless and we'll provide you with motivating and fulfilling experiences throughout your career to help you on the path to becoming your best professional self. The opportunity : Senior Consultant-FS-Tech Consulting-CNS - TC - TECHNOLOGY STRATEGY &amp; TRANSFORMATION - Hyderabad FS : Finance fuels our lives. Banking, Insurance and Wealth management, create the foundations for growth, prosperity and peace of mind. No other Industry touches so many people or shapes so many lives. Amid sweeping regulatory change, today’s financial services institutions are focusing on digital transformation, convergence and disruption from an array of nontraditional competitors — all while meeting greater demands for trust and transparency. To address this delicate balance of issues, our competent team of business strategists, technologists and industry leaders bring fresh thinking and sector knowledge across banking and capital markets, insurance, and wealth and asset management. The results are seamless collaboration, innovative problem solving, breakthrough performance gains and sustainable value creation. We recruit, train and nurture a diverse set of people who dedicate their minds to building the future of financial services. Together, we explore new perspectives with innovative and entrepreneurial thinking to deliver exceptional client service and ensure that what we do today, counts for tomorrow. CNS - TC - TECHNOLOGY STRATEGY &amp; TRANSFORMATION : EY Consulting is building a better working world by transforming businesses through the power of people, technology and innovation. Our client-centric approach focuses on driving long-term value for our clients by solving their most strategic problems. EY Consulting is made up of three sub-service lines: Business Consulting (including Performance Improvement and Risk Consulting), Technology Consulting and People Advisory Services. In Tech Consulting, we are transforming businesses through the power of people, technology and innovation. It places humans@center, leverages technology@speed and enables innovation@scale. Your Key Responsibilities Technical Excellence We are seeking highly skilled Full Stack Engineers with strong expertise in blockchain technologies, particularly the Solana ecosystem and Solidity development. The ideal candidate should possess hands-on experience in developing scalable blockchain applications, smart contracts, and full-stack web solutions. Key Responsibilities Design and develop secure and scalable blockchain-based applications. Develop and optimize smart contracts using Solidity, Solang, and Rust. Build and maintain full-stack applications using modern web technologies. Collaborate with cross-functional teams to deliver high-quality solutions. Ensure smart contract security, performance optimization, and code quality. Integrate blockchain components with enterprise applications and databases. Required Skills Front-End &amp; Back-End Strong experience in Node.js Strong experience in Express.js Strong experience in React.js Databases Strong experience in PostgreSQL Strong understanding of SQL and database optimization Blockchain Hands-on experience with the Solana Ecosystem Strong expertise in Solidity Experience with Solang Expertise in developing performance-efficient Smart Contracts using Rust Understanding of blockchain architecture, token standards, and decentralized applications (dApps) Skills And Attributes To qualify for the role you must have Qualification Bachelor of Technology in Computer Science Experience Blockchain (4+ years) What We Look For People with the ability to work in a collaborative manner to provide services across multiple client departments while following the commercial and legal requirements. You will need a practical approach to solving issues and complex problems with the ability to deliver insightful and practical solutions. We look for people who are agile, curious, mindful, and able to sustain positive energy, while being adaptable and creative in their approach. What We Offer Fuelled by the brilliance of our people, EY has emerged as the strongest brand and the most attractive employer in our field, with market-leading growth over competitors. Our people work side-by-side with market-leading entrepreneurs, game-changers, disruptors, and visionaries. As an organization, we are investing more time, technology, and money than ever before in skills and learning for our people. At EY, you will have a personalized Career Journey and also the chance to tap into the resources of our career frameworks to better know about your roles, skills, and opportunities. EY is equally committed to being an inclusive employer, and we strive to achieve the right balance for our people—enabling us to deliver excellent client service while allowing our people to build their careers as well as focus on their wellbeing. If you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible. Join us in shaping the future with confidence. Apply Now Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Information Technology Industries Professional Services Referrals increase your chances of interviewing at EY by 2x See who you know",
+      "score": 19,
       "matchedSkills": [
         "React",
         "Node",
-        "REST"
+        "Express",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Sr. Engineer AI [T500-29030]",
+      "company": "TMUS Global Solutions",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-engineer-ai-t500-29030-at-tmus-global-solutions-4461087426",
+      "postedAt": "2026-08-31",
+      "jobId": "4461087426",
+      "description": "Sr. Engineer AI [T500-29030] TMUS Global Solutions Hyderabad, Telangana, India 20 hours ago 56 applicants See who TMUS Global Solutions has hired for this role Apply Save Join or sign in to save this job Join to save Sr. Engineer AI [T500-29030] at TMUS Global Solutions Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . About T-Mobile: T-Mobile US, Inc. (NASDAQ: TMUS), headquartered in Bellevue, Washington, is America’s supercharged Un-carrier, connecting millions through its strong nationwide network and flagship brands, T-Mobile and Metro by T-Mobile. Customers benefit from an unmatched combination of value, quality, and exceptional service experience. About TMUS Global Solutions: TMUS Global Solutions is a world-class technology powerhouse accelerating the company’s global digital transformation. With a culture built on growth, inclusivity, and global collaboration, the teams here drive innovation at scale, powered by bold thinking. TMUS India Private Limited operates as TMUS Global Solutions. TMUS India Private Limited, operating as TMUS Global Solutions, has engaged ANSR, Inc. (\"ANSR\") as its exclusive recruiting partner. That means that any communications regarding TMUS Global Solutions opportunities or employment offers will be issued only through ANSR and the 1Recruit platform. If you receive a communication or offer from another individual or entity, please notify TMUS Global Solutions immediately. TMUS Global Solutions will never seek any payment or other compensation during the hiring process or request sensitive personal data (such as bank details or government-issued identification numbers) before candidate accepts a formal offer. What You’ll Do: Design and develop RAG pipelines, agentic workflows, and multi-model orchestration that solve high-value, domain-specific use cases across lines of business. Build and optimize the APIs, services, and integration layers that connect AI capabilities to enterprise data and systems. Partner with US-based FDEs to turn prioritized, ROI-driven opportunities into production-ready builds. Implement agentic AI systems that improve reasoning, tool use, and interaction across complex, multi-step workflows, working within defined architectural patterns and reference implementations. Contribute to and utilize CI/CD pipelines (GitLab or equivalent) to enable automated build, test, and deployment workflows. Implement instrumentation, structured logging, and tracing to monitor AI system performance, cost, and output quality, in partnership with platform and SRE teams. Leverage AI-assisted development tools to improve code quality, accelerate development, and enhance debugging. Contribute design input within defined architectural frameworks and evaluate trade-offs at the component or feature level. Collaborate with product, architecture, and engineering partners to translate business requirements into scalable technical solutions. Apply and help uphold AI engineering standards for performance, security, reliability, and compliance across deployed solutions. What You’ll Bring: 8+ years of professional software development experience, including hands-on experience building AI/ML or LLM-based systems. Experience designing and building RAG pipelines, agentic workflows, or multi-model orchestration. Experience developing backend services, REST APIs, and enterprise integration solutions using modern languages and frameworks. Experience with cloud platforms (AWS/Azure/GCP) and cloud-native application development. Experience integrating LLMs and agent frameworks with enterprise data and tooling, including connector/tool-use patterns (e.g., MCP) and retrieval and grounding strategies. Experience building and operating CI/CD pipelines (GitLab or equivalent). Experience incorporating observability into software solutions, including monitoring of AI system performance, cost, and output quality. Understanding of secure application design (authentication/authorization patterns, secrets handling). Ability to operate effectively in environments with evolving requirements. Strong ownership mindset and clear technical communication skills. Experience using AI-assisted development tools to improve productivity and engineering outcomes. Must Have Skills: Hands-on experience building AI systems using LLMs — RAG, agentic workflows, or multi-model orchestration. Experience with cloud platforms (AWS/Azure/GCP) and cloud-native development. Experience developing backend services, REST APIs, and integration layers that connect AI capabilities to enterprise systems. Experience with agent and tool-use frameworks, including connector patterns (e.g., MCP). Nice-to-Have: Experience designing high-throughput, low-latency distributed systems. Experience with prompt engineering and LLM evaluation frameworks. Experience with AI observability — output evaluation, hallucination detection, or agent tracing. Familiarity with frontend technologies (e.g., React) for building end-user AI experiences. Experience leveraging AI for log analysis, anomaly detection, or operational insights. Experience working in a forward-deployed, consulting, or customer-facing engineering model. Experience delivering solutions across multiple lines of business or domains, matching engineering effort to business value. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering and Information Technology Industries Telecommunications Referrals increase your chances of interviewing at TMUS Global Solutions by 2x See who you know",
+      "score": 19,
+      "matchedSkills": [
+        "React",
+        "REST",
+        "GCP",
+        "CI/CD"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Cisco",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4434294457",
+      "postedAt": "2026-08-31",
+      "jobId": "4434294457",
+      "description": "Software Engineer Cisco Bengaluru, Karnataka, India 15 hours ago Over 200 applicants See who Cisco has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer role at Cisco Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer at Cisco Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Meet the Team Join a dynamic and impactful team responsible for the critical sales planning and product master data mgmt. applications (Sales Hierarchy Mgmt. (SHARE), Access Mgmt. (IAM), Account Team Directory (ATD), Seller to SAV and Product Master Data Mgmt. (eGenie &amp; HMP) that drive Cisco's success. This team is at the forefront of leveraging data to provide unparalleled insights into sales readiness, operational efficiency, and market visibility through AI-led data management and analysis. You will collaborate with dedicated professionals who are passionate about transforming data into actionable intelligence. Your Impact Build Applications to enable Cisco’s Sales Planning &amp; defining the Go-To Market Strategy Build Agentic AI solutions for different Sales Planning &amp; PMDM use cases Review the Data Modeling practices Build API Layer using Spring Reactive Framework Build Integration layer between the UI /API/Database Support other allied architecture and integration activities. Assist in developing documentation around system integration, data flows, data dictionary, user guides and standard processes. Experience using tech solutions like Git, and Kubernetes to craft &amp; deploy apps and jobs on cloud-hosted services Minimum Qualifications Bachelors degree or equivalent 4+ years related experience Experience using Python and SQL Experience with Building Data Pipelines in Python Experience with any Java,J2EE,Spring Preferred Qualifications Proficiency in data modeling, data design, SQL, and NoSQL databases Proven background in algorithms and data structures Experience working with AI LLM Models Proven communication and partnership contribute to multi-functional teams. Why Cisco? At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint. Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere. We are Cisco, and our power starts with you. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Cisco by 2x See who you know",
+      "score": 16,
+      "matchedSkills": [
+        "React",
+        "Kubernetes",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineering IC2",
+      "company": "Microsoft",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineering-ic2-at-microsoft-4461099104",
+      "postedAt": "2026-08-31",
+      "jobId": "4461099104",
+      "description": "Software Engineering IC2 Microsoft Bengaluru, Karnataka, India 20 hours ago Over 200 applicants See who Microsoft has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineering IC2 role at Microsoft Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineering IC2 at Microsoft Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Overview Commercial Engineering &amp; AI (CEAI) partners closely with stakeholders to accelerate the transformation of Microsoft’s commercial business into a frontier organization. We bring together AI-native engineering, modern platforms, and deep commercial insight to reimagine how work gets done—at scale and with impact. Within this context, the Scale and Partner AI Experiences (SPAI) organization is at the forefront of transforming Microsoft’s sales ecosystem through AI-first innovation. Our mission is to build intelligent, scalable platforms that power partner and customer success, accelerating Microsoft’s commercial growth through modern, AI-driven experiences. As a Software Engineer, you will design and build AI-native systems that go beyond supporting workflows—they intelligently transform them. You will work across data, systems, and agentic workflows to enable faster insights, smarter decisions, and higher productivity across the global sales ecosystem. Responsibilities Understand end-to-end business processes, workflows, and data flows across the Microsoft sales ecosystem, and identify opportunities to simplify, automate, and agentify those experiences. Rapidly prototype and deliver POCs and iterate on solutions using an experimentation-driven engineering approach. Design, build, and ship scalable, production-quality features and intelligent services using modern engineering practices. Collaborate across teams to integrate systems, data, and signals into cohesive AI-powered workflows. Debug, troubleshoot, and improve system reliability and performance using telemetry and diagnostics. Build secure, compliant, and responsible AI solutions ready for production scale. Contribute to a culture of continuous learning, experimentation, and engineering excellence. Qualifications Required (Basic): Bachelor’s degree in computer science engineering, or related field. 2–4 years of professional software engineering experience with hands-on coding in languages such as C#, Java, Python, or React. Proficiency in AI-native development — working within Agent Harnesses (GitHub Copilot CLI, Coding Agents), authoring Markdown specs/ADRs and YAML configs as Agent-consumable inputs, orchestrating multi-step Agentic workflows across the SDLC, and reviewing Agent-generated code and PRs with production-grade rigor. Strong fundamentals in data structures, algorithms, object-oriented design, and scalable systems. Experience building, testing, debugging, and maintaining production-quality software, following established engineering practices as well as leveraging large language models (LLMs). Solid problem-solving and technical judgment skills, with the ability to design scoped solutions, debug complex issues, and improve service performance. Preferred Experience with cloud platforms and distributed/service-oriented architecture. Familiarity with reliability, monitoring, and performance optimization practices. Strong collaboration and communication skills, with experience in design reviews. Passion for building impactful, user-facing AI solutions. #CEAIjobs This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled. Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Microsoft by 2x See who you know",
+      "score": 13,
+      "matchedSkills": [
+        "React",
+        "Express"
       ],
       "excluded": false
     }
