@@ -1,84 +1,8 @@
 {
-  "generatedAt": "2026-09-12T08:15:40.446Z",
-  "totalScraped": 402,
-  "totalMatched": 20,
+  "generatedAt": "2026-09-13T08:40:07.910Z",
+  "totalScraped": 305,
+  "totalMatched": 5,
   "jobs": [
-    {
-      "title": "React, Redux, JavaScript, HTML / Senior Consultant Specialist",
-      "company": "HSBC",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/react-redux-javascript-html-senior-consultant-specialist-at-hsbc-4466075752",
-      "postedAt": "2026-09-11",
-      "jobId": "4466075752",
-      "description": "",
-      "score": 52,
-      "matchedSkills": [
-        "React",
-        "Redux",
-        "JavaScript",
-        "HTML"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Roop Sagar Engineering",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-roop-sagar-engineering-4464205109",
-      "postedAt": "2026-09-11",
-      "jobId": "4464205109",
-      "description": "Software Engineer Roop Sagar Engineering Noida, Uttar Pradesh, India 17 hours ago Over 200 applicants See who Roop Sagar Engineering has hired for this role Apply Save Join or sign in to save this job Join to save Software Engineer at Roop Sagar Engineering Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Employment Type: Full-time Experience: (Preferred: 1–3 years) CTC: ₹5–6 LPA Location: Noida Department: Software Engineering About the Role We are looking for a Software Engineer to join our engineering team and help build and scale the software platform powering our smart vending machines . You will work on real-world products involving vending machines, payment systems, backend services, APIs, dashboards, device communication, inventory management, and cloud infrastructure . This is a hands-on role where you will have the opportunity to work across the technology stack and contribute to features from development through deployment and production support. Key Responsibilities Develop and maintain web applications and software solutions for our vending-machine ecosystem. Build and integrate features for vending machine management, inventory, pricing, sales, and transactions . Develop and integrate REST APIs and third-party services. Work with payment systems and hardware/device integrations. Design and maintain databases. Debug and resolve application and production issues. Write clean, maintainable, and efficient code. Participate in code reviews and technical discussions. Work closely with product, hardware, and business teams. Deploy and maintain applications in production environments. Required Skills Vite / React JavaScript / TypeScript Node.js / NestJS PostgreSQL Git Good to Have Experience with REST APIs . Knowledge of AWS or cloud platforms . Experience with IoT, hardware, POS systems, or vending machines . Knowledge of payment gateway integrations . Familiarity with WebSockets, MQTT, or device communication . Experience with Docker and CI/CD. Who We're Looking For Good problem-solving and analytical skills. Ability to understand existing codebases and work independently. Willingness to learn new technologies and work with hardware/software integrations. Ability to take ownership of tasks and deliver them effectively. Good communication and teamwork skills. Education Bachelor's degree in Computer Science, Information Technology, Software Engineering, or a related field is preferred. Equivalent practical experience and strong technical skills will also be considered. Why Join Us? Work on a real-world IoT + software product . Gain exposure to full-stack development, payments, cloud infrastructure, and hardware . Opportunity to work on products used in real-world vending and retail environments. High ownership and opportunities for professional growth. How to Apply Interested candidates can send their resume to: core@roopsagargroup.com support@vendihalt.com Please mention “Application — Software Engineer” as the subject of the email. Show more Show less Seniority level Entry level Employment type Full-time Job function Engineering and Information Technology Industries Engineering Services Referrals increase your chances of interviewing at Roop Sagar Engineering by 2x See who you know",
-      "score": 37,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "TypeScript",
-        "Saga",
-        "Node",
-        "REST",
-        "Docker",
-        "CI/CD",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full-Stack Developer",
-      "company": "WSP in India",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-at-wsp-in-india-4463962692",
-      "postedAt": "2026-09-12",
-      "jobId": "4463962692",
-      "description": "Full-Stack Developer WSP in India Bengaluru, Karnataka, India 3 hours ago Over 200 applicants See who WSP in India has hired for this role Apply Join or sign in to find your next job Join to apply for the Full-Stack Developer role at WSP in India Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Full-Stack Developer at WSP in India Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Job Description We are seeking a skilled and versatile Full-Stack Developer to design, develop, and maintain high-quality web applications across both frontend and backend layers. The ideal candidate is comfortable working across the full technology stack and can translate business requirements into scalable, secure, and maintainable solutions. This role requires strong hands-on engineering expertise, problem-solving skills, and collaboration with cross-functional teams in an Agile development environment. Responsibilities Design, develop, and maintain end-to-end web applications Build responsive, accessible, and high-performance frontend interfaces Develop backend services, APIs, and database structures using modern frameworks (e.g., Django or similar) Integrate third-party services, APIs, and cloud components Collaborate with UX/UI designers and product teams to implement user-centered features Optimize applications for performance, reliability, and scalability Troubleshoot and resolve software defects and integration issues Participate in Agile workflows, sprint planning, and Jira-based task tracking Conduct code reviews and maintain engineering best practices Maintain clear technical documentation and system architecture notes Qualifications Bachelor’s degree in Computer Science, Engineering, or equivalent practical experience Proven experience as a Full-Stack Developer or similar role Strong proficiency in HTML5, CSS3, and JavaScript Experience with modern frontend frameworks (e.g., React, Vue.js, or Angular) Backend development experience using Python (Django) or comparable frameworks Experience building and consuming RESTful APIs Hands-on experience with relational or NoSQL databases Familiarity with Git, CI/CD workflows, and Agile methodologies Experience using Jira or similar issue tracking tools Strong understanding of modern software design principles Excellent problem-solving and communication skills Nice to Have Experience integrating 3D models or interactive graphics into web or application environments (e.g., WebGL, Three.js, or similar technologies) Experience working with cloud platforms (Azure, AWS, or GCP) Familiarity with containerization tools such as Docker Experience contributing to scalable production systems BGV: Employment with WSP India is subject to the successful completion of a background verification (“BGV”) check conducted by a third-party agency appointed by WSP India. Candidates are advised to ensure that all information provided during the recruitment process — including documents uploaded — is accurate and complete, both to WSP India and its BGV partner”. About Us WSP is one of the world's leading professional services consulting firms. We are dedicated to our local communities and propelled by international brainpower. We are technical experts and strategic advisors including engineers, technicians, scientists, architects, planners, surveyors and environmental specialists, as well as other design, program and construction management professionals. We design lasting solutions in the Transportation &amp; Infrastructure, Property &amp; Buildings, Earth &amp; Environment, Power &amp; Energy, Resources and Industry sectors, as well as offering strategic advisory services. Our talented people around the globe engineer projects that will help societies grow for lifetimes to come. With approximately 4,000 talented people across 3 locations (Noida, Bengaluru &amp; Mumbai offices) in India and more than 73,000 globally , in 550 offices across 40 countries , we engineer projects that will help societies grow for lifetimes to come. At “WSP” we draw on the diverse skills and capabilities of our employees globally to compete for the most exciting and complex projects across the world and bring the same level of expertise to our local communities. We are proud to be an international collective of innovative thinkers who work on the most complex problems. Uniﬁed under one strong brand, we use our local expertise, international reach and global scale to prepare our cities and environments for the future, connect communities and help societies thrive in built and natural ecosystems. True to our guiding principles, our business is built on four cornerstones: Our People, Our Clients, Our Operational Excellence and Our Expertise. www.wsp.com We are Passionate people doing purposeful and sustainable work that helps shape our communities and the future. A collaborative team that thrives on challenges and unconventional thinking. A network of experts channeling our curiosity into creating solutions for complex issues. Inspired by diversity, driven by inclusion, we work with passion and purpose. Working with Us At WSP, you can access our global scale, contribute to landmark projects and connect with the brightest minds in your field to do the best work of your life. You can embrace your curiosity in a culture that celebrates new ideas and diverse perspectives. You can experience a world of opportunity and the chance to shape a career as unique as you. Our Hybrid Working Module With us, you can operate in a flexible, agile, yet structured work environment and follow a Hybrid Work Model. Maximize collaboration. Maintain product quality and cultural integrity. Balance community, collaboration, opportunity, productivity, and efficiency. Health, Safety and Wellbeing Our people are our greatest asset, and we prioritize a safe work environment. Health, safety, and wellbeing are integral to our culture, with each of us accountable for fostering a safe workplace through our “Making Health and Safety Personal” initiative. Our Zero Harm Vision drives us to reduce risks through innovative solutions, earning recognition for our global health and safety practices with the prestigious RoSPA Health and Safety Awards for six consecutive years. Inclusivity and Diversity WSP India is dedicated to fostering a sustainable and inclusive work environment where our greatest strength - Our People -feel valued, respected, and supported. We ensure an unbiased approach in hiring, promotion, and performance evaluation, regardless of age, gender identity, race, religion, sexual orientation, marital status, physical ability, education, social status, or cultural background. Imagine a better future for you and a better future for us all. Join our close-knit community of over 73,300 talented global professionals dedicated to making a positive impact. Together, we can make a difference in communities both near and far. With us, you can. Apply today. NOTICE TO THIRD PARTY AGENCIES: WSP does not accept unsolicited resumes from recruiters, employment agencies, or other staffing services. Unsolicited resumes include any resume or hiring document sent to WSP in the absence of a signed Service Agreement where WSP has expressly requested recruitment/staffing services specific to the position at hand. Any unsolicited resumes, including those submitted to hiring managers or other business leaders, will become the property of WSP and WSP will have the right to hire that candidate without reservation – no fee or other compensation will be owed or paid to the recruiter, employment agency, or other staffing service. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Professional Services Referrals increase your chances of interviewing at WSP in India by 2x See who you know",
-      "score": 34,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "Express",
-        "REST",
-        "Docker",
-        "GCP",
-        "CI/CD",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React JS and Node JS Developer",
-      "company": "Infosys",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-and-node-js-developer-at-infosys-4446917612",
-      "postedAt": "2026-09-11",
-      "jobId": "4446917612",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
     {
       "title": "Software Engineer III - UI (React & Typescript)",
       "company": "JPMorganChase",
@@ -95,90 +19,26 @@
       "excluded": false
     },
     {
-      "title": "Sr Developer",
-      "company": "Sonata Software",
+      "title": "Full Stack Product Engineer – React, .NET, Azure",
+      "company": "Reor Consulting Private Limited",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-developer-at-sonata-software-4466344831",
-      "postedAt": "2026-09-11",
-      "jobId": "4466344831",
-      "description": "Sr Developer Sonata Software Bengaluru, Karnataka, India 13 hours ago 40 applicants See who Sonata Software has hired for this role Apply Join or sign in to find your next job Join to apply for the Sr Developer role at Sonata Software Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Sr Developer at Sonata Software Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Java Full Stack DeveloperJob Overview We are looking for a Java Full Stack Developer with strong experience in designing, developing, and maintaining scalable, high-performance, and cloud-native applications . The ideal candidate will have hands-on expertise in Java/J2EE, Spring Boot, Microservices, REST APIs, AWS, React/Angular, relational databases, and modern web technologies . The role will involve working across the full application stack, modernizing legacy applications, integrating third-party services, optimizing application performance, and contributing to cloud-native solutions. Experience with AI-powered development tools such as Cursor AI is an added advantage. Key Responsibilities Design, develop, and maintain scalable, high-performance applications using Java/J2EE and Spring Boot. Develop and implement microservices and RESTful APIs following industry best practices. Design and implement cloud-native solutions using AWS services, including Lambda, API Gateway, S3, and other relevant AWS services. Develop responsive and user-friendly web applications using React or Angular. Work with Hibernate, JPA, or other ORM frameworks for efficient database interaction. Design, develop, and optimize applications using relational databases and SQL. Utilize JavaScript and jQuery for frontend development and application enhancements. Develop and maintain JSP-based applications and work with Apache Tomcat. Use Maven for build automation, dependency management, and application packaging. Analyze, enhance, maintain, and modernize legacy applications while ensuring stability and performance. Leverage AI-powered development tools such as Cursor AI to accelerate coding, debugging, refactoring, and development workflows. Integrate third-party APIs and services to enhance application functionality. Collaborate with business users and cross-functional teams to understand business processes, define requirements, and translate them into technical specifications. Participate in code reviews, technical discussions, design sessions, and Agile/Scrum ceremonies. Implement and maintain CI/CD pipelines and follow DevOps best practices. Optimize application performance and ensure high availability, scalability, reliability, and maintainability. Troubleshoot application and production issues and provide effective root-cause analysis and resolution. Take ownership of production support activities when required. Ensure development activities adhere to security, compliance, coding, and quality standards. Work effectively in a fast-paced environment and adapt to changing business and technical requirements. Stay updated with the latest industry trends, cloud technologies, AI-assisted development tools, and emerging technologies to continuously improve technical capabilities. Primary / Mandatory Skills Java / J2EE Spring Boot / Spring Framework Microservices REST API / RESTful Web Services Hibernate / JPA / Any ORM Framework AWS React.js or Angular JavaScript jQuery Relational Database SQL JSP Apache Tomcat Maven Legacy Application Development / Maintenance Cloud &amp; DevOps Strong hands-on experience with AWS cloud services. Experience with AWS Lambda, API Gateway, S3, and related cloud services. Good understanding of CI/CD pipelines and DevOps practices. Exposure to cloud-native application development and deployment. AI &amp; Modern Development Experience with AI-powered developer tools such as Cursor AI, GitHub Copilot, or similar tools is an advantage. Ability to leverage AI-assisted development for coding, debugging, refactoring, testing, and improving developer productivity. Willingness to learn and adopt emerging technologies. Good to Have Experience in application modernization and legacy migration. Exposure to DevOps, CI/CD, and automated deployment practices. Knowledge of Git and version-control systems. Experience with application performance tuning and troubleshooting. Exposure to cloud security and compliance. Experience integrating third-party APIs and external services. Experience working in Agile/Scrum environments. Strong understanding of software design principles and development best practices. Preferred Candidate Profile The ideal candidate should be a well-rounded Full Stack Java Developer with strong backend and frontend expertise and the ability to work across the complete application lifecycle. The candidate should demonstrate strong hands-on experience in Java, Spring Boot, Microservices, REST APIs, AWS, React/Angular, SQL, relational databases, and enterprise web technologies , along with the ability to work on both modern and legacy applications . Strong problem-solving, communication, collaboration, and production-support skills are essential. The candidate should be comfortable working in a fast-paced environment and adapting to evolving technologies and business requirements. Core Technology Stack Java/J2EE | Spring Boot | Microservices | REST API | Hibernate/JPA/ORM | AWS | Lambda | API Gateway | S3 | React/Angular | JavaScript | jQuery | JSP | SQL | Relational Database | Tomcat | Maven | CI/CD | DevOps | Legacy Applications | AI-Assisted Development Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Sonata Software by 2x See who you know",
-      "score": 22,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "REST",
-        "CI/CD",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Cisco",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4466066186",
-      "postedAt": "2026-09-11",
-      "jobId": "4466066186",
-      "description": "Software Engineer Cisco Bengaluru, Karnataka, India 20 hours ago 165 applicants See who Cisco has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer role at Cisco Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer at Cisco Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Software Engineer – Platform as a Service (PaaS) Meet the Team You will join the Platform as a Service (PaaS) team, the backbone of our digital infrastructure. We manage a diverse ecosystem of platforms, including API Gateways like Mule and Mashery, messaging systems like Kafka, and other middleware systems. As a senior member of this team, you will lead the evolution of our internal platforms, driving the transition toward No-Ops and AIOps to ensure our infrastructure is as intelligent as it is scalable. Your Impact You will take ownership of the full-stack lifecycle of our platform offerings. From designing intuitive UI/UX interfaces for platform consumers to architecting the backend services that power our initiatives, your work will directly impact client productivity and system reliability. You will lead technical direction, mentor junior engineers, and champion architectural standards that allow us to scale seamlessly. Platform Architecture: Design and maintain scalable PaaS solutions, including API Gateways (Mashery, Mule) and Kafka messaging clusters. Full Stack Development: Build and maintain platform portals and dashboards using UI/UX technologies (Angular, React, Figma) and robust backend services (Python, Go). Operational Excellence: Manage CI/CD pipelines using Jenkins, Argo CD, and Argo Workflows to ensure seamless delivery and deployment. AI/ML &amp; AIOps: Drive the migration toward AIOps and No-Ops by integrating ML models to automate monitoring, incident response, and infrastructure optimization. System Design &amp; Ownership: Lead complex system design sessions, ensuring high availability, security, and performance across all platform layers. Leadership &amp; Mentorship: Act as a technical lead, conducting code reviews, establishing best practices, and mentoring junior engineers to foster a culture of technical excellence. Cross-Functional Collaboration: Serve as a liaison between infrastructure, SRE, and software engineering teams to translate business needs into robust technical solutions. On-Call Support: Provide proactive on-call support for platform services, ensuring high availability and rapid resolution of operational issues to maintain service level objectives. Minimum Qualifications 5+ years of software engineering experience, with a proven track record in full-stack development and platform engineering, including 1+ years in machine learning-related roles. Expertise in building modern, user-centric interfaces using React or Angular, supported by Figma design workflows. Deep proficiency in Python and/or Go for backend service development. Experience managing and optimizing Postgres and MongoDB databases. Advanced skills in CI/CD automation with Jenkins, Argo CD, and Argo Workflows, with a good understanding of Kubernetes-based deployment solutions. Preferred Qualifications Good experience with Kubernetes and good understanding of API Gateways (e.g., Mashery, Mule) and messaging platforms (Kafka). Experience with building AI products and workflows, including LLMs, LangChain, RAG systems, and agentic frameworks. Demonstrated experience in AI/ML for automating day-to-day operational workloads. Ability to architect distributed systems that are resilient, observable, and easy to maintain. Exceptional interpersonal skills with the ability to communicate technical concepts to both technical and non-technical stakeholders. Why Cisco? At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint. Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere. We are Cisco, and our power starts with you. Disclaimer About To ensure that we hire the best talent in the right way, we follow a strict hiring process and recently, Cisco has been made aware of fraudulent recruiters claiming to be from the company. Please be advised that any communication from Cisco about careers will: be in direct response to an application you have submitted through the company career site begin with screening or an interview originate from a Cisco email address, and be conducted across email, phone, or WebEx Cisco will never make a job offer without conducting an interview process or ask you for money in any way. If you have been requested to apply for a role or have received an offer from a site other than https://careers.cisco.com or cisco.wd5.myworkday.com, do not provide any personal identifying information, including your Aadhaar or other personal identifying number, birth certificate, banking information, driver's license, or passport. If you are the target of a recruiting scam, consider filing a report with your local law enforcement authorities. Cisco bears no responsibility, and cannot be held liable, for any claims, damages, expenses, or other inconvenience resulting from or in any way connected to recruiting scams. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Cisco by 2x See who you know",
-      "score": 22,
-      "matchedSkills": [
-        "React",
-        "Kubernetes",
-        "Jenkins",
-        "CI/CD",
-        "MongoDB"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Full-Stack Engineer — Next.js + FastAPI",
-      "company": "BNCW Enterprises",
-      "location": "Dwarka, Delhi, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-%E2%80%94-next-js-%2B-fastapi-at-bncw-enterprises-4463962334",
-      "postedAt": "2026-09-11",
-      "jobId": "4463962334",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-product-engineer-%E2%80%93-react-net-azure-at-reor-consulting-private-limited-4465469246",
+      "postedAt": "2026-09-13",
+      "jobId": "4465469246",
       "description": "",
       "score": 20,
       "matchedSkills": [
-        "Next.js"
+        "React"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Full Stack Engineer(Front End Heavy-REACT(70%)+ DOT NET(30%))",
-      "company": "Mobility Global",
+      "title": "React/React Native Developer Intern",
+      "company": "NextArch Labs",
       "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-front-end-heavy-react-70%25-%2B-dot-net-30%25-at-mobility-global-4408425708",
-      "postedAt": "2026-09-11",
-      "jobId": "4408425708",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".NET core and ReactJS (front end) developer (TK49SI RM 4402)",
-      "company": "Source-Right",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/net-core-and-reactjs-front-end-developer-tk49si-rm-4402-at-source-right-4466089263",
-      "postedAt": "2026-09-11",
-      "jobId": "4466089263",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Developer",
-      "company": "Idea Infinity IT Solution Pvt Ltd",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-idea-infinity-it-solution-pvt-ltd-4465161647",
-      "postedAt": "2026-09-11",
-      "jobId": "4465161647",
+      "url": "https://in.linkedin.com/jobs/view/react-react-native-developer-intern-at-nextarch-labs-4464294222",
+      "postedAt": "2026-09-12",
+      "jobId": "4464294222",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -190,9 +50,9 @@
       "title": "React Developer",
       "company": "Scoutit",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4464858262",
-      "postedAt": "2026-09-11",
-      "jobId": "4464858262",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4465458725",
+      "postedAt": "2026-09-13",
+      "jobId": "4465458725",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -201,116 +61,17 @@
       "excluded": false
     },
     {
-      "title": "Sr Analyst React Developer",
-      "company": "Cardinal Health",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-analyst-react-developer-at-cardinal-health-4454633635",
-      "postedAt": "2026-09-11",
-      "jobId": "4454633635",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Staff Software Development Engineer (Browser Extension/React)",
-      "company": "Zscaler",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/staff-software-development-engineer-browser-extension-react-at-zscaler-4446802329",
-      "postedAt": "2026-09-11",
-      "jobId": "4446802329",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React GenAI Developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-genai-developer-at-infosys-4436593794",
-      "postedAt": "2026-09-11",
-      "jobId": "4436593794",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Expert ReactJS Developer",
-      "company": "Anaqua",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/expert-reactjs-developer-at-anaqua-4417972630",
-      "postedAt": "2026-09-11",
-      "jobId": "4417972630",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead Developer - React",
-      "company": "TransUnion",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-developer-react-at-transunion-4447137798",
-      "postedAt": "2026-09-11",
-      "jobId": "4447137798",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".Net Fullstack - React JS",
-      "company": "Tata Consultancy Services",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-fullstack-react-js-at-tata-consultancy-services-4465411178",
+      "title": "Sr. Software Engineer B2",
+      "company": "Cognizant",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-software-engineer-b2-at-cognizant-4465412709",
       "postedAt": "2026-09-12",
-      "jobId": "4465411178",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Native Mobile Developer (1+ Yrs of Experience)",
-      "company": "Aforro™",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-mobile-developer-1%2B-yrs-of-experience-at-aforro%E2%84%A2-4465195808",
-      "postedAt": "2026-09-12",
-      "jobId": "4465195808",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Software Engineer-Fullstack",
-      "company": "Hinge Health",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-hinge-health-4464225697",
-      "postedAt": "2026-09-11",
-      "jobId": "4464225697",
-      "description": "Senior Software Engineer-Fullstack Hinge Health Bengaluru, Karnataka, India 13 hours ago 29 applicants See who Hinge Health has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer-Fullstack role at Hinge Health Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Senior Software Engineer-Fullstack at Hinge Health Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job The Opportunity We are looking for a Senior Software Engineer to build reliable, intuitive, and scalable full-stack products for Member Records, the care-team-member-facing context layer within CareHub. Member Records surfaces the right member information at the right moment so each care-team interaction is informed and actionable, reducing the need to search across fragmented systems. The experience brings together the context care-team members need to support a member, including member history, clinical context, active programs, program focus, indication, and history. Current product work also includes helping care-team members understand device and fulfillment status, onboarding progress, and program transitions, especially when a member is active in more than one program. Member Records is part of the broader Member Record &amp; Configurator pod. The adjacent Configurator experience gives physical therapists a way to review and personalize exercise therapy programs, while Member Records provides the member context needed to make those decisions. You will work across the user interface, backend services, APIs, and data models, partnering with Product, Design, Clinical, Quality, and other engineering teams to turn complex workflows into simple experiences. You will contribute from discovery and technical design through implementation, launch, and operational support. This role is a strong fit for an engineer who enjoys owning meaningful product areas end to end, makes sound technical trade-offs, and raises the quality of the systems and team around them. What You'll Accomplish Design and deliver full-stack features using TypeScript, React, and Node.js. Build maintainable frontend experiences, backend services, APIs, and data models for member-record workflows. Translate ambiguous product and workflow requirements into clear technical designs and incremental delivery plans. Collaborate with Product, Design, Clinical, Quality, and partner engineering teams throughout the software development lifecycle. Improve the reliability, performance, security, observability, and maintainability of production systems. Write high-quality, well-tested code and contribute to effective testing strategies across the stack. Participate in architecture and design reviews, code reviews, incident response, and operational improvements. Identify technical debt and make pragmatic improvements that help the team move faster safely. Mentor other engineers through technical guidance, thoughtful reviews, pairing, and knowledge sharing. Use modern developer and AI-assisted engineering tools responsibly to improve development quality and productivity. Hinge Health Hybrid Model We believe that remote work and in-person work have their own advantages and disadvantages, and we want to be able to leverage the best of both worlds. Employees in hybrid roles are required to be in the office 3 days/week. This is a Bengaluru-based role that involves regular interaction and collaboration with Hinge Health colleagues in San Francisco, CA. Time zones: San Francisco is in the Pacific Time Zone, which is 12 hours and 30 minutes behind India Standard Time (e.g., 8am in San Francisco is 8:30pm in Bengaluru). Hours: Applicants should be open to meetings in the late evening following India Standard Time to align with San Francisco working hours (8am - 6pm PT). Basic Qualifications Bachelor’s Degree in Computer Science or related technical degree 6+ years of professional software engineering experience, with meaningful experience delivering production software. 3+ years hands-on experience with TypeScript and modern React application development. 3+years backend experience with Node.js, service development, API design, and integration patterns. 1+ years of experience in mentoring and leading junior team members, collaborating effectively with cross-functional teams, and contributing to project planning and decision-making Experience with using AI tools such as Github copilot or Cursor Preferred Qualifications Full stack engineer with strong experience to backend technology like NodeJS, RDBMS Exposure to microservices, distributed systems, containerization, Experience taking ownership of features from technical design through launch and ongoing production support. Strong understanding of software engineering fundamentals, including testing, observability, performance, availability, and secure development practices. Ability to communicate technical decisions clearly to both technical and non-technical partners. A collaborative, product-minded approach and the ability to work effectively in a remote, cross-functional environment. Familiarity with AI-assisted software development or integrating AI capabilities into production workflows. About Hinge Health At Hinge Health, we’re using technology to scale and automate the delivery of healthcare – starting with musculoskeletal (MSK) conditions, which affect over 1.7 billion people worldwide. With an AI-powered human-centered care model, Hinge Health leverages cutting-edge technology to improve outcomes, experiences and costs to help people move beyond their pain. The platform addresses a broad spectrum of MSK care – from acute injury, to chronic pain, to post-surgical rehabilitation – through personalized, evidence-based care. As the preferred partner to 50+ health plans, PBMs and other ecosystem partners, Hinge Health is available to over 20 million people across more than 2,550 employers. The company is headquartered in San Francisco with additional offices in Montreal and Bangalore. Learn more at http://www.hingehealth.com/ What You'll Love About Us Inclusive healthcare and benefits: In addition to comprehensive medical, dental, and vision coverage, we provide employees and their family members with Group Medical Coverage (GMC), Group Term Life Insurance (GTL), and Group Personal Accident Insurance (GPA). Well-being support: We offer a lifestyle stipend to support your overall well-being, along with learning and development opportunities to help you grow both personally and professionally. Ownership: Grow with us through discounted company stock through our ESPP with easy payroll deductions. Culture &amp; Engagement Hinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. By submitting your application you are acknowledging we are using your personal data as outlined in the Personnel and Candidate Privacy Policy. Beware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use \"@hingehealth.com\" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to security@hingehealth.com. Show more Show less Seniority level Not Applicable Employment type Internship Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Hinge Health by 2x See who you know",
-      "score": 16,
+      "jobId": "4465412709",
+      "description": "Sr. Software Engineer B2 Cognizant Bangalore Urban, Karnataka, India 17 hours ago 62 applicants See who Cognizant has hired for this role Apply Join or sign in to find your next job Join to apply for the Sr. Software Engineer B2 role at Cognizant Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Job Summary This hybrid day shift role is for a senior software engineer with seven to ten years of experience in JavaScript and React Native who will design and deliver microservices based mobile and web solutions on AWS. The engineer will focus on IT business support platforms ensuring high reliability usability and scalability that improve operational efficiency and create meaningful value for enterprise customers and society. Responsibilities Design and develop scalable microservices based applications using advanced JavaScript and React Native to support critical IT business support functions and improve operational efficiency across the enterprise. Implement high quality front end features and reusable components using JavaScript ES5 and ES6 standards to deliver intuitive user experiences that help business teams perform daily activities more effectively. Integrate backend microservices with mobile and web interfaces to enable smooth data flows between IT support systems and business applications ensuring consistent and reliable information access for all stakeholders. Optimize application performance on AWS hosted environments by tuning code configurations and resource utilization so that IT business support solutions remain responsive under varying workloads. Collaborate with product owners and IT operations teams to translate complex IT business support requirements into well structured technical designs that align with organizational goals and improve service delivery. Review and enhance existing JavaScript and React Native codebases to reduce defects improve maintainability and extend functionality in ways that directly enhance user experience and business continuity. Apply secure coding practices and implement appropriate controls within JavaScript and microservices solutions to protect sensitive operational data and uphold company commitments to safety and trust. Coordinate with quality engineering and support teams to define test strategies for IT business support features ensuring robust validation and smooth incident resolution for end users. Document technical designs implementation details and support procedures for JavaScript and microservices solutions so that IT teams can troubleshoot issues quickly and maintain high service levels. Provide guidance to peers on effective use of advanced JavaScript and React Native patterns fostering a culture of engineering excellence that strengthens company capabilities and industry reputation. Analyze production issues in AWS hosted environments and implement durable fixes in JavaScript and microservices code to minimize downtime and protect business operations from disruption. Contribute to continuous improvement initiatives by evaluating new tools and practices in the JavaScript and cloud ecosystem helping the company adopt innovations that benefit customers and society. Engage with cross functional partners in IT business support to prioritize backlog items and deliver incremental enhancements that make daily workflows more streamlined and productive. Qualifications Possess seven to ten years of professional experience in software engineering with deep hands on expertise in JavaScript including ES5 and ES6 and advanced JavaScript concepts applied to complex business solutions. Demonstrate strong proficiency in React Native for building and maintaining mobile applications that interface with IT business support platforms and microservices based backends. Show proven experience designing and implementing microservices architectures that run on AWS and support scalable resilient IT business support systems for enterprise environments. Exhibit solid understanding of AWS services relevant to application hosting and integration such as compute storage networking and monitoring used to support secure and reliable deployments. Bring practical background in IT business support domains including exposure to ticketing workflows service management processes and operational dashboards that guide solution design. Display competence in collaborative software development practices including version control code review and agile delivery methods that sustain high quality engineering outcomes. Prefer exposure to other modern JavaScript frameworks or libraries that complement React Native and microservices solutions and broaden the ability to solve diverse business challenges. Value clear communication and structured documentation skills that help cross functional IT and business teams understand system behavior and make informed decisions. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting and Business Consulting and Services Referrals increase your chances of interviewing at Cognizant by 2x See who you know",
+      "score": 13,
       "matchedSkills": [
         "React",
-        "TypeScript",
-        "Node"
+        "JavaScript"
       ],
       "excluded": false
     }
