@@ -1,77 +1,136 @@
 {
-  "generatedAt": "2026-09-13T08:40:07.910Z",
-  "totalScraped": 305,
-  "totalMatched": 5,
+  "generatedAt": "2026-09-14T09:21:13.296Z",
+  "totalScraped": 267,
+  "totalMatched": 7,
   "jobs": [
     {
-      "title": "Software Engineer III - UI (React & Typescript)",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-ui-react-typescript-at-jpmorganchase-4466457101",
-      "postedAt": "2026-09-12",
-      "jobId": "4466457101",
-      "description": "",
-      "score": 26,
+      "title": "Senior Software Engineer",
+      "company": "LeadSquared",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-leadsquared-4466769521",
+      "postedAt": "2026-09-13",
+      "jobId": "4466769521",
+      "description": "Senior Software Engineer LeadSquared Bengaluru, Karnataka, India 22 hours ago Over 200 applicants See who LeadSquared has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer role at LeadSquared Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Senior Software Engineer at LeadSquared Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job About Leadsquared LeadSquared is a fast-growing SaaS company building marketing automation and CRM solutions that power sales and marketing teams across industries. Trusted by 2,000+ businesses globally, we help companies accelerate revenue with intelligent lead management, process automation, and deep analytics. As we scale our product suite, we're looking for passionate engineers who want to build large-scale systems and create real customer impact. Role Overview We are looking for a Senior Fullstack Developer to join our core engineering team in Bengaluru. You will own end-to-end product features — from ideation and architecture through to deployment and monitoring — working closely with product, design, and data teams. This is a hands-on role where your code ships to production and directly impacts thousands of users every day. Key Responsibilities End-to-End Product Development: Own complete feature development across the full stack — from API design and backend business logic to polished, performant frontend UIs. Backend Engineering: Design, develop, and maintain scalable RESTful APIs and microservices using Node.js; ensure high availability, fault tolerance, and optimal performance. Frontend Engineering: Build responsive, accessible, and high-quality user interfaces using ReactJS (or equivalent modern framework); enforce best practices in component design and state management. Cloud &amp; Infrastructure: Architect and deploy solutions on AWS, leveraging services such as EC2, Lambda, S3, RDS, SQS, CloudWatch, and more. Drive cost-efficient, scalable infrastructure decisions. AI-Augmented Development: Actively leverage AI coding tools (GitHub Copilot, Claude, ChatGPT, etc.) to accelerate development velocity, improve code quality, and prototype solutions faster. Low-Level Design &amp; Architecture: Lead technical design discussions; produce clear, well-reasoned LLD documents; participate in architecture reviews and ensure solutions are maintainable and extensible. Problem Solving &amp; Debugging: Investigate and resolve complex production issues; perform root cause analysis; proactively identify and fix performance bottlenecks and reliability risks. Code Quality &amp; Reviews: Write clean, testable, well-documented code; conduct thorough code reviews; champion engineering best practices and mentoring within the team. Collaboration: Work in a fast-paced agile environment with cross-functional teams including Product, QA, DevOps, and Design to deliver high-quality features on time. Continuous Improvement: Stay current with emerging technologies, evaluate new tools and frameworks, and proactively advocate for technical improvements that add business value. Required Skills &amp; Qualifications Backend 4–6 years of professional experience with Node.js (Express / Fastify / NestJS) Strong understanding of RESTful API design, async programming, and event-driven architecture Experience with relational and NoSQL databases (MySQL, PostgreSQL, MongoDB, Redis) Proficiency with message queues and async processing (SQS, RabbitMQ, Kafka, etc.) Frontend Strong proficiency in ReactJS (Hooks, Context API, Redux or equivalent) or other modern frontend frameworks (Vue, Angular) Solid command of HTML5, CSS3, JavaScript (ES6+), and TypeScript Experience building component libraries, design systems, or micro-frontend architectures Familiarity with build tooling (Webpack, Vite) and testing frameworks (Jest, React Testing Library) Cloud – AWS Hands-on experience with core AWS services: EC2, Lambda, S3, RDS, SQS, CloudFront, VPC, IAM Experience with containerisation and orchestration: Docker, ECS / EKS (Kubernetes) Understanding of CI/CD pipelines (GitHub Actions, CodePipeline, Jenkins) Problem Solving &amp; Design Demonstrated ability to break down ambiguous problems into well-structured technical solutions Strong low-level design (LLD) skills — class diagrams, sequence diagrams, API contracts, DB schema design Sound knowledge of data structures, algorithms, and system design principles AI Tooling Hands-on familiarity with AI-assisted development tools (GitHub Copilot, Claude, Cursor, ChatGPT, etc.) Ability to craft effective prompts and integrate LLM APIs or AI-powered features into products GOOD TO HAVE Experience with SaaS product development at scale Knowledge of observability tools: Datadog, New Relic, Grafana, ELK stack Exposure to GraphQL, gRPC, or WebSockets Contributions to open-source projects or a strong GitHub portfolio Prior experience mentoring junior developers or leading a small engineering pod Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at LeadSquared by 2x See who you know",
+      "score": 68,
       "matchedSkills": [
         "React",
-        "TypeScript"
+        "Redux",
+        "JavaScript",
+        "TypeScript",
+        "Webpack",
+        "HTML",
+        "Node",
+        "Express",
+        "REST",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "CI/CD",
+        "SQL",
+        "MongoDB",
+        "Jest",
+        "Testing Library"
       ],
       "excluded": false
     },
     {
-      "title": "Full Stack Product Engineer – React, .NET, Azure",
-      "company": "Reor Consulting Private Limited",
+      "title": "Software Development Engineer III",
+      "company": "Tesco Technology",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-product-engineer-%E2%80%93-react-net-azure-at-reor-consulting-private-limited-4465469246",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-iii-at-tesco-technology-4454980608",
       "postedAt": "2026-09-13",
-      "jobId": "4465469246",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React/React Native Developer Intern",
-      "company": "NextArch Labs",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-react-native-developer-intern-at-nextarch-labs-4464294222",
-      "postedAt": "2026-09-12",
-      "jobId": "4464294222",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Developer",
-      "company": "Scoutit",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4465458725",
-      "postedAt": "2026-09-13",
-      "jobId": "4465458725",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Sr. Software Engineer B2",
-      "company": "Cognizant",
-      "location": "Bangalore Urban, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-software-engineer-b2-at-cognizant-4465412709",
-      "postedAt": "2026-09-12",
-      "jobId": "4465412709",
-      "description": "Sr. Software Engineer B2 Cognizant Bangalore Urban, Karnataka, India 17 hours ago 62 applicants See who Cognizant has hired for this role Apply Join or sign in to find your next job Join to apply for the Sr. Software Engineer B2 role at Cognizant Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Job Summary This hybrid day shift role is for a senior software engineer with seven to ten years of experience in JavaScript and React Native who will design and deliver microservices based mobile and web solutions on AWS. The engineer will focus on IT business support platforms ensuring high reliability usability and scalability that improve operational efficiency and create meaningful value for enterprise customers and society. Responsibilities Design and develop scalable microservices based applications using advanced JavaScript and React Native to support critical IT business support functions and improve operational efficiency across the enterprise. Implement high quality front end features and reusable components using JavaScript ES5 and ES6 standards to deliver intuitive user experiences that help business teams perform daily activities more effectively. Integrate backend microservices with mobile and web interfaces to enable smooth data flows between IT support systems and business applications ensuring consistent and reliable information access for all stakeholders. Optimize application performance on AWS hosted environments by tuning code configurations and resource utilization so that IT business support solutions remain responsive under varying workloads. Collaborate with product owners and IT operations teams to translate complex IT business support requirements into well structured technical designs that align with organizational goals and improve service delivery. Review and enhance existing JavaScript and React Native codebases to reduce defects improve maintainability and extend functionality in ways that directly enhance user experience and business continuity. Apply secure coding practices and implement appropriate controls within JavaScript and microservices solutions to protect sensitive operational data and uphold company commitments to safety and trust. Coordinate with quality engineering and support teams to define test strategies for IT business support features ensuring robust validation and smooth incident resolution for end users. Document technical designs implementation details and support procedures for JavaScript and microservices solutions so that IT teams can troubleshoot issues quickly and maintain high service levels. Provide guidance to peers on effective use of advanced JavaScript and React Native patterns fostering a culture of engineering excellence that strengthens company capabilities and industry reputation. Analyze production issues in AWS hosted environments and implement durable fixes in JavaScript and microservices code to minimize downtime and protect business operations from disruption. Contribute to continuous improvement initiatives by evaluating new tools and practices in the JavaScript and cloud ecosystem helping the company adopt innovations that benefit customers and society. Engage with cross functional partners in IT business support to prioritize backlog items and deliver incremental enhancements that make daily workflows more streamlined and productive. Qualifications Possess seven to ten years of professional experience in software engineering with deep hands on expertise in JavaScript including ES5 and ES6 and advanced JavaScript concepts applied to complex business solutions. Demonstrate strong proficiency in React Native for building and maintaining mobile applications that interface with IT business support platforms and microservices based backends. Show proven experience designing and implementing microservices architectures that run on AWS and support scalable resilient IT business support systems for enterprise environments. Exhibit solid understanding of AWS services relevant to application hosting and integration such as compute storage networking and monitoring used to support secure and reliable deployments. Bring practical background in IT business support domains including exposure to ticketing workflows service management processes and operational dashboards that guide solution design. Display competence in collaborative software development practices including version control code review and agile delivery methods that sustain high quality engineering outcomes. Prefer exposure to other modern JavaScript frameworks or libraries that complement React Native and microservices solutions and broaden the ability to solve diverse business challenges. Value clear communication and structured documentation skills that help cross functional IT and business teams understand system behavior and make informed decisions. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting and Business Consulting and Services Referrals increase your chances of interviewing at Cognizant by 2x See who you know",
-      "score": 13,
+      "jobId": "4454980608",
+      "description": "Software Development Engineer III Tesco Technology Bengaluru, Karnataka, India 20 hours ago 178 applicants See who Tesco Technology has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Development Engineer III role at Tesco Technology Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Development Engineer III at Tesco Technology Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job About the role Job Summary&nbsp; As a Software Development Engineer III you are in a senior Individual Contributor&nbsp; engineering role at Tesco. Your proficiency with foundational computer science and&nbsp; software engineering concepts is taken as a given, and you will have proven significant&nbsp; technical depth and breadth . At this level you will be playing an active role in technical&nbsp; leadership, with proven impact across teams and the wider directorate. You take&nbsp; ownership and accountability of the development of the products in your domain. You&nbsp; participate in activities that build capability across the organisation: coaching and&nbsp; mentoring of existing colleagues, and interviewing/hiring of new colleagues.&nbsp;&nbsp; 1. My impact reaches beyond my immediate team&nbsp; 2. At this level I display a high degree of ownership for the work conducted by the team&nbsp; 3. I can anticipate feature evolution of my product&nbsp; 4. I am comfortable managing competing priorities&nbsp;&nbsp; 5. I build capability and raise the bar by contributing to hiring and interviewing practices.&nbsp;&nbsp; &nbsp; We are seeking a skilled React Native Mobile App Developer with strong expertise in the&nbsp; Expo ecosystem to design, build and maintain high-performance cross-platform&nbsp; mobile applications . In this role, you will leverage Expo and its modern suite of tools (like&nbsp; EAS and Expo Router) for development and deliver Tesco design system aligned native&nbsp; experiences for both iOS and Android platforms from a single codebase. You will&nbsp; collaborate closely with Product Managers, UI/UX Designers to translate requirements into&nbsp; scalable solutions.&nbsp; &nbsp; You will be responsible for Key Responsibilities&nbsp; 1.&nbsp;&nbsp;Develop and maintain cross-platform mobile applications using React Native&nbsp; 2.&nbsp;&nbsp;Work on a day-to-day basis with Agentic AI to leverage spec, skills and agents to&nbsp; do 50% of their work across development, documentation and testing&nbsp; 3.&nbsp;&nbsp;Collaborate with engineering managers, product managers, designers and&nbsp; backend developers to deliver seamless user experiences&nbsp; 4.&nbsp;&nbsp;Optimize applications for speed and scalability&nbsp; 5.&nbsp;&nbsp;Have a clear understanding of how to build accessible and secure applications&nbsp; 6.&nbsp;&nbsp;Write clean, maintainable and reusable code following best practices&nbsp; 7.&nbsp;&nbsp;Debug and resolve technical issues across web and mobile platforms&nbsp; 8.&nbsp;&nbsp;Integrate APIs and third-party libraries into applications&nbsp; 9.&nbsp;&nbsp;Stay updated with the latest industry trends, emerging patterns and standards&nbsp; &nbsp; Qualifications&nbsp; 1.&nbsp;&nbsp;Bachelor’s/master’s degree in computer science&nbsp; 2.&nbsp;&nbsp;Minimum 8+ years’ experience as a Software UI Engineer in Enterprise or Product&nbsp; companies&nbsp; &nbsp; You will need Technical Skills&nbsp;&nbsp;1. 4 years developing Reactive Native Front End App Experiences using React Native&nbsp;and the Expo Framework with core understanding of JavaScript Bridge (JSI) and&nbsp;the rest 4 building Front End App Experience&nbsp;2. Deep proficiency in JavaScript and TypeScript (highly preferred), including&nbsp;modern ES6+ concepts&nbsp;3. Strong command of React Principles, React Hooks, Context API, and Component&nbsp;lifecycles&nbsp;4. Knowledge of how to use Component Libraries to build applications&nbsp;5. Hands-on experience with the latest Expo SDKs, Expo Router (file-based routing),&nbsp;and EAS workflows&nbsp;6. Should understand concepts around caching and how to achieve the same&nbsp;&nbsp;7. Proven experience with state management libraries such as Zustand, Redux&nbsp;Toolkit, or MobX&nbsp;8. Deep understanding of iOS and Android deployment Lifecycles, application&nbsp;signing, and app store guidelines&nbsp;9. Deep skills of Git, GitHub, and continuous integration pipelines&nbsp;10. Proficient in using Agentic AI to leverage spec, skills and agents to do 50% of their&nbsp;work across development, documentation and testing&nbsp;11. Experience in determining performance profiling for Prod ready Apps&nbsp;12. Knowledge and understanding of Accessibility AA Standards&nbsp;13. Experience in designing, programming, and implementing large scale UI system&nbsp;14. Experience in integrating front end UI/mobile applications with backend API’s&nbsp;built using GraphQL or REST&nbsp;15. Knowledge of Flexbox and CSS Grid based systems&nbsp;16. Knowledge of CSS pre-processing platforms, such as SASS or LESS&nbsp;&nbsp;17. Experience with testing frameworks (Jest, Maestro, Appium, RNTL)&nbsp;18. Have used packaging tools like Webpack or Babel&nbsp;19. Understanding of mobile app deployment (App Store, Google Play Store)&nbsp;20. Knowledge of design tools like Figma and how to use them&nbsp;21. Understanding of SEO and Deep Linking is Important&nbsp;&nbsp;Process Skills&nbsp;1. Should be understanding and practicing Agile methodologies&nbsp;2. Should be using Scrum or Kanban&nbsp;3. Should be familiar using tools like JIRA and Confluence&nbsp;4. Should be familiar with concepts like EPICS, Stories, Tasks, Acceptance Criteria&nbsp;&nbsp;Soft Skills&nbsp;&nbsp;1. Can take a lead on things&nbsp;2. Takes ownership&nbsp;&nbsp;3. Has great eye for detail&nbsp;4. Excellent analytical and problem-solving skills&nbsp;5. Excellent organisation skills&nbsp;6. Excellent time management skills&nbsp;7. Excellent written and verbal communication skills&nbsp;&nbsp;&nbsp; Whats in it for you? At Tesco, we are committed to providing the best for you.&nbsp; &nbsp; As a result, our colleagues enjoy a unique, differentiated, market- competitive reward package, based on the current industry practices, for all the work they put into serving our customers, communities and planet a little better every day.&nbsp; &nbsp; Our Tesco Rewards framework consists of pillars - Fixed Pay, Incentives, and Benefits.&nbsp;&nbsp; &nbsp; Total Rewards offered at Tesco is determined by four principles -simple, fair, competitive, and sustainable.&nbsp; &nbsp; Salary - Your fixed pay is the guaranteed pay as per your contract of employment.&nbsp; &nbsp; Leave &amp; Time-off - Colleagues are entitled to 30 days of leave (18 days of Earned Leave, 12 days of Casual/Sick Leave) and 10 national and festival holidays, as per the company&rsquo;s policy.&nbsp; &nbsp; Making Retirement Tension-FreeSalary - In addition to Statutory retirement beneets, Tesco enables colleagues to participate in voluntary programmes like NPS and VPF.&nbsp; &nbsp; Health is Wealth - Tesco promotes programmes that support a culture of health and wellness including insurance for colleagues and their family. Our medical insurance provides coverage for dependents including parents or in-laws.&nbsp; &nbsp; Mental Wellbeing - We offer mental health support through self-help tools, community groups, ally networks, face-to-face counselling, and more for both colleagues and dependents.&nbsp;&nbsp; &nbsp; Financial Wellbeing - Through our financial literacy partner, we offer one-to-one financial coaching at discounted rates, as well as salary advances on earned wages upon request.&nbsp;&nbsp; &nbsp; Save As You Earn (SAYE) - Our SAYE programme allows colleagues to transition from being employees to Tesco shareholders through a structured 3-year savings plan.&nbsp;&nbsp; &nbsp; Physical Wellbeing - Our green campus promotes physical wellbeing with facilities that include a cricket pitch, football field, badminton and volleyball courts, along with indoor games, encouraging a healthier lifestyle.&nbsp; About Us At Tesco, inclusion is at the heart of everything we do. We believe in treating everyone fairly and with respect, valuing individuality and uniqueness to create a true sense of belonging. Diversity and inclusion are deeply embedded in our values—we treat people how they want to be treated. Our goal is for all colleagues to feel they can be themselves at work, and we are committed to helping them thrive. Across the Tesco group, we are building an inclusive workplace that actively celebrates the cultures, personalities, and preferences of our colleagues, who in turn contribute to the success of our business and reflect the diversity of the communities we serve. At Tesco Bengaluru, we are proud to be a Disability Confident Committed Employer, highlighting our commitment to creating a supportive environment for individuals with disabilities. We are dedicated to offering equal opportunities for all candidates and encourage applicants with disabilities to apply. Our recruitment process is fully accessible, and we are happy to provide reasonable adjustments during interviews. If you need any accommodations to participate in the recruitment process, please let us know. We are here to ensure that everyone has the chance to succeed. We also believe in fostering a work environment where you can excel both professionally and personally. Our hybrid model allows you to work flexibly—spend 60% of your week collaborating in person with colleagues at our office locations or local sites, and the rest of the time working remotely. We understand that everyone’s life journey is unique, whether you are starting your career, pursuing passions, or navigating life changes, and we are here to support you. Flexibility is a core part of our culture, and we encourage open conversations about how we can best accommodate your needs, so talk to us throughout your application process on the support required. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Retail Referrals increase your chances of interviewing at Tesco Technology by 2x See who you know",
+      "score": 38,
       "matchedSkills": [
         "React",
-        "JavaScript"
+        "Redux",
+        "JavaScript",
+        "TypeScript",
+        "Webpack",
+        "REST",
+        "GraphQL",
+        "Jest"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer - Fullstack",
+      "company": "DigiCert",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-digicert-4419073298",
+      "postedAt": "2026-09-13",
+      "jobId": "4419073298",
+      "description": "Senior Software Engineer - Fullstack DigiCert Bengaluru, Karnataka, India 22 hours ago 190 applicants See who DigiCert has hired for this role Apply Save Join or sign in to save this job Join to save Senior Software Engineer - Fullstack at DigiCert Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Who we are DigiCert is a global leader in intelligent trust. We protect the digital world by ensuring the security, privacy, and authenticity of every interaction. Our AI-powered DigiCert ONE platform unifies PKI, DNS, and certificate lifecycle management, to secure infrastructure, software, devices, messages, AI content and agents. Learn why more than 100,000 organizations, including 90% of the Fortune 500, choose DigiCert to stop today’s threats and prepare for a quantum-safe future at www.digicert.com Job summary A hands-on software engineer and self-starter with experience working as Full Stack Engineer to develop, build and deploy robust, large scale, quality software in production. What you will do Responsible for full lifecycle of the project from user story to design, development, testing, documentation and maintenance. Develop an understanding and knowledge of products/solutions, architecture and systems. Analyse, troubleshoot and debug product defects and provide timely solutions to customer issues. Review code and help team member to in development of features. Build low latency and high-performance solutions. Work with agile cross-functional team to estimate and plan development activities and timelines. Other duties as assigned. What you will have 5+ years of professional experience working in the software industry. Strong knowledge of Core Java and RUST. Excellent knowledge of Javascript and front end technologies like reactJS. Strong in data structure(s) and algorithms. Good to have - Knowledge of media processing (image/video), metadata systems like JUMBF, EXIF, XMP etc. Strong knowledge of software engineering best-practices in software design and architecture. Good knowledge of Spring, Hibernate Frameworks. Expertise developing and consuming RESTful web services. Passionate in unit testing and producing high quality code Strong knowledge of SQL(s), writing excellent SQL queries. Strong knowledge of writing Web Service APIs Experience using Linux, docker and kubernetes Nice to have Understanding of SSL/TLS, PKI, or other security related technologies. Experience in Cloud platforms like AWS. Benefits Generous time off policies Top shelf benefits Education, wellness and lifestyle support Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Technology, Information and Internet Referrals increase your chances of interviewing at DigiCert by 2x See who you know",
+      "score": 25,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "REST",
+        "Docker",
+        "Kubernetes",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": ".Net Fullstack Developer with",
+      "company": "Tata Consultancy Services",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/net-fullstack-developer-with-at-tata-consultancy-services-4465735020",
+      "postedAt": "2026-09-14",
+      "jobId": "4465735020",
+      "description": ".Net Fullstack Developer with Tata Consultancy Services Greater Bengaluru Area 4 hours ago 67 applicants See who Tata Consultancy Services has hired for this role Apply Save Join or sign in to save this job Join to save .Net Fullstack Developer with at Tata Consultancy Services Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Direct message the job poster from Tata Consultancy Services Shivani Sharma Shivani Sharma Recruitment Analyst @ TCS | Cloud Hiring Specialist | Proficient in End-to-End Recruitment Overall Experience: 6+ Location: Bangalore Notice Period: 0-30 Days Key Responsibilities: 1. Full Stack Development • Develop scalable web applications using .NET Core, C#, Angular or React, and TypeScript. • Development of robust, high-performance user interfaces for web applications. • Design and optimize RESTful APIs to support seamless frontend-backend interactions. • Establish and enforce coding standards, best practices, and design patterns within the development team. 2. Database Design &amp; Optimization • Develop and maintain SQL Server queries, stored procedures. • Optimize query performance for high-volume and critical applications. 3. Cloud Development (Added Advantage) • Architect and integrate solutions using Azure services such as Azure Functions, App Services, Azure Entra ID, and Azure SQL Database. • Work with Azure DevOps for CI/CD pipelines, automated deployments, and cloud-based or on-premises infrastructure. • Ensure seamless integration between on-premises or cloud-based systems 4. Agile Development &amp; Collaboration • Actively participate in Agile development processes, including sprint planning, stand-ups, and retrospectives. • Work closely with Business Analyst to understand requirements and deliver high-quality solutions Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries IT Services and IT Consulting, Engineering Services, and Software Development Referrals increase your chances of interviewing at Tata Consultancy Services by 2x See who you know",
+      "score": 22,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "REST",
+        "CI/CD",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Reactjs And React Native Developer, Delhi-NCR Only",
+      "company": "4 Way Technologies",
+      "location": "New Delhi, Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/reactjs-and-react-native-developer-delhi-ncr-only-at-4-way-technologies-4465711432",
+      "postedAt": "2026-09-14",
+      "jobId": "4465711432",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer Intern (React.js + NestJS)",
+      "company": "AIRTH",
+      "location": "New Delhi, Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-react-js-%2B-nestjs-at-airth-4465729178",
+      "postedAt": "2026-09-14",
+      "jobId": "4465729178",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React JS Developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4447612114",
+      "postedAt": "2026-09-13",
+      "jobId": "4447612114",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
       ],
       "excluded": false
     }
