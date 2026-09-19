@@ -1,35 +1,88 @@
 {
-  "generatedAt": "2026-09-18T08:37:24.071Z",
-  "totalScraped": 419,
-  "totalMatched": 20,
+  "generatedAt": "2026-09-19T08:25:00.623Z",
+  "totalScraped": 394,
+  "totalMatched": 17,
   "jobs": [
     {
-      "title": "Full Stack Engineer",
-      "company": "Vahan.ai",
+      "title": "Software Engineer",
+      "company": "GE Vernova",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-vahan-ai-4468607741",
-      "postedAt": "2026-09-17",
-      "jobId": "4468607741",
-      "description": "Full Stack Engineer Vahan.ai Bengaluru, Karnataka, India 20 hours ago Over 200 applicants See who Vahan.ai has hired for this role Apply Save Report this job Direct message the job poster from Vahan.ai Reena P Reena P All things talent at Vahan.ai! We are hiring 🚀 Software Development Engineer II – Full Stack Location: Bangalore Experience: 3–5 years Role: Individual Contributor About the Role We are looking for a Full Stack Software Development Engineer II (SDE II) who is comfortable owning both backend and frontend development. This is a genuinely full-stack role. You should be able to independently build production-quality React features as well as design and implement backend services involving APIs, business logic, data storage, caching, and asynchronous processing. As an SDE II, you will own medium-complexity problems from requirement understanding through technical design and implementation . For larger or more complex architectural problems, you will work closely with senior engineers. What You’ll Do Own medium-complexity features from requirements → technical design → implementation → production . Build and maintain production applications using React, TypeScript, and Node.js . Design and implement backend services and APIs. Design basic relational data models and make appropriate choices around tables, relationships, indexes, and constraints. Write efficient SQL queries and troubleshoot database-related performance issues. Use Redis appropriately for caching and other application use cases. Build and work with asynchronous and event-driven systems using technologies such as RabbitMQ, Kafka, or equivalent messaging systems . Think about reliability, fault tolerance, scalability, and failure scenarios while designing services. Debug issues across the stack—from browser and frontend behavior to APIs, databases, queues, and production services. Write maintainable, testable code and participate in code reviews. Work with product managers and other engineers to translate product requirements into technical solutions. Use AI coding agents and AI-assisted development tools effectively as part of your day-to-day engineering workflow. Take responsibility for the quality and reliability of the features you ship. What We’re Looking For Full Stack Engineering 3–5 years of professional software engineering experience. Strong proficiency in JavaScript/TypeScript . Production experience with Node.js and React.js . Ability to independently build production-quality frontend features using React. Ability to independently design and implement backend services for medium-complexity use cases. Good understanding of API design and client-server architecture. Databases &amp; Data Good understanding of relational databases , preferably PostgreSQL. Understanding of basic relational data modelling, including relationships, constraints, indexes, and normalization. Comfortable writing and debugging SQL queries . Ability to reason about database performance and common issues such as inefficient queries and missing indexes. Experience using Redis or similar caching/data-store technologies. Distributed &amp; Event-Driven Systems Experience working with message queues and event-driven systems , using technologies such as RabbitMQ, Kafka, or equivalent. Understanding of asynchronous processing and common messaging patterns. Working knowledge of concepts such as: Fault tolerance and graceful failure Retries and idempotency Scalability and service bottlenecks Caching Reliability and observability Engineering &amp; Problem Solving Ability to take a reasonably defined product requirement and turn it into a technical design and working implementation. Strong debugging and problem-solving skills across frontend and backend systems. Ability to make sensible engineering trade-offs rather than over-engineering solutions. Comfortable navigating an existing codebase and making changes across multiple components. Good understanding of testing, Git-based development workflows, and production software engineering practices. Comfortable using AI coding agents to accelerate development while maintaining ownership of the design, correctness, and quality of the generated code. Nice to Have Experience deploying or operating applications on Kubernetes . Experience with Docker and containerized applications. Familiarity with cloud environments such as AWS. Experience debugging production systems using logs, metrics, traces, and monitoring tools. Experience working on systems with meaningful scale or high transaction volumes. What Good Looks Like in This Role Given a medium-complexity requirement, you can understand the problem, identify the frontend and backend changes required, propose a reasonable technical design, model the necessary data, implement the solution across the stack, test it, and take it to production. For problems involving deeper architectural decisions or significantly greater complexity, you know when to involve a senior engineer and can work effectively with them to arrive at the right solution. Primary Stack: Node.js · TypeScript · React.js · PostgreSQL · Redis · RabbitMQ/Kafka Show more Show less Seniority level Associate Employment type Full-time Job function Engineering, Research, and Information Technology Industries Internet Marketplace Platforms Referrals increase your chances of interviewing at Vahan.ai by 2x See who you know",
-      "score": 28,
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-ge-vernova-4469146208",
+      "postedAt": "2026-09-18",
+      "jobId": "4469146208",
+      "description": "Software Engineer GE Vernova Bengaluru, Karnataka, India 20 hours ago 127 applicants See who GE Vernova has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer role at GE Vernova Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Job Description Summary We’re seeking a Software Engineer to contribute to the design and development of web based applications using C# react technologies. Job Description Roles and Responsibilities In This Role, You Will Contribute , design, and development of RESTful APIs and microservices using .NET, ASP.NET Core (Web API, MVC), and Entity Framework Understanding of engineering best practices: SOLID principles, design patterns, code reviews, technical standards, and documentation Build front-end experiences using JavaScript/TypeScript with ReactJS Own end-to-end delivery: requirements, design, implementation, automated testing (unit, integration, UI), performance, and deployment Design for reliability, scalability, and security in AWS; containerize and ship services with Docker Work across data stores (SQL Server, PostgreSQL, Oracle), including schema design, query optimization, and performance tuning Implement and improve observability (logging, monitoring, alerting) and drive operational excellence Integrate AI/ML capabilities where appropriate to enhance product features and developer productivity Ensure secure development practices including SAST/DAST and remediation of findings Mentor and coach engineers; lead technical initiatives and collaborate with product, UX, and stakeholders Must-have Qualifications Deep knowledge in C# .NET Strong RESTful API and microservices design and development Proficiency in JavaScript and TypeScript Experience with modern front-end frameworks of ReactJS Solid grasp of SOLID principles, design patterns, and microservices architecture Strong SQL skills across SQL Server, PostgreSQL, and Oracle Automation experience: unit, integration, and UI test frameworks Cloud experience with AWS/Azure Proven ability to lead initiatives and deliver high-quality, scalable solutions Nice to have Monitoring and logging tools: Splunk, Prometheus, ELK Stack DevOps/CI/CD tools: GitHub, GitHub Actions, Jenkins, JFrog Artifactory, Groovy Load/performance testing (e.g., JMeter) Security best practices in SAST and DAST Strong problem-solving and analytical skills Experience working independently in fast-paced, cross-functional environments Practical AI skill set (e.g., integrating AI/ML capabilities into applications) Education Qualification Bachelor's Degree in Computer Science or “STEM” Majors (Science, Technology, Engineering and Math) with advanced experience with 2 to 5 Years. Desired Characteristics Technical Expertise Master's Degree/ PHD in Computer Science Experience with Windows and Unix / Linux based programming Experience working on software projects in the Energy domain (Energy Management, Oil &amp; Gas, Power &amp; Water) Certified Scrum Master and/or Product Owner Personal Attributes Strong oral and written communication skills Strong interpersonal skills Effective team building and problem solving abilities Persists to completion, especially in the face of overwhelming odds and setbacks. Pushes self for results; pushes others for results through team spirit Additional Information Relocation Assistance Provided: Yes Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Energy Technology Referrals increase your chances of interviewing at GE Vernova by 2x See who you know",
+      "score": 31,
       "matchedSkills": [
         "React",
         "JavaScript",
         "TypeScript",
-        "Node",
+        "REST",
         "Docker",
-        "Kubernetes",
+        "Jenkins",
+        "CI/CD",
         "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Full Stack Engineer (Node/React) - Remote",
-      "company": "Kake",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4466275401",
-      "postedAt": "2026-09-17",
-      "jobId": "4466275401",
+      "title": ".Net/AI Engineer - 2194",
+      "company": "Medline",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/net-ai-engineer-2194-at-medline-4420117378",
+      "postedAt": "2026-09-18",
+      "jobId": "4420117378",
+      "description": ".Net/AI Engineer - 2194 Medline Pune Division, Maharashtra, India 17 hours ago Over 200 applicants See who Medline has hired for this role Apply Join or sign in to find your next job Join to apply for the .Net/AI Engineer - 2194 role at Medline Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Job Summary Job Description NET &amp; AI Role Overview Design, develop, and maintain enterprise applications using the .NET ecosystem. Build scalable full-stack applications and APIs using Microsoft technologies. Integrate AI capabilities into existing and new applications using Azure AI services. Develop and operationalize AI-powered search, RAG solutions, and assisted/autonomous agents. Work closely with product, architecture, and business teams to deliver scalable enterprise solutions. Experience 7–10 years of overall Full Stack development experience. Strong hands-on experience in the .NET ecosystem. 2–4 years of experience in AI Engineering / Generative AI. Strong experience with Microsoft Azure technologies. Core Technical Skills – .NET Strong expertise in C# and .NET / .NET Core. Experience developing REST APIs and microservices. Strong understanding of Object-Oriented Programming and design patterns. Experience with ASP.NET Core / Web API. Experience with SQL Server and database development. Strong understanding of Entity Framework / ORM. Experience with HTML, CSS, JavaScript/TypeScript. Exposure to modern frontend frameworks such as React or Angular. Experience with Azure App Service, Azure DevOps and CI/CD pipelines. Understanding of Azure cloud architecture, including: Azure App Service Azure Functions Azure Key Vault Azure Monitor Azure Kubernetes Service (AKS) Experience in application performance tuning, scalability and troubleshooting. Strong understanding of secure application development and API integration. Must Have Hands-on experience with Azure OpenAI Service. Experience with LLM integration and prompt engineering. Experience with embeddings and vector-based search. Strong experience with Azure AI Search, including: Vector Search,Hybrid Search, Reranking Experience developing Retrieval-Augmented Generation (RAG) pipelines. Experience integrating AI capabilities into .NET applications. Understanding of AI application performance optimization, including: Token optimization, Latency optimization, Embedding optimization,Caching Good to Have Experience with Azure Machine Learning. Experience with Microsoft Power Automate / Power Platform. Experience with Microsoft Graph API and M365 integration. Exposure to Microsoft Foundry. Experience developing AI agents / agentic workflows. Top of Form Bottom of Form About Medline India Medline India was setup in 2010 in Pune, primarily as an offshore Development centre and to augment resources for Medline Industries LP headquartered in Chicago, USA. We are a 1500+ strong and growing team of technology, finance &amp; and business support professionals who support our businesses worldwide towards a mission to make healthcare run better. We are proud to be certified as a ‘Great Place to Work’ by the Great Place to Work Institute® (India) for the duration May 2023 – May 2024. We are an organization with a conducive work environment, ample opportunities to learn, contribute and grow with a highly empowered &amp; engaged team. We encourage our people to share their best ideas and create new opportunities for our customers and ourselves to work together to solve today’s toughest healthcare challenges. About Medline Industries, LP Established in 1966, Medline Industries LP is a renowned global healthcare organization boasting 56 years of consecutive sales growth, exceeding $21 billion in annual sales. With a workforce of over 36,000 professionals spread across the globe, we operate in more than 125 countries and territories. As the largest privately held manufacturer and distributor of medical supplies in the United States, Medline is uniquely positioned to offer comprehensive products, education, and support across the continuum of care. At present, Medline Industries, LP holds the esteemed position as the #1 market leader, delivering an extensive portfolio of over 550,000 medical products and clinical solutions. Our clientele includes hospitals, extended care facilities, surgery centres, physician offices, home care agencies, providers, and retailers. We are proud to be recognized by Forbes as one of America’s Best Large Employers and Best Employers for Women. Additionally, the Chicago Tribune has consistently named us a Top Workplace for the past 12 years. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Medical Equipment Manufacturing Referrals increase your chances of interviewing at Medline by 2x See who you know",
+      "score": 31,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "REST",
+        "Kubernetes",
+        "CI/CD",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer - (C#/.NET & React) Job",
+      "company": "YASH Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-c%23-net-react-job-at-yash-technologies-4467846891",
+      "postedAt": "2026-09-18",
+      "jobId": "4467846891",
+      "description": "Software Engineer - (C#/.NET &amp; React) Job YASH Technologies Bengaluru, Karnataka, India 18 hours ago 56 applicants See who YASH Technologies has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer - (C#/.NET &amp; React) Job role at YASH Technologies Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation. At YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future. We are looking forward to hire .NET C# Professionals in the following areas : Full Stack Developer (C#/.NET &amp; React) Experience Required 3–5 years of hands-on experience in full stack development Key Responsibilities Design, develop, and maintain scalable web applications using .NET (C#) and React Build and integrate RESTful APIs and backend services Collaborate with cross-functional teams to define, design, and deliver new features Ensure application performance, responsiveness, and security Participate in code reviews and adhere to best coding practices Troubleshoot and resolve technical issues in development and production environments Leverage prompt engineering techniques to effectively use AI tools for development, debugging, and optimization Required Skills &amp; Qualifications Proficiency in: C#, .NET Framework / .NET Core React.js Good understanding of: Object-Oriented Programming (OOP) Software Development Lifecycle (SDLC) Database concepts (SQL/NoSQL) Experience with APIs and microservices architecture Familiarity with version control systems (Git) Exposure to AI-assisted development, including: Prompt engineering Using AI tools to improve efficiency and output quality Strong analytical, problem-solving, and communication skills Work Location - Chennai or Bangalore At YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale. Our Hyperlearning workplace is grounded upon four principles Flexible work arrangements, Free spirit, and emotional positivity Agile self-determination, trust, transparency, and open collaboration All Support needed for the realization of business goals, Stable employment with a great atmosphere and ethical corporate culture Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at YASH Technologies by 2x See who you know",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "REST",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Fullstack Engineer (React & NodeJs)",
+      "company": "PaperLite",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-fullstack-engineer-react-nodejs-at-paperlite-4466663784",
+      "postedAt": "2026-09-18",
+      "jobId": "4466663784",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Product Builder: Full Stack (Node.js,React.js)",
+      "company": "Codewave Australia",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/product-builder-full-stack-node-js-react-js-at-codewave-australia-4467854159",
+      "postedAt": "2026-09-18",
+      "jobId": "4467854159",
       "description": "",
       "score": 26,
       "matchedSkills": [
@@ -54,75 +107,45 @@
       "excluded": false
     },
     {
-      "title": "UI Specialist - React & Node.js Job",
-      "company": "YASH Technologies",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/ui-specialist-react-node-js-job-at-yash-technologies-4467545494",
-      "postedAt": "2026-09-17",
-      "jobId": "4467545494",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Sr. Software Engineer - NodeJs+ReactJs Job",
-      "company": "YASH Technologies",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-software-engineer-nodejs%2Breactjs-job-at-yash-technologies-4467553350",
-      "postedAt": "2026-09-17",
-      "jobId": "4467553350",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer(Senior .NET Developer)",
-      "company": "Caterpillar Inc.",
+      "title": "React JS Node JS",
+      "company": "Infosys",
       "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-senior-net-developer-at-caterpillar-inc-4468641761",
-      "postedAt": "2026-09-17",
-      "jobId": "4468641761",
-      "description": "Software Engineer(Senior .NET Developer) Caterpillar Inc. Bengaluru East, Karnataka, India 18 hours ago 84 applicants See who Caterpillar Inc. has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer(Senior .NET Developer) role at Caterpillar Inc. Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Career Area: Technology, Digital and Data Job Description: Your Work Shapes the World at Caterpillar Inc. When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it. About Caterpillar Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives. For nearly 100 years, we’ve been helping customers build a better, more sustainable world and are committed to and contributing to a reduced-carbon future. Our innovative products and services, backed by our global dealer network, provide exceptional value that helps customers succeed. Your Impact Shapes the World at Caterpillar Inc When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it. Job Summary We are seeking a skilled Software Engineer ( Senior .NET Developer) to join our Applications Development &amp; Intelligence Automation -CAT IT Division The preference for this role is to be based out of Bangalore PSN Office, KA-India What You Will Do Design, develop, and maintain enterprise applications using .NET technologies Collaborate with business stakeholders and product teams to understand requirements and translate them into technical solutions Contribute to application design and integration across systems Develop APIs, services, and user interfaces for scalable applications Participate in code reviews, testing, and debugging to ensure quality and performance Work with cross-functional teams to build and enhance solutions Support system performance tuning, troubleshooting, and optimization Contribute to reusable components, common frameworks, and development standards Participate in Agile development processes (Scrum) including sprint planning, standups, and retrospectives Assist in modernizing legacy applications and supporting migration efforts What You Will Have 6–10 years of hands-on experience in enterprise application development Strong experience with .NET technologies (.NET Core, ASP.NET, MVC, C#) Experience working with REST APIs and web services (SOAP/REST) Proficiency in front-end technologies (HTML, CSS, JavaScript) Familiarity with JavaScript frameworks (Angular 8+, Razor or React is a plus) Experience with databases (SQL Server, Oracle, MySQL, or PostgreSQL) Strong understanding of object-oriented programming and design principles Experience working in Agile (Scrum) environments Familiarity with Git, Azure DevOps, or similar tools Basic understanding of CI/CD pipelines Exposure to Azure cloud services is a plus Experience with SSRS/RDLC reporting is a plus Knowledge of multi-tier application architecture This position requires candidate to work a 5-day -a -week schedule in the office. Shift Timing :01:00Noon -10:00PM IST Skills Desired: Decision Making and Critical Thinking: Knowledge of the decision-making process and associated tools and techniques; ability to accurately analyze situations and reach productive decisions based on informed judgment. Level Working Knowledge: Applies an assigned technique for critical thinking in a decision-making process. Identifies, obtains, and organizes relevant data and ideas. Participates in documenting data, ideas, players, stakeholders, and processes. Recognizes, clarifies, and prioritizes concerns. Assists in assessing risks, benefits and consideration of alternatives. Effective Communications : Understanding of effective communication concepts, tools and techniques; ability to effectively transmit, receive, and accurately interpret ideas, information, and needs through the application of appropriate communication behaviors. Level Working Knowledge: Delivers helpful feedback that focuses on behaviors without offending the recipient. Listens to feedback without defensiveness and uses it for own communication effectiveness. Makes oral presentations and writes reports needed for own work. Avoids technical jargon when inappropriate. Looks for and considers non-verbal cues from individuals and groups. Software Development: Knowledge of software development tools and activities; ability to produce software products or systems in line with product requirements. Level Working Knowledge: Describes common tools for component-based, object-oriented development. Describes the objectives, activities and results of unit testing. Has developed programs in a specific language and for a specific platform. Interprets functional and technical blueprints; participates in structuring technical components. Participates in technical and code reviews. Software Development Life Cycle: Knowledge of software development life cycle; ability to use a structured methodology for delivering and managing new or enhanced software products to the marketplace. Level Basic Understanding: Summarizes the overall process for developing new software for the company product line. Differentiates respective roles and responsibilities of software engineering and other functions. Identifies common issues and considerations for bringing a new product to marketplace. Describes major phases, checkpoints and deliverables. Software Integration Engineering: Knowledge of software integration processes and functions; ability to design, develop and maintain interfaces and linkage to alternative platforms and software packages. Level Working Knowledge: Has experience with designing data exchange interfaces to and from software product. Describes tools and techniques for extraction, transformation and loading of electronic data. Cites examples of common linkage requirements for software products and vendors. Works with integrating software into the customer or partner framework and infrastructure. Participates in the development of technology interfaces and bridges. Software Product Design/Architecture: Knowledge of software product design; ability to convert market requirements into the software product design. Level Basic Understanding: Identifies basic design methods and design tools. Identifies major components of functional and technical design. Cites examples of good and bad designs. Describes tasks, activities, deliverables and key concerns of technical design. Software Product Technical Knowledge: Knowledge of technical aspects of a software products; ability to design, configure and integrate technical aspects of software products. Level Working Knowledge: Maintains and utilizes data related to install base configurations and environments. Solicits customer feedback; reports and monitors bugs and implementation issues. Participates in defining and conducting technical acceptance tests. Participates in creating technical requirements for software development and deployment. Explains basic environment and product configuration options. Software Product Testing : Knowledge of software product testing; ability to design, plan, and execute testing strategies and tactics to ensure software product quality and adherence to stated requirements. Level Working Knowledge: Participates in test readiness reviews, functional, volume, and load testing. Describes key features and aspects of a specific testing discipline or methodology. Tests software components for compliance with functional requirements and design specifications. Explains procedures for documenting test activities and results (e.g. errors, non-conformance, etc.) Conducts functional and performance testing on aspects of assigned products. What You Will Get: Work Life Harmony Earned and medical leave. Relocation assistance Holistic Development Personal and professional development through Caterpillar ‘s employee resource groups across the globe Career developments opportunities with global prospects Health and Wellness Medical coverage -Medical, life and personal accident coverage Employee mental wellness assistance program Financial Wellness Employee investment plan Pay for performance -Annual incentive Bonus plan. Additional Information: Caterpillar is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status; however, as a global company, Caterpillar offers many job opportunities outside of the U.S. which can be found through our employment website at www.caterpillar.com/careers This position requires working onsite five days a week. Visa Sponsorship is not available for this position. Posting Dates: Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply Not ready to apply? Join our Talent Community. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Construction and Machinery Manufacturing Referrals increase your chances of interviewing at Caterpillar Inc. by 2x See who you know",
-      "score": 25,
+      "url": "https://in.linkedin.com/jobs/view/react-js-node-js-at-infosys-4458917451",
+      "postedAt": "2026-09-18",
+      "jobId": "4458917451",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Industry Consulting Consultant",
+      "company": "NTT DATA North America",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/industry-consulting-consultant-at-ntt-data-north-america-4459821140",
+      "postedAt": "2026-09-18",
+      "jobId": "4459821140",
+      "description": "Industry Consulting Consultant NTT DATA North America Noida, Uttar Pradesh, India 21 hours ago 56 applicants See who NTT DATA North America has hired for this role Apply Join or sign in to find your next job Join to apply for the Industry Consulting Consultant role at NTT DATA North America Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job India T&amp;M Special Bonus: Front end: React JS Proficiency in TypeScript, JavaScript, HTML5, CSS3 , and modern front end build tools. Knowledge as how back end works C# and .NET/ Python as how it works how to call APIS from UI - REST APIs Good communicaiton skills Exposure to USA market Show more Show less Seniority level Not Applicable Employment type Full-time Job function Consulting, Information Technology, and Sales Industries IT Services and IT Consulting Referrals increase your chances of interviewing at NTT DATA North America by 2x See who you know",
+      "score": 22,
       "matchedSkills": [
         "React",
         "JavaScript",
+        "TypeScript",
         "HTML",
-        "REST",
-        "CI/CD",
-        "SQL"
+        "REST"
       ],
       "excluded": false
     },
     {
-      "title": "Staff Software Engineer II - ReactJS, Java8, Microservices, Springboot & Cloud",
-      "company": "Blue Yonder",
+      "title": "Senior Full Stack Developer (Go + React.js)",
+      "company": "Hitachi Vantara",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/staff-software-engineer-ii-reactjs-java8-microservices-springboot-cloud-at-blue-yonder-4455969489",
-      "postedAt": "2026-09-17",
-      "jobId": "4455969489",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer (Fullstack Developer/.Net/React)",
-      "company": "The Access Group",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-fullstack-developer-net-react-at-the-access-group-4468606183",
-      "postedAt": "2026-09-17",
-      "jobId": "4468606183",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-go-%2B-react-js-at-hitachi-vantara-4449924422",
+      "postedAt": "2026-09-18",
+      "jobId": "4449924422",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -134,121 +157,9 @@
       "title": "React Developer",
       "company": "Scoutit",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4467500695",
-      "postedAt": "2026-09-17",
-      "jobId": "4467500695",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "ReactJS Associate Architect",
-      "company": "Valtech",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/reactjs-associate-architect-at-valtech-4468609893",
-      "postedAt": "2026-09-17",
-      "jobId": "4468609893",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React + MFE",
-      "company": "Ascendion",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-%2B-mfe-at-ascendion-4467549541",
-      "postedAt": "2026-09-17",
-      "jobId": "4467549541",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Native Architect",
-      "company": "Shuru",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-architect-at-shuru-4466280897",
-      "postedAt": "2026-09-17",
-      "jobId": "4466280897",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React + Capacitor Mobile Developer",
-      "company": "AI Crew Solutions",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-%2B-capacitor-mobile-developer-at-ai-crew-solutions-4468232244",
-      "postedAt": "2026-09-17",
-      "jobId": "4468232244",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Native Developer",
-      "company": "Ideagen",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-ideagen-4448532738",
-      "postedAt": "2026-09-17",
-      "jobId": "4448532738",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer - UI, React, UX",
-      "company": "Blue Yonder",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-ui-react-ux-at-blue-yonder-4467563598",
-      "postedAt": "2026-09-17",
-      "jobId": "4467563598",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "ReactJS developer",
-      "company": "Infosys",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/reactjs-developer-at-infosys-4439492592",
-      "postedAt": "2026-09-17",
-      "jobId": "4439492592",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead Mobile Engineer (React Native)",
-      "company": "HuntingCube",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-mobile-engineer-react-native-at-huntingcube-4468841747",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4467840641",
       "postedAt": "2026-09-18",
-      "jobId": "4468841747",
+      "jobId": "4467840641",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -257,12 +168,12 @@
       "excluded": false
     },
     {
-      "title": "Senior Technical Consultant - Full Stack (.NET , React) , D&M",
-      "company": "Autodesk",
+      "title": "Senior REACT Frontend Developer",
+      "company": "Avnet",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-technical-consultant-full-stack-net-react-d-m-at-autodesk-4448985378",
-      "postedAt": "2026-09-17",
-      "jobId": "4448985378",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-frontend-developer-at-avnet-4469164851",
+      "postedAt": "2026-09-18",
+      "jobId": "4469164851",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -271,12 +182,12 @@
       "excluded": false
     },
     {
-      "title": "Contractor - React Job",
-      "company": "YASH Technologies",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/contractor-react-job-at-yash-technologies-4467558314",
-      "postedAt": "2026-09-17",
-      "jobId": "4467558314",
+      "title": "React js Full stack developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-full-stack-developer-at-infosys-4440250960",
+      "postedAt": "2026-09-18",
+      "jobId": "4440250960",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -285,17 +196,75 @@
       "excluded": false
     },
     {
-      "title": "UI Developer for Agentic AI",
-      "company": "peopleHum",
+      "title": "TECHNICAL LEAD - ReactJS",
+      "company": "Happiest Minds Technologies",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/ui-developer-for-agentic-ai-at-peoplehum-4466248663",
-      "postedAt": "2026-09-17",
-      "jobId": "4466248663",
-      "description": "UI Developer for Agentic AI peopleHum Bengaluru, Karnataka, India 21 hours ago 90 applicants See who peopleHum has hired for this role Apply Join or sign in to find your next job Join to apply for the UI Developer for Agentic AI role at peopleHum Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job About PeopleHum peopleHum is a Human Capital Platform, built for the next decade, we're on a mission to transform \"The Future of Work\". The winner of the 2019 Global Codie award, used by organizations around the world. It is an intuitive, agile and integrated platform built for a complete multi-generational employee experience, from hiring to performance, engagement and HRMS, with the power of machine learning and automation. Find out more - https://www.peoplehum.com Role Overview peopleHum is an AI-native Human capital global platform built on a microservices architecture with event-driven pipelines and deep LLM integrations on the Java stack. We currently have a rich, multi-framework frontend spanning Angular, Vue.js, and Ionic mobile apps served through a micro-frontend architecture with Module Federation. We are looking for a UI Developer who can own the user experience end-to-end from component design to state management to API integration to cross-browser testing. You will not just write components; you will own complete feature flows, work closely with backend and QA, and ship with confidence. As our platform deeply integrates AI agents and conversational interfaces, experience with building AI-facing UIs (chatbots, agent dashboards, streaming responses) is highly valued. Key Responsibilities Ownership &amp; End-to-End Accountability: You treat the shipped experience as the deliverable, not the pull request you follow features from design review through production You take ownership of user-facing outcomes, flagging gaps in specs before writing code rather than building exactly what’s broken You don’t hand off and move on if something you built doesn’t work well for users, you fix it Design Thinking &amp; User Empathy You have a strong design sensibility and consider how every implementation decision affects the end user You translate user needs into intuitive interfaces not just convert tickets into code You push back constructively when an implementation compromises UX, offering alternatives instead of silent compliance Communication &amp; Collaboration You clearly communicate tradeoffs between design fidelity, performance, and implementation effort to designers and PMs You rephrase technical constraints in non-technical language so product stakeholders can make informed decisions You are comfortable presenting prototypes and rationale in design reviews, not just shipping silently You work closely with backend engineers to shape API contracts that serve UI needs cleanly, and with QA on interaction state coverage Attention To Detail &amp; Craft You hold a high quality bar for visual precision pixel-perfect execution is your default, not an afterthought You review your implementations across breakpoints and edge cases, not just the happy-path viewport Pride in craft clean, well-organized code reflects the same care as a polished UI Adaptability &amp; Learning Agility You pick up new frameworks, design systems, and tooling quickly without being attached to a single stack You embrace AI-assisted workflows and are curious about integrating new tools into your development process You iterate on feedback quickly treating design reviews as collaborative calibration, not criticism Proactive Problem Identification You default to action surfacing issues early rather than waiting for explicit direction You identify UX edge cases and accessibility gaps during implementation, raising them before they become bugs You proactively propose improvements to component architecture, design tokens, or interaction patterns Must have skills The most critical skill. Strong hands-on experience with components, modules, routing, reactive forms, dependency injection, and Angular CLI is essential. This is a core requirement because Angular development depends heavily on strong typing, interfaces, generics, and decorators. Very important for handling observables, async data flows, and reactive state management in Angular applications. Strong frontend fundamentals are a must for building responsive, clean, and production-ready interfaces. Experience with HttpClient, interceptors, error handling, WebSockets, and JWT/session-based authentication is key for real-world application development. The ability to write modular, reusable components, use Git properly, and debug with browser DevTools is essential for day-to-day frontend work. Good to have skills Very valuable for teams working with micro-frontend architecture, especially in large-scale frontend products. A strong good-to-have because modern E2E testing is important for product reliability and frontend quality. These are important for maintaining code quality, consistency, and cleaner development workflows across teams. Very useful for products serving multiple regions, since it helps build scalable multilingual interfaces. A strong plus because it improves performance, offline capability, and app-like user experience on the web. Experience with tools like GitHub Copilot, Cursor, Claude Code, or Cody is highly valuable for speeding up development workflows and improving productivity. Very important because modern teams value faster builds, better HMR, and smoother developer workflow over older tooling. One of the strongest additions because modern frontend teams expect solid cross-browser E2E testing. Highly relevant, especially for an Angular-focused role, because it reflects awareness of modern Angular reactivity patterns. A strong good-to-have since it has become widely used for fast, scalable UI development in modern frontend projects. Very valuable for component documentation, design system collaboration, and reusable UI development. Tools like v0.dev, Bolt, Cursor, or Lovable are a big plus because they improve rapid prototyping and frontend development speed. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Human Resources Services Referrals increase your chances of interviewing at peopleHum by 2x See who you know",
-      "score": 13,
+      "url": "https://in.linkedin.com/jobs/view/technical-lead-reactjs-at-happiest-minds-technologies-4469509406",
+      "postedAt": "2026-09-19",
+      "jobId": "4469509406",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Lead IRC298790",
+      "company": "GlobalLogic",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/react-lead-irc298790-at-globallogic-4449743939",
+      "postedAt": "2026-09-18",
+      "jobId": "4449743939",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer - React, Officer",
+      "company": "State Street",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-react-officer-at-state-street-4469209267",
+      "postedAt": "2026-09-18",
+      "jobId": "4469209267",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React AI Lead",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-ai-lead-at-infosys-4458697802",
+      "postedAt": "2026-09-18",
+      "jobId": "4458697802",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "GBM - Private Dept-Bengaluru-Associate-Software Engineering",
+      "company": "Goldman Sachs",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/gbm-private-dept-bengaluru-associate-software-engineering-at-goldman-sachs-4467883786",
+      "postedAt": "2026-09-18",
+      "jobId": "4467883786",
+      "description": "GBM - Private Dept-Bengaluru-Associate-Software Engineering Goldman Sachs Bengaluru, Karnataka, India 15 hours ago Over 200 applicants See who Goldman Sachs has hired for this role Apply Join or sign in to find your next job Join to apply for the GBM - Private Dept-Bengaluru-Associate-Software Engineering role at Goldman Sachs Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Job Description Your Impact What We Do At Goldman Sachs, our Engineers don’t just make things – we make things possible.Change the world by connecting people and capital with ideas.Solve the most challenging and pressing engineering problems for our clients.Join our engineering teams that build massively scalable software and systems, architect low latency infrastructure solutions, proactively guard against cyber threats, and leverage machine learning alongside financial engineering to continuously turn data into action.Create new businesses, transform finance, and explore a world of opportunity at the speed of markets. Engineering, which is comprised of our Technology Division and global strategist groups, is at the critical center of our business, and our dynamic environment requires innovative strategic thinking and immediate, real solutions.Want to push the limit of digital possibilities?Start here. Who We Look For Goldman Sachs Engineers are innovators and problem-solvers, building solutions in risk management, big data and more. We look for creative collaborators who evolve, adapt to change and thrive in a fast-paced global environment. Fulfilling your potential Transaction Banking Transaction Banking, a business unit within Platform Solutions, aims to provide comprehensive cash management solutions for corporations. Transaction Banking combines the strength and heritage of a 155-year-old financial institution with the agility and entrepreneurial spirit of a tech start-up. Our goal is to provide the best client experience. Through the use of modern technologies centered on data and analytics, we provide customers with powerful tools that are grounded in value, transparency and simplicity to improve cash flow management efficiency. The Team The Digital Engineering team is responsible for providing unified digital experience to our clients that interact with Transaction Banking products via different interfaces such as Banking as a Service API, client portal, Files and SWIFT network. Our mission is to build a state of the art digital interface that meets our corporate client's needs. We are starting with a clean slate and one singular goal in mind: build a highly scalable, resilient, 24x7 available cloud-based platform that our corporate clients can rely to meet their cash management needs. Our flat structure requires and enables team members to evolve through the entire spectrum of the software life-cycle and closely collaborate with product owners, business and operations users. The Role Working in the Digital Engineering team, you will be responsible for the development, testing, rollout and support of new client facing features, working alongside product owners and other stakeholders. You will be working as part of our global team, and will shape and implement our strategic vision of a consumer-grade, industry beating, Digital Experience. You will participate in to a world-class engineering culture, while integrating business value and client experience within the team. We are looking for someone with lots of energy that has excellent communication skills, enjoys engineering challenges, has a passion to deliver high quality technology products and is able to operate in a highly fluid, rapidly changing environment. If that's you, we would like to hear from you. Basic Qualifications BS degree in Computer Science or related technical field involving programming or systems engineering. Proficiency in development with Java, SpringBoot, REST APIs Proficiency with algorithms, data structures and software design Experience in working with databases – NoSQL and/or Relational Proven to work independently in a fast paced and often multi-direction work environment Prior experience with working on high availability, mission critical systems Preferred Qualifications Experience with Microservice architectures and REST API Experience with Spring boot, Kafka, React Experience with SQL databases (PostgreSQL/Oracle) and nosql (Dynamo/Mongo DB) Experience with AWS Experience with Transaction Banking, Payment domain is plus Experience in Financial Services or Fintech is good to have Practical experience with containers is a plus Comfort with Agile operating models (practical experience of Scrum / Kanban) Open API Familiarity with experience in building external API using REST and Webhooks About Goldman Sachs At Goldman Sachs, we commit our people, capital and ideas to help our clients, shareholders and the communities we serve to grow. Founded in 1869, we are a leading global investment banking, securities and investment management firm. Headquartered in New York, we maintain offices around the world. We believe who you are makes you better at what you do. We're committed to fostering and advancing diversity and inclusion in our own workplace and beyond by ensuring every individual within our firm has a number of opportunities to grow professionally and personally, from our training and development opportunities and firmwide networks to benefits, wellness and personal finance offerings and mindfulness programs. Learn more about our culture, benefits, and people at GS.com/careers. We’re committed to finding reasonable accommodations for candidates with special needs or disabilities during our recruiting process. Learn more: https://www.goldmansachs.com/careers/footer/disability-statement.html © The Goldman Sachs Group, Inc., 2023. All rights reserved. Goldman Sachs is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, national origin, age, veterans status, disability, or any other characteristic protected by applicable law. Show more Show less Seniority level Associate Employment type Full-time Job function Engineering and Information Technology Industries Financial Services Referrals increase your chances of interviewing at Goldman Sachs by 2x See who you know",
+      "score": 19,
       "matchedSkills": [
         "React",
-        "Module Federation"
+        "HTML",
+        "REST",
+        "SQL"
       ],
       "excluded": false
     }
