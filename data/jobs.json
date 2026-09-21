@@ -1,145 +1,148 @@
 {
-  "generatedAt": "2026-09-20T08:56:57.967Z",
-  "totalScraped": 287,
-  "totalMatched": 15,
+  "generatedAt": "2026-09-21T09:23:26.318Z",
+  "totalScraped": 283,
+  "totalMatched": 19,
   "jobs": [
     {
-      "title": "(IND) Software Engineer III - Full Stack",
-      "company": "Walmart Global Tech India",
+      "title": "SharePoint - Full Stack (Node JS + React JS)",
+      "company": "Synechron",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/ind-software-engineer-iii-full-stack-at-walmart-global-tech-india-4412747154",
-      "postedAt": "2026-09-19",
-      "jobId": "4412747154",
-      "description": "(IND) Software Engineer III - Full Stack Walmart Global Tech India Bengaluru, Karnataka, India 22 hours ago Over 200 applicants See who Walmart Global Tech India has hired for this role Apply Join or sign in to find your next job Join to apply for the (IND) Software Engineer III - Full Stack role at Walmart Global Tech India Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job About Team: Our team collaborates with Walmart International, which has over 5,900 retail units operating outside of the United States under 55 banners in 26 countries including Africa, Argentina, Canada, Central America, Chile, China, India, Japan, and Mexico, to name a few. We are seeking a highly skilled Software Engineer III to design, develop, and deploy features for Real Estate team. The ideal candidate will leverage their extensive experience to create seamless user experiences, collaborate with cross-functional teams, and mentor junior engineers. What you'll do: You are responsible for coding, unit testing, building high performance and scalable applications that meet the needs of millions of Walmart-International customers, in the areas of Real Estate and Enterprise Asset Management. You are expected to be more intellectually curious engineer who is passionate about domain/technology in general and leverage AI tools to continuously improve productivity What you'll bring: 3–6 years of professional experience in Full Stack Development with Backend heavy development experience Strong proficiency in: Frontend: JavaScript/TypeScript, HTML5, CSS3, React or Angular Backend: Java (Spring Boot preferred), Node.js, or Python Experience building scalable, distributed systems Hands-on experience with cloud platforms (AWS, Azure, or GCP) Experience with Git, CI/CD pipelines, and automated testing Strong understanding of system design, data structures, and performance tuning Hands on experience Kafka, Cassandra. About Walmart Global Tech Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That’s what we do at Walmart Global Tech. We’re a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world’s leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail. Work Walmart’s culture sets us apart, and we know being together helps us innovate, learn and grow great careers. This role is based in our Bangalore office for daily work, with the flexibility for associates to manage their personal lives. Benefits Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include a host of best-in-class benefits maternity and parental leave, PTO, health benefits, and much more. Belonging We aim to create a culture where every associate feels valued for who they are, rooted in respect for the individual. Our goal is to foster a sense of belonging, to create opportunities for all our associates, customers and suppliers, and to be a Walmart for everyone. At Walmart, our vision is \"everyone included.\" By fostering a workplace culture where everyone is—and feels—included, everyone wins. Our associates and customers reflect the makeup of all 19 countries where we operate. By making Walmart a welcoming place where all people feel like they belong, we’re able to engage associates, strengthen our business, improve our ability to serve customers, and support the communities where we operate. Equal Opportunity Employer Walmart, Inc., is an Equal Opportunities Employer – By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing unique styles, experiences, identities, ideas and opinions – while being inclusive of all people. Minimum Qualifications...Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years’ experience in software engineering or related area. Option 2: 4 years’ experience in software engineering or related area. Preferred Qualifications...Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications. Master’s degree in Computer Science, Information Technology, Engineering, Information Systems, Cybersecurity, or related area, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture. Primary Location...Block- 1, Prestige Tech Pacific Park, Sy No. 38/1, Outer Ring Rd Kadubeesanahalli , India Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Walmart Global Tech India by 2x See who you know",
-      "score": 31,
+      "url": "https://in.linkedin.com/jobs/view/sharepoint-full-stack-node-js-%2B-react-js-at-synechron-4467353862",
+      "postedAt": "2026-09-21",
+      "jobId": "4467353862",
+      "description": "",
+      "score": 26,
       "matchedSkills": [
         "React",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "Node",
-        "REST",
-        "GCP",
-        "CI/CD"
+        "Node"
       ],
       "excluded": false
     },
     {
-      "title": "Software Engineer",
-      "company": "McKesson Compile",
+      "title": "Senior Full Stack Engineer (React + Node)",
+      "company": "Fractal",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-mckesson-compile-4427154768",
-      "postedAt": "2026-09-19",
-      "jobId": "4427154768",
-      "description": "Software Engineer McKesson Compile Bengaluru, Karnataka, India 18 hours ago Over 200 applicants See who McKesson Compile has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer role at McKesson Compile Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job About McKesson Compile Established in 1833, McKesson is a US Fortune 10 global leader in healthcare supply chain management solutions, retail pharmacy, healthcare technology, community oncology, and specialty care. We partner with life sciences companies, manufacturers, providers, pharmacies, governments, and other healthcare organizations to help provide the right medicines, medical products, and healthcare services to the right patients at the right time, safely and cost effectively. Based in Bangalore India, McKesson Compile’s data is a comprehensive, full linked system of record for the US Healthcare market, with intelligence on 2M+ healthcare professionals (HCPs) and over 800K facilities. Compile’s data includes high capture medical and pharmacy claims, closed capture Medicare claims (100%), along with best-in-class provider affiliations and customer master. At McKesson we deliver careers with purpose and potential. Our focus on better health starts with creating an inclusive environment with strong values where you can build a fulfilling career. You can count on us to provide you with resources and opportunities to grow and be your best, while contributing to our pursuit of improving lives. Software Engineer – Full Stack (Java, Spring Boot, React) Location: Bangaluru, India (Hybrid) Experience: 2–5 years Domain: Healthcare Technology (Oncology / Clinical Platforms) We are looking for a Full Stack Software Engineer to design, build, and operate scalable, mission-critical healthcare applications. This is a backend-first full-stack role (:70% backend / 30% frontend) where you will primarily work on Java + Spring Boot microservices , while contributing to React-based UI layers to deliver complete end-to-end features. You will also operate in an AI-first engineering environment , where tools like GitHub Copilot and Windsurf, Claude are used to accelerate development — with a strong expectation that you validate, refine, and productionize outputs to meet the security by design with enterprise-grade standards . Key Responsibilities Full Stack Development Design and build scalable microservices using Java, Spring Boot, and REST APIs Define clear API contracts (OpenAPI/Swagger) with consistent error handling and versioning Implement event-driven architectures using Kafka or equivalent messaging systems Build high-performance data access layers using JPA/Hibernate and Oracle/Postgres Develop and enhance UI components using React.js and TypeScript Build integration layers and admin UIs to support backend workflows Ensure end-to-end flow validation (UI → API → DB → events) Ensure production-grade reliability: transaction safety, idempotency, and error recovery AI-First Engineering Mindset (Critical) Actively use AI tools (e.g., GitHub Copilot, Windsurf, Claude or any other Mckesson approved tools) to: Accelerate coding, refactoring, and test generation Improve developer productivity without compromising maintainability Critically evaluate AI-generated code for: Correctness and edge cases Security and data handling risks Performance and scalability Apply AI responsibly in: Code generation, debugging, and clear documentation Unit Test case creation and coverage improvement Design systems that are: AI-friendly (clear APIs, structured data, consistent contracts) Observable and diagnosable using logs, metrics, and traces Security by design Engineering Quality &amp; Delivery Write clean, maintainable, well-tested code (unit + integration tests) Participate in code reviews, design discussions, and architecture decisions Work in Agile teams with strong accountability &amp; ownership of delivery Diagnose and resolve production issues using observability tools, such as Dynatrace Platform &amp; System Thinking Build services that are: Reusable Well-documented Easy for other products to integrate Follow best practices in: API design Microservices architecture CI/CD and DevOps pipelines Minimum Requirement Degree or equivalent relevant experience. Must-Have Skills 2–5 years of software development experience in product/enterprise environments Strong hands-on experience with: Java (17+) and Spring Boot REST API design and microservices architecture Experience with React.js + TypeScript (at least 1-2 years) Solid experience with: SQL and relational databases (Oracle/Postgres) ORM tools (Hibernate/JPA) Experience with: Event-driven systems (Kafka or similar) Caching (Redis or similar) CI/CD pipelines and Git-based workflows Automated testing practices Strong debugging and production issue analysis skills AI-First Expectations (Non-Negotiable) Candidates must demonstrate: Practical use of AI coding assistants in development workflow Ability to review, validate, and production-harden AI-generated code Understanding that: AI accelerates development Engineers are still accountable for design, correctness, and quality If someone blindly copies Copilot output, this role is not for them . Foundational Clear written and verbal communication — ability to document services and explain technical decisions Good-to-Have Skills Healthcare domain experience Familiarity with: FHIR / HL7 / C-CDA standards HIPAA compliance and PHI/PII handling Experience with: Databricks / data pipelines Elasticsearch / Redis Docker / Kubernetes What Success Looks Like Deliver production-ready features end-to-end, not just code Build systems that are scalable, observable, and reusable Improve team productivity using AI without degrading quality Contribute to raising engineering standards across the team Why This Role Stands Out Work on real-world healthcare systems impacting patient outcomes Exposure to modern architecture + AI-driven engineering practices Opportunity to build platform-grade services used across multiple teams McKesson has become aware of online recruiting-related scams in which individuals who are not affiliated with or authorized by McKesson are using McKesson’s (or affiliated entities, like CoverMyMeds or RxCrossroads) name in fraudulent emails, job postings or social media messages. In light of these scams, please bear the following in mind: McKesson Talent Advisors will never solicit money or credit card information in connection with a McKesson job application. McKesson Talent Advisors do not communicate with candidates via online chatrooms or using email accounts such as Gmail or Hotmail. Note that McKesson does rely on a virtual assistant (Gia) for certain recruiting-related communications with candidates. McKesson job postings are posted on our career site: careers.mckesson.com. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering Industries Technology, Information and Internet Referrals increase your chances of interviewing at McKesson Compile by 2x See who you know",
-      "score": 28,
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-react-%2B-node-at-fractal-4450349266",
+      "postedAt": "2026-09-20",
+      "jobId": "4450349266",
+      "description": "",
+      "score": 26,
       "matchedSkills": [
         "React",
-        "TypeScript",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "Speedioo",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-speedioo-4468460423",
+      "postedAt": "2026-09-20",
+      "jobId": "4468460423",
+      "description": "Full Stack Engineer Speedioo Bengaluru, Karnataka, India 21 hours ago Over 200 applicants See who Speedioo has hired for this role Apply Save Join or sign in to save this job Join to save Full Stack Engineer at Speedioo Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Direct message the job poster from Speedioo Anjaruss Swallehin Khan Anjaruss Swallehin Khan Head of Engineering at Speedioo We’re Hiring | Senior Full Stack Engineer Speedioo &nbsp;is building the technology platform for the&nbsp; used two-wheeler resale ecosystem in India , and we’re looking for a strong&nbsp; Senior Full Stack Engineer &nbsp;to join our core engineering team in Bangalore . Experience: &nbsp;6–8 years 🔹&nbsp; React.js 🔹&nbsp; Node.js 🔹&nbsp; REST APIs &amp; System Design 🔹&nbsp; PostgreSQL / MySQL 🔹&nbsp; AWS, Docker &amp; CI/CD We’re looking for someone who enjoys&nbsp; building products from scratch, solving real business problems, and taking end-to-end ownership . If you're excited about working in a&nbsp; fast-moving startup with high ownership and real business impact , we’d love to hear from you. #Hiring #SeniorEngineer #FullStackDeveloper #BangaloreJobs #React #NodeJS #Python #StartupJobs #TechHiring #Speedioo Show more Show less Seniority level Entry level Employment type Full-time Job function Engineering and Information Technology Industries Technology, Information and Internet Referrals increase your chances of interviewing at Speedioo by 2x See who you know",
+      "score": 25,
+      "matchedSkills": [
+        "React",
+        "Node",
         "REST",
         "Docker",
-        "Kubernetes",
         "CI/CD",
         "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Software Development Engineer - II",
-      "company": "illumine",
+      "title": "Lead Developer(.NET+React)",
+      "company": "UST",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-illumine-4469550510",
-      "postedAt": "2026-09-19",
-      "jobId": "4469550510",
-      "description": "Software Development Engineer - II illumine Bengaluru, Karnataka, India 15 hours ago 189 applicants See who illumine has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Development Engineer - II role at illumine Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Experience: 4+ Years About Us Today, Illumine helps preschools and daycare centers manage everything from billing and attendance to parent communication — but our vision is far bigger: to fundamentally transform how early education institutions operate and scale. We’re a 50+ member global team (US, India, UAE, Singapore, Malaysia), Series A funded and already profitable, now entering our next phase of growth. Role Overview We are looking for a driven SDE to join our engineering team and help build scalable, high-impact products. You’ll work across the stack, contributing to both frontend and backend systems, while collaborating closely with product and design teams to deliver seamless user experiences. Key Responsibilities Build, test, and deploy scalable web applications Develop frontend features using React.js and backend services using Node.js Work with real-time data systems like Firebase Realtime Database Design and integrate APIs following modern web architecture practices Collaborate with cross-functional teams to define and deliver product features Write clean, maintainable, and efficient code Participate in code reviews and continuously improve engineering practices Leverage AI tools like Claude and GitHub Copilot to enhance productivity Required Skills 4+ years of hands-on experience in software development Strong proficiency in JavaScript , React.js , and Node.js Experience with Firebase (Realtime Database) or similar real-time systems Familiarity with REST APIs and modern web architecture Basic to intermediate understanding of databases ( SQL or NoSQL ) Understanding of asynchronous programming and event-driven systems Familiarity with version control systems (Git) Strong problem-solving mindset and attention to detail Good to Have Experience working with AI tools like Claude or GitHub Copilot Exposure to cloud platforms (AWS / GCP / Azure) Understanding of performance optimization and scalability Prior experience in a startup environment Why Join Us Build products used by educators and parents globally High ownership with real impact from day one Work with a global, fast-moving team Competitive compensation and strong growth trajectory Be part of a profitable, Series A startup entering its next phase Show more Show less Seniority level Entry level Employment type Full-time Job function Engineering and Information Technology Industries Education Administration Programs Referrals increase your chances of interviewing at illumine by 2x See who you know",
-      "score": 25,
+      "url": "https://in.linkedin.com/jobs/view/lead-developer-net%2Breact-at-ust-4468708177",
+      "postedAt": "2026-09-21",
+      "jobId": "4468708177",
+      "description": "",
+      "score": 20,
       "matchedSkills": [
-        "React",
-        "JavaScript",
-        "Node",
-        "REST",
-        "GCP",
-        "SQL"
+        "React"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Full Stack Engineer (ReactJS + Dot Net)",
-      "company": "Fractal",
+      "title": "React Engineer",
+      "company": "Terra Technology Circle Consulting Private Limited",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-engineer-at-terra-technology-circle-consulting-private-limited-4467351829",
+      "postedAt": "2026-09-21",
+      "jobId": "4467351829",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Frontend (React) Engineering Lead - AITDS",
+      "company": "Cognizant",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/frontend-react-engineering-lead-aitds-at-cognizant-4414469117",
+      "postedAt": "2026-09-20",
+      "jobId": "4414469117",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React and .Net IRC304666",
+      "company": "GlobalLogic",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/react-and-net-irc304666-at-globallogic-4468717100",
+      "postedAt": "2026-09-21",
+      "jobId": "4468717100",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React.js Developer",
+      "company": "Thinkwires",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-thinkwires-4469817988",
+      "postedAt": "2026-09-21",
+      "jobId": "4469817988",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer II - React JS developer",
+      "company": "Candescent",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-ii-react-js-developer-at-candescent-4467360380",
+      "postedAt": "2026-09-21",
+      "jobId": "4467360380",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Frontend Developer – React.js , Shopify Hydrogen",
+      "company": "Innova ESI",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-reactjs-%2B-dot-net-at-fractal-4332241466",
-      "postedAt": "2026-09-19",
-      "jobId": "4332241466",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Staff Software Engineer II - ReactJS, Java8, Microservices, Springboot & Cloud",
-      "company": "Blue Yonder",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/staff-software-engineer-ii-reactjs-java8-microservices-springboot-cloud-at-blue-yonder-4455969489",
-      "postedAt": "2026-09-19",
-      "jobId": "4455969489",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead Software Engineer -UI React Developer Cypress/Playwright",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-software-engineer-ui-react-developer-cypress-playwright-at-jpmorganchase-4449448407",
-      "postedAt": "2026-09-19",
-      "jobId": "4449448407",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Native Developer",
-      "company": "Infosys",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-infosys-4440647831",
-      "postedAt": "2026-09-19",
-      "jobId": "4440647831",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior React Engineer_6+ years",
-      "company": "Zorba AI",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-engineer-6%2B-years-at-zorba-ai-4468410275",
-      "postedAt": "2026-09-19",
-      "jobId": "4468410275",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior React Engineer_6+ years",
-      "company": "Zorba AI",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-engineer-6%2B-years-at-zorba-ai-4468411288",
-      "postedAt": "2026-09-19",
-      "jobId": "4468411288",
+      "url": "https://in.linkedin.com/jobs/view/frontend-developer-%E2%80%93-react-js-shopify-hydrogen-at-innova-esi-4469854725",
+      "postedAt": "2026-09-21",
+      "jobId": "4469854725",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -151,9 +154,9 @@
       "title": "React Developer",
       "company": "Scoutit",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4468089223",
-      "postedAt": "2026-09-19",
-      "jobId": "4468089223",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-scoutit-4468450548",
+      "postedAt": "2026-09-20",
+      "jobId": "4468450548",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -162,12 +165,26 @@
       "excluded": false
     },
     {
-      "title": "Senior React Engineer_6+ years",
-      "company": "Zorba AI",
+      "title": "Software Engineer III - React JS developer",
+      "company": "Candescent",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-react-js-developer-at-candescent-4467366258",
+      "postedAt": "2026-09-21",
+      "jobId": "4467366258",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Reactjs Developer",
+      "company": "Tata Consultancy Services",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-engineer-6%2B-years-at-zorba-ai-4468409264",
-      "postedAt": "2026-09-19",
-      "jobId": "4468409264",
+      "url": "https://in.linkedin.com/jobs/view/reactjs-developer-at-tata-consultancy-services-4469812646",
+      "postedAt": "2026-09-20",
+      "jobId": "4469812646",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -176,12 +193,12 @@
       "excluded": false
     },
     {
-      "title": "React JS",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-at-infosys-4459460141",
-      "postedAt": "2026-09-19",
-      "jobId": "4459460141",
+      "title": "React Native Developer",
+      "company": "HiroJet",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-hirojet-4468711321",
+      "postedAt": "2026-09-21",
+      "jobId": "4468711321",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -190,12 +207,12 @@
       "excluded": false
     },
     {
-      "title": "Angular/React + AI",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/angular-react-%2B-ai-at-infosys-4440261514",
-      "postedAt": "2026-09-19",
-      "jobId": "4440261514",
+      "title": "Staff Technical Lead, Full Stack (React & OOPs)",
+      "company": "Vena Solutions",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/staff-technical-lead-full-stack-react-oops-at-vena-solutions-4433873870",
+      "postedAt": "2026-09-20",
+      "jobId": "4433873870",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -204,32 +221,59 @@
       "excluded": false
     },
     {
-      "title": "Technical Architect - Fullstack ( React )+Azure | 10-18 Yrs | Immediate | Hybrid",
-      "company": "Bandhan Technologies",
+      "title": "Architect(.NET+React)",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/architect-net%2Breact-at-ust-4468491955",
+      "postedAt": "2026-09-21",
+      "jobId": "4468491955",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": ".Net FSD with React.Js",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru South, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-fsd-with-react-js-at-tata-consultancy-services-4468712549",
+      "postedAt": "2026-09-21",
+      "jobId": "4468712549",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Engineering Manager (.NET, Angular/ReactJS & AWS)",
+      "company": "CAPABILIQ",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/engineering-manager-net-angular-reactjs-aws-at-capabiliq-4466187004",
+      "postedAt": "2026-09-21",
+      "jobId": "4466187004",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Straatix Partners",
       "location": "Bangalore Urban, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/technical-architect-fullstack-react-%2Bazure-10-18-yrs-immediate-hybrid-at-bandhan-technologies-4468099011",
-      "postedAt": "2026-09-19",
-      "jobId": "4468099011",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "The Core Engineering-Bengaluru-Associate-Software Engineering",
-      "company": "Goldman Sachs",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/the-core-engineering-bengaluru-associate-software-engineering-at-goldman-sachs-4448761679",
-      "postedAt": "2026-09-19",
-      "jobId": "4448761679",
-      "description": "The Core Engineering-Bengaluru-Associate-Software Engineering Goldman Sachs Bengaluru, Karnataka, India 15 hours ago Over 200 applicants See who Goldman Sachs has hired for this role Apply Join or sign in to find your next job Join to apply for the The Core Engineering-Bengaluru-Associate-Software Engineering role at Goldman Sachs Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Job Description The Core Engineering Responsibilities The Core Engineering builds and operates the platforms, applications, data solutions, models, and analytics that power critical processes for The Core divisions of the firm (e.g., Risk, responsible for the risk profile of firm activities; Controllers, responsible for the financial control and reporting obligations; Compliance, responsible for the firm’s compliance, regulatory, and reputational risks; Corporate Treasury, responsible for the firm’s liquidity, funding, balance sheet, etc.; and Human Capital Management, responsible for attracting, developing, and managing a global workforce). A centralized engineering structure in support of The Core enables a common platform model and operating framework that promotes consistent governance and scalable solutions, leveraging cloud, AI, and machine learning for innovation and efficiency. The Core Engineering’s 2,000+ engineers and strats deliver engineering, data, analytics, and quantitative capabilities within six business units: Metrics &amp; Analytics Platforms: responsible for the measurement and management of the firm’s risk, capital, and liquidity for The Core functions The Core Strats: responsible for the development and implementation of models and other quantitative methodologies, including the accuracy and attribution of modeled metrics Financials &amp; Reporting: responsible for facilitating the production of the firm’s financials and a wide range of reporting functions Non-Financial Risk &amp; Controls: responsible for non-financial risk and control processes Enterprise Platforms: responsible for platforms and applications that support critical operational processes across The Core such as payments, people processes, and procurement Shared Services: responsible for driving the adoption of consistent engineering strategy, including data platforms, cloud, and AI enablement, as well as the management of technology risk Requirements Design and architecture systems for The Core functions (including client documentation, reporting and tax withholding) with high scalability, high throughput, and large amounts of data Contribute to the technical design of the strategic engine by evaluating and employing Distributed Caching implementations for Multi-threaded and Concurrent Highly-Scalable processing. Complex Matching Algorithms for highly flexible, optimized and extremely fast matching Organizations enterprise platforms including Forms Engine and Data Lake Design and Implement user workflows using BPMN notation Manage project deliverables and tasks during development, user acceptance (UAT) and production implementation phases Manage user requirements, testing cycles and perform change management duties Develop highly scalable, resilient distributed systems using service oriented paradigms Perform memory, thread and CPU profiling of all core features for high volume processing and preform process analysis using JProfiler and VisualVM, jMap, jStack, jConsole Manage regulatory deliverables within a fast changing environment Work closely with the global counterparts (both technology &amp; user teams) and other technology communities in the firm as part of team charged with managing global tax requirements for GS clients Qualifications 3+ years of Java development 1+ years of service oriented architecture development Knowledge of Web UI technologies like React and Angular Familiarity with Spring Frameworks Strong skill in databases like DB2, Sybase IQ, MongoDB Knowledge of BPMN modelling and designing 1+ years of experience implementing systems with automated testing using junit, fitnesse, karate, etc. Preferred Experience in Financial Services/Industry Messaging related technologies such as JMS, Apache Kafka About Goldman Sachs At Goldman Sachs, we commit our people, capital and ideas to help our clients, shareholders and the communities we serve to grow. Founded in 1869, we are a leading global investment banking, securities and investment management firm. Headquartered in New York, we maintain offices around the world. We believe who you are makes you better at what you do. We're committed to fostering and advancing diversity and inclusion in our own workplace and beyond by ensuring every individual within our firm has a number of opportunities to grow professionally and personally, from our training and development opportunities and firmwide networks to benefits, wellness and personal finance offerings and mindfulness programs. Learn more about our culture, benefits, and people at GS.com/careers. We’re committed to finding reasonable accommodations for candidates with special needs or disabilities during our recruiting process. Learn more: https://www.goldmansachs.com/careers/footer/disability-statement.html © The Goldman Sachs Group, Inc., 2023. All rights reserved. Goldman Sachs is an equal employment/affirmative action employer Show more Show less Seniority level Associate Employment type Full-time Job function Engineering and Information Technology Industries Financial Services Referrals increase your chances of interviewing at Goldman Sachs by 2x See who you know",
-      "score": 16,
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-straatix-partners-4468702382",
+      "postedAt": "2026-09-21",
+      "jobId": "4468702382",
+      "description": "Senior Software Engineer Straatix Partners Bangalore Urban, Karnataka, India 4 hours ago 79 applicants See who Straatix Partners has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer role at Straatix Partners Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Senior Software Engineer at Straatix Partners Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Your Experience at a Glance We’re hiring a Senior Software Engineer-Full stack for our client (Code Name: CORE) - CORE is a global fintech innovator delivering intelligent, cloud-native automation solutions for procurement, finance, and invoicing. As a Senior Full Stack Engineer at CORE, you will play a key role in designing, developing, and maintaining robust backend services and APIs using .NET Core/.NET 6+ and C#, seamlessly integrating with modern React.js frontends. You will collaborate closely with cross-functional teams to deliver secure, scalable, and high-performance solutions that drive business automation. This senior position offers significant ownership over technical architecture and implementation, with a focus on delivering impactful features and ensuring code quality. You will contribute to the evolution of CORE’s platform, mentor team members, and help shape engineering best practices. CORE operates in the global fintech sector, specializing in cloud-native automation for procurement, finance, and invoicing processes. The company serves a diverse client base with intelligent solutions that streamline business operations and enhance financial workflows. CORE is committed to innovation, leveraging advanced technologies to deliver scalable, secure, and efficient platforms. The culture emphasizes collaboration, technical excellence, and continuous improvement. Key Responsibilities ● Design, develop, and maintain secure, scalable APIs and backend services using .NET Core/.NET 6+ and C#. ● Integrate backend services with modern React.js frontends to deliver seamless user experiences. ● Collaborate with product, design, and engineering teams to define and deliver high-impact features. ● Ensure code quality, security, and performance through best engineering practices and code reviews. ● Contribute to architectural decisions and technical strategy for platform evolution. ● Implement and maintain data access layers using Entity Framework Core. ● Participate in the full software development lifecycle, from requirements gathering to deployment and support. ● Mentor and support junior engineers, fostering a culture of learning and growth. ● Continuously identify opportunities for process and technology improvements. Required Skills ● Strong proficiency in .NET Core/.NET 6+ and C#. ● Hands-on experience with Entity Framework Core. ● Proven ability to develop robust, secure APIs and backend services. ● Experience integrating backend services with React.js frontends. ● Solid understanding of software engineering best practices, including code reviews and testing. ● Strong problem-solving skills and attention to detail. ● Excellent collaboration and communication abilities. ● Experience working in agile, cross-functional teams. Nice to Have ● Experience with Kubernetes, EKS, or containerization technologies. ● Familiarity with observability and Open telemetry tools. ● Knowledge of infrastructure-as-code tools such as Terraform, AWS CDK, or CloudFormation. ● Background in financial technology, procurement systems, or ERP platforms. Why Join CORE Join CORE to work on cutting-edge fintech products that automate and transform global finance and procurement operations. Tackle complex technical challenges alongside talented peers in a collaborative, growth-oriented environment. Enjoy opportunities to expand your skills, influence platform architecture, and make a tangible impact on innovative solutions used by leading organizations worldwide. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering Industries Financial Services, Internet Marketplace Platforms, and Software Development Referrals increase your chances of interviewing at Straatix Partners by 2x See who you know",
+      "score": 13,
       "matchedSkills": [
         "React",
-        "HTML",
-        "MongoDB"
+        "Kubernetes"
       ],
       "excluded": false
     }
