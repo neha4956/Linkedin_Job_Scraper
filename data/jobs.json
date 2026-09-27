@@ -1,190 +1,68 @@
 {
-  "generatedAt": "2026-09-26T08:57:50.126Z",
-  "totalScraped": 398,
-  "totalMatched": 22,
+  "generatedAt": "2026-09-27T09:37:52.239Z",
+  "totalScraped": 251,
+  "totalMatched": 8,
   "jobs": [
     {
-      "title": "Custom Software Engineer",
-      "company": "Accenture in India",
+      "title": "Software Development Engineer (WebApps)",
+      "company": "Fox Corporation",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4470968211",
-      "postedAt": "2026-09-25",
-      "jobId": "4470968211",
-      "description": "Custom Software Engineer Accenture in India Bengaluru, Karnataka, India 11 hours ago 29 applicants See who Accenture in India has hired for this role Apply Join or sign in to find your next job Join to apply for the Custom Software Engineer role at Accenture in India Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Custom Software Engineer at Accenture in India Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Project Role : Custom Software Engineer Project Role Description : Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high-performing solutions tailored to specific business needs. Must have skills : React.js Good to have skills : Kubernetes Minimum 5 Year(s) Of Experience Is Required Educational Qualification : 15 years full time education Summary: As a Custom Software Engineer, a typical day involves creating tailored software solutions by designing, coding, and improving various components within systems or applications. The role requires working with modern development frameworks and following agile methodologies to ensure the delivery of scalable and efficient software that meets unique business requirements. Collaboration with different teams and continuous refinement of software elements are integral parts of the daily workflow, contributing to the overall success of projects and organizational goals. Job Title: Senior React Developer Location: Bangalore Experience: 6 to 9 years Job Description: We are seeking a highly skilled Senior Frontend Developer to join our dynamic team. The primary focus will be React/TypeScript/Redux, where we need strong ownership, architectural thinking and UI development expertise. Understanding of backend fundamentals of Java and Spring Boot would be good to have for contribution to our backend services.. Roles &amp; Responsibilities: Expected to be an SME, collaborate and manage the team to perform. Responsible for team decisions. Engage with multiple teams and contribute on key decisions. Provide solutions to problems for their immediate team and across multiple teams. Lead efforts to identify and implement process improvements that enhance software quality and delivery. Mentor junior team members to support their professional growth and skill development. Design and develop scalable frontend components using React. Implement and manage application state efficiently using Redux. Develop reusable UI components and ensure UI/UX consistency and responsive design. Integrate frontend with backend REST APIs. Participate in frontend technical discussions, framework upgrades and best practices adoption. Contribute to backend services using Spring Boot Write unit and integration tests for frontend and backend code. Debug and resolve defects across the full stack. Work with Maven for project management and dependency handling. Collaborate using Git and tools like IntelliJ for version control and development. Professional &amp; Technical Skills: Must To Have Skills: Proficiency in React.js. Good To Have Skills: Experience with Kubernetes. Strong knowledge of component-based architecture and state management in modern web applications. Experience in integrating RESTful APIs and working with asynchronous data flows. Familiarity with front-end build tools and version control systems. Ability to write clean, maintainable, and well-documented code following best practices. Strong proficiency in React (Hooks, functional/class components, lifecycle). Solid experience in TypeScript Solid experience with Redux (store design, reducers, middleware, state management). JavaScript (ES6+), HTML5, SCSS Understanding of component architecture and performance optimization. Unit testing (Jest/React Testing Library for React). Strong proficiency in Java (OOP concepts, collections, concurrency basics). Experience building RESTful APIs and Microservices. Experience of backend frameworks (e.g., Spring Boot,Quarkus). Understanding of database concepts (SQL, ORM tools like JPA/Hibernate). Database Experience with relational databases (e.g., MySQL, PostgreSQL). Additional Information: The candidate should have minimum 5 years of experience in React.js. This position is based at our Bengaluru office. A 15 years full time education is required. Job Title: Senior React Developer Location: Bangalore Experience: 6 to 9 years Job Description: We are seeking a highly skilled Senior Frontend Developer to join our dynamic team. The primary focus will be React/TypeScript/Redux, where we need strong ownership, architectural thinking and UI development expertise. Understanding of backend fundamentals of Java and Spring Boot would be good to have for contribution to our backend services.. Key Responsibilities: Design and develop scalable frontend components using React. Implement and manage application state efficiently using Redux. Develop reusable UI components and ensure UI/UX consistency and responsive design. Integrate frontend with backend REST APIs. Participate in frontend technical discussions, framework upgrades and best practices adoption. Contribute to backend services using Spring Boot Write unit and integration tests for frontend and backend code. Debug and resolve defects across the full stack. Work with Maven for project management and dependency handling. Collaborate using Git and tools like IntelliJ for version control and development. Required Skills: Frontend Strong proficiency in React (Hooks, functional/class components, lifecycle). Solid experience in TypeScript Solid experience with Redux (store design, reducers, middleware, state management). JavaScript (ES6+), HTML5, SCSS Understanding of component architecture and performance optimization. Testing Unit testing (Jest/React Testing Library for React). Good To Have Skills: Backend Strong proficiency in Java (OOP concepts, collections, concurrency basics). Experience building RESTful APIs and Microservices. Experience of backend frameworks (e.g., Spring Boot,Quarkus). Understanding of database concepts (SQL, ORM tools like JPA/Hibernate). Database Experience with relational databases (e.g., MySQL, PostgreSQL). Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Accenture in India by 2x See who you know",
-      "score": 44,
-      "matchedSkills": [
-        "React",
-        "Redux",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "REST",
-        "Kubernetes",
-        "SQL",
-        "Jest",
-        "Testing Library"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Consultant - ReactJs, NodeJs, JS, SQL, PLS/QL",
-      "company": "Ellucian",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/consultant-reactjs-nodejs-js-sql-pls-ql-at-ellucian-4471883210",
-      "postedAt": "2026-09-25",
-      "jobId": "4471883210",
-      "description": "",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-webapps-at-fox-corporation-4463643850",
+      "postedAt": "2026-09-26",
+      "jobId": "4463643850",
+      "description": "Software Development Engineer (WebApps) Fox Corporation Bengaluru, Karnataka, India 20 hours ago Over 200 applicants See who Fox Corporation has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Development Engineer (WebApps) role at Fox Corporation Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Development Engineer (WebApps) at Fox Corporation Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job OVERVIEW OF THE COMPANY Fox Corporation Under the FOX banner, we produce and distribute content through some of the world’s leading and most valued brands, including: FOX News Media, FOX Sports, FOX Entertainment, FOX Television Stations and Tubi Media Group. We empower a diverse range of creators to imagine and develop culturally significant content, while building an organization that thrives on creative ideas, operational expertise and strategic thinking. JOB DESCRIPTION Fox Corporation: Fox Corporation is home to industry-leading brands including FOX News Media, FOX Sports, FOX Entertainment, FOX Television Stations, and Tubi Media Group. We combine innovative technology, deep data insights, and world-class content to shape the future of digital entertainment. Our DTC platforms are built to deliver highly personalized, scalable user experiences to millions of global users. About The Role FOX Corporation is looking for a highly skilled and experienced SDE (L2) / Senior Engineer (WebApps) for its Digital Product Engineering WebApps team. The candidate should have a strong working knowledge of modern web application development, object-oriented programming principles, and frontend engineering best practices. Our WebApps team is responsible for developing and maintaining a suite of high-performance applications that serve millions of users worldwide. We leverage modern technologies and frameworks to build scalable, responsive, and highly interactive web applications that deliver exceptional user experiences. With a strong emphasis on engineering excellence, performance optimization, accessibility, and maintainable architecture, the team is committed to delivering products that meet the highest standards of quality, reliability, and scalability. As an SDE (L2) / Senior Engineer (WebApps) , you will play a pivotal role in designing, developing, and maintaining modern web applications. You will contribute to technical initiatives, mentor junior engineers, and collaborate with cross-functional teams to deliver scalable, secure, and user-centric digital experiences. A SNAPSHOT OF YOUR RESPONSIBILITIES Design, develop, and maintain modern, scalable web applications using TypeScript,, React.js, and Next.js. Collaborate with Product Managers, UX Designers, Backend Engineers, and QA teams to define, design, and deliver new features. Develop reusable, modular, and maintainable frontend components following engineering best practices. Ensure the performance, responsiveness, accessibility, and reliability of web applications. Integrate frontend applications with RESTful APIs, GraphQL services, and backend systems. Identify and resolve application bottlenecks, bugs, and production issues. Participate in architecture discussions and contribute to frontend design decisions. Conduct code reviews and provide constructive feedback to team members. Write clean, maintainable, well-tested, and documented code. Continuously evaluate and adopt modern web technologies and development practices. Mentor junior engineers and actively contribute to knowledge sharing across the team. Collaborate closely with DevOps, QA, and Platform Engineering teams to ensure high-quality product releases. Support production deployments and troubleshoot critical production issues when required. WHAT YOU WILL NEED Bachelor's or Master's degree in Computer Science, Engineering, or a related field. 3–7 years of professional experience in modern web application development. Strong proficiency in TypeScript , and CSS3. Hands-on experience with React js , Next.js , and modern frontend frameworks. Strong understanding of component-based architecture, state management, and responsive design. Experience with Git, code review processes, and CI/CD pipelines. Strong understanding of software design principles and frontend architecture. Experience with working on Server Side Rendering using Next.js or any other similar frameworks. Strong communication skills and the ability to work effectively in a collaborative Agile environment. We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, disability, protected veteran status, or any other characteristic protected by law. We will consider for employment qualified applicants with criminal histories consistent with applicable law. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Broadcast Media Production and Distribution Referrals increase your chances of interviewing at Fox Corporation by 2x See who you know",
       "score": 32,
       "matchedSkills": [
         "React",
-        "Node",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Consultant - ReactJs, NodeJs, SQL, PLSQL",
-      "company": "Ellucian",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-consultant-reactjs-nodejs-sql-plsql-at-ellucian-4471888009",
-      "postedAt": "2026-09-25",
-      "jobId": "4471888009",
-      "description": "",
-      "score": 32,
-      "matchedSkills": [
-        "React",
-        "Node",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Fullstack React Node - Engineer",
-      "company": "Iris Software Inc.",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-react-node-engineer-at-iris-software-inc-4472221042",
-      "postedAt": "2026-09-25",
-      "jobId": "4472221042",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Fullstack React Node - Senior Engineer",
-      "company": "Iris Software Inc.",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-react-node-senior-engineer-at-iris-software-inc-4472224021",
-      "postedAt": "2026-09-25",
-      "jobId": "4472224021",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React JS Node JS Lead",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-node-js-lead-at-infosys-4443446045",
-      "postedAt": "2026-09-25",
-      "jobId": "4443446045",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".NET Full Stack Developer",
-      "company": "Concentrix",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-at-concentrix-4470144790",
-      "postedAt": "2026-09-25",
-      "jobId": "4470144790",
-      "description": ".NET Full Stack Developer Concentrix Bengaluru East, Karnataka, India 22 hours ago 38 applicants See who Concentrix has hired for this role Apply Join or sign in to find your next job Join to apply for the .NET Full Stack Developer role at Concentrix Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save .NET Full Stack Developer at Concentrix Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Job Title NET Full Stack Developer Job Description We're Concentrix. The intelligent transformation partner. Solution-focused. Tech-powered. Intelligence-fueled. The global technology and services leader that powers the world’s best brands, today and into the future. We’re solution-focused, tech-powered, intelligence-fueled. With unique data and insights, deep industry expertise, and advanced technology solutions, we’re the intelligent transformation partner that powers a world that works, helping companies become refreshingly simple to work, interact, and transact with. We shape new game-changing careers in over 70 countries, attracting the best talent. The Concentrix Technical Products and Services team is the driving force behind Concentrix’s transformation, data, and technology services. We integrate world-class digital engineering, creativity, and a deep understanding of human behavior to find and unlock value through tech-powered and intelligence-fueled experiences. We combine human-centered design, powerful data, and strong tech to accelerate transformation at scale. You will be surrounded by the best in the world providing market leading technology and insights to modernize and simplify the customer experience. Within our professional services team, you will deliver strategic consulting, design, advisory services, market research, and contact center analytics that deliver insights to improve outcomes and value for our clients. Hence achieving our vision. Our game-changers around the world have devoted their careers to ensuring every relationship is exceptional. And we’re proud to be recognized with awards such as \"World's Best Workplaces,\" “Best Companies for Career Growth,” and “Best Company Culture,” year after year. Join us and be part of this journey towards greater opportunities and brighter futures. 5–8+ years of software development experience, with strong hands-on experience in .NET technologies. Strong experience in C#, ASP.NET Core and Web API. Develop applications using C#, .NET / .NET Core and ASP.NET Core. Develop secure and scalable RESTful Web APIs. Implement business logic and application services. Use Entity Framework Core, LINQ and other appropriate data-access technologies. Apply OOP, SOLID principles and appropriate design patterns. Develop responsive and user-friendly applications using: ReactJS, TypeScript, JavaScript, HTML5, CSS3, Develop reusable UI components. Integrate frontend applications with REST APIs. Design and consume REST APIs. Work with Swagger/OpenAPI for API documentation. Implement API authentication and authorization. Work with JSON/XML and enterprise integration interfaces. Develop comprehensive unit tests for application components. Participate in integration and functional testing. Maintain agreed code coverage levels. Perform code reviews and address review findings. Participate in Agile/Scrum ceremonies. Understand user stories and acceptance criteria. Contribute to technical estimation and task breakdown. Collaborate with Product Owners, Business Analysts, QA and DevOps teams. Experience developing enterprise-scale applications. Experience with Azure and CI/CD is preferred. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Concentrix by 2x See who you know",
-      "score": 25,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
+        "Next.js",
         "TypeScript",
-        "HTML",
         "REST",
+        "GraphQL",
         "CI/CD"
       ],
       "excluded": false
     },
     {
-      "title": "React Developer",
-      "company": "Antal International",
-      "location": "Greater Bengaluru Area",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-antal-international-4470096326",
-      "postedAt": "2026-09-25",
-      "jobId": "4470096326",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Fullstack React .Net - Engineer",
-      "company": "Iris Software Inc.",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-react-net-engineer-at-iris-software-inc-4472205840",
-      "postedAt": "2026-09-25",
-      "jobId": "4472205840",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Fullstack React .Net - Senior Engineer",
-      "company": "Iris Software Inc.",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-react-net-senior-engineer-at-iris-software-inc-4472246868",
+      "title": "Staff Developer (.NET Core, React, MS SQL Server)",
+      "company": "Emerson",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/staff-developer-net-core-react-ms-sql-server-at-emerson-4443788570",
       "postedAt": "2026-09-26",
-      "jobId": "4472246868",
+      "jobId": "4443788570",
       "description": "",
-      "score": 20,
+      "score": 26,
       "matchedSkills": [
-        "React"
+        "React",
+        "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Fullstack React Associate Manager",
-      "company": "Iris Software Inc.",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-react-associate-manager-at-iris-software-inc-4472259498",
+      "title": "Developer III - Software Engineering - .NET Fullstack",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-net-fullstack-at-ust-4411586387",
       "postedAt": "2026-09-26",
-      "jobId": "4472259498",
-      "description": "",
-      "score": 20,
+      "jobId": "4411586387",
+      "description": "Developer III - Software Engineering - .NET Fullstack UST Bengaluru, Karnataka, India 23 hours ago Over 200 applicants See who UST has hired for this role Apply Join or sign in to find your next job Join to apply for the Developer III - Software Engineering - .NET Fullstack role at UST Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Developer III - Software Engineering - .NET Fullstack at UST Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Role Description Who we are: At UST, we help the world’s best organizations grow and succeed through transformation. Bringing together the right talent, tools, and ideas, we work with our client to co-create lasting change. Together, with over 30,000 employees in 30+ countries, we build for boundless impact—touching billions of lives in the process. Visit us at . Summary UST is looking for an experienced .NET Full stack Dev with AI tool The Opportunity No of Working days: 5 from Customer location Skill: .Net Full Stack developer Exp: 3+ yrs Location: Hyderabad/BNG Design, develop, and maintain web applications using .NET technologies Develop RESTful APIs and backend services using ASP.NET Core / Web API Build responsive and user-friendly front-end interfaces using Angular / React / JavaScript / HTML / CSS Collaborate with cross-functional teams including product owners, architects, and QA Write clean, scalable, and efficient code following best practices Perform code reviews, debugging, and performance tuning Participate in the full software development lifecycle (SDLC) Ensure application security, quality, and responsiveness Work with cloud platforms (Azure preferred) for deployment and maintenance Required Skills Strong experience in C, .NET / .NET Core / ASP.NET Core Experience with Web API, MVC architecture mongo DB , micro front end, windsurf, AZURE Hands-on experience with front-end frameworks (Angular / React) Knowledge of JavaScript, HTML5, CSS3 Experience working with SQL Server / relational databases Familiarity with Entity Framework / ORM tools Understanding of RESTful services and microservices architecture Experience with Git / version control systems Qualification BTec, BE, MCA, M,Tech What We Believe We’re proud to embrace the same values that have shaped UST since the beginning. Since day one, we’ve been building enduring relationships and a culture of integrity. And today, it's those same values that are inspiring us to encourage innovation from everyone, to champion diversity and inclusion and to place people at the centre of everything we do. Humility We will listen, learn, be empathetic and help selflessly in our interactions with everyone. Humanity Through business, we will better the lives of those less fortunate than ourselves. Integrity We honour our commitments and act with responsibility in all our relationships. Equal Employment Opportunity Statement UST is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion, or sexual orientation. A ll employment decisions shall be made without regard to age, race, creed, colour, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. UST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance. To support and promote the values of UST. Comply with all Company policies and procedures Skills net fullstack,c#,.net,asp.net core, AI Tool Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at UST by 2x See who you know",
+      "score": 25,
       "matchedSkills": [
-        "React"
+        "React",
+        "JavaScript",
+        "HTML",
+        "Express",
+        "REST",
+        "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Fullstack React .Net - Lead",
-      "company": "Iris Software Inc.",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-react-net-lead-at-iris-software-inc-4472253693",
+      "title": "Full Stack Developer – .NET / React",
+      "company": "MegaNucleus",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-net-react-at-meganucleus-4470552594",
       "postedAt": "2026-09-26",
-      "jobId": "4472253693",
+      "jobId": "4470552594",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -193,40 +71,12 @@
       "excluded": false
     },
     {
-      "title": "React.js Developer",
-      "company": "eazyway.io",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-eazyway-io-4470778190",
+      "title": "Website Developer (React JS / Shopify / WordPress)",
+      "company": "Netpuppys",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/website-developer-react-js-shopify-wordpress-at-netpuppys-4471013910",
       "postedAt": "2026-09-26",
-      "jobId": "4470778190",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Associate/Senior Associate, Application Developer(ReactJS Frontend Developer), Consumer Banking Group Technology",
-      "company": "DBS Bank",
-      "location": "Greater Hyderabad Area",
-      "url": "https://in.linkedin.com/jobs/view/associate-senior-associate-application-developer-reactjs-frontend-developer-consumer-banking-group-technology-at-dbs-bank-4462856866",
-      "postedAt": "2026-09-25",
-      "jobId": "4462856866",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Front End Developer – React",
-      "company": "TekIT Software Solutions Pvt. Ltd. (India & USA)",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/front-end-developer-%E2%80%93-react-at-tekit-software-solutions-pvt-ltd-india-usa-4472011131",
-      "postedAt": "2026-09-25",
-      "jobId": "4472011131",
+      "jobId": "4471013910",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -236,100 +86,43 @@
     },
     {
       "title": "React Native Developer",
-      "company": "Infosys",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-infosys-4434351622",
-      "postedAt": "2026-09-25",
-      "jobId": "4434351622",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior React Native Developer",
-      "company": "Infosys",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-native-developer-at-infosys-4434350806",
-      "postedAt": "2026-09-25",
-      "jobId": "4434350806",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".Net React Developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-react-developer-at-infosys-4443180945",
-      "postedAt": "2026-09-25",
-      "jobId": "4443180945",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Native Engineer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-engineer-at-infosys-4444010854",
-      "postedAt": "2026-09-25",
-      "jobId": "4444010854",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Fullstack React Architect - Manager",
-      "company": "Iris Software Inc.",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-react-architect-manager-at-iris-software-inc-4472244884",
-      "postedAt": "2026-09-26",
-      "jobId": "4472244884",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead Software Engineer_Sring boot, Angular, React, Gen AI",
-      "company": "Wells Fargo",
-      "location": "Greater Hyderabad Area",
-      "url": "https://in.linkedin.com/jobs/view/lead-software-engineer-sring-boot-angular-react-gen-ai-at-wells-fargo-4472098249",
-      "postedAt": "2026-09-25",
-      "jobId": "4472098249",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Dev Engineer-II, Infra Supply Chain Automation",
-      "company": "Amazon Web Services (AWS)",
+      "company": "Skild AI",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-infra-supply-chain-automation-at-amazon-web-services-aws-4472224095",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-skild-ai-4374946439",
       "postedAt": "2026-09-26",
-      "jobId": "4472224095",
-      "description": "Software Dev Engineer-II, Infra Supply Chain Automation Amazon Web Services (AWS) Bengaluru, Karnataka, India 8 hours ago Be among the first 25 applicants See who Amazon Web Services (AWS) has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Dev Engineer-II, Infra Supply Chain Automation role at Amazon Web Services (AWS) Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Dev Engineer-II, Infra Supply Chain Automation at Amazon Web Services (AWS) Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Description AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help. You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion. These are all greenfield projects offering a rare opportunity to build systems from the ground up. You will be part of a new organization within AWS building large scale distributed applications. We will be designing and developing these systems from scratch utilizing technologies and frameworks like reactive micro services, serverless computing and distributed NoSQL data stores. If you have a solid understanding of fundamental algorithms and system design and are able to produce bulletproof code, we are looking for you. To succeed in this role, you must be passionate about delivering high-quality designs and components. You must be creative in solving hard problems and unafraid to think out-of-the-box. Key job responsibilities Solve complex architecture and business problems to come up with extensible solutions. Write high quality code that are modular, functional and testable. Formally mentor junior engineers on design, coding and troubleshooting. Communicate, collaborate and work effectively in a global environment. About The Team About the team Diverse Experiences Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying. Why AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve. Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do. Mentorship and Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional. Basic Qualifications 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience Experience programming with at least one software programming language Preferred Qualifications Bachelor's degree in computer science or equivalent Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. Company - ADCI - Karnataka Job ID: A10560756 Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Information Technology, Consulting, and Engineering Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Amazon Web Services (AWS) by 2x See who you know",
-      "score": 13,
+      "jobId": "4374946439",
+      "description": "",
+      "score": 20,
       "matchedSkills": [
-        "React",
-        "SQL"
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": ".Net+React JS Developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net%2Breact-js-developer-at-infosys-4435298433",
+      "postedAt": "2026-09-26",
+      "jobId": "4435298433",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Development Engineer II, E Reader Software",
+      "company": "Amazon",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-e-reader-software-at-amazon-4463670619",
+      "postedAt": "2026-09-26",
+      "jobId": "4463670619",
+      "description": "Software Development Engineer II, E Reader Software Amazon Bengaluru, Karnataka, India 15 hours ago 136 applicants See who Amazon has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Development Engineer II, E Reader Software role at Amazon Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Development Engineer II, E Reader Software at Amazon Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Description Have you ever wanted to be part of a team that builds highly efficient system for E-reader? Are you looking at creating value for millions of customers as we launch more E-readers with additional capabilities? Do you want to work at a company where you are the owner, where you are encouraged to build, and where you have the autonomy to push boundaries? Do you have a passion for designing system that is an enabler for builders that create applications on top of it? This describes your daily journey. Are you ready? Then join us! Key job responsibilities As a Software Development Engineer, you will own adding capabilities as we unlock more features on Kindle E-reader family. Our goal is to make it fast, easy and low-cost for our internal application developers to build features and release them on our E-reader stack. You will tackle challenging, novel situations every day and given the size of this initiative, you’ll have the opportunity to work with multiple technical teams across Amazon. You should be comfortable with a level of depth that you need to dive into as we solve deep operating system level problems! We will need to tackle problems that span a variety of domains: software, hardware as well as automation. You design and develop the critical components in the operating system as well as low-level components in E-reader that make the product a performant, secure and power optimized device. You also write applications on top of our unique Kindle Operating system. Along the way you’ll learn a ton, have fun and make a positive impact on millions of people. You are proficient in C/C++ to understand internals of E-reader. If you know React Native, it will be a bonus as you can also write applications in E-reader. Collaborate with experienced Amazonians to conceive, design, and bring innovative components in E-reader Architect and design a secure software that protects customer data stored on the devices. A day in the life In this role, you will be actively engaged in developing our system and writing applications that are based on C/C++ and react native. You will also be a lead engineer guiding junior members in this role. Basic Qualifications 3+ years of non-internship professional software development experience 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience Experience programming with at least one software programming language Preferred Qualifications 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience Bachelor's degree in computer science or equivalent Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. Company - ADCI - Karnataka Job ID: A10530361 Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Information Technology, Consulting, and Engineering Industries Software Development Referrals increase your chances of interviewing at Amazon by 2x See who you know",
+      "score": 10,
+      "matchedSkills": [
+        "React"
       ],
       "excluded": false
     }
