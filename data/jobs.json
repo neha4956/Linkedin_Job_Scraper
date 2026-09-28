@@ -1,68 +1,152 @@
 {
-  "generatedAt": "2026-09-27T09:37:52.239Z",
-  "totalScraped": 251,
-  "totalMatched": 8,
+  "generatedAt": "2026-09-28T10:14:48.415Z",
+  "totalScraped": 285,
+  "totalMatched": 17,
   "jobs": [
     {
-      "title": "Software Development Engineer (WebApps)",
-      "company": "Fox Corporation",
+      "title": "Full Stack Developer | Node.js/NestJS + React | 9+ Yrs | Immediate Joiner | Any UST Location",
+      "company": "UST",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-webapps-at-fox-corporation-4463643850",
-      "postedAt": "2026-09-26",
-      "jobId": "4463643850",
-      "description": "Software Development Engineer (WebApps) Fox Corporation Bengaluru, Karnataka, India 20 hours ago Over 200 applicants See who Fox Corporation has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Development Engineer (WebApps) role at Fox Corporation Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Development Engineer (WebApps) at Fox Corporation Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job OVERVIEW OF THE COMPANY Fox Corporation Under the FOX banner, we produce and distribute content through some of the world’s leading and most valued brands, including: FOX News Media, FOX Sports, FOX Entertainment, FOX Television Stations and Tubi Media Group. We empower a diverse range of creators to imagine and develop culturally significant content, while building an organization that thrives on creative ideas, operational expertise and strategic thinking. JOB DESCRIPTION Fox Corporation: Fox Corporation is home to industry-leading brands including FOX News Media, FOX Sports, FOX Entertainment, FOX Television Stations, and Tubi Media Group. We combine innovative technology, deep data insights, and world-class content to shape the future of digital entertainment. Our DTC platforms are built to deliver highly personalized, scalable user experiences to millions of global users. About The Role FOX Corporation is looking for a highly skilled and experienced SDE (L2) / Senior Engineer (WebApps) for its Digital Product Engineering WebApps team. The candidate should have a strong working knowledge of modern web application development, object-oriented programming principles, and frontend engineering best practices. Our WebApps team is responsible for developing and maintaining a suite of high-performance applications that serve millions of users worldwide. We leverage modern technologies and frameworks to build scalable, responsive, and highly interactive web applications that deliver exceptional user experiences. With a strong emphasis on engineering excellence, performance optimization, accessibility, and maintainable architecture, the team is committed to delivering products that meet the highest standards of quality, reliability, and scalability. As an SDE (L2) / Senior Engineer (WebApps) , you will play a pivotal role in designing, developing, and maintaining modern web applications. You will contribute to technical initiatives, mentor junior engineers, and collaborate with cross-functional teams to deliver scalable, secure, and user-centric digital experiences. A SNAPSHOT OF YOUR RESPONSIBILITIES Design, develop, and maintain modern, scalable web applications using TypeScript,, React.js, and Next.js. Collaborate with Product Managers, UX Designers, Backend Engineers, and QA teams to define, design, and deliver new features. Develop reusable, modular, and maintainable frontend components following engineering best practices. Ensure the performance, responsiveness, accessibility, and reliability of web applications. Integrate frontend applications with RESTful APIs, GraphQL services, and backend systems. Identify and resolve application bottlenecks, bugs, and production issues. Participate in architecture discussions and contribute to frontend design decisions. Conduct code reviews and provide constructive feedback to team members. Write clean, maintainable, well-tested, and documented code. Continuously evaluate and adopt modern web technologies and development practices. Mentor junior engineers and actively contribute to knowledge sharing across the team. Collaborate closely with DevOps, QA, and Platform Engineering teams to ensure high-quality product releases. Support production deployments and troubleshoot critical production issues when required. WHAT YOU WILL NEED Bachelor's or Master's degree in Computer Science, Engineering, or a related field. 3–7 years of professional experience in modern web application development. Strong proficiency in TypeScript , and CSS3. Hands-on experience with React js , Next.js , and modern frontend frameworks. Strong understanding of component-based architecture, state management, and responsive design. Experience with Git, code review processes, and CI/CD pipelines. Strong understanding of software design principles and frontend architecture. Experience with working on Server Side Rendering using Next.js or any other similar frameworks. Strong communication skills and the ability to work effectively in a collaborative Agile environment. We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, disability, protected veteran status, or any other characteristic protected by law. We will consider for employment qualified applicants with criminal histories consistent with applicable law. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Broadcast Media Production and Distribution Referrals increase your chances of interviewing at Fox Corporation by 2x See who you know",
-      "score": 32,
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-node-js-nestjs-%2B-react-9%2B-yrs-immediate-joiner-any-ust-location-at-ust-4463186598",
+      "postedAt": "2026-09-28",
+      "jobId": "4463186598",
+      "description": "Full Stack Developer | Node.js/NestJS + React | 9+ Yrs | Immediate Joiner | Any UST Location UST Bengaluru, Karnataka, India 2 hours ago Over 200 applicants See who UST has hired for this role Apply Save Join or sign in to save this job Join to save Full Stack Developer | Node.js/NestJS + React | 9+ Yrs | Immediate Joiner | Any UST Location at UST Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Direct message the job poster from UST Nitin Patil Nitin Patil TA Lead at UST Candidates ready to join immediately can share their details via email for quick processing. 📌 CCTC | ECTC | Notice Period | Location Preference nitin.patil@ust.com Act fast for immediate attention! ⏳📩 ____________________________________________________________________________________________________ Backend – Primary / Must Have Node.js – Strong hands-on experience NestJS – Strong hands-on experience MySQL GraphQL Backend / API Development REST API development and integration ORM and database management concepts Backend system design and architecture Webhooks / WebSockets Microservices architecture API performance optimization and troubleshooting Frontend – Required React.js – Hands-on Frontend Development JavaScript / TypeScript API integration with frontend applications Good understanding of frontend development concepts Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at UST by 2x See who you know",
+      "score": 41,
       "matchedSkills": [
         "React",
-        "Next.js",
+        "JavaScript",
         "TypeScript",
+        "Node",
         "REST",
         "GraphQL",
-        "CI/CD"
+        "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Staff Developer (.NET Core, React, MS SQL Server)",
-      "company": "Emerson",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/staff-developer-net-core-react-ms-sql-server-at-emerson-4443788570",
-      "postedAt": "2026-09-26",
-      "jobId": "4443788570",
+      "title": "Lead Forward Deployed AI Engineer, India - BCG X",
+      "company": "BCG X",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-forward-deployed-ai-engineer-india-bcg-x-at-bcg-x-4412674892",
+      "postedAt": "2026-09-27",
+      "jobId": "4412674892",
+      "description": "Lead Forward Deployed AI Engineer, India - BCG X BCG X Gurgaon, Haryana, India 19 hours ago Over 200 applicants See who BCG X has hired for this role Apply Join or sign in to find your next job Join to apply for the Lead Forward Deployed AI Engineer, India - BCG X role at BCG X Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Lead Forward Deployed AI Engineer, India - BCG X at BCG X Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Locations : Mumbai | Gurgaon Who We Are We are BCG X. Our global team of 3,000 tech experts are united by a drive to make a difference. Working across industries and disciplines, we go beyond what was once thought possible, creating new and innovative solutions to the world’s most complex problems. BCG X provides a unique ecosystem for talent to build game-changing businesses, products, and services from the ground up, all while growing their career. Together, we strive to create solutions that will positively impact the lives of millions. BCG X designs &amp; builds custom scalable tech solutions &amp; software, not cookie cutter solutions as exist in the market, in deep collaboration with companies' teams. These tech solutions &amp; software are focused on the top value creation programs of a company, CEO agenda level, amplifying their impact &amp; their odds of success BCG X works hand-in-hand with BCG’s deep sector and functional experts, maximizing the full transformative potential of these programs &amp; deployments BCG X taps into end-to-end tech design &amp; build capabilities, with nearly 3000 experts, delivering solutions that are industrial-grade to sustain deep change across global companies, and partners actively with the digital ecosystem. BCG X solutions &amp; software are tech agnostic BCG X is a force multiplier for BCG functional/sector expertise to build and scale disruptive high-impact software-enabled business solutions and unites tech builders, designers, and entrepreneurs with the world’s leading talent in AI, deep tech, digital growth, sustainability, and more. BCG X is a specialty business part of BCG. We support companies in creating custom AI solutions that bring about end-to-end business transformation, design and develop digital products and services, and build digital businesses from the ground up. AT BCG X we, We steer to transform, working with senior leaders to foster bold ambition and resources trade-offs We strive for value/impact, delivering massive, short-term impact fast and building disruptive winning solutions for long-term We believe in tailoring software solutions deployed at scale over the latest market platforms to maximize the impact We are not tech-first. We are not business-first. We build tech and business together. BCG and BCG X bring together the best of consulting and the best of tech to accelerate the digital journeys of large organizations. BCG X is a force multiplier for BCG functional/sector expertise to build and scale disruptive high-impact software- enabled business solutions To know more about the group, kindly visit the following links: BCG X: Overview | LinkedIn We Are BCG X We’re a diverse team of more than 3,000 tech experts united by a drive to make a difference. Working across industries and disciplines, we combine our experience and expertise to tackle the biggest challenges faced by society today. We go beyond what was once thought possible, creating new and innovative solutions to the world’s most complex problems. Leveraging BCG’s global network and partnerships with leading organizations, BCG X provides a stable ecosystem for talent to build game-changing businesses, products, and services from the ground up, all while growing their career. Together, we strive to create solutions that will positively impact the lives of millions. What You'll Do Our BCG X teams own the full AI value-chain end to end: framing new business challenges, designing innovative algorithms, implementing, and deploying scalable solutions, and enabling colleagues and clients to fully embrace AI. Our product offerings span from fully custom-builds to industry specific leading edge AI software solutions. As a Lead/Principal AI Software Engineer you’ll be part of our rapidly growing engineering team and help to build the next generation of AI solutions. You’ll have the chance to partner with clients in a variety of BCG regions and industries, and on key topics like AI led business transformation, enabling them to design, build, and deploy new and innovative solutions. Additional responsibilities will include developing and delivering thought leadership in scientific communities and papers as well as leading conferences on behalf of BCG X. We Are Looking For Talented Individuals With a Passion For Software Development, Large-scale Gen AI/ Agentic AI Programs And Transforming Organizations Into AI Led Innovative Companies. Successful Candidates Possess The Following Apply Gen AI/ Agentic AI capabilities to transform businesses/ SDLC Experienced in developing solutions related to Conversational AI or Agentic process automation or Agentic software development lifecycle Actively involved in every part of the life cycle including product design, scoping, solution design, development, deployment and adoption Experienced at guiding non-technical teams and consultants in and best practices for robust Agentic AI platforms development Optimize for accuracy, latency and costs of deploying Agentic AI solutions Motivated by a fast-paced, service-oriented environment and interacting directly with clients on new features for future product releases Enjoy collaborating in teams to share AI platforms design and solution ideas A natural problem-solver and intellectually curious across a breadth of industries and topics What You'll Bring Deep Experience in software development and working with global and remote agile squads Proficient in implementing AI platforms like LangGraph, AWS Bedrock, GCP Geminin Enterprise, Azure AI Foundry, Crew AI etc. Optimize and enhance computational efficiency of algorithms/ LLMs and AI platforms Familiarity with the storage, manipulation, and management of relational, non-relational and streaming data structures Understanding of parallel computing Experience working on Large Language Models (LLMs), AWS, Azure, or Google cloud infrastructure Apply software development practices and standards to develop robust and maintainable software Comfortable in a client-facing role, manage engagements, client relationships, provide “thought leadership” to teams Experienced at guiding non-technical teams and consultants in and best practices for robust software development Motivated by a fast-paced, service-oriented environment and interacting directly with clients on new features for future product releases A natural problem-solver and intellectually curious across a breadth of industries and topics Have strong project management skills and can act as interface between business &amp; tech for our clients #BCGXjob Additional info Nice To Have Build generative AI tool Full stack development: GraphQL, React, JavaScript, TypeScript DevOps: Docker, Kubernetes, CI/CD, Terraform Data: SQL, Spark, Hadoop Data Science and machine learning (Pandas, Scikit learn) Ability to travel based on client and business needs. Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws. Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws. BCG is an E - Verify Employer. Click here for more information on E-Verify. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Business Consulting and Services Referrals increase your chances of interviewing at BCG X by 2x See who you know",
+      "score": 37,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Express",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "GCP",
+        "CI/CD",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Fullstack (React JS + Node JS) Developer",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-react-js-%2B-node-js-developer-at-infosys-4444687936",
+      "postedAt": "2026-09-27",
+      "jobId": "4444687936",
+      "description": "Fullstack (React JS + Node JS) Developer Infosys Bengaluru East, Karnataka, India 20 hours ago Over 200 applicants See who Infosys has hired for this role Apply Join or sign in to find your next job Join to apply for the Fullstack (React JS + Node JS) Developer role at Infosys Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Fullstack (React JS + Node JS) Developer at Infosys Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Minimum Qualifications: 3–5 years of hands-on experience in fullstack development with strong proficiency in ReactJS and Node.js. Strong understanding of JavaScript/TypeScript fundamentals, asynchronous programming, and modern frontend patterns. Experience building and consuming APIs, handling state management, and integrating frontend-backend workflows. Working knowledge of testing practices, debugging, and version control (Git). Education: BE, ME, BTECH, MTECH, MCA, MSC, MBA (or equivalent practical experience). Key Responsibilities: Fullstack Feature Delivery Design, develop, and ship end-to-end features using ReactJS on the frontend and Node.js on the backend. Translate product requirements into clean, maintainable UI components and backend services. Build reusable components, shared utilities, and scalable patterns to accelerate delivery. Backend &amp; API Development Develop RESTful APIs and backend modules in Node.js with clear contracts, validation, and error handling. Integrate backend services with frontend workflows, ensuring consistency, reliability, and performance. Implement authentication/authorization flows and secure data handling practices. Quality, Performance &amp; Collaboration Write unit/integration tests and participate in code reviews to maintain high engineering standards. Optimize frontend rendering and backend response times through profiling and performance tuning. Collaborate with designers, QA, and stakeholders to deliver polished releases and iterate based on feedback. AI-Enabled Enhancements Contribute to AI-assisted features such as intelligent recommendations, summarization, or workflow automation where applicable. Support integration of AI capabilities into the application while ensuring usability, safety, and measurable outcomes. About us: Infosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem. Infosys provides equal employment opportunities to applicants and employees without regard to race, color, sex, gender identity; sexual orientation, religious practices and observances; national origin; pregnancy, childbirth, or related medical conditions; status as a protected veteran or spouse/family member of a protected veteran; or disability. Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Infosys by 2x See who you know",
+      "score": 35,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Node",
+        "REST"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer - Full Stack",
+      "company": "ChargePoint",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-chargepoint-4463911656",
+      "postedAt": "2026-09-28",
+      "jobId": "4463911656",
+      "description": "Senior Software Engineer - Full Stack ChargePoint Bangalore Urban, Karnataka, India 2 hours ago Over 200 applicants See who ChargePoint has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer - Full Stack role at ChargePoint Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Senior Software Engineer - Full Stack at ChargePoint Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job About Us With electric vehicles expected to be nearly 30% of new vehicle sales by 2025 and more than 50% by 2040, electric mobility is becoming a reality. ChargePoint (NYSE: CHPT) is at the center of this revolution, powering one of the world’s leading EV charging networks and a comprehensive set of hardware, software and mobile solutions for every charging need across North America and Europe. We bring together drivers, businesses, automakers, policymakers, utilities and other stakeholders to make e-mobility a global reality. Since our founding in 2007, ChargePoint has focused solely on making the transition to electric easy for businesses, fleets and drivers. ChargePoint offers a once-in-a-lifetime opportunity to create an all-electric future and a trillion-dollar market. At ChargePoint, we foster a positive and productive work environment by committing to live our values of Be Courageous, Charge Together, Love our Customers, Operate with Openness, and Relentlessly Pursue Awesome. These values guide how we show up every day, align, and work together to build a brighter future for all of us. Join the team that is building the EV charging industry and make your mark on how people and goods will get everywhere they need to go, in any context, for generations to come. Reports To Senior Director - Support Systems &amp; Tools Integration What You Will Be Doing Develop and support scalable customer platforms, APIs, integrations, and modern web applications using Node.js and React.js technologies. This is a hands-on senior individual contributor role focused on building high-quality software, solving complex technical problems, mentoring junior engineers, and contributing to modern API-first enterprise platforms. The ideal candidate is a strong full stack engineer with practical experience across backend and frontend development, along with exposure to mobile technologies, cloud platforms, and modern AI-assisted engineering practices. What You Will Bring To ChargePoint Develop and enhance scalable backend services using Node.js and TypeScript Build responsive and maintainable frontend applications using React.js Develop and consume RESTful APIs and integration services Contribute to API-first and integration-driven platform initiatives Write maintainable, secure, and high-quality code Participate in code reviews, technical discussions, and engineering best practices Guide and mentor junior engineers on development standards and delivery quality Collaborate with cross-functional teams on solution implementation and delivery Support CI/CD pipelines and modern engineering workflows Comfortable using modern AI-assisted development tools (GitHub Copilot, Claude, OpenAI, Gemini, etc.) to enhance engineering productivity and development workflows Requirements 5+ years of software engineering experience in full stack development Strong experience with Node.js, TypeScript, and React.js Strong understanding of REST APIs, integration patterns, and scalable application design Experience working with relational and/or NoSQL databases Experience working with cloud platforms (GCP preferred) Familiarity with CI/CD pipelines, Git, and modern engineering workflows Exposure to React Native or mobile application development is preferred Exposure to Python for automation, integrations, or backend services is a plus Familiarity with AI/LLM APIs or AI-assisted engineering tools is preferred Exposure to enterprise platforms or CRM-integrated applications is a plus Strong problem-solving, debugging, and collaboration skills Ability to work independently and mentor junior engineers Bachelor’s degree in Computer Science, Engineering, or related field preferred Location Bengaluru, India We are committed to an inclusive and diverse team. ChargePoint is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status. If there is a match between your experiences/skills and the Company needs, we will contact you directly. ChargePoint is committed to fostering an inclusive workplace that welcomes and supports all qualified individuals. In alignment with this commitment, we ensure that persons with disabilities are provided with reasonable accommodations throughout the employment process. If you need a reasonable accommodation to participate in the application or interview process, to perform essential job functions, or to access any other benefits and privileges of employment, please contact us at accommodations@chargepoint.com . ChargePoint is an equal opportunity employer. Applicants only - Recruiting agencies do not contact. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering and Information Technology Industries Electrical Equipment Manufacturing Referrals increase your chances of interviewing at ChargePoint by 2x See who you know",
+      "score": 31,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Node",
+        "Express",
+        "REST",
+        "GCP",
+        "CI/CD",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Fullstack Software Engineer, II",
+      "company": "Atlassian",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-software-engineer-ii-at-atlassian-4472713013",
+      "postedAt": "2026-09-28",
+      "jobId": "4472713013",
+      "description": "Fullstack Software Engineer, II Atlassian Bengaluru, Karnataka, India 24 minutes ago 108 applicants See who Atlassian has hired for this role Apply Join or sign in to find your next job Join to apply for the Fullstack Software Engineer, II role at Atlassian Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Fullstack Software Engineer, II at Atlassian Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Overview Working at Atlassian Atlassians can choose where they work – whether in an office, from home, or a combination of the two. That way, Atlassians have more control over supporting their family, personal goals, and other priorities. We can hire people in any country where we have a legal entity. Atlassians can choose where they work – whether in an office, from home, or a combination of the two. That way, Atlassians have more control over supporting their family, personal goals, and other priorities. We can hire people in any country where we a legal entity. Interviews and onboarding are conducted virtually, a part of being a distributed-first company. To help our teams work together effectively, this role is fully remote, but requires you to be located in India. Your future team To become a 100-year company, we need a world-class engineering organisation made up of empowered teams who have the tools and infrastructure to do the best work of their careers. As part of a unified R&amp;D team, Engineering is prioritising key initiatives which support our customers in moving to cloud while simultaneously continuing to bring the most value to our customers through investments across our core product suite – including Jira, Confluence, Trello, and Bitbucket. We're looking for people who want to write the future and who believe that we can accomplish so much more together. Responsibilities Responsibilities We're looking for a Full Stack Software Engineer to join our team, passionately focused on delivering creative improvements for our engineering teams. In This Role, You Will Build REST APIs that power core customer experiences Build customer-facing React components Configure monitoring for backend services Build CICD pipelines Develop integrations with our content management system Build features and services with reliability in mind Compensation At Atlassian, we strive to design equitable, explainable, and competitive compensation programs. We follow consistent hiring practices and account for each candidate's skills, knowledge, and experience when setting base pay within the range. This role may also be eligible for benefits, bonuses, commissions, and equity. Qualifications Your background: 4+ years experience with JavaScript/TypeScript and supporting libraries (ex. Java,ES6, React, Node). Bachelor's or Master's degree (preferably a Computer Science degree or equivalent experience). Experience performing platform integrations using REST. A background in working with GIT in a collaborative team setting. Familiarity writing cross-browser compliant HTML &amp; Sass/CSS. Familiarity working with UX and Visual Designers. Familiarity with server technologies (NPM, Docker, NGINX, Express/Node). A love for working collaboratively on a team with varied strengths. Experience working with an enterprise content management system. Experience working with cloud platforms like AWS. Java experience. Freemarker experience. Rust experience. Benefits &amp; Perks Atlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community. Our offerings include health and wellbeing resources, paid volunteer days, and so much more. To learn more, visit go.atlassian.com/perksandbenefits . About Atlassian At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together. We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines. To provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process. Simply inform our Recruitment team during your conversation with them. To learn more about our culture and hiring process, visit go.atlassian.com/crh . In line with local law, identity verification (which may include use of biometric data) is a condition of employment with Atlassian for employment fraud purposes. Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Engineering and Information Technology Industries Software Development Referrals increase your chances of interviewing at Atlassian by 2x See who you know",
+      "score": 31,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "Node",
+        "Express",
+        "REST",
+        "Docker"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer Frontend (React / TypeScript)_104088",
+      "company": "MyCareernet",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-frontend-react-typescript-104088-at-mycareernet-4470826800",
+      "postedAt": "2026-09-28",
+      "jobId": "4470826800",
       "description": "",
       "score": 26,
       "matchedSkills": [
         "React",
-        "SQL"
+        "TypeScript"
       ],
       "excluded": false
     },
     {
-      "title": "Developer III - Software Engineering - .NET Fullstack",
-      "company": "UST",
+      "title": "Software Development Engineer",
+      "company": "Intuitive",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/developer-iii-software-engineering-net-fullstack-at-ust-4411586387",
-      "postedAt": "2026-09-26",
-      "jobId": "4411586387",
-      "description": "Developer III - Software Engineering - .NET Fullstack UST Bengaluru, Karnataka, India 23 hours ago Over 200 applicants See who UST has hired for this role Apply Join or sign in to find your next job Join to apply for the Developer III - Software Engineering - .NET Fullstack role at UST Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Developer III - Software Engineering - .NET Fullstack at UST Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Role Description Who we are: At UST, we help the world’s best organizations grow and succeed through transformation. Bringing together the right talent, tools, and ideas, we work with our client to co-create lasting change. Together, with over 30,000 employees in 30+ countries, we build for boundless impact—touching billions of lives in the process. Visit us at . Summary UST is looking for an experienced .NET Full stack Dev with AI tool The Opportunity No of Working days: 5 from Customer location Skill: .Net Full Stack developer Exp: 3+ yrs Location: Hyderabad/BNG Design, develop, and maintain web applications using .NET technologies Develop RESTful APIs and backend services using ASP.NET Core / Web API Build responsive and user-friendly front-end interfaces using Angular / React / JavaScript / HTML / CSS Collaborate with cross-functional teams including product owners, architects, and QA Write clean, scalable, and efficient code following best practices Perform code reviews, debugging, and performance tuning Participate in the full software development lifecycle (SDLC) Ensure application security, quality, and responsiveness Work with cloud platforms (Azure preferred) for deployment and maintenance Required Skills Strong experience in C, .NET / .NET Core / ASP.NET Core Experience with Web API, MVC architecture mongo DB , micro front end, windsurf, AZURE Hands-on experience with front-end frameworks (Angular / React) Knowledge of JavaScript, HTML5, CSS3 Experience working with SQL Server / relational databases Familiarity with Entity Framework / ORM tools Understanding of RESTful services and microservices architecture Experience with Git / version control systems Qualification BTec, BE, MCA, M,Tech What We Believe We’re proud to embrace the same values that have shaped UST since the beginning. Since day one, we’ve been building enduring relationships and a culture of integrity. And today, it's those same values that are inspiring us to encourage innovation from everyone, to champion diversity and inclusion and to place people at the centre of everything we do. Humility We will listen, learn, be empathetic and help selflessly in our interactions with everyone. Humanity Through business, we will better the lives of those less fortunate than ourselves. Integrity We honour our commitments and act with responsibility in all our relationships. Equal Employment Opportunity Statement UST is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion, or sexual orientation. A ll employment decisions shall be made without regard to age, race, creed, colour, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. UST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance. To support and promote the values of UST. Comply with all Company policies and procedures Skills net fullstack,c#,.net,asp.net core, AI Tool Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries IT Services and IT Consulting Referrals increase your chances of interviewing at UST by 2x See who you know",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-at-intuitive-4464301187",
+      "postedAt": "2026-09-28",
+      "jobId": "4464301187",
+      "description": "Software Development Engineer Intuitive Bengaluru, Karnataka, India 1 hour ago Over 200 applicants See who Intuitive has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Development Engineer role at Intuitive Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Development Engineer at Intuitive Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Company Description It started with a simple idea: what if surgery could be less invasive and recovery less painful? Nearly 30 years later, that question still fuels everything we do at Intuitive . As a global leader in robotic-assisted surgery and minimally invasive care , our technologies—like the da Vinci surgical system and Ion —have transformed how care is delivered for millions of patients worldwide. We’re a team of engineers, clinicians, and innovators united by one purpose: to make surgery smarter, safer, and more human. Every day, our work helps care teams perform with greater precision and patients recover faster, improving outcomes around the world. The problems we solve demand creativity, rigor, and collaboration. The work is challenging, but deeply meaningful—because every improvement we make has the potential to change a life. If you’re ready to contribute to something bigger than yourself and help transform the future of healthcare , you’ll find your purpose here. Job Description Primary Function Intuitive is building a new AI-powered platform to support how our teams work day to day — combining a modern web application, cloud-native backend services, and generative AI to make information easier to find, questions easier to answer, and repetitive work easier to automate. We're looking for a mid-level full-stack engineer who can take ownership of features end-to-end, contribute to architectural decisions with guidance, and collaborate closely with business teams to ship real, production-grade software. You're past the basics and ready to take on meaningful scope — while still growing into senior-level independence. Roles And Responsibilities Design, build, and maintain both the frontend and backend of a new internal platform, from feature development through production Build and maintain integrations between the platform and its underlying cloud and AI infrastructure Partner with business teams to translate day-to-day workflows into working software, with some guidance from senior engineers Implement secure authentication, access control, and data governance appropriate for sensitive business data Contribute to and follow engineering best practices — testing, CI/CD, deployment, and observability Iterate on features based on real usage and feedback, balancing speed with reliability Qualifications Skill/Job Requirements: Bachelor's degree in Computer Science, Engineering, Information Systems, or a related technical field (or equivalent practical experience) 3–5 years of professional software engineering experience, with hands-on exposure to both frontend and backend systems Solid Python skills; experience with FastAPI or a comparable async Python web framework Solid React + TypeScript experience — shipped features in a production environment Familiarity with LLM/AI API integrations — agentic or tool-calling patterns are a plus Experience with a major cloud provider (Azure preferred; AWS/GCP considered) — comfortable deploying and managing cloud resources Strong foundational knowledge of SQL query writing with a proven ability to understand and optimize database performance. Working knowledge of OAuth 2.0 / OIDC authentication flows Ability to work with non-technical business stakeholders to clarify and shape requirements Hands-on experience with CI/CD pipelines and containerized deployments Additional Information Intuitive is an Equal Employment Opportunity Employer. We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and harassment of any type, without regard to race, sex, pregnancy, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status, genetic information or any other status protected under federal, state, or local applicable laws. We will consider for employment qualified applicants with arrest and conviction records in accordance with fair chance laws. U.S. Export Controls Disclaimer: In accordance with the U.S. Export Administration Regulations (15 CFR 743.13(b)), some roles at Intuitive Surgical may be subject to U.S. export controls for prospective employees who are nationals from countries currently on embargo or sanctions status. Certain information you provide as part of the application will be used for purposes of determining whether Intuitive Surgical will need to (i) obtain an export license from the U.S. Government on your behalf (note: the government’s licensing process can take 3 to 6+ months) or (ii) implement a Technology Control Plan (“TCP”) (note: typically adds 2 weeks to the hiring process). For any Intuitive role subject to export controls, final offers are contingent upon obtaining an approved export license and/or an executed TCP prior to the prospective employee’s start date, which may or may not be flexible, and within a timeframe that does not unreasonably impede the hiring need. If applicable, candidates will be notified and instructed on any requirements for these purposes. This position may be filled at a different job level than listed here depending on business need and/or on the selected candidate’s experience, knowledge and skills. Compensation will be based primarily on the job level at which the role is filled and the Candidate’s Qualifications, Consistent With Applicable Law. Shift: Day Show more Show less Seniority level Not Applicable Employment type Full-time Job function Engineering and Information Technology Industries Medical Equipment Manufacturing Referrals increase your chances of interviewing at Intuitive by 2x See who you know",
       "score": 25,
       "matchedSkills": [
         "React",
-        "JavaScript",
-        "HTML",
-        "Express",
+        "TypeScript",
         "REST",
+        "GCP",
+        "CI/CD",
         "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Full Stack Developer – .NET / React",
-      "company": "MegaNucleus",
+      "title": "React Js Developer",
+      "company": "SD Innovations",
       "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-net-react-at-meganucleus-4470552594",
-      "postedAt": "2026-09-26",
-      "jobId": "4470552594",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-sd-innovations-4471330788",
+      "postedAt": "2026-09-28",
+      "jobId": "4471330788",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -71,12 +155,54 @@
       "excluded": false
     },
     {
-      "title": "Website Developer (React JS / Shopify / WordPress)",
-      "company": "Netpuppys",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/website-developer-react-js-shopify-wordpress-at-netpuppys-4471013910",
-      "postedAt": "2026-09-26",
-      "jobId": "4471013910",
+      "title": "AI-Accelerated Product Development - React/Tyscript",
+      "company": "Y&L Consulting, Inc.",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/ai-accelerated-product-development-react-tyscript-at-y-l-consulting-inc-4471326850",
+      "postedAt": "2026-09-28",
+      "jobId": "4471326850",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React.Js Developer",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru South, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-tata-consultancy-services-4471315931",
+      "postedAt": "2026-09-28",
+      "jobId": "4471315931",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Reactjs Developer",
+      "company": "Tata Consultancy Services",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/reactjs-developer-at-tata-consultancy-services-4472494790",
+      "postedAt": "2026-09-28",
+      "jobId": "4472494790",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Staff Software Engineer- Frontend (ReactJS)",
+      "company": "ChargePoint",
+      "location": "Bangalore Urban, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/staff-software-engineer-frontend-reactjs-at-chargepoint-4470845262",
+      "postedAt": "2026-09-28",
+      "jobId": "4470845262",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -86,11 +212,11 @@
     },
     {
       "title": "React Native Developer",
-      "company": "Skild AI",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-skild-ai-4374946439",
-      "postedAt": "2026-09-26",
-      "jobId": "4374946439",
+      "company": "HiroJet",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-hirojet-4471302066",
+      "postedAt": "2026-09-27",
+      "jobId": "4471302066",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -99,12 +225,12 @@
       "excluded": false
     },
     {
-      "title": ".Net+React JS Developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net%2Breact-js-developer-at-infosys-4435298433",
-      "postedAt": "2026-09-26",
-      "jobId": "4435298433",
+      "title": "Mobile Developer (React Native)",
+      "company": "Nextiva",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/mobile-developer-react-native-at-nextiva-4470816141",
+      "postedAt": "2026-09-27",
+      "jobId": "4470816141",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -113,16 +239,46 @@
       "excluded": false
     },
     {
-      "title": "Software Development Engineer II, E Reader Software",
-      "company": "Amazon",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-e-reader-software-at-amazon-4463670619",
-      "postedAt": "2026-09-26",
-      "jobId": "4463670619",
-      "description": "Software Development Engineer II, E Reader Software Amazon Bengaluru, Karnataka, India 15 hours ago 136 applicants See who Amazon has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Development Engineer II, E Reader Software role at Amazon Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Development Engineer II, E Reader Software at Amazon Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Description Have you ever wanted to be part of a team that builds highly efficient system for E-reader? Are you looking at creating value for millions of customers as we launch more E-readers with additional capabilities? Do you want to work at a company where you are the owner, where you are encouraged to build, and where you have the autonomy to push boundaries? Do you have a passion for designing system that is an enabler for builders that create applications on top of it? This describes your daily journey. Are you ready? Then join us! Key job responsibilities As a Software Development Engineer, you will own adding capabilities as we unlock more features on Kindle E-reader family. Our goal is to make it fast, easy and low-cost for our internal application developers to build features and release them on our E-reader stack. You will tackle challenging, novel situations every day and given the size of this initiative, you’ll have the opportunity to work with multiple technical teams across Amazon. You should be comfortable with a level of depth that you need to dive into as we solve deep operating system level problems! We will need to tackle problems that span a variety of domains: software, hardware as well as automation. You design and develop the critical components in the operating system as well as low-level components in E-reader that make the product a performant, secure and power optimized device. You also write applications on top of our unique Kindle Operating system. Along the way you’ll learn a ton, have fun and make a positive impact on millions of people. You are proficient in C/C++ to understand internals of E-reader. If you know React Native, it will be a bonus as you can also write applications in E-reader. Collaborate with experienced Amazonians to conceive, design, and bring innovative components in E-reader Architect and design a secure software that protects customer data stored on the devices. A day in the life In this role, you will be actively engaged in developing our system and writing applications that are based on C/C++ and react native. You will also be a lead engineer guiding junior members in this role. Basic Qualifications 3+ years of non-internship professional software development experience 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience Experience programming with at least one software programming language Preferred Qualifications 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience Bachelor's degree in computer science or equivalent Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. Company - ADCI - Karnataka Job ID: A10530361 Show more Show less Seniority level Mid-Senior level Employment type Full-time Job function Information Technology, Consulting, and Engineering Industries Software Development Referrals increase your chances of interviewing at Amazon by 2x See who you know",
-      "score": 10,
+      "title": "Mobile Tech Lead(React Native)",
+      "company": "Woolworths Group International",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/mobile-tech-lead-react-native-at-woolworths-group-international-4472498348",
+      "postedAt": "2026-09-28",
+      "jobId": "4472498348",
+      "description": "",
+      "score": 20,
       "matchedSkills": [
         "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full stack next.js developer intern",
+      "company": "CollegePur",
+      "location": "Ghaziabad, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-next-js-developer-intern-at-collegepur-4471336865",
+      "postedAt": "2026-09-28",
+      "jobId": "4471336865",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "Next.js"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer III",
+      "company": "Bugcrowd",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-at-bugcrowd-4472705339",
+      "postedAt": "2026-09-28",
+      "jobId": "4472705339",
+      "description": "Software Engineer III Bugcrowd Bengaluru, Karnataka, India 1 hour ago 184 applicants See who Bugcrowd has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer III role at Bugcrowd Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer III at Bugcrowd Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Founded in 2012, Bugcrowd is the preemptive security platform that unifies exposure discovery and assessment, offensive testing, and intelligence shaped by AI and human insight to help organizations avoid, discover, and validate real-world risk. Bugcrowd helps security teams move faster by identifying the exposures that matter most so they can act first and stay ahead of attackers. By combining the power of humans and AI, teams can preempt attack paths and prevent breaches. Based in San Francisco and New Hampshire, Bugcrowd is supported by General Catalyst, Rally Ventures, Costanoa Ventures, and others. Visit www.bugcrowd.com. Job Summary We are looking for a detail-oriented and analytical Software Engineer to join our Engineering team. In this role, you will be responsible for the design and development of our cloud native, API-first platform, our autonomous application security testing platform. We aim to help organizations find and fix security vulnerabilities faster than threat actors can exploit them. Essential Duties and Responsibilities Design, build, and maintain full-stack features across a Python/Flask backend and a TypeScript/React frontend Expertise in scalable API-first architecture, service patterns, and robust API standards for third-party integrations Build and maintain integrations connecting with customer systems, security tools, workflow engines, and more Create consistent service patterns and ensure strong guarantees around interfaces and performance Improve internal engineering tools that support security triage and vulnerability workflows Collaborate with designers using our accessible and standards-compliant design system (bugcrowd.design) Ensure high accessibility, stability, and performance across integration workflows Education, Experience, Knowledge, Skills, and Abilities 3+ years of full-stack software development experience with product-focused environment preferred Experience in the cybersecurity domain Strong technical skills in full-stack development, including backend API development (Python/Flask) and frontend development (TypeScript/React) Strong background in agile delivery, backlog management, and stakeholder communication Excellent problem-solving, prioritization, and decision-making skills Bachelor's or Master's degree in Computer Science, Engineering, or related field Preferred Experience Nice to have: experience with Rust (used in some internal CLIs) Nice to have: experience with GCP and/or AWS, GitHub Actions, and Keycloak Working Conditions and Physical Requirements The ideal candidate must be able to complete all physical requirements of the job with or without reasonable accommodation. Sitting and / or standing - Must be able to remain in a stationary position 50% of the time Carrying and / or lifting - Must be able to carry / move laptop as needed throughout the work day. Work Environment - Primarily remote, with occasional in-person presence as needed. Culture At Bugcrowd, we understand that diversity in the workplace is vital to a company's success and growth. We strive to make sure that people are included and have a sense of being part of making Bugcrowd not only a great product but a great place to work. We regularly hear from both customers and researchers that Bugcrowd feels like a family, and we strive to maintain that internally as well. Our team consists of a broad range of people: musicians, adventure sports junkies, nature lovers, parents, cereal enthusiasts, night owls, cyclists, artists—you get the point. At Bugcrowd, we are solving security threats and vulnerabilities that are relevant to everyone, therefore we believe solving these problems takes all kinds of backgrounds. We value the perspectives and experiences people from underrepresented backgrounds bring. Disclaimer This position has access to highly confidential, sensitive information relating to the technologies of Bugcrowd. It is essential that the applicant possess the requisite integrity to maintain the information in the strictest confidence. The company is authorized to obtain background checks for employment purposes under state and federal law. Background checks will be conducted for positions that involve access to confidential or proprietary information (including trade secrets). Background checks may include Social Security verification, prior employment verification, personal and professional references, educational verification, and criminal history. Applicants with conviction histories will not be excluded from consideration to the extent required by law. Any personal data you submit in connection with your application will be processed in compliance with Bugcrowd's Privacy Policy, which you may review here: https://www.bugcrowd.com/privacy. Equal Employment Opportunity: Bugcrowd is EOE, Disability/Age Employer. Individuals seeking employment at Bugcrowd are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. Bugcrowd is committed to the full inclusion of all qualified individuals. In keeping with our commitment, Bugcrowd will take the steps to assure that people with disabilities are provided reasonable accommodations. Accordingly, if reasonable accommodation is required to fully participate in the job application or interview process, to perform the essential functions of the position, and/or to receive all other benefits and privileges of employment, please contact HR at ADA at bugcrowd.com. Apply at: https://www.bugcrowd.com/about/careers/ Show more Show less Seniority level Director Employment type Full-time Job function Engineering and Information Technology Industries Computer and Network Security Referrals increase your chances of interviewing at Bugcrowd by 2x See who you know",
+      "score": 16,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "GCP"
       ],
       "excluded": false
     }
