@@ -1,125 +1,137 @@
 {
-  "generatedAt": "2026-10-03T09:32:45.529Z",
-  "totalScraped": 353,
+  "generatedAt": "2026-10-04T10:11:19.490Z",
+  "totalScraped": 279,
   "totalMatched": 8,
   "jobs": [
     {
-      "title": "Software Engineer I",
-      "company": "Thomson Reuters",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-i-at-thomson-reuters-4464589547",
-      "postedAt": "2026-10-02",
-      "jobId": "4464589547",
-      "description": "Software Engineer I Thomson Reuters Bengaluru, Karnataka, India 22 hours ago Over 200 applicants See who Thomson Reuters has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer I role at Thomson Reuters Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Role Overview As a Software Engineer I , you will be responsible for developing new features, enhancing existing applications, and supporting software solutions throughout the development lifecycle. You will work closely with Product, Engineering, and QA teams to translate business requirements into scalable technical solutions, participate in code reviews, perform development and unit testing, troubleshoot issues, and ensure adherence to software engineering best practices. You will also contribute to cloud-based application development and deployment initiatives. About The Role As Software Engineer I Develop, test, and maintain applications using C#, .NET Microservices, and React.js/Angular.js. Translate business requirements into scalable technical solutions. Participate in Agile ceremonies, sprint planning, backlog refinement, and project discussions. Perform code reviews and ensure compliance with development standards and best practices. Write, execute, and maintain unit tests, integration tests, and automated tests to ensure software quality and reliability. Conduct developer testing to validate functionality and identify defects before QA testing. Troubleshoot, debug, and resolve application issues and production defects. Participate in root cause analysis and contribute to defect prevention initiatives. Develop and support applications deployed on cloud platforms such as Azure or AWS. Contribute to CI/CD processes and support automated build and deployment pipelines. Support containerized application deployments using Docker and Kubernetes where applicable. Create and maintain technical documentation for applications and services. Collaborate with cross-functional teams to deliver high-quality software solutions. Support production systems and contribute to continuous improvement initiatives. About You Bachelor's degree in Computer Science, Engineering, Information Technology, or a related field. 3-6 years of experience in software development. Hands-on experience with C#, .NET, Microservices Architecture, and React.js or Angular.js. Experience with REST APIs, SQL databases, Git, and Agile methodologies. Exposure to cloud platforms such as Azure or AWS. Familiarity with CI/CD pipelines, Docker, and Kubernetes is preferred. Strong analytical, problem-solving, and debugging skills. Excellent communication and collaboration abilities. Self-motivated, adaptable, and eager to learn new technologies. Ability to work effectively in a fast-paced, team-oriented environment. What’s in it For You? Hybrid Work Model: We’ve adopted a flexible hybrid working environment (2-3 days a week in the office depending on the role) for our office-based roles while delivering a seamless experience that is digitally and physically connected. Flexibility &amp; Work-Life Balance: Flex My Way is a set of supportive workplace policies designed to help manage personal and professional responsibilities, whether caring for family, giving back to the community, or finding time to refresh and reset. This builds upon our flexible work arrangements, including work from anywhere for up to 8 weeks per year, empowering employees to achieve a better work-life balance. Career Development and Growth: By fostering a culture of continuous learning and skill development, we prepare our talent to tackle tomorrow’s challenges and deliver real-world solutions. Our Grow My Way programming and skills-first approach ensures you have the tools and knowledge to grow, lead, and thrive in an AI-enabled future. Industry Competitive Benefits: We offer comprehensive benefit plans to include flexible vacation, two company-wide Mental Health Days off, access to the Headspace app, retirement savings, tuition reimbursement, employee incentive programs, and resources for mental, physical, and financial wellbeing. Culture: Globally recognized, award-winning reputation for inclusion and belonging, flexibility, work-life balance, and more. We live by our values: Obsess over our Customers, Compete to Win, Challenge (Y)our Thinking, Act Fast / Learn Fast, and Stronger Together. Social Impact: Make an impact in your community with our Social Impact Institute. We offer employees two paid volunteer days off annually and opportunities to get involved with pro-bono consulting projects and Environmental, Social, and Governance (ESG) initiatives. Making a Real-World Impact: We are one of the few companies globally that helps its customers pursue justice, truth, and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world. About Us Thomson Reuters informs the way forward by bringing together the trusted content and technology that people and organizations need to make the right decisions. We serve professionals across legal, tax, accounting, compliance, government, and media. Our products combine highly specialized software and insights to empower professionals with the data, intelligence, and solutions needed to make informed decisions, and to help institutions in their pursuit of justice, truth, and transparency. Reuters, part of Thomson Reuters, is a world leading provider of trusted journalism and news. We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments. At a time when objectivity, accuracy, fairness, and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward. As a global business, we rely on the unique backgrounds, perspectives, and experiences of all employees to deliver on our business goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity Employer providing a drug-free workplace. We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law. More information on requesting an accommodation here. Learn more on how to protect yourself from fraudulent job postings here. More information about Thomson Reuters can be found on thomsonreuters.com. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at Thomson Reuters by 2x See who you know",
-      "score": 28,
+      "title": "Full Stack Developer",
+      "company": "Infosys",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-at-infosys-4473868175",
+      "postedAt": "2026-10-03",
+      "jobId": "4473868175",
+      "description": "Full Stack Developer Infosys Pune Division, Maharashtra, India 20 hours ago Over 200 applicants See who Infosys has hired for this role Apply Join or sign in to find your next job Join to apply for the Full Stack Developer role at Infosys Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Full Stack Developer at Infosys Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Bachelor’s degree in Computer Science, Engineering, or related field. 5–9 years of full-stack development experience. Strong proficiency in: TypeScript Node.js (Express, NestJS, or equivalent) Java Spring Boot Experience designing RESTful APIs and microservices. Knowledge of PostgreSQL, MySQL, MongoDB, or equivalent databases. Familiarity with cloud environments (AWS/Azure/GCP) for application deployment. Strong debugging skills, including network-level troubleshooting and distributed system analysis. Hands-on experience with automated testing: Jest, Mocha, JUnit, Cypress. Knowledge of secure development practices: OWASP, API security, secrets management, encryption basics. Experience with CI/CD pipelines, Docker, and automated testing frameworks. Understanding of secure web development practices and API hardening. Excellent communication, problem-solving, and collaboration skills. Develop scalable backend services and APIs using Node.js and Java Spring Boot. Build responsive, modular frontend components using TypeScript and modern web frameworks (React/Angular/Vue). Design API gateways, integration layers, and service orchestration for distributed systems. Implement authentication/authorization standards (OAuth2.0, JWT, SSO, mTLS awareness). Optimize full-stack performance, including request latency, memory usage, and frontend rendering. Implement secure coding practices aligned with enterprise and healthcare compliance guidelines. Design and maintain database schemas, data access layers, and integration logic. Collaborate with frontend, backend, and DevOps teams to deliver cohesive product features. Ensure performance optimization across the full stack, including efficient API response times. Maintain CI/CD pipelines and participate in automated testing efforts (unit, integration, API). Produce technical documentation, architecture diagrams, and follow coding standards. Troubleshoot production issues, identify root causes, and drive long-term stability improvements. Participate in sprint planning, code reviews, design discussions, and agile ceremonies. Experience with frontend frameworks like React (preferred), Angular, or Vue. Familiarity with GraphQL, WebSockets, or real-time communication frameworks. Experience integrating applications with AI/ML inference APIs or imaging pipelines. Knowledge of serverless architectures (AWS Lambda, Azure Functions). Experience with logging/monitoring stacks: ELK, Prometheus, Grafana. Exposure to healthcare software development, HIPAA considerations, or regulated environments. Knowledge of message patterns (pub/sub, CQRS, event sourcing). Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Infosys by 2x See who you know",
+      "score": 43,
       "matchedSkills": [
         "React",
+        "TypeScript",
+        "Node",
+        "Express",
+        "REST",
+        "GraphQL",
+        "Docker",
+        "GCP",
+        "CI/CD",
+        "SQL",
+        "MongoDB",
+        "Jest"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer III, EMR Platform",
+      "company": "Experity",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-emr-platform-at-experity-4430934822",
+      "postedAt": "2026-10-03",
+      "jobId": "4430934822",
+      "description": "Software Engineer III, EMR Platform Experity Bengaluru, Karnataka, India 1 day ago Over 200 applicants See who Experity has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer III, EMR Platform role at Experity Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer III, EMR Platform at Experity Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Responsibilities Be responsible for the design, development, maintenance, and support of custom .NET applications which includes the development and modification of frontend and backend code. Write clean, efficient, and maintainable code following industry best practices. Apply the appropriate standards, processes, procedures, and tools throughout the software development life cycle. Collaborate with project teams on design specifications and system requirements. Debug and troubleshoot issues in software applications, and provide solutions to address them. Participate in code reviews and contribute to continuous improvement of development processes. Stay up-to-date with emerging trends and technologies in software engineering and apply them to enhance software solutions. Participate in Agile ceremonies. Other duties as assigned. Experience Two years of software development experience. Understanding of software design patterns. Experience with Scrum/Agile development methodologies and release process. Ability to develop software using C# / ASP.NET Core / Typescript / WPF. Experience with version control software (Git, GitHub). Experience with Domain Driven Design implementations. Experience with Restful API implementations. Experience with building Micro Services with ASP.NET Core. Experience with ORM frameworks such as Dapper and Entity Framework. Experience with test-driven development (NUnit Unit Testing or equivalent). Excellent knowledge of Relational Databases (SQL Server preferred but not required). Technologies ReactJS, NodeJs, NextJS, AngularJS, TypeScript. Angular / Angular Materials / Dev Extreme. Javascript / Jquery. SignalR, RabbitMQ, ActiveMQ. DevExpress, VB.NET, ASP.NET WebForms. LLBLGen Pro, Dapper, Entity Framework. ELK or similar logging and dashboard stack. Experience developing applications on On-Prem and/or Cloud (AWS, Azure) environments. Experience developing applications using Docker containers. Travel Ability to travel as needed. Team Member Competencies Demonstrate and support the organization's core values.Give honest and constructive feedback to other team members. Maintains a positive attitude. Tackle challenges as they come, and don’t let setbacks get you down. Provide assistance, information, or other support to others to build or maintain relationships. Take responsibility for your mistakes and look for solutions. Understand how your actions impact the team. Understands role on the team and works to achieve goals to the best of your ability. When recognizing a problem, take action to solve it. Working within a team means there will be varying opinions and ideas. Active listening and thoughtfully responding to what your team member says. Equal Opportunity Employer This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights notice from the Department of Labor. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at Experity by 2x See who you know",
+      "score": 31,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Node",
         "Express",
         "REST",
         "Docker",
-        "Kubernetes",
-        "CI/CD",
         "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Full Stack Web Developer – React / Node.js",
-      "company": "EXL",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-web-developer-%E2%80%93-react-node-js-at-exl-4446577561",
-      "postedAt": "2026-10-02",
-      "jobId": "4446577561",
+      "title": "Lead Developer - React",
+      "company": "TransUnion",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-developer-react-at-transunion-4447137798",
+      "postedAt": "2026-10-03",
+      "jobId": "4447137798",
       "description": "",
-      "score": 26,
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Sr Analyst React Developer",
+      "company": "Cardinal Health",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-analyst-react-developer-at-cardinal-health-4454633635",
+      "postedAt": "2026-10-03",
+      "jobId": "4454633635",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Engineer",
+      "company": "Cardboard",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-engineer-at-cardboard-4475332424",
+      "postedAt": "2026-10-03",
+      "jobId": "4475332424",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Traya Health - Team Lead - React Native",
+      "company": "Traya",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/traya-health-team-lead-react-native-at-traya-4475346799",
+      "postedAt": "2026-10-04",
+      "jobId": "4475346799",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer-Fullstack",
+      "company": "Hinge Health",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-hinge-health-4464225697",
+      "postedAt": "2026-10-03",
+      "jobId": "4464225697",
+      "description": "Senior Software Engineer-Fullstack Hinge Health Bengaluru, Karnataka, India 19 hours ago Over 200 applicants See who Hinge Health has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer-Fullstack role at Hinge Health Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Senior Software Engineer-Fullstack at Hinge Health Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job The Opportunity We are looking for a Senior Software Engineer to build reliable, intuitive, and scalable full-stack products for Member Records, the care-team-member-facing context layer within CareHub. Member Records surfaces the right member information at the right moment so each care-team interaction is informed and actionable, reducing the need to search across fragmented systems. The experience brings together the context care-team members need to support a member, including member history, clinical context, active programs, program focus, indication, and history. Current product work also includes helping care-team members understand device and fulfillment status, onboarding progress, and program transitions, especially when a member is active in more than one program. Member Records is part of the broader Member Record &amp; Configurator pod. The adjacent Configurator experience gives physical therapists a way to review and personalize exercise therapy programs, while Member Records provides the member context needed to make those decisions. You will work across the user interface, backend services, APIs, and data models, partnering with Product, Design, Clinical, Quality, and other engineering teams to turn complex workflows into simple experiences. You will contribute from discovery and technical design through implementation, launch, and operational support. This role is a strong fit for an engineer who enjoys owning meaningful product areas end to end, makes sound technical trade-offs, and raises the quality of the systems and team around them. What You'll Accomplish Design and deliver full-stack features using TypeScript, React, and Node.js. Build maintainable frontend experiences, backend services, APIs, and data models for member-record workflows. Translate ambiguous product and workflow requirements into clear technical designs and incremental delivery plans. Collaborate with Product, Design, Clinical, Quality, and partner engineering teams throughout the software development lifecycle. Improve the reliability, performance, security, observability, and maintainability of production systems. Write high-quality, well-tested code and contribute to effective testing strategies across the stack. Participate in architecture and design reviews, code reviews, incident response, and operational improvements. Identify technical debt and make pragmatic improvements that help the team move faster safely. Mentor other engineers through technical guidance, thoughtful reviews, pairing, and knowledge sharing. Use modern developer and AI-assisted engineering tools responsibly to improve development quality and productivity. Hinge Health Hybrid Model We believe that remote work and in-person work have their own advantages and disadvantages, and we want to be able to leverage the best of both worlds. Employees in hybrid roles are required to be in the office 3 days/week. This is a Bengaluru-based role that involves regular interaction and collaboration with Hinge Health colleagues in San Francisco, CA. Time zones: San Francisco is in the Pacific Time Zone, which is 12 hours and 30 minutes behind India Standard Time (e.g., 8am in San Francisco is 8:30pm in Bengaluru). Hours: Applicants should be open to meetings in the late evening following India Standard Time to align with San Francisco working hours (8am - 6pm PT). Basic Qualifications Bachelor’s Degree in Computer Science or related technical degree 6+ years of professional software engineering experience, with meaningful experience delivering production software. 3+ years hands-on experience with TypeScript and modern React application development. 3+years backend experience with Node.js, service development, API design, and integration patterns. 1+ years of experience in mentoring and leading junior team members, collaborating effectively with cross-functional teams, and contributing to project planning and decision-making Experience with using AI tools such as Github copilot or Cursor Preferred Qualifications Full stack engineer with strong experience to backend technology like NodeJS, RDBMS Exposure to microservices, distributed systems, containerization, Experience taking ownership of features from technical design through launch and ongoing production support. Strong understanding of software engineering fundamentals, including testing, observability, performance, availability, and secure development practices. Ability to communicate technical decisions clearly to both technical and non-technical partners. A collaborative, product-minded approach and the ability to work effectively in a remote, cross-functional environment. Familiarity with AI-assisted software development or integrating AI capabilities into production workflows. About Hinge Health At Hinge Health, we’re using technology to scale and automate the delivery of healthcare – starting with musculoskeletal (MSK) conditions, which affect over 1.7 billion people worldwide. With an AI-powered human-centered care model, Hinge Health leverages cutting-edge technology to improve outcomes, experiences and costs to help people move beyond their pain. The platform addresses a broad spectrum of MSK care – from acute injury, to chronic pain, to post-surgical rehabilitation – through personalized, evidence-based care. As the preferred partner to 50+ health plans, PBMs and other ecosystem partners, Hinge Health is available to over 20 million people across more than 2,550 employers. The company is headquartered in San Francisco with additional offices in Montreal and Bangalore. Learn more at http://www.hingehealth.com/ What You'll Love About Us Inclusive healthcare and benefits: In addition to comprehensive medical, dental, and vision coverage, we provide employees and their family members with Group Medical Coverage (GMC), Group Term Life Insurance (GTL), and Group Personal Accident Insurance (GPA). Well-being support: We offer a lifestyle stipend to support your overall well-being, along with learning and development opportunities to help you grow both personally and professionally. Ownership: Grow with us through discounted company stock through our ESPP with easy payroll deductions. Culture &amp; Engagement Hinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. By submitting your application you are acknowledging we are using your personal data as outlined in the Personnel and Candidate Privacy Policy. Beware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use \"@hingehealth.com\" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to security@hingehealth.com. Show more Show less Seniority level Not Applicable Employment type Internship Industries Software Development Referrals increase your chances of interviewing at Hinge Health by 2x See who you know",
+      "score": 16,
       "matchedSkills": [
         "React",
+        "TypeScript",
         "Node"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Full Stack Engineer(Front End Heavy-REACT(70%)+ DOT NET(30%))",
-      "company": "Mobility Global",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-front-end-heavy-react-70%25-%2B-dot-net-30%25-at-mobility-global-4408425708",
-      "postedAt": "2026-10-02",
-      "jobId": "4408425708",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React.js Developer",
-      "company": "BrizSolution Technology Private Limited",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-brizsolution-technology-private-limited-4473841614",
-      "postedAt": "2026-10-03",
-      "jobId": "4473841614",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".Net Fullstack with Angular/ Reactjs (Software Engineer II)",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/net-fullstack-with-angular-reactjs-software-engineer-ii-at-jpmorganchase-4456445703",
-      "postedAt": "2026-10-02",
-      "jobId": "4456445703",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Software Engineer (Fullstack Developer/.Net/React)",
-      "company": "The Access Group",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-developer-net-react-at-the-access-group-4474744250",
-      "postedAt": "2026-10-02",
-      "jobId": "4474744250",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Staff Software Development Engineer (Browser Extension/React)",
-      "company": "Zscaler",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/staff-software-development-engineer-browser-extension-react-at-zscaler-4446802329",
-      "postedAt": "2026-10-02",
-      "jobId": "4446802329",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Dev Engineer-II, Infra Supply Chain Automation",
-      "company": "Amazon Web Services (AWS)",
+      "title": "Software Development Engineer II, Amazon Now",
+      "company": "Amazon",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-dev-engineer-ii-infra-supply-chain-automation-at-amazon-web-services-aws-4474733569",
-      "postedAt": "2026-10-02",
-      "jobId": "4474733569",
-      "description": "Software Dev Engineer-II, Infra Supply Chain Automation Amazon Web Services (AWS) Bengaluru, Karnataka, India 21 hours ago 43 applicants See who Amazon Web Services (AWS) has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Dev Engineer-II, Infra Supply Chain Automation role at Amazon Web Services (AWS) Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Description AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help. You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion. These are all greenfield projects offering a rare opportunity to build systems from the ground up. You will be part of a new organization within AWS building large scale distributed applications. We will be designing and developing these systems from scratch utilizing technologies and frameworks like reactive micro services, serverless computing and distributed NoSQL data stores. If you have a solid understanding of fundamental algorithms and system design and are able to produce bulletproof code, we are looking for you. To succeed in this role, you must be passionate about delivering high-quality designs and components. You must be creative in solving hard problems and unafraid to think out-of-the-box. Key job responsibilities Solve complex architecture and business problems to come up with extensible solutions. Write high quality code that are modular, functional and testable. Formally mentor junior engineers on design, coding and troubleshooting. Communicate, collaborate and work effectively in a global environment. About The Team About the team Diverse Experiences Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying. Why AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve. Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do. Mentorship and Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional. Basic Qualifications 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience Experience programming with at least one software programming language Preferred Qualifications Bachelor's degree in computer science or equivalent Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. Company - ADCI - Karnataka Job ID: A10567651 Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Amazon Web Services (AWS) by 2x See who you know",
-      "score": 13,
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-ii-amazon-now-at-amazon-4466490207",
+      "postedAt": "2026-10-03",
+      "jobId": "4466490207",
+      "description": "Software Development Engineer II, Amazon Now Amazon Bengaluru, Karnataka, India 17 hours ago Over 200 applicants See who Amazon has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Development Engineer II, Amazon Now role at Amazon Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Development Engineer II, Amazon Now at Amazon Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Description Do you want to invent a brand-new quick-commerce platform from the ground up? Amazon Now is building the future of 10-minute delivery for India's fast-growing grocery and essentials market, and we're looking for talented engineers who want to do more than write code — you'll own components that thousands of customers touch within minutes of a change going live, and help shape the product, the architecture, and the business roadmap. This is not maintenance work; it's a high-visibility, grounds-up initiative where you'll design and build the entire shopping lifecycle — discovery, storefront, ordering, and delivery — using modern ReactJS front-ends and backend services built from scratch. You'll work alongside senior engineers and product leaders to solve difficult, ambiguous problems at scale, making pragmatic trade-offs without over-engineering. If you thrive in a fast-paced, high-ownership environment where your work directly influences both the technology and the customer experience on a platform designed to scale beyond India, this is the role for you. Key job responsibilities Design and deliver complex, scalable components of the quick-commerce platform end-to-end, spanning discovery, storefront, ordering, and delivery experiences Contribute actively to the full software development lifecycle, including scoping, design, code reviews, testing, deployment, and operational support for production systems Make sound architecture and trade-off decisions on technology choices, dependencies, and resource efficiency, balancing speed of iteration with long-term maintainability and quality Collaborate with senior engineers, product managers, and cross-functional stakeholders to translate business and customer needs into technical solutions that deliver measurable impact Ensure operational excellence by identifying and resolving root causes of issues, raising the engineering bar on reliability and scaling, and sharing knowledge through code reviews A day in the life Your day blends inventing and building stable, performant software with your team through pragmatic design discussions and thorough code reviews. You'll make critical architecture decisions — whether to reuse existing components or build new ones, which dependencies to adopt, how to optimize for resource efficiency — while pairing with senior engineers on complex technical challenges. You'll collaborate directly with customers and stakeholders to refine project ideas, then move quickly under a build-fast, iterate-fast model without compromising on quality or operational discipline. About The Team We're the India Grocery &amp; Everyday Essentials team building Amazon Now — a grounds-up quick-commerce experience for India's fast-growing 10-minute-delivery market. Our team of senior engineers and product leaders is creating industry-leading shopping experiences spanning discovery through delivery. We value high ownership, a proactive approach, and the highest engineering standards, and we move fast and iterate quickly. Basic Qualifications 3+ years of non-internship professional software development experience 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience Preferred Qualifications 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience Bachelor's degree in computer science or equivalent Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. Company - ADCI - Karnataka Job ID: A10538207 Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at Amazon by 2x See who you know",
+      "score": 10,
       "matchedSkills": [
-        "React",
-        "SQL"
+        "React"
       ],
       "excluded": false
     }
