@@ -1,30 +1,186 @@
 {
-  "generatedAt": "2026-10-11T10:24:52.600Z",
-  "totalScraped": 270,
-  "totalMatched": 2,
+  "generatedAt": "2026-10-12T11:23:10.961Z",
+  "totalScraped": 308,
+  "totalMatched": 12,
   "jobs": [
     {
-      "title": "Frontend Engineer | React | TypeScript | Micro-Frontends | Remote India",
-      "company": "Remote_WFH_INDIA",
-      "location": "Greater Bengaluru Area",
-      "url": "https://in.linkedin.com/jobs/view/frontend-engineer-react-typescript-micro-frontends-remote-india-at-remote-wfh-india-4475652129",
+      "title": "Senior Software Engineer - Fullstack [T500-30048]",
+      "company": "ANSR",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-t500-30048-at-ansr-4478389503",
+      "postedAt": "2026-10-12",
+      "jobId": "4478389503",
+      "description": "Senior Software Engineer - Fullstack [T500-30048] ANSR Bengaluru, Karnataka, India 3 hours ago 128 applicants See who ANSR has hired for this role Apply Save Join or sign in to save this job Join to save Senior Software Engineer - Fullstack [T500-30048] at ANSR Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job ANSR is hiring for one of its clients. About ANSR MedTech: Who We Are: ANSR MedTech Capability Center is a new global innovation hub being established in India for a Fortune 100 Fastest-Growing Company in the MedTech sector. Built in partnership with ANSR, the center draws on ANSR’s proven experience in establishing and scaling high-performance Global Capability Centers (GCCs) for leading global enterprises. ANSR MedTech center brings together world-class engineering, product, and technology talent to build next-generation healthcare platforms and solutions that power global operations. Our Vision: To build a next-generation MedTech capability center that powers global healthcare innovation. We envision: High-impact innovation hubs shaping global product and technology roadmaps Centers that go beyond support functions to drive core engineering and platform development Sustainable, scalable ecosystems that nurture world-class MedTech talent Capability centers that directly influence patient outcomes worldwide At its core, the ANSR MedTech Capability Center is about enabling innovation that touches lives at scale. About CFSW: Joining the Customer Facing Software (CFSW) Center of Excellence at ANSR MedTech means being part of a team that is core to delivering global, customer facing technology platforms used at scale. You’ll work on high impact systems—Salesforce, Cloud, Data Products, and Testing—that power real customer, agent, and care experiences worldwide. This is not a support or back office environment teams are responsible for end-to-end execution, quality, and outcomes. What makes this role stand out: Work on enterprise grade platforms that support millions of users globally Partner closely with senior global technology and product leaders on priorities, standards, and outcomes. Help build a Center of Excellence from the ground up, shaping ways of working, engineering quality, and delivery excellence Grow as part of a Build–Operate–Transfer (BOT) journey, with increasing scope and maturity over time. Success is measured by delivery quality, stable releases, platform value, continuous improvement, and strong collaboration with global stakeholders. Job Summary: As a Senior Software Engineer on the Data Products Team, you will work with a team of skilled developers building services that support our medical devices, mobile applications, partner integrations, and data analytics. You will partner with teams, both local and abroad, to build world class medical device software. Candidates should have experience developing production-quality software. Responsibilities: Designs, develops, tests and documents Cloud software for new and existing ANSR MedTech products. Work closely with business stakeholders, lead engineers, Cloud Ops, and Cloud Security to design high-quality, performant, scalable, secure Cloud solutions Evaluate new technologies and explore solution alternatives; develop prototypes Works closely with other software, software QA, and hardware engineers to integrate, debug, and test systems. Ensures that their design is within compliance with Company policies, and that software activities are appropriate for the design and maintenance of medical products. Works with Quality, Regulatory, and Marketing to ensure that designs meet technical and regulatory requirements. Participate in product design reviews. Education and Experience: Minimum Requirements: Bachelor's degree in software engineering and 5+ years of relevant work experience. Strong understanding of fundamentals such as React, Nodejs, PostgreSQL and Azure are required. Preferred Skills and Competencies: Demonstrated working knowledge of software design. Able to work independently with minimum supervision. Able to be responsible for designing, implementing, and maintaining a section of a design. Detail oriented, with effective verbal and written communication skills. Able to communicate with candor and trust at multiple levels of the organization. Demonstrated abilities to leverage creativity to overcome obstacles and work with a sense of urgency. Experience with web development libraries such as React, Redux, Vue. Experience with web build tools such as npm, Browserify, or WebPack Experience with Azure technologies such as Application Gateway, Functions, Web Apps, SQL, and Databricks Experience with relational databases, e.g. Postgres Highly skilled developer in JavaScript and Node.js Good understanding of software development principles and patterns, e.g. TDD, SOLID, Gang of Four Experience with a CI/CD pipeline, e.g. Azure DevOps Gradle, Maven, Bamboo, Jenkins Experience with Git is required. Experience with FDA and HIPAA regulations a plus In-depth Object-oriented programming is useful. Able to organize and judge multiple priorities. Agile or other software development life cycle concepts is a plus. Python understanding is a plus. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Medical Equipment Manufacturing Referrals increase your chances of interviewing at ANSR by 2x See who you know",
+      "score": 38,
+      "matchedSkills": [
+        "React",
+        "Redux",
+        "JavaScript",
+        "Webpack",
+        "Node",
+        "Jenkins",
+        "CI/CD",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior AI Engineer",
+      "company": "Donaldson",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-ai-engineer-at-donaldson-4478339513",
       "postedAt": "2026-10-11",
-      "jobId": "4475652129",
+      "jobId": "4478339513",
+      "description": "Senior AI Engineer Donaldson Gurgaon, Haryana, India 15 hours ago 77 applicants See who Donaldson has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior AI Engineer role at Donaldson Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Senior AI Engineer at Donaldson Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Donaldson is committed to solving the world’s most complex filtration challenges. Together, we make cool things. As an established technology and innovation leader, we are continuously evolving to meet the filtration needs of our changing world. Join a culture of collaboration and innovation that matters and a chance to learn, effect change, and make meaningful contributions at work and in communities. About The Role The AI Center of Excellence (AI CoE) is seeking a Senior AI Engineer to lead the design, development, and deployment of enterprise AI solutions that create measurable business impact across the organization. This is a senior individual contributor role within the AI Center of Excellence (AI CoE) for an experienced engineer who thrives in ambiguity and enjoys turning complex business challenges into scalable AI solutions. You will work closely with Principal AI Engineers, enterprise architects, business stakeholders, and product teams to drive AI initiatives from concept through production. As a key member of the AI CoE, you will lead end-to-end solution development, including architecture, development, integration, evaluation, deployment, governance, and operationalization of AI solutions. You will also help establish engineering best practices, reusable frameworks, and standards that accelerate AI adoption across the enterprise. This role is ideal for a builder who enjoys ownership, technical leadership, and creating innovative solutions in a rapidly evolving AI landscape. Key Responsibilities Lead the end-to-end delivery of AI and Generative AI solutions, taking ownership from business discovery and solution design through deployment and operational support. Work directly with business stakeholders to identify opportunities, define requirements, prioritize use cases, and translate business challenges into practical AI solutions. Design scalable solution architectures leveraging LLMs, RAG, AI agents, enterprise knowledge sources, APIs, workflow automation, and cloud services. Develop and deploy production-grade AI applications, services, and copilots using Python, Azure AI, Azure OpenAI, Snowflake, and related enterprise technologies. Drive technical decisions across AI projects, evaluating architecture options, implementation approaches, trade-offs, risks, and long-term maintainability. Establish and implement testing, evaluation, and monitoring practices to ensure AI solutions are accurate, reliable, secure, and production ready. Collaborate with architects, data engineers, platform teams, security teams, and business partners to successfully integrate AI capabilities into enterprise systems and processes. Build reusable frameworks, accelerators, templates, and engineering standards that improve delivery speed and enable scalable AI adoption across the organization. Provide technical leadership through architecture reviews, design guidance, code reviews, technical coaching, and sharing best practices across the AI CoE. Continuously evaluate emerging AI technologies and recommend innovative solutions that deliver measurable business value and strategic advantage Minimum Qualifications Master’s or Bachelor’s degree in Computer Science, Engineering, or a related field (or equivalent experience). 4-6 years of relevant professional experience in AI, machine learning, data, or software engineering with min 1 year of hands-on experience designing, developing, and deploying AI, Machine Learning, or Generative AI solutions end-to-end. Strong Python development skills and experience with software engineering principles including modular design, API development, testing, version control, secure coding practices, system integration, and maintainable application architecture. Strong understanding of modern Gen AI architectures including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, prompt engineering, evaluation frameworks, deterministic orchestration and AI solution architectures. Hands-on experience with AI application and orchestration frameworks such as LangChain, LangGraph, Semantic Kernel, AutoGen, CrewAI, LlamaIndex, or equivalent technologies. Proven ability to operate in ambiguous environments, independently drive technical solutions, and lead initiatives from concept through production deployment Preferred Qualifications Experience with Azure AI Foundry, Azure OpenAI, Azure AI Search, Microsoft Copilot Studio, Snowflake Cortex AI, or other enterprise AI platforms. Experience designing and developing enterprise AI applications, copilots, intelligent assistants, automation solutions, or agent-based systems deployed to business users. Experience with CI/CD, DevOps, MLOps, and LLMOps practices for enterprise AI solution deployment and support. Experience with containerization and cloud-native development technologies such as Docker, Kubernetes, Azure Container Apps, or Azure Kubernetes Service (AKS). Experience building AI-enabled applications and services using frameworks such as FastAPI, Flask, Streamlit, React, Next.js, .NET, or equivalent application development frameworks. Demonstrated experience leading the technical delivery of complex software, AI, or automation projects involving multiple stakeholders, systems, and business functions. Familiarity with enterprise governance controls for GenAI (privacy, safety, auditability). Experience optimizing inference costs/latency and implementing observability for AI features. Professional Skills Strong analytical and problem-solving abilities. Excellent communication and stakeholder management skills. Capacity to thrive in agile, fast-paced environments. Collaborative approach and leadership potential. Commitment to continuous learning and skill development. Effective task prioritization and project management across multiple initiatives. Employment opportunities for positions in the United States may require use of information which is subject to the export control regulations of the United States. Hiring decisions for such positions are required by law to be made in compliance with these regulations. Applicants for employment opportunities in other countries must be able to meet the comparable export control requirements of that country and of the United States. Donaldson Company has been made aware that there are several recruiting scams that are targeting job seekers. These scams have attempted to solicit money for job applications and/or collect confidential information, Donaldson will never solicit money during the application or recruiting process. Donaldson only accepts online applications through our Careers | Donaldson Company, Inc. website and any communication from a Donaldson recruiter would be sent using a donaldson.com email address. If you have any questions about the legitimacy of an employment opportunity, please reach out to talentacquisition@donaldson.com to verify that the communication is from Donaldson. Our policy is to provide equal employment opportunities to all qualified persons without regard to race, gender, color, disability, national origin, age, religion, union affiliation, sexual orientation, veteran status, citizenship, gender identity and/or expression, or other status protected by law. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Industrial Machinery Manufacturing Referrals increase your chances of interviewing at Donaldson by 2x See who you know",
+      "score": 32,
+      "matchedSkills": [
+        "React",
+        "Next.js",
+        "Express",
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer | Node.js/NestJS + React | 9+ Yrs | Immediate Joiner | Any UST Location",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-node-js-nestjs-%2B-react-9%2B-yrs-immediate-joiner-any-ust-location-at-ust-4463186598",
+      "postedAt": "2026-10-12",
+      "jobId": "4463186598",
       "description": "",
       "score": 26,
       "matchedSkills": [
         "React",
-        "TypeScript"
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "ICE",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-ice-4478337346",
+      "postedAt": "2026-10-11",
+      "jobId": "4478337346",
+      "description": "Senior Software Engineer ICE Bengaluru, Karnataka, India 16 hours ago Over 200 applicants See who ICE has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer role at ICE Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Senior Software Engineer at ICE Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job ICE provided pay range This range is provided by ICE. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more. Base pay range ₹4,000,000.00/yr - ₹15,000,000.00/yr Company: AISensy Website: Visit Website Business Type: Startup Company Type: Product Business Model: B2B Funding Stage: Pre-seed Industry: SAAS Salary Range: ₹ 40-150 Lacs PA Job Description AiSensy is a WhatsApp Business API–based customer engagement and marketing SaaS platform that helps businesses automate messaging, run broadcasts and Click-to-WhatsApp ads, build no-code chatbots, manage multi-agent live chat, segment audiences and integrate with CRMs to boost conversions and customer support through WhatsApp. As an official Meta Business Solution Partner, it serves 100,000+ businesses globally and has generated significant message volume and revenue for clients. The company has raised early funding (including backing from investors such as Mars Shot Ventures, BlueLotus and DGC Venture/angel investors) and continues to grow its product and market reach while driving adoption of WhatsApp engagement tools for brands. Role Overview Programming Demonstrate a good understanding of Java programming language. Understand the framework and enough of the tool ecosystem to implement end to end components with minimal assistance. Comfortably produce and refactor code without assistance. Test drive features and follow TDD/BDD. Understand different major language paradigms (OOP/Functional) Understand presence of abstraction beneath language (JVM). Reason about complexity of algorithms (time and space) and code (cyclomatic). Debug code of Understand and resolve complex issues. Design Identify and implement design patterns in code. Comfortably translate small behaviour requirements into tasks &amp; code. Understand how high-quality code can lead to rapid delivery. Write clean, maintainable code. Demonstrate a basic understanding of domains and domain modelling. Seek out and use appropriate abstractions. Understand patterns for integration (events/services). Understand how to leverage existing functionality outside immediate project. Understand scope of project and when to move behaviour to other services. Development Practice Understand continuous integration and continuous delivery. Demonstrate a working knowledge of CI tooling. Writes tests to ensure CI/CD processes work. Understand BDD/TDD/Performance/Security/Smoke testing. Infrastructure Demonstrate a good working knowledge of Linux/Unix. Good understanding of Docker and Kubernetes ecosystem. Familiar with scripting in Python or Bash and automate. Security Understand basic security paradigms. Writes secure code by default. Technology Stack Java, Spring Boot/Micronaut, Reactive programming (good to have), TDD/BDD, Kafka, Docker, Kubernetes, any Cloud (preferably Azure), CI/CD, any NoSQL DB. Good to have exposure to any load and performance test tool like JMeter, Gatling, Locust, etc. What Would You Do Here Own the delivery of a major component in a service or a small service entirely as part of a feature delivery, Suggest improvements to processes and methodologies to enhance delivery speed, quality. Mentor and guide other WL1 SDEs in the team and help in hiring. Question requirements and challenge where necessary. Reach out for direction proactively in case of ambiguities or constraints. Identify value of tasks &amp; always work on the highest priority items. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Technology, Information and Internet Referrals increase your chances of interviewing at ICE by 2x See who you know",
+      "score": 22,
+      "matchedSkills": [
+        "React",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full Stack Developer (React+Ruby on Rails)",
+      "company": "BigStep Technologies",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-react%2Bruby-on-rails-at-bigstep-technologies-4475694814",
+      "postedAt": "2026-10-12",
+      "jobId": "4475694814",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "ReactJS- S",
+      "company": "Virtusa",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/reactjs-s-at-virtusa-4475679011",
+      "postedAt": "2026-10-11",
+      "jobId": "4475679011",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Lead",
+      "company": "foundit",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/react-lead-at-foundit-4478392013",
+      "postedAt": "2026-10-12",
+      "jobId": "4478392013",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Frontend (React) Engineering Lead - AITDS",
+      "company": "Cognizant",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/frontend-react-engineering-lead-aitds-at-cognizant-4414469117",
+      "postedAt": "2026-10-11",
+      "jobId": "4414469117",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
       ],
       "excluded": false
     },
     {
       "title": "React Native Developer",
-      "company": "Quanteon Solutions",
+      "company": "VySystems",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-quanteon-solutions-4475626340",
-      "postedAt": "2026-10-10",
-      "jobId": "4475626340",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-vysystems-4478389510",
+      "postedAt": "2026-10-12",
+      "jobId": "4478389510",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer",
+      "company": "VAYUZ Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-vayuz-technologies-4475679884",
+      "postedAt": "2026-10-12",
+      "jobId": "4475679884",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Developer",
+      "company": "BizConnect Events",
+      "location": "Bengaluru South, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-bizconnect-events-4477259724",
+      "postedAt": "2026-10-11",
+      "jobId": "4477259724",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Frontend Developer with React",
+      "company": "Populace World Solutions",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-frontend-developer-with-react-at-populace-world-solutions-4478321974",
+      "postedAt": "2026-10-11",
+      "jobId": "4478321974",
       "description": "",
       "score": 20,
       "matchedSkills": [
