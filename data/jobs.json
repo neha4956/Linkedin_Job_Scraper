@@ -1,239 +1,104 @@
 {
-  "generatedAt": "2026-10-17T08:10:21.115Z",
-  "totalScraped": 412,
-  "totalMatched": 16,
+  "generatedAt": "2026-10-18T08:25:08.692Z",
+  "totalScraped": 256,
+  "totalMatched": 5,
   "jobs": [
     {
-      "title": "Full Stack Engineer – Node.js, React.js, TypeScript & NoSQL",
-      "company": "Synechron",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-%E2%80%93-node-js-react-js-typescript-nosql-at-synechron-4470092049",
-      "postedAt": "2026-10-16",
-      "jobId": "4470092049",
-      "description": "",
-      "score": 38,
-      "matchedSkills": [
-        "React",
-        "TypeScript",
-        "Node",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "UI Software Engineer - React.JS, Node.JS, Typescript",
-      "company": "Blue Yonder",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/ui-software-engineer-react-js-node-js-typescript-at-blue-yonder-4479398326",
-      "postedAt": "2026-10-16",
-      "jobId": "4479398326",
-      "description": "",
-      "score": 32,
-      "matchedSkills": [
-        "React",
-        "TypeScript",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Consultant - ReactJs, NodeJs, SQL, PLSQL",
-      "company": "Ellucian",
+      "title": "Senior Delivery AI Software Engineer",
+      "company": "BCG X",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-consultant-reactjs-nodejs-sql-plsql-at-ellucian-4471888009",
-      "postedAt": "2026-10-16",
-      "jobId": "4471888009",
-      "description": "",
-      "score": 32,
+      "url": "https://in.linkedin.com/jobs/view/senior-delivery-ai-software-engineer-at-bcg-x-4470326632",
+      "postedAt": "2026-10-17",
+      "jobId": "4470326632",
+      "description": "Senior Delivery AI Software Engineer BCG X Bengaluru, Karnataka, India 16 hours ago Over 200 applicants See who BCG X has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Delivery AI Software Engineer role at BCG X Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Senior Delivery AI Software Engineer at BCG X Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Direct message the job poster from BCG X Nandika Thakur Nandika Thakur Recruiting Specialist at BCG X | Hiring for web development | Product | Design Locations : Gurgaon | Bengaluru Who We Are Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact. To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive. What You'll Do As a part of BCG’s X Delivery team you will work closely with consulting teams on a diverse range of advanced topics. You will have the opportunity to leverage software development methodologies to deliver value to BCG's Consulting &amp; X (case) teams, X Product teams and Practice Areas (domain) through providing software developer subject matter expertise, and accelerated execution support. You will collaborate with teams to gather requirements, specify, design, develop, deliver and support software solutions serving client needs. You will provide technical support through deeper understanding of relevant software solutions and processes to build high quality and efficient technology solutions. Assignments will range from short term Proof of concepts/Minimum viable product to long term cases with enterprise grade software development as a critical enabler through the project level description of the role responsibilities and impact within the organization. You're Good At Web Application Development End to End high scale web-development experience but not just limited to architecting, design, planning, development and deployment Maintains a strong knowledge base of new opensource tech stacks, applications, techniques, and skills Strong problem-solving and follow-up skills; must be proactive and take initiative Create robust proprietary code and translate business logic into project requirements Develop code using development best practices, and an emphasis on security best practices Leverage technologies to support business needs to attain high reusability and maintainability of current and newly developed systems Provide system design recommendations based on technical requirements Work independently on development tasks with minimal supervision Write effective unit tests and integration tests to ensure high-quality software delivery GenAI &amp; Agentic Systems Engineering Designing and shipping enterprise-grade GenAI features inside full stack architectures — not standalone notebooks or demos Building modular AI services in Python (FastAPI / Flask / Django) that wrap LLM APIs and are exposed to the front end via REST Designing retrieval-augmented generation (RAG) pipelines: chunking, embeddings, vector search, re-ranking and context management Building agentic workflows — tool and function calling, multi-step orchestration, state and memory, human-in-the-loop checkpoints, and sensible fallbacks when an agent fails Integrating AI inference into React or Angular applications with UX patterns suited to AI (streaming responses, latency masking, citations, edit-and-retry, graceful degradation) Treating evaluation as engineering: defining success criteria for AI output, building test sets, and instrumenting logging, tracing, monitoring and cost/token controls Applying guardrails and Responsible AI practice — prompt injection defence, PII and client-confidentiality handling, output validation, and a clear audit trail Using AI-assisted development tooling to accelerate your own delivery, with judgement about where it helps and where it doesn't Business Requirement Gathering and Collaboration Owning all or part of a software development engagement and integrating with cross-functional teams Establish credibility by thought partnering with demanding stakeholders / consulting teams on web development and delivery topics; drawing conclusions on a range of external and internal issues and dependencies Communicate insights through sophisticated synthesis and packaging of results (including PPT slides and charts) with stakeholders / consulting teams; collecting, synthesizing, learnings &amp; inputs into new best practices and methodologies Executing software development approach and creating defined outcome; contributing to approach selection Ensure proper sign‐off before uploading materials into internal repository for reference; sanitizing confidential client content in marketing documents Able to build and sustain relationships with consulting MDPs to generate project work by self-leveraging regular connects Guides juniors on advanced software concepts and platforms, and helps in quality checks Contributes to team’s content &amp; IP development Imparts technical trainings to team members and consulting cohort Problem Solving You should be strong in solutioning with hands-on experience in software delivery, through the entire life cycle of software development. Strong problem solving skills with the ability to develop and codify knowledge and provide appropriate technical advice where required Comfort working with non-deterministic systems — debugging by evidence and evaluation rather than assumption Technical Skills Must have Experience in building high-performance web applications using -Python (Django/Flask/FastAPI), React, Angular, TypeScript, HTML5 and CSS3 Leveraging SQL-Postgres for best performance On OOPs concepts, design patterns, responsive UI and Unit testing frameworks like Mockito, Junit, Jest. Knowledge of Material UI or And Design Knowledge of UI component libraries to produce high-quality production apps following a high-fidelity design and a specification Track record of designing, developing and supporting highly scalable, responsive web app Integrate UI with REST APIs to make the app production-ready Hands-on experience building applications on top of LLM APIs (Azure OpenAI preferred; OpenAI, Anthropic or equivalent acceptable) that have been used by real users Experience with at least one agent or orchestration framework (LangChain / LangGraph, AutoGen, CrewAI, Semantic Kernel, DSPy or a comparable in-house equivalent) Implementing tool / function calling and structured output, including schema validation and error handling Logging, tracing and evaluating AI output (LangSmith, Langfuse, Azure AI evaluation tooling or equivalent) Working knowledge Unix command-line tools and code repo Git CI/CD, DevOps tools Cloud infra architecture design (Azure, GCP, Oracle) and deployment using Kubernetes UI component libraries to produce high-quality production apps following a high-fidelity design and a specification Good to have Microservices, Docker, Kubernetes Deploying AI workloads to a major cloud platform and managing cost, latency and rate limits in production Model Context Protocol (MCP) or comparable tool-integration standards Multi-agent system design, including agent-to-agent handoff and supervision patterns File Storage and NoSql Databases like MongoDB Charting libraries like HighCharts, D3.js and Recharts Basic wireframing skills Hybrid Mobile app development using React Native or Ionic What You'll Bring Job Requirement You Bring (Experience &amp; Qualifications) Bachelor's / Master's degree in computer science engineering/technology or equivalent Excellent communication skills Work Experience At least 4-6 years of end-to-end web – application/tool development experience in a commercial setup specifically services or consulting organization Additional weightage for contributions made to open source projects, blogs, forums etc. in relevant technologies #BCGXjob Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws. BCG is an E - Verify Employer. Click here for more information on E-Verify. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Business Consulting and Services Referrals increase your chances of interviewing at BCG X by 2x See who you know",
+      "score": 43,
       "matchedSkills": [
         "React",
-        "Node",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".NET Developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4470057400",
-      "postedAt": "2026-10-16",
-      "jobId": "4470057400",
-      "description": ".NET Developer Infosys Bengaluru East, Karnataka, India 19 hours ago Over 200 applicants See who Infosys has hired for this role Apply Join or sign in to find your next job Join to apply for the .NET Developer role at Infosys Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save .NET Developer at Infosys Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . NET Core, ASP.NET MVC, C#, Web API, REST API, SQL Server, Entity Framework, Angular, React, Azure, Azure DevOps, Git, Microservices, CI/CD, Agile, Scrum Design, develop, test, and maintain scalable applications using .NET technologies. Develop RESTful APIs and web services using ASP.NET Core/Web API. Collaborate with cross-functional teams to gather and understand business requirements. Implement clean, maintainable, and efficient code following coding standards. Optimize application performance and troubleshoot production issues. Write unit and integration tests to ensure application quality. Participate in code reviews and contribute to best practices. Work with databases, including writing queries, stored procedures, and performance tuning. Required Skills Strong proficiency in C#, ASP.NET, ASP.NET MVC, and .NET Core/.NET 6+. Experience with Web API, RESTful Services, and Microservices architecture. Good knowledge of SQL Server, T-SQL, Stored Procedures, and database design. Experience with Entity Framework or Entity Framework Core. Familiarity with JavaScript, HTML5, CSS3, Bootstrap. Experience with Angular or React is preferred. Hands-on experience with Git, Azure DevOps, or other version control tools. Understanding of Agile/Scrum methodologies. Experience with Azure Cloud Services. Knowledge of Docker and Kubernetes. Exposure to CI/CD pipelines. Understanding of Design Patterns and SOLID principles Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Infosys by 2x See who you know",
-      "score": 31,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
+        "TypeScript",
         "HTML",
+        "Express",
         "REST",
         "Docker",
         "Kubernetes",
+        "GCP",
         "CI/CD",
-        "SQL"
+        "SQL",
+        "MongoDB",
+        "Jest"
       ],
       "excluded": false
     },
     {
-      "title": "Associate/Senior Associate, Application Developer(Fullstack with Angular/ReactJS), Consumer Banking Group Technology",
-      "company": "DBS Bank",
-      "location": "Greater Hyderabad Area",
-      "url": "https://in.linkedin.com/jobs/view/associate-senior-associate-application-developer-fullstack-with-angular-reactjs-consumer-banking-group-technology-at-dbs-bank-4480359002",
-      "postedAt": "2026-10-16",
-      "jobId": "4480359002",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Developer",
-      "company": "Virtusa",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-developer-at-virtusa-4477370500",
-      "postedAt": "2026-10-16",
-      "jobId": "4477370500",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Fullstack Engineer (.NET & React)",
-      "company": "TechGrove by Banyan Software",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-engineer-net-react-at-techgrove-by-banyan-software-4479352965",
-      "postedAt": "2026-10-16",
-      "jobId": "4479352965",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Associate/Senior Associate, Application Developer(ReactJS Frontend Developer), Consumer Banking Group Technology",
-      "company": "DBS Bank",
-      "location": "Greater Hyderabad Area",
-      "url": "https://in.linkedin.com/jobs/view/associate-senior-associate-application-developer-reactjs-frontend-developer-consumer-banking-group-technology-at-dbs-bank-4480348289",
-      "postedAt": "2026-10-16",
-      "jobId": "4480348289",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Frontend React Developer",
-      "company": "CGI",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/frontend-react-developer-at-cgi-4480512192",
-      "postedAt": "2026-10-16",
-      "jobId": "4480512192",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Cloudesign - Senior Software Engineer - React Native",
-      "company": "Cloudesign",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/cloudesign-senior-software-engineer-react-native-at-cloudesign-4480597239",
+      "title": "Software Engineer III, EMR Platform",
+      "company": "Experity",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-iii-emr-platform-at-experity-4480849541",
       "postedAt": "2026-10-17",
-      "jobId": "4480597239",
-      "description": "",
-      "score": 20,
+      "jobId": "4480849541",
+      "description": "Software Engineer III, EMR Platform Experity Greater Bengaluru Area 12 hours ago Be among the first 25 applicants See who Experity has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer III, EMR Platform role at Experity Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer III, EMR Platform at Experity Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job About The Role As a Senior Software Engineer, you will own complete features across our product portfolio — from API design through application delivery. You will contribute to event-driven services, real-time systems, and cloud-based healthcare applications. You are expected to bring strong technical judgment to ambiguous problems, mentor less experienced engineers, and actively shape team quality standards. What You’ll Do Architect and build production-grade REST APIs with full OpenAPI spec coverage Design and own domain-driven services aligned to clinical workflows Write comprehensive test suites — unit, integration, and contract tests — and hold the team to that standard in code review Build and maintain features across desktop and web-based healthcare applications, including real-time capabilities Integrate with cloud services and event-driven workflows Own CI/CD pipeline configuration and improvements Collaborate with security and platform teams on authentication and secrets management Instrument services for observability using structured logging and APM tooling Mentor Software Engineer I and II team members through code review and pairing What We’re Looking For Required Experience: 5+ years of professional software development experience C# — advanced patterns including async/await, dependency injection (Microsoft.Extensions.DI), SOLID principles; .NET Core for APIs and .NET Framework for desktop ASP.NET Core Web API — production API development including middleware, routing, model binding, API versioning, and OpenAPI documentation WPF / XAML / MVVM — multi-threaded UI patterns, Dispatcher, async/await on the UI thread, DevExpress MVVM framework LLBLGen Pro ORM — entity generation, query building, schema-first data access patterns TypeScript / Node.js / Express / TSOA — advanced patterns including decorators, DI (TypeDI, reflect-metadata), and auto-generated OpenAPI specs SQL Server — complex query design, stored procedures, index optimization Real-time messaging — SignalR client-side integration, Apache ActiveMQ / Apache NMS, event-driven patterns AWS — S3, Lambda, Secrets Manager; practical working knowledge of MSK/Kafka event streaming Authentication — JWT bearer auth, OAuth2/OIDC, Okta integration, token lifecycle management Polly resilience policies — retry, circuit-breaker, and timeout patterns for external integrations Testing — NUnit + Moq (C#); Jest, Supertest, Cypress (TypeScript); contract testing against OpenAPI specs CI/CD — CircleCI or equivalent; pipeline authoring, environment promotion strategies Structured logging and observability — NLog, Sentry, Datadog APM Security fundamentals — OWASP Top 10, input validation, parameterized queries, secrets hygiene Nice to Have VB.NET reading ability — legacy PVSC_Win components remain in production Python — ability to contribute to AI infrastructure (FastAPI, Pydantic, AWS Lambda) LaunchDarkly — server-side SDK integration, flag lifecycle management React / Next.js — SSR, App Router, session management with NextAuth.js Serverless Framework — serverless.yml authoring and deployment Socket.io / real-time web systems — bidirectional event handling, connection lifecycle Healthcare SaaS — familiarity with PHI handling, audit logging, or HIPAA-adjacent compliance Our Stack Cloud Platform &amp; APIs Layer Technologies Language TypeScript, Node.js, Python API Framework Express, TSOA, FastAPI Frontend Next.js, React, SCSS Database SQL Server (mssql) Messaging Kafka / AWS MSK (kafkajs) Real-time Socket.io, LiveKit AWS Lambda, S3, Secrets Manager, EventBridge, MSK, Bedrock Testing Jest, Supertest, Cypress, contract tests CI/CD CircleCI, GitHub Actions API Contracts OpenAPI / SwaggerHub / OpenAPI Enforcer Auth JWT, NextAuth.js, Okta, jsonwebtoken Layer Technologies Observability Datadog (APM, RUM, logs) Feature Flags LaunchDarkly DI TypeDI, reflect-metadata Desktop EMR (VelociDoc) Layer Technologies Language C# (.NET Core + .NET Framework), VB.NET (legacy) UI Framework WPF / XAML, DevExpress (MVVM) API Framework ASP.NET Core Web API ORM LLBLGen Pro (SD.LLBLGen.Pro) Database SQL Server, SQL Server CE Testing NUnit, Moq Messaging SignalR, Apache ActiveMQ (NMS) Resilience Polly Auth OAuth2 / OIDC, Okta, IdentityModel.OidcClient Observability NLog, Sentry Deployment Advanced Installer What Success Looks Like Within 30 days you are shipping features independently across both stacks and actively participating in code review. Within 90 days you own one or more service domains or desktop feature areas and are contributing to architectural discussions. Within 6 months you are a technical reference point for your team and are actively raising quality standards through tooling, testing, and mentorship. Equal Opportunity Employer This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights notice from the Department of Labor. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at Experity by 2x See who you know",
+      "score": 41,
       "matchedSkills": [
-        "React"
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node",
+        "Express",
+        "REST",
+        "CI/CD",
+        "SQL",
+        "Jest"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Technical Consultant - Full Stack (.NET , React) , D&M",
-      "company": "Autodesk",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-technical-consultant-full-stack-net-react-d-m-at-autodesk-4479355054",
-      "postedAt": "2026-10-16",
-      "jobId": "4479355054",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Technical Consultant - Full Stack (.NET , React) , D&M",
-      "company": "Autodesk",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-technical-consultant-full-stack-net-react-d-m-at-autodesk-4469670921",
-      "postedAt": "2026-10-16",
-      "jobId": "4469670921",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead engineer (.Net,React,AWS)",
-      "company": "Siemens Healthineers",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-engineer-net-react-aws-at-siemens-healthineers-4473497531",
-      "postedAt": "2026-10-16",
-      "jobId": "4473497531",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Technical Consultant – Full Stack (.NET, React), AEC / D&M",
-      "company": "Autodesk",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-technical-consultant-%E2%80%93-full-stack-net-react-aec-d-m-at-autodesk-4469692027",
-      "postedAt": "2026-10-16",
-      "jobId": "4469692027",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Native Internship",
-      "company": "Srchout Software",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-internship-at-srchout-software-4479659952",
+      "title": "Senior Software Engineer",
+      "company": "UiPath",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-uipath-4460720633",
       "postedAt": "2026-10-17",
-      "jobId": "4479659952",
-      "description": "",
-      "score": 20,
+      "jobId": "4460720633",
+      "description": "Senior Software Engineer UiPath Bengaluru East, Karnataka, India 19 hours ago Over 200 applicants See who UiPath has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer role at UiPath Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Senior Software Engineer at UiPath Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Life at UiPath The people at UiPath believe in the transformative power of automation to change how the world works. We’re committed to creating category-leading enterprise software that unleashes that power. To make that happen, we need people who are curious, self-propelled, generous, and genuine. People who love being part of a fast-moving, fast-thinking growth company. And people who care—about each other, about UiPath, and about our larger purpose. Could that be you? About The Role Join the Vertical Solutions team and build UiPath's most ambitious product - an AI agentic orchestration platform that's been recognized as our Invention of the Year for two consecutive years. As a Senior Software Engineer, you'll be at the forefront of our Act 2 strategy, building the infrastructure that allows enterprises to seamlessly orchestrate AI agents, robots, and human-in-the-loop workflows to achieve critical business outcomes. You'll be working with Lax and the Maestro backend team to build the core orchestration engine that powers enterprise AI automation. This is a high-visibility, high-impact role on UiPath's biggest strategic bet. What You'll Do Build and Scale: Design, develop, and maintain full stack for Vertical Solutions products leveraging AI Coding Assistants. Hands-On Development: Write production-quality code daily, leveraging AI tools (Claude, GitHub Copilot, etc.) to enhance your development workflow Prototype and Ship: Take ideas from Prototype to validate with real customers and turn the ones that prove value into production systems. Measure what matters: Design evaluations, measure quality against real customer data, and understand when metrics mislead. Our systems are often non-deterministic. Responsible shipping means measuring honestly, not chasing vanity numbers. Customer-Centric Engineering: Deeply understand who will use the features you build and why they need them, translating customer needs into elegant technical solutions Ensure Reliability: Contribute to building highly scalable, reliable distributed systems that enterprises depend on. What We're Looking For Builder mindset — you enjoy turning ideas into working systems and taking ownership from Concept through, Customer impact and Production Strong full stack knowledge including frontend systems like React and backend systems -Python and/or C# — most Vertical Solutions product development is Python (agents, APIs, ETL), while core platform work includes C#, frontend in React. Willingness to work across both is important. Experience building production AI systems — LLMs, tool-calling, multi-agent architectures, orchestration frameworks (LangGraph, LangChain, or equivalent), structured outputs, orchestration, and evaluation of model behavior in real-world workflows Distributed systems experience — designing resilient systems with idempotency, replay ability, state management, and long-running jobs Strong analytical thinking — able to reason quantitatively about system quality and make sound decisions using imperfect signals Comfortable with ambiguity and rapid prototyping — able to move from idea to proof-of-concept quickly and iterate based on customer feedback. Experience with healthcare Tech/ Finance Tech/ Procurement Tech systems experience will be a big plus. What You'll Bring To The Team Bachelor's/Master's degree in Engineering, Computer Science or equivalent experience. 7+ years of software engineering experience, with 4+ years focused on distributed systems and backend architecture. Strong proficiency in one or more system-level languages – Javascript / C# / Java etc Full-stack experience: ability to work across backend services and frontend layers (REST/GraphQL APIs, basic UI integration, component contracts). Deep understanding of object-oriented programming, architectural design patterns, system design, and data structures &amp; algorithms. Experience with React, TypeScript, or other modern frontend frameworks for deeper full-stack contribution. Strong grasp of multithreading, asynchronous programming, synchronization, and cloud-native programming models. Hands-on experience with cloud ecosystems: Azure, AWS, or GCP. Proficiency with containerization and orchestration: Docker, Kubernetes, or equivalent. Hands-on experience with AI coding tools and coding agents (e.g., GitHub Copilot, Cursor, Claude Code, or similar) and a demonstrated ability to integrate these into daily engineering workflows. Experience driving team adoption of AI-powered productivity tools – setting norms, measuring impact, and iterating on usage patterns. Familiarity with modern engineering practices: agile development, CI/CD, DevOps, and infrastructure as code. Excellent verbal and written communication skills; proven success collaborating with globally distributed teams and managing complex, time-bound deliverables. Ability to understand, communicate, and drive complex technical decisions with stakeholders at all levels. Nice to Have Experience with healthcare Tech/ Finance Tech/ Procurement Tech systems experience will be a big plus. Data science and evaluation Experience with applied ML techniques such as classification, anomaly detection, ranking, or predictive modeling Experience evaluating AI systems using experimentation, metrics, and empirical analysis to improve quality and reliability Data and retrieval systems Experience with large-scale data platforms (Snowflake, columnar warehouses, denormalized data models) Familiarity with retrieval-heavy architectures, RAG systems, or citation-grounded AI workflows Engineering for trustworthy AI Experience blending deterministic and probabilistic systems (rules engines + AI) Experience designing eval-driven systems, regression testing for LLM outputs, or human-in-the-loop review workflows Platform and product development Frontend familiarity (React, TypeScript) Workflow orchestration platforms (Temporal, Airflow, Maestro, BPMN, Step Functions) Kubernetes and distributed infrastructure Experience in startups, applied research, or 0→1 product environments Open-source contributions How We Work Vertical Solutions operates like an internal startup inside UiPath: small teams, fast iteration, and real customers in the loop. We build quickly, test ideas with users, and turn the best ones into products. Some ideas won’t make it — that’s expected. You’ll work in short cycles, demo frequently, and adapt as we learn. We care more about solving the right problem than protecting a plan that no longer fits. If you enjoy ambiguity, rapid feedback, and building where product boundaries move fast, you’ll likely thrive here. Why Join Us Work on cutting-edge AI technology that's shaping the future of enterprise automation Be part of a team building Times top 100 Invention of the Year (2 years running) Collaborate with talented engineers who value rapid iteration and customer impact Contribute to UiPath's Act 2 strategy - our most important product initiative Maybe you don’t tick all the boxes above—but still think you’d be great for the job? Go ahead, apply anyway. Please. Because we know that experience comes in all shapes and sizes—and passion can’t be learned. Many of our roles allow for flexibility in when and where work gets done. Depending on the needs of the business and the role, the number of hybrid, office-based, and remote workers will vary from team to team. Applications are assessed on a rolling basis and there is no fixed deadline for this requisition. The application window may change depending on the volume of applications received or may close immediately if a qualified candidate is selected. We value a range of diverse backgrounds, experiences and ideas. We pride ourselves on our diversity and inclusive workplace that provides equal opportunities to all persons regardless of age, race, color, religion, sex, sexual orientation, gender identity, and expression, national origin, disability, neurodiversity, military and/or veteran status, or any other protected classes. Additionally, UiPath provides reasonable accommodations for candidates on request and respects applicants' privacy rights. To review these and other legal disclosures, visit our privacy policy. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at UiPath by 2x See who you know",
+      "score": 37,
       "matchedSkills": [
-        "React"
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Express",
+        "REST",
+        "GraphQL",
+        "Docker",
+        "Kubernetes",
+        "GCP",
+        "CI/CD"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Technical Consultant – Full Stack (.NET, React), AEC / D&M",
-      "company": "Autodesk",
+      "title": ".NET Full Stack Developer",
+      "company": "Concentrix",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/net-full-stack-developer-at-concentrix-4470144790",
+      "postedAt": "2026-10-17",
+      "jobId": "4470144790",
+      "description": ".NET Full Stack Developer Concentrix Bengaluru East, Karnataka, India 14 hours ago 129 applicants See who Concentrix has hired for this role Apply Join or sign in to find your next job Join to apply for the .NET Full Stack Developer role at Concentrix Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save .NET Full Stack Developer at Concentrix Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Job Title NET Full Stack Developer Job Description We're Concentrix. The intelligent transformation partner. Solution-focused. Tech-powered. Intelligence-fueled. The global technology and services leader that powers the world’s best brands, today and into the future. We’re solution-focused, tech-powered, intelligence-fueled. With unique data and insights, deep industry expertise, and advanced technology solutions, we’re the intelligent transformation partner that powers a world that works, helping companies become refreshingly simple to work, interact, and transact with. We shape new game-changing careers in over 70 countries, attracting the best talent. The Concentrix Technical Products and Services team is the driving force behind Concentrix’s transformation, data, and technology services. We integrate world-class digital engineering, creativity, and a deep understanding of human behavior to find and unlock value through tech-powered and intelligence-fueled experiences. We combine human-centered design, powerful data, and strong tech to accelerate transformation at scale. You will be surrounded by the best in the world providing market leading technology and insights to modernize and simplify the customer experience. Within our professional services team, you will deliver strategic consulting, design, advisory services, market research, and contact center analytics that deliver insights to improve outcomes and value for our clients. Hence achieving our vision. Our game-changers around the world have devoted their careers to ensuring every relationship is exceptional. And we’re proud to be recognized with awards such as \"World's Best Workplaces,\" “Best Companies for Career Growth,” and “Best Company Culture,” year after year. Join us and be part of this journey towards greater opportunities and brighter futures. 5–8+ years of software development experience, with strong hands-on experience in .NET technologies. Strong experience in C#, ASP.NET Core and Web API. Develop applications using C#, .NET / .NET Core and ASP.NET Core. Develop secure and scalable RESTful Web APIs. Implement business logic and application services. Use Entity Framework Core, LINQ and other appropriate data-access technologies. Apply OOP, SOLID principles and appropriate design patterns. Develop responsive and user-friendly applications using: ReactJS, TypeScript, JavaScript, HTML5, CSS3, Develop reusable UI components. Integrate frontend applications with REST APIs. Design and consume REST APIs. Work with Swagger/OpenAPI for API documentation. Implement API authentication and authorization. Work with JSON/XML and enterprise integration interfaces. Develop comprehensive unit tests for application components. Participate in integration and functional testing. Maintain agreed code coverage levels. Perform code reviews and address review findings. Participate in Agile/Scrum ceremonies. Understand user stories and acceptance criteria. Contribute to technical estimation and task breakdown. Collaborate with Product Owners, Business Analysts, QA and DevOps teams. Experience developing enterprise-scale applications. Experience with Azure and CI/CD is preferred. Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Concentrix by 2x See who you know",
+      "score": 25,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "REST",
+        "CI/CD"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Walk In Drive | React Native | Bangalore",
+      "company": "Tata Consultancy Services",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-technical-consultant-%E2%80%93-full-stack-net-react-aec-d-m-at-autodesk-4469668973",
-      "postedAt": "2026-10-16",
-      "jobId": "4469668973",
+      "url": "https://in.linkedin.com/jobs/view/walk-in-drive-react-native-bangalore-at-tata-consultancy-services-4479909866",
+      "postedAt": "2026-10-18",
+      "jobId": "4479909866",
       "description": "",
       "score": 20,
       "matchedSkills": [
