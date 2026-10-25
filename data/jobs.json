@@ -1,42 +1,15 @@
 {
-  "generatedAt": "2026-10-24T08:31:28.329Z",
-  "totalScraped": 435,
-  "totalMatched": 21,
+  "generatedAt": "2026-10-25T08:48:49.087Z",
+  "totalScraped": 269,
+  "totalMatched": 6,
   "jobs": [
     {
-      "title": "Software Engineer (SDE2-Full Stack)",
-      "company": "Battery Smart",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-sde2-full-stack-at-battery-smart-4481681103",
-      "postedAt": "2026-10-23",
-      "jobId": "4481681103",
-      "description": "Software Engineer (SDE2-Full Stack) Battery Smart Gurugram, Haryana, India 22 hours ago Over 200 applicants See who Battery Smart has hired for this role Apply Save Join or sign in to save this job Join to save Software Engineer (SDE2-Full Stack) at Battery Smart Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Direct message the job poster from Battery Smart Mohit Nainwal Mohit Nainwal Manager – Talent Acquisition | Full-Cycle &amp; Mid-Level/Leadership Hiring | Strategic Sourcing, Stakeholder Management &amp; Team Leadership | EV, Green… Job Overview We are looking for a highly skilled Full Stack Developer with a strong background in Node.js and React.js to join our dynamic development team. The ideal candidate will have experience working with relational databases and cloud computing platforms such as AWS, GCP, or Azure. As a Full Stack Developer, you will be responsible for developing and maintaining scalable web applications, ensuring high performance and responsiveness, and integrating APIs and cloud-based solutions. Key Responsibilities Develop, test, and deploy full-stack web applications using Node.js and React.js. Design, develop, and optimize relational databases (e.g., MySQL, PostgreSQL, SQL Server) for high performance and scalability. Work with cloud platforms like AWS, GCP, or Azure to deploy, manage, and optimize applications. Collaborate with UI/UX designers, product managers, and other team members to implement interactive and responsive user interfaces. Build and maintain RESTful APIs and integrate third-party services. Implement authentication and authorization using OAuth, JWT, or similar technologies. Write clean, efficient, and reusable code following best practices and coding standards. Conduct unit and integration testing to ensure robust application performance. Monitor application performance, troubleshoot issues, and optimize code for scalability and security. Stay updated with industry trends, emerging technologies, and best practices in web development. Required Qualifications Education: B.Tech/B.E. in Computer Science, Information Technology, or a related field. Experience: 3+ years of professional experience in full-stack development using Node.js and React.js. Proficiency in working with relational databases such as MySQL, PostgreSQL, or SQL Server. Hands-on experience with cloud computing services like AWS (EC2, S3, Lambda, RDS), GCP, or Azure. Strong understanding of front-end development with React.js, Redux, HTML, CSS, and JavaScript. Experience with backend frameworks like Express.js, Nest.js, or similar. Knowledge of containerization and orchestration tools such as Docker and Kubernetes is a plus. Familiarity with CI/CD pipelines and DevOps practices. Strong problem-solving and debugging skills. Excellent communication and teamwork abilities. Preferred Qualifications Experience with TypeScript. Knowledge of GraphQL. Exposure to Agile/Scrum methodologies. Experience in building microservices architecture. Strong understanding of security best practices in web development. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Transportation, Logistics, Supply Chain and Storage Referrals increase your chances of interviewing at Battery Smart by 2x See who you know",
-      "score": 56,
-      "matchedSkills": [
-        "React",
-        "Redux",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "Node",
-        "Express",
-        "REST",
-        "GraphQL",
-        "Docker",
-        "Kubernetes",
-        "GCP",
-        "CI/CD",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior UI Developer (React.js & Next.js)",
-      "company": "OmniReach",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-ui-developer-react-js-next-js-at-omnireach-4480625410",
-      "postedAt": "2026-10-23",
-      "jobId": "4480625410",
+      "title": "Frontend Developer (Next.js / React.js)",
+      "company": "HYrEzy Tech Solutions",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/frontend-developer-next-js-react-js-at-hyrezy-tech-solutions-4482667852",
+      "postedAt": "2026-10-25",
+      "jobId": "4482667852",
       "description": "",
       "score": 40,
       "matchedSkills": [
@@ -46,73 +19,12 @@
       "excluded": false
     },
     {
-      "title": "Staff Engineer",
-      "company": "Stryker",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/staff-engineer-at-stryker-4482385092",
-      "postedAt": "2026-10-24",
-      "jobId": "4482385092",
-      "description": "Staff Engineer Stryker Bengaluru, Karnataka, India 4 hours ago Be among the first 25 applicants See who Stryker has hired for this role Apply Join or sign in to find your next job Join to apply for the Staff Engineer role at Stryker Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Staff Engineer at Stryker Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job What You Will Do You will implement complex systems based on defined application software architecture. You will participate in technical discussion and collaborate with team to produce component and sub-system level designs. You will specialize in cloud/ web technology domains. You will apply the defined design practices including Agile methodology and use sound software engineering principles to ensure that the application software products are safe, robust, and user-friendly. Design, implementation, and testing of secure windows/cloud / web applications. Collaborate with global and local development teams. Maintain and Support existing applications. What you need: Required Qualifications: Bachelor’s/master's degree in computer science or a related field 7+ years of design and development of complex software systems. Exposure to Azure cloud Development with at least 2 year of experience developing cloud-based applications Backend: C#, ASP.NET MVC, .NET, .NET Core, Web/Rest API, Windows Services Strong experience in developing responsive and scalable web applications using React.js, angular/typeScript, HTML5, CSS3, and JavaScript. Experience with Redux, REST APIs, responsive design, accessibility standards. Experienced in design, development, and integration of REST / SOAP / Web APIs on .NET stack Understanding of CI/CD pipelines on Jenkins/Bamboo/Azure DevOps is a plus Preferred Qualifications: Others: Entity Framework, GIT, Unit tests, PowerShell Knowledge of one or more third-party tools like SonarCube, NUnit, NCover, and FxCop is a plus Strong core computer science skills such as data structure design, architecture design, and algorithms Sound knowledge of Object-Oriented software architecture Exposure to healthcare interoperability standards such as FHIR, HL7, DICOM is a plus. Understanding of medical device software development processes and regulated environments is preferred. Stryker is a global leader in medical technologies and, together with its customers, is driven to make healthcare better. The company offers innovative products and services in MedSurg, Neurotechnology, Orthopaedics and Spine that help improve patient and healthcare outcomes. Alongside its customers around the world, Stryker impacts more than 150 million patients annually. Show more Show less Seniority level Associate Employment type Full-time Industries Appliances, Electrical, and Electronics Manufacturing, Industrial Machinery Manufacturing, and Medical Equipment Manufacturing Referrals increase your chances of interviewing at Stryker by 2x See who you know",
-      "score": 38,
-      "matchedSkills": [
-        "React",
-        "Redux",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "REST",
-        "Jenkins",
-        "CI/CD"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Custom Software Engineer",
-      "company": "Accenture in India",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4483102259",
-      "postedAt": "2026-10-23",
-      "jobId": "4483102259",
-      "description": "Custom Software Engineer Accenture in India Pune Division, Maharashtra, India 17 hours ago Be among the first 25 applicants See who Accenture in India has hired for this role Apply Join or sign in to find your next job Join to apply for the Custom Software Engineer role at Accenture in India Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Custom Software Engineer at Accenture in India Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Project Role : Custom Software Engineer Project Role Description : Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high-performing solutions tailored to specific business needs. Must have skills : Adobe Experience Manager (AEM) Sites Good to have skills : React.js, Angular Minimum 3 Year(s) Of Experience Is Required Educational Qualification : 15 years full time education We are seeking an experienced Adobe Experience Manager (AEM) Sites Developer to design, develop, and maintain enterprise-scale web applications using modern front-end frameworks and AEM CMS capabilities. The ideal candidate will have strong experience in web development, content management systems, and application lifecycle delivery. Key Responsibilities Lead the development and implementation of enterprise web applications using Angular, React, and AEM. Design reusable components and integrate third-party libraries and CMS capabilities across the application lifecycle. Ensure solutions follow SDLC standards and meet performance, quality, security, and maintainability requirements. Technical Experience Minimum 4 years of experience developing or implementing web-based applications and integrating third-party source code or libraries. Minimum 5 years of experience working with web application frameworks such as Angular, React, AEM, HTML5, CSS, and GraphQL. Minimum 3 years of CMS experience with AEM and at least 5 years of experience across solution development lifecycle implementations. Professional Attributes Strong written and verbal communication skills. Ability to work independently as an individual contributor while collaborating effectively with cross-functional teams and solving issues proactively. Must be based in Pune or willing to relocate work from the Hinjewadi client location 3 days per week, with shift timing from 2:00 PM to 10:30 PM. Must Have Skills: JavaScript/TypeScript, Node.js, HTML5, CSS/SCSS, Angular or React, AEM, Advanced AEM, Docker, Kubernetes, and Azure for modern web application and CMS development. Good To Have Skills: Java, Spring Boot, and Express.js for backend service development and application integration. Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Accenture in India by 2x See who you know",
-      "score": 34,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "Node",
-        "Express",
-        "GraphQL",
-        "Docker",
-        "Kubernetes"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer 3",
-      "company": "MongoDB",
+      "title": "Full Stack Web Developer – React / Node.js",
+      "company": "EXL",
       "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-3-at-mongodb-4437779572",
-      "postedAt": "2026-10-23",
-      "jobId": "4437779572",
-      "description": "Software Engineer 3 MongoDB Gurugram, Haryana, India 13 hours ago Over 200 applicants See who MongoDB has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer 3 role at MongoDB Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer 3 at MongoDB Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job MongoDB seeks an experienced Software Engineer to help level up IT and launch a new engineering team. This team will work alongside the Internal Engineering department, building enterprise-grade software to enable coworkers to be more effective and efficient. As a Software Engineer, you’ll be contributing to internal tools and platforms, helping design, build, and maintain software that supports critical workflows across the organization. Our ideal candidate Has 2-5 years of professional software engineering experience Experience with a modern programming language (Python, Go, Rust, etc.) Excellent communication skills and a strong desire to solve complex technical problems Comfortable working with modern infrastructure and delivery systems, including containerized applications, Kubernetes, and CI/CD tooling (e.g., Drone.io or similar) Collaborative, detail-oriented, and passionate about developing usable software Bonus Round Experience building full-stack applications, from front-end UIs to backend API handlers to DB migrations Knowledge of any of the following technologies: Next.js, FastAPI, React Position Expectations Build and maintain internal tools and platforms to improve workflows and efficiency Write clean, maintainable code to fix bugs and add new features Collaborate with other engineers and teams to prioritize work and deliver high-impact solutions Success Measures In three months, gain familiarity with internal platforms and workflows, contributing meaningfully to ongoing projects In three months, reduce manual friction for internal processes by delivering functional features or improvements In six months, implement tooling or enhancements that significantly improve internal engineering efficiency and productivity About MongoDB MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure. With offices worldwide and over 67,000 customers, including 75% of the Fortune 100 and AI-native startups, relying on MongoDB for their most important applications, we’re powering the next era of software. Our compass at MongoDB is our Leadership Commitment, guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB. To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it’s like to work at MongoDB, and help us make an impact on the world! MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter. MongoDB is an equal opportunities employer. Requisition ID: 2273467733 Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at MongoDB by 2x See who you know",
-      "score": 32,
-      "matchedSkills": [
-        "React",
-        "Next.js",
-        "Kubernetes",
-        "CI/CD",
-        "MongoDB"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React JS / React Native and Node.js",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-react-native-and-node-js-at-infosys-4472549811",
-      "postedAt": "2026-10-23",
-      "jobId": "4472549811",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-web-developer-%E2%80%93-react-node-js-at-exl-4446577561",
+      "postedAt": "2026-10-24",
+      "jobId": "4446577561",
       "description": "",
       "score": 26,
       "matchedSkills": [
@@ -122,216 +34,69 @@
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer C++/C#",
-      "company": "TeamViewer",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-c%2B%2B-c%23-at-teamviewer-4482460322",
-      "postedAt": "2026-10-23",
-      "jobId": "4482460322",
-      "description": "Senior Software Engineer C++/C# TeamViewer Noida, Uttar Pradesh, India 19 hours ago 59 applicants See who TeamViewer has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer C++/C# role at TeamViewer Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Senior Software Engineer C++/C# at TeamViewer Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job TeamViewer provides a leading Digital Workplace platform that connects people with technology—enabling, improving and automating digital processes to make work work better. Our software solutions harness the power of AI and shape the future of digitalization. We believe that our diverse teams and strong company culture are key to the success of our products and technologies, that hundreds of millions of users around the world and around 645,000 customers across all industries rely on. With more than 1,900 employees worldwide, we celebrate the unique perspectives and talents that each individual brings to the table and foster a dynamic work environment where new ideas thrive. Are you ready to join our team and make an impact? Responsibilities We are looking for a Senior Software Engineer C++/C# to actively contribute to the development of our remote access solution and backend services using modern C++ and C#/.NET technologies. The position will report to the Team Lead Software Development and provides an excellent opportunity to create impact and add value in an agile, modern environment. Design and develop new functionality for our software solutions using C++ (primary focus) and C#. Develop and maintain backend services and RESTful web APIs using C# (.NET). Continuously participate in application design to further enhance our systems and code base regarding reliability, maintainability, scalability, and efficiency. Work independently on solutions for specified requirements and take responsibility for meeting time and quality specifications. Continuously integrate, build, and deploy our solutions from test systems to production. Participate in code reviews and contribute to improving software quality and development practices. Support the maintenance and modernization of existing software components while developing new features. Act as an advisor towards product owners regarding feasibility studies and estimates for new functionality. Requirements University or college degree in the field of computer science, software engineering, or any other related subject, or relevant work experience. 6+ years of professional experience in software development with modern C++. Good knowledge of C# backend development and the .NET framework, particularly in developing and maintaining RESTful web APIs and backend services. Good understanding of Clean Code and Design Patterns for object-oriented programming. Experience in developing, debugging, and maintaining complex software applications. Good understanding of software architecture, scalability, performance, and maintainability. Experience with unit testing and continuous integration practices. Basic knowledge of TypeScript, particularly React, is an advantage. Knowledge of SQL and relational databases is advantageous. Familiarity with Git, Jenkins, and automated build and deployment pipelines is a plus. Familiarity with AI tools for coding (e.g. Copilot, Claude, Cursor) is a plus. A positive and solution-oriented mindset paired with a structured and analytical way of thinking and working, being a team player, and being motivated to learn new things. Fluency in English is mandatory. TeamViewer is an equal opportunities employer and is committed to building an inclusive culture where everyone feels welcome and supported. We C-A-R-E and understand that our diverse, values-driven culture makes us stronger. As we continue to grow as a company, we also focus on enabling our employees to grow both personally and professionally. We are proud to have an open and embracing workplace environment that will empower you to be your best no matter your gender, civil or family status, sexual orientation, religion, age, disability, education level, or race. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at TeamViewer by 2x See who you know",
-      "score": 22,
+      "title": "Software Engr II",
+      "company": "Honeywell Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-technologies-4483343223",
+      "postedAt": "2026-10-24",
+      "jobId": "4483343223",
+      "description": "Software Engr II Honeywell Technologies Bengaluru, Karnataka, India 14 hours ago 112 applicants See who Honeywell Technologies has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engr II role at Honeywell Technologies Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Job Description Be part of a team that designs, develops and integrates highly complex software functions within Honeywell Technologies. You will use your experience and judgment to plan and accomplish goals. You will also generate innovative solutions in work situations; trying different and novel ways to deal with problems and opportunities. Responsibilities Requirements and design Software architecture and coding Integration Test Feature Definition Production Support Verification and Validation Ability to code in multiple languages Analytical skills &amp; software development skills Experience with the following Programming Languages: C# / .NET Python NodeJS,TypeScript React Strong working Knowledge of Databases – MySQL, PostGreSQL Cloud Infra - Azure,GCP,Alibaba Qualifications Bachelors/Master degree in Engineering or Computer Science 3-5 years of Product development experience Strong working experience on Full stack with micro service development. Strong working experience on created reusable components for multiple products. Good knowledge on software engineering concepts like OOPs, design patterns &amp; principles (SOLID), architecture patterns (SOA, EIA etc) Understands the significance of UX for products and enables UX experts to work effectively with engineering Exposure to Agile Software development methodology; CI/CD practices and tools. Understanding of cloud infrastructure services (e.g., Microsoft Azure) Enterprise scale Software issue fixing, debugging, Reverse Engineering skills and tools usage towards it. Knowledge of test-driven development Adoption of evolving and established technology enablers in day-to-day execution to be productive e.g. levering CoPilot integrations in SDLC About Us Honeywell Technologies is a global, pure-play automation company with a legacy of innovating to help solve the world’s most mission-critical challenges, enhancing the quality of life for people and communities around the world. We serve the building, industrial and process sectors with a broad portfolio of services, solutions and products, underpinned by our Honeywell Technologies Accelerator operating system and Honeywell Technologies Forge intelligence layer. By combining the deep domain expertise of our more than 50,000 employees with decades of data from our global installed base, we are uniquely positioned to lead the industrial sector’s transition from automation to autonomy. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Automation Machinery Manufacturing Referrals increase your chances of interviewing at Honeywell Technologies by 2x See who you know",
+      "score": 25,
       "matchedSkills": [
         "React",
         "TypeScript",
-        "REST",
-        "Jenkins",
+        "Node",
+        "GCP",
+        "CI/CD",
         "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer (Frontend - React)",
-      "company": "Impact Analytics",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-react-at-impact-analytics-4482858588",
-      "postedAt": "2026-10-23",
-      "jobId": "4482858588",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "SENIOR SOFTWARE ENGINEER (FRONTEND - REACT)",
-      "company": "TechnoIogy@IA",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-react-at-technoiogy%40ia-4480689112",
-      "postedAt": "2026-10-23",
-      "jobId": "4480689112",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer - (C#/.NET & React) Job",
-      "company": "YASH Technologies Middle East",
-      "location": "Bangalore Urban, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-c%23-net-react-job-at-yash-technologies-middle-east-4481013401",
-      "postedAt": "2026-10-24",
-      "jobId": "4481013401",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior React Engineer",
-      "company": "ShimentoX Technologies",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-engineer-at-shimentox-technologies-4483148216",
-      "postedAt": "2026-10-23",
-      "jobId": "4483148216",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Full Stack with .NET",
-      "company": "Synechron",
-      "location": "Greater Bengaluru Area",
-      "url": "https://in.linkedin.com/jobs/view/react-full-stack-with-net-at-synechron-4481685802",
-      "postedAt": "2026-10-23",
-      "jobId": "4481685802",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "SENIOR ENGINEER - React native",
-      "company": "Happiest Minds Technologies",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-engineer-react-native-at-happiest-minds-technologies-4480641574",
-      "postedAt": "2026-10-23",
-      "jobId": "4480641574",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".Net Fullstack with Angular/ Reactjs (Software Engineer II)",
-      "company": "JPMorganChase",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/net-fullstack-with-angular-reactjs-software-engineer-ii-at-jpmorganchase-4456445703",
-      "postedAt": "2026-10-23",
-      "jobId": "4456445703",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Azure AI + React Developer",
-      "company": "Talentmatics",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/azure-ai-%2B-react-developer-at-talentmatics-4481684684",
-      "postedAt": "2026-10-23",
-      "jobId": "4481684684",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React JS Developer",
-      "company": "Infosys",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4472557618",
-      "postedAt": "2026-10-23",
-      "jobId": "4472557618",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Full Stack Engineer (Go, React)",
-      "company": "NetApp",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-go-react-at-netapp-4480672278",
-      "postedAt": "2026-10-23",
-      "jobId": "4480672278",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead React native Developer | 8-17 Years | IC role | Build Scalable Technology for a Global Retail Leader |",
-      "company": "Geektrust",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-react-native-developer-8-17-years-ic-role-build-scalable-technology-for-a-global-retail-leader-at-geektrust-4482865896",
-      "postedAt": "2026-10-23",
-      "jobId": "4482865896",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React JS / React Native Developer",
-      "company": "Infosys",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-react-native-developer-at-infosys-4472549813",
-      "postedAt": "2026-10-23",
-      "jobId": "4472549813",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Full Stack with .NET",
-      "company": "Synechron",
-      "location": "Greater Bengaluru Area",
-      "url": "https://in.linkedin.com/jobs/view/react-full-stack-with-net-at-synechron-4481681884",
-      "postedAt": "2026-10-23",
-      "jobId": "4481681884",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React Native Internship",
-      "company": "Srchout Software",
+      "title": "Engineer 3 - Business Systems",
+      "company": "MongoDB",
       "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-internship-at-srchout-software-4482398177",
+      "url": "https://in.linkedin.com/jobs/view/engineer-3-business-systems-at-mongodb-4465830708",
       "postedAt": "2026-10-24",
-      "jobId": "4482398177",
+      "jobId": "4465830708",
+      "description": "Engineer 3 - Business Systems MongoDB Gurugram, Haryana, India 17 hours ago 110 applicants See who MongoDB has hired for this role Apply Join or sign in to find your next job Join to apply for the Engineer 3 - Business Systems role at MongoDB Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job The CRM Technologies team builds, scales, and operates Salesforce-based solutions that power MongoDB’s customer lifecycle, from marketing engagement and lead management through sales execution, account management, renewals, reporting, and downstream operational workflows. The team partners closely with Marketing, Sales Operations, Revenue Operations, Finance, Customer Success, Data, and Engineering to deliver secure, scalable, and reliable business systems. The team continuously evolves the CRM and marketing technology ecosystem through automation, integrations, data quality improvements, and platform operations. Role Overview We are looking for an Engineer III, Business Systems to design, build, and support the systems and integrations that enable MongoDB’s top-of-funnel and lead-to-revenue processes. This individual contributor role will focus on marketing technology, lead lifecycle management, enrichment, campaign operations, account and territory management, activity management, outreach, annual planning, and inbound and outbound integrations. You will translate business requirements into scalable technical solutions using Salesforce, marketing automation platforms, integration tools, APIs, and data services. You will own delivery across the full solution lifecycle, including requirements analysis, solution design, development, testing, deployment, documentation, monitoring, and production support. You will also contribute to engineering standards, platform governance, data quality, and continuous improvement across the GTM Technology ecosystem. We are looking to speak to candidates who are based in Gurugram for our hybrid working model. What You’ll Do Design, build, and support solutions for top-of-funnel and marketing operations processes Develop and enhance lead capture, lead conversion, routing, qualification, scoring, and lifecycle management capabilities Administer and integrate marketing and enrichment platforms such as FCI, LeanData, Ortoo, and related GTM applications Build and maintain integrations between Salesforce, marketing automation, enrichment, outreach, analytics, data, and downstream business systems Support campaign management, campaign attribution, audience segmentation, campaign member management, and marketing performance workflows Develop scalable solutions for account management, territory planning, account assignment, ownership changes, and coverage models Design and support partner management capabilities, including partner onboarding, partner data management, partner lifecycle workflows, referral and lead registration processes, partner attribution, and partner communications Build and enhance partner portal experiences that provide secure access to leads, opportunities, campaign resources, enablement content, deal registration, performance insights, and relevant account information Enable activity management and Outreach workflows across marketing, business development, sales, and partner teams Design and support inbound integrations that create, enrich, qualify, and route leads and accounts into Salesforce Partner with Marketing Operations, Sales Development, Sales Operations, Revenue Operations, Data, and Engineering to understand requirements and identify process gaps Contribute to documentation, UAT, regression testing, runbooks, monitoring, and user enablement Leverage AI-powered engineering tools such as Cursor, Claude Code, Agentforce, and GitHub Copilot to improve productivity, analysis, troubleshooting, and documentation while applying sound judgment around security, privacy, and accuracy Responsibilities Technical Delivery Translate business requirements into scalable marketing technology and Salesforce solutions using declarative configuration, custom development, APIs, and integration platforms. Marketing Technology Engineering Own and enhance capabilities across: Lead capture, conversion, qualification, and routing Marketing enrichment and data normalization Campaign and campaign member management Account identification, matching, and hierarchy management Territory planning and account assignment Activity and engagement management Outreach and business development workflows Marketing attribution and lifecycle reporting Annual planning and operational planning processes Integration and System Design Design and support secure, reliable, and observable inbound and outbound integrations across Salesforce, marketing automation, enrichment, outreach, analytics, and enterprise platforms. Data Quality and Governance Establish reliable data flows and controls that improve completeness, accuracy, consistency, deduplication, consent handling, and governance across lead, contact, account, campaign, and activity data. Engineering Excellence Maintain high standards for modular design, test coverage, documentation, deployment processes, monitoring, CI/CD, and adherence to shared integration and Salesforce engineering patterns. Platform Optimization Proactively identify and resolve performance bottlenecks, integration risks, manual processes, technical debt, and opportunities to simplify the marketing technology architecture. Minimum Requirements Bachelor’s or Master’s degree in Computer Science, Information Systems, Engineering, or equivalent practical experience 6+ years of hands-on Salesforce development or enterprise business systems engineering experience Strong experience with Apex, Lightning Web Components, Flows, SOQL, Salesforce APIs, and platform automation Proficiency in scripting and programming languages such as Python and JavaScript, with experience building reusable automation, data transformation, and integration services Experience with React or comparable modern front-end frameworks Experience with full-stack development, including front-end applications, back-end services, APIs, data models, authentication, testing, deployment, and operational support Experience designing and supporting marketing technology, CRM, lead management, or revenue operations solutions Experience building and supporting REST or SOAP API integrations and data synchronization processes Strong understanding of Salesforce security, data governance, data quality, and scalable implementation practices Strong analytical, troubleshooting, communication, and collaboration skills Salesforce Platform Developer I or II certification required Success Measures In 3 Months Develop a strong understanding of MongoDB’s marketing technology and Salesforce architecture, top-of-funnel processes, lead lifecycle, campaign operations, integration landscape, and stakeholder environment. In 6 Months Deliver meaningful enhancements across lead management, marketing integrations, enrichment, campaign management, routing, account management, or related GTM Technology initiatives. Establish yourself as a dependable technical contributor and trusted partner to Marketing Operations and Revenue Operations. In 12 Months Become a trusted subject matter expert for marketing technology and top-of-funnel business systems. Drive scalable improvements across lead conversion, enrichment, campaign operations, territory planning, outreach, data quality, and inbound and outbound integrations while influencing engineering standards and platform strategy. About MongoDB MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure. With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software. Our compass at MongoDB is our Leadership Commitment, guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB. To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it’s like to work at MongoDB, and help us make an impact on the world! MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter. MongoDB is an equal opportunities employer. Requisition ID- 3273518097 Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at MongoDB by 2x See who you know",
+      "score": 25,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "REST",
+        "CI/CD",
+        "MongoDB"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Sr Full Stack Developer (Pthon,Django+Next.js)",
+      "company": "Zetexa Global",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-full-stack-developer-pthon-django%2Bnext-js-at-zetexa-global-4482663139",
+      "postedAt": "2026-10-24",
+      "jobId": "4482663139",
       "description": "",
       "score": 20,
       "matchedSkills": [
-        "React"
+        "Next.js"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Software Engineer-Fullstack",
+      "company": "Hinge Health",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-hinge-health-4464225697",
+      "postedAt": "2026-10-24",
+      "jobId": "4464225697",
+      "description": "Senior Software Engineer-Fullstack Hinge Health Bengaluru, Karnataka, India 18 hours ago Over 200 applicants See who Hinge Health has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer-Fullstack role at Hinge Health Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job The Opportunity We are looking for a Senior Software Engineer to build reliable, intuitive, and scalable full-stack products for Member Records, the care-team-member-facing context layer within CareHub. Member Records surfaces the right member information at the right moment so each care-team interaction is informed and actionable, reducing the need to search across fragmented systems. The experience brings together the context care-team members need to support a member, including member history, clinical context, active programs, program focus, indication, and history. Current product work also includes helping care-team members understand device and fulfillment status, onboarding progress, and program transitions, especially when a member is active in more than one program. Member Records is part of the broader Member Record &amp; Configurator pod. The adjacent Configurator experience gives physical therapists a way to review and personalize exercise therapy programs, while Member Records provides the member context needed to make those decisions. You will work across the user interface, backend services, APIs, and data models, partnering with Product, Design, Clinical, Quality, and other engineering teams to turn complex workflows into simple experiences. You will contribute from discovery and technical design through implementation, launch, and operational support. This role is a strong fit for an engineer who enjoys owning meaningful product areas end to end, makes sound technical trade-offs, and raises the quality of the systems and team around them. What You'll Accomplish Design and deliver full-stack features using TypeScript, React, and Node.js. Build maintainable frontend experiences, backend services, APIs, and data models for member-record workflows. Translate ambiguous product and workflow requirements into clear technical designs and incremental delivery plans. Collaborate with Product, Design, Clinical, Quality, and partner engineering teams throughout the software development lifecycle. Improve the reliability, performance, security, observability, and maintainability of production systems. Write high-quality, well-tested code and contribute to effective testing strategies across the stack. Participate in architecture and design reviews, code reviews, incident response, and operational improvements. Identify technical debt and make pragmatic improvements that help the team move faster safely. Mentor other engineers through technical guidance, thoughtful reviews, pairing, and knowledge sharing. Use modern developer and AI-assisted engineering tools responsibly to improve development quality and productivity. Hinge Health Hybrid Model We believe that remote work and in-person work have their own advantages and disadvantages, and we want to be able to leverage the best of both worlds. Employees in hybrid roles are required to be in the office 3 days/week. This is a Bengaluru-based role that involves regular interaction and collaboration with Hinge Health colleagues in San Francisco, CA. Time zones: San Francisco is in the Pacific Time Zone, which is 12 hours and 30 minutes behind India Standard Time (e.g., 8am in San Francisco is 8:30pm in Bengaluru). Hours: Applicants should be open to meetings in the late evening following India Standard Time to align with San Francisco working hours (8am - 6pm PT). Basic Qualifications Bachelor’s Degree in Computer Science or related technical degree 6+ years of professional software engineering experience, with meaningful experience delivering production software. 3+ years hands-on experience with TypeScript and modern React application development. 3+years backend experience with Node.js, service development, API design, and integration patterns. 1+ years of experience in mentoring and leading junior team members, collaborating effectively with cross-functional teams, and contributing to project planning and decision-making Experience with using AI tools such as Github copilot or Cursor Preferred Qualifications Full stack engineer with strong experience to backend technology like NodeJS, RDBMS Exposure to microservices, distributed systems, containerization, Experience taking ownership of features from technical design through launch and ongoing production support. Strong understanding of software engineering fundamentals, including testing, observability, performance, availability, and secure development practices. Ability to communicate technical decisions clearly to both technical and non-technical partners. A collaborative, product-minded approach and the ability to work effectively in a remote, cross-functional environment. Familiarity with AI-assisted software development or integrating AI capabilities into production workflows. About Hinge Health At Hinge Health, we’re using technology to scale and automate the delivery of healthcare – starting with musculoskeletal (MSK) conditions, which affect over 1.7 billion people worldwide. With an AI-powered human-centered care model, Hinge Health leverages cutting-edge technology to improve outcomes, experiences and costs to help people move beyond their pain. The platform addresses a broad spectrum of MSK care – from acute injury, to chronic pain, to post-surgical rehabilitation – through personalized, evidence-based care. As the preferred partner to 50+ health plans, PBMs and other ecosystem partners, Hinge Health is available to over 20 million people across more than 2,550 employers. The company is headquartered in San Francisco with additional offices in Montreal and Bangalore. Learn more at http://www.hingehealth.com/ What You'll Love About Us Inclusive healthcare and benefits: In addition to comprehensive medical, dental, and vision coverage, we provide employees and their family members with Group Medical Coverage (GMC), Group Term Life Insurance (GTL), and Group Personal Accident Insurance (GPA). Well-being support: We offer a lifestyle stipend to support your overall well-being, along with learning and development opportunities to help you grow both personally and professionally. Ownership: Grow with us through discounted company stock through our ESPP with easy payroll deductions. Culture &amp; Engagement Hinge Health is an equal opportunity employer and prohibits discrimination and harassment of any kind. We make employment decisions without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, pregnancy, or any other basis protected by federal, state or local law. By submitting your application you are acknowledging we are using your personal data as outlined in the Personnel and Candidate Privacy Policy. Beware of Phishing Attempts: We've noticed an increase in phishing where fraudsters impersonate employees and send fake job offers to steal sensitive information. We'll never ask for financial details during the hiring process and only use \"@hingehealth.com\" emails. If you receive a suspicious offer, stop communication and report it to the US FBI Internet Crime Complaint Center. To verify an email from our recruiting team, forward it to security@hingehealth.com. Show more Show less Seniority level Not Applicable Employment type Internship Industries Software Development Referrals increase your chances of interviewing at Hinge Health by 2x See who you know",
+      "score": 16,
+      "matchedSkills": [
+        "React",
+        "TypeScript",
+        "Node"
       ],
       "excluded": false
     }
