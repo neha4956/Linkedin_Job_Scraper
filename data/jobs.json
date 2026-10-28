@@ -1,199 +1,58 @@
 {
-  "generatedAt": "2026-10-27T09:26:24.281Z",
-  "totalScraped": 396,
+  "generatedAt": "2026-10-28T10:07:46.307Z",
+  "totalScraped": 475,
   "totalMatched": 17,
   "jobs": [
     {
-      "title": "Lead II - Software Engineering (Full stack Developer)",
-      "company": "UST",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-ii-software-engineering-full-stack-developer-at-ust-4454646588",
-      "postedAt": "2026-10-26",
-      "jobId": "4454646588",
-      "description": "Lead II - Software Engineering (Full stack Developer) UST Bengaluru, Karnataka, India 23 hours ago Over 200 applicants See who UST has hired for this role Apply Join or sign in to find your next job Join to apply for the Lead II - Software Engineering (Full stack Developer) role at UST Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Lead II - Software Engineering (Full stack Developer) at UST Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Role Description Full Stack Developer (React &amp; Python/Node.js - AWS) Job Summary We are seeking a Full Stack Developer to design, build, and maintain secure, high-performance web applications. In this role, you will work on everything from responsive user interfaces to scalable backend services. You will build user-facing features using React and power them with backend microservices using Python or Node.js. Because our application handles critical systems, you will place a massive focus on secure API development and follow DevOps best practices to deploy code safely and efficiently to AWS. Key Responsibilities Frontend Development: Build modular, responsive, and highly interactive user interfaces using React JS, Redux/Context API, and modern CSS frameworks. Backend Development: Design and scale robust backend services and microservices using either Python (FastAPI, Django, Flask) or Node.js (Express, NestJS). Secure API Development: Architect and secure RESTful or GraphQL APIs, ensuring strict protection against vulnerabilities like injection and broken object-level authorization. Cloud Infrastructure: Deploy and manage application components natively within AWS using containerized environments. DevOps Integration: Own and manage deployment workflows by writing Infrastructure as Code (IaC) and building automated CI/CD validation gates. Data Management: Write optimized queries and design schemas for both relational databases (PostgreSQL, MySQL) and NoSQL stores (DynamoDB, MongoDB). Required Technical Skills Area Required Skills &amp; Technologies Frontend React JS, JavaScript (ES6+), TypeScript, HTML5, CSS3, Webpack/Vite Backend Python (FastAPI/Django) OR Node.js (Express/NestJS) AWS Cloud EC2, S3, Lambda, ECS/EKS, API Gateway, CloudWatch, RDS Security OAuth 2.0, OIDC, JWT, IAM policies, CORS configuration, encryption (HTTPS, KMS) DevOps Docker, Git, GitHub Actions/GitLab CI, Terraform or AWS CloudFormation Databases PostgreSQL or MySQL, and DynamoDB or MongoDB Required Security Practices (Crucial Focus) Secure API Design: Implementing rigorous input validation, output encoding, and strict rate-limiting to prevent Denial of Service (DoS) attacks. Authentication &amp; Authorization: Enforcing secure identity management with token-based authentication and Role-Based Access Control (RBAC). Secrets Management: Preventing hardcoded credentials by using secure storage tools like AWS Secrets Manager or Systems Manager Parameter Store. Security Scanning: Utilizing automated tools within the CI/CD pipeline to scan code for vulnerabilities and dependency flaws before deployment. Experience and Qualifications Years of Experience: 8-10 yrs years of professional full-stack software development experience in a production environment. Architecture Understanding: Strong grasp of serverless architectures, event-driven systems, and microservices patterns. Testing Rigor: Experience writing comprehensive unit, integration, and end-to-end tests for both frontend and backend systems. Skills AWS, React, Python, Node.js Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at UST by 2x See who you know",
-      "score": 56,
+      "title": "Frontend Engineer - (Next.js, React, TypeScript, Redux Toolkit, Tailwind CSS)",
+      "company": "Dentsu Global Services",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/frontend-engineer-next-js-react-typescript-redux-toolkit-tailwind-css-at-dentsu-global-services-4483629532",
+      "postedAt": "2026-10-27",
+      "jobId": "4483629532",
+      "description": "",
+      "score": 72,
       "matchedSkills": [
         "React",
+        "Next.js",
         "Redux",
+        "TypeScript",
+        "Tailwind"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Full Stack Developer (React+Ruby on Rails)",
+      "company": "BigStep Technologies",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-react%2Bruby-on-rails-at-bigstep-technologies-4482288836",
+      "postedAt": "2026-10-28",
+      "jobId": "4482288836",
+      "description": "Full Stack Developer (React+Ruby on Rails) BigStep Technologies Gurugram, Haryana, India 9 minutes ago Be among the first 25 applicants See who BigStep Technologies has hired for this role Apply Save Report this job Direct message the job poster from BigStep Technologies Komal Sahu Komal Sahu Talent Acquisition | End-to-End Recruitment | AI-Driven Hiring Processes | MBA, DSM-DTU About the Role We are looking for a Senior Full-Stack Developer with 5+ years of experience, with a strong focus on frontend development . The candidate should have strong hands-on experience building scalable, responsive, and user-focused web applications using React and TypeScript . They should also have basic to moderate experience with Ruby on Rails and be comfortable contributing to backend development when required. The ideal candidate should have strong problem-solving skills, write clean and maintainable code, and thrive in collaborative, fast-paced environments. Roles &amp; Responsibilities Contribute to all phases of the software development lifecycle, from requirements through delivery Develop and maintain scalable, responsive, user-friendly web applications with a strong focus on frontend development using React and TypeScript Build reusable, well-tested UI components and help maintain frontend architecture Integrate frontend applications with RESTful APIs and contribute to backend development in Ruby on Rails when required Identify and resolve UI issues, bugs, and performance bottlenecks, and write unit, integration, and regression tests Collaborate with designers, product managers, and backend engineers through code review, pair programming, and architecture discussions Participate in sprint planning, standups, retrospectives, and other agile ceremonies, communicating effectively with a distributed team using Slack, Zoom, and JIRA Skills Required 5+ years of experience with React , TypeScript , and modern frontend development practices , along with PostgresSQL, RSpec, Sidekiq, Git, Cloud experience (preferably AWS) Good experience with Ruby on Rails , idiomatic Ruby , and RESTful APIs Strong understanding of JavaScript , HTML , CSS , and responsive, reusable component development Experience with frontend state management, API integration, and asynchronous programming Experience writing tests with Jest and React Testing Library Proficiency with Git and CI/CD tools such as GitHub Actions and Docker Solid understanding of object-oriented programming, build tools (Yarn, Webpack), and scalable application design Experience in designing scalable front-end architecture , including component structure, state management, and application-level performance. Nice to Have Experience with PostgreSQL, Sidekiq, or other Rails backend tooling Familiarity with Docker, Kubernetes, and containerized environments Exposure to Python, Go, or other backend/scripting languages Familiarity with Terraform or infrastructure-as-code principles BSc/BE/BTech in Computer Science, Engineering, or a related field Familiarity with concepts of MVC, mocking, REST Show more Show less Seniority level Associate Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at BigStep Technologies by 2x See who you know",
+      "score": 53,
+      "matchedSkills": [
+        "React",
         "JavaScript",
         "TypeScript",
         "Webpack",
         "HTML",
-        "Node",
-        "Express",
-        "REST",
-        "GraphQL",
-        "Docker",
-        "CI/CD",
-        "SQL",
-        "MongoDB"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full Stack Engineer",
-      "company": "Infosys",
-      "location": "Pune District, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-infosys-4483242395",
-      "postedAt": "2026-10-26",
-      "jobId": "4483242395",
-      "description": "Full Stack Engineer Infosys Pune District, Maharashtra, India 15 hours ago Over 200 applicants See who Infosys has hired for this role Apply Save Join or sign in to save this job Join to save Full Stack Engineer at Infosys Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Direct message the job poster from Infosys Neeraja Selvakumar Neeraja Selvakumar Human Resources Associate at Infosys Full Stack Developer (Java + React + Node.js) | 5-9 Years | Pune Join Infosys as a Full Stack Developer and build scalable, high-performance digital solutions using modern backend and frontend technologies. We are looking for passionate developers with strong expertise in Java Full Stack development, React, Node.js, and TypeScript to deliver innovative enterprise applications. Role: Full Stack Developer 📍 Location: Pune 💼 Experience: 5 - 9 Years Key Responsibilities Design, develop, and maintain scalable web applications. Build robust backend services using Java and modern frameworks. Develop responsive and interactive user interfaces using React.js and TypeScript. Create and integrate RESTful APIs and microservices. Collaborate with cross-functional teams to define, design, and deliver high-quality solutions. Participate in code reviews, unit testing, debugging, and performance optimization. Follow Agile development practices and contribute to continuous improvement initiatives. Required Skills ✅ Strong experience in Java Full Stack Development ✅ Hands-on expertise in React.js and TypeScript ✅ Strong development experience with Node.js ✅ Experience in REST APIs and Microservices architecture ✅ Knowledge of HTML5, CSS3, JavaScript, and web application development ✅ Understanding of Git, CI/CD pipelines, and Agile methodologies Preferred Skills Experience with cloud platforms (Azure, AWS, GCP) Exposure to Docker and Kubernetes Knowledge of database technologies such as SQL, Oracle, PostgreSQL, or MongoDB Strong problem-solving and analytical skills Educational Qualification BE / BTech / BCA / BSc / ME / MTech / MCA / MSc Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Infosys by 2x See who you know",
-      "score": 43,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "Node",
         "REST",
         "Docker",
         "Kubernetes",
-        "GCP",
         "CI/CD",
         "SQL",
-        "MongoDB"
+        "Jest",
+        "Testing Library"
       ],
       "excluded": false
     },
     {
-      "title": "Fullstack - Node.js, PostgreSQL, React",
-      "company": "UST",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-node-js-postgresql-react-at-ust-4481435588",
-      "postedAt": "2026-10-26",
-      "jobId": "4481435588",
-      "description": "",
-      "score": 32,
-      "matchedSkills": [
-        "React",
-        "Node",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full Stack Developer – React, Node.js & React Native",
-      "company": "LearnRush LMS",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-react-node-js-react-native-at-learnrush-lms-4482960246",
-      "postedAt": "2026-10-26",
-      "jobId": "4482960246",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Software Engineer I - Node & React [T500-30415]",
-      "company": "Marriott Tech Accelerator",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-i-node-react-t500-30415-at-marriott-tech-accelerator-4483561129",
-      "postedAt": "2026-10-26",
-      "jobId": "4483561129",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Sr. Software Engineer - NodeJs+ReactJs Job",
-      "company": "YASH Technologies Middle East",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/sr-software-engineer-nodejs%2Breactjs-job-at-yash-technologies-middle-east-4481447784",
-      "postedAt": "2026-10-26",
-      "jobId": "4481447784",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full Stack Engineer (Node js + React) - ( Banking/Fintech +1 year in Playwright +Min 2 years in Gen AI is mandate)- 5+ & 8+ YOE for Bengaluru - Immediate - 30 Days joiners",
-      "company": "ValueLabs",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-node-js-%2B-react-banking-fintech-%2B1-year-in-playwright-%2Bmin-2-years-in-gen-ai-is-mandate-5%2B-8%2B-yoe-for-bengaluru-immediate-30-days-joiners-at-valuelabs-4483296701",
-      "postedAt": "2026-10-27",
-      "jobId": "4483296701",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Platform Software Engineer",
-      "company": "Oracle",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-platform-software-engineer-at-oracle-4481809881",
-      "postedAt": "2026-10-27",
-      "jobId": "4481809881",
-      "description": "Senior Platform Software Engineer Oracle Bengaluru, Karnataka, India 9 hours ago Be among the first 25 applicants See who Oracle has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Platform Software Engineer role at Oracle Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Senior Platform Software Engineer at Oracle Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Job Description Oracle Health groupis on a mission to bring the modern health care technology platform to provide better health insights and human-centric experiences for patients, providers, payers, and the public. Demonstrated ability proven experience in Software Engineering / Information Technology as a lead in solving real-world problems. Build modules and components for complex, scalable products that are secure, reliable, and observable. Participate in architecture discussions, design sessions, and code reviews for functional correctness, architectural maintainability, and performance. Proficient with JavaScript and UI development. Full stack development knowledge is a plus. Proficient in RESTful web services, Service Oriented Architecture, and Microservice development. Proficient in SQL Queries with Oracle or any Backend technologies. Software Design and Hands-on Development in JavaScript, ReactJS / TypeScript Good understanding of Software architecture patterns, Design Patterns, and Data Structures. Experience with Jenkins/GIT or other Continuous Integration/version control tools. Experience with cloud platforms such as AWS/OCI/AZURE is a must. Collaborate with counterparts to understand requirements in detail and come up with design, and task breakdown. Ability to switch over between technologies on demand Write optimized code and care about the quality, performance, and security of the product Proficient is using AI coding tools to accelerate the development Responsibilities As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs. About Us Only Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives. True innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs. We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling 1-888-404-2494 in the United States. Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Oracle by 2x See who you know",
-      "score": 25,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "TypeScript",
-        "REST",
-        "Jenkins",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Fullstack Engineer",
-      "company": "Oracle",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-fullstack-engineer-at-oracle-4481807991",
-      "postedAt": "2026-10-27",
-      "jobId": "4481807991",
-      "description": "Senior Fullstack Engineer Oracle Bengaluru, Karnataka, India 9 hours ago 54 applicants See who Oracle has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Fullstack Engineer role at Oracle Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Senior Fullstack Engineer at Oracle Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Job Description Oracle Health groupis on a mission to bring the modern health care technology platform to provide better health insights and human-centric experiences for patients, providers, payers, and the public. Demonstrated ability proven experience in Software Engineering / Information Technology as a lead in solving real-world problems. Build modules and components for complex, scalable products that are secure, reliable, and observable. Participate in architecture discussions, design sessions, and code reviews for functional correctness, architectural maintainability, and performance. Proficient with Javabackend and UI development. Full stack development is mandatory. Proficient in RESTful web services, Service Oriented Architecture, and Microservice development. Proficient in SQL Queries with Oracle or any Backend technologies. Software Design and Hands-on Development in Java, JavaScript, ReactJS / TypeScript Good understanding of Software architecture patterns, Design Patterns, and Data Structures. Experience with Jenkins/GIT or other Continuous Integration/version control tools. Experience with cloud platforms such as AWS/OCI/AZURE is a must. Collaborate with counterparts to understand requirements in detail and come up with design, and task breakdown. Ability to switch over between technologies on demand Write optimized code and care about the quality, performance, and security of the product Proficient is using AI coding tools to accelerate the development Responsibilities As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs. About Us Only Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives. True innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs. We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling 1-888-404-2494 in the United States. Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Oracle by 2x See who you know",
-      "score": 25,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "TypeScript",
-        "REST",
-        "Jenkins",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer - Full Stack",
-      "company": "Smartsheet",
-      "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-full-stack-at-smartsheet-4483610263",
-      "postedAt": "2026-10-27",
-      "jobId": "4483610263",
-      "description": "Software Engineer - Full Stack Smartsheet Bengaluru East, Karnataka, India 3 hours ago Over 200 applicants See who Smartsheet has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer - Full Stack role at Smartsheet Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer - Full Stack at Smartsheet Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day. You Will Contribute to the entire development life cycle, from concept to release Participate in system architecture discussions Implement new features and improve the ones we have already built Maintain existing service API and develop new ones Participate in all phases of quality assurance and defect resolution Interact with systems engineers to debug infrastructure problems Actively use AI tools to improve personal and team efficiency across coding, testing, design, and troubleshooting, exploring AI integration opportunities within team processes and features, and coaching others on effective AI use Perform other duties as assigned You Have Experience with Java Full Stack Experience with HTML, CSS, JavaScript, React.js and CSS pre-processors (front-end engineers) Experience with Object Oriented design Familiarity of Microservice Architecture Experience building scalable, high availability applications BSc. or MSc. in Computer Science, a related field, or equivalent industry experience Legally eligible to work in India on an ongoing basis Fluency in English is required Nice To Have Experience with DynamoDB and other non relational databases Experience with relational databases like MySQL Experience with AWS, and/or AWS qualifications (AWS Developer, AWS Solution Architect) Experience with Docker Experience with service orchestration tools e.g. k8s, HashiCorp Experience with linux debugging commands like tcpdump and strace Get To Know Us At Smartsheet, your ideas are heard, your potential is supported, and your contributions have real impact. You’ll have the freedom to explore, push boundaries, and grow beyond your role. We welcome diverse perspectives and nontraditional paths—because we know that impact comes from individuals who care deeply and challenge thoughtfully. When you’re doing work that stretches you, excites you, and connects you to something bigger, that’s magic at work. Let’s build what’s next, together. Equal Opportunity Employer Smartsheet is an Equal Opportunity (EEO) employer committed to fostering an inclusive environment with the best employees. It is our policy to provide equal employment opportunities to all qualified applicants in accordance with applicable laws in the US, UK, Australia, Germany, Costa Rica, Japan, Bulgaria, India, and Singapore. All qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information. If there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at Smartsheet by 2x See who you know",
-      "score": 22,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "Docker",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "UI React - Senior Engineer",
-      "company": "Iris Software Inc.",
+      "title": ".Net React JS Developer IRC305357",
+      "company": "GlobalLogic",
       "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/ui-react-senior-engineer-at-iris-software-inc-4483564119",
-      "postedAt": "2026-10-26",
-      "jobId": "4483564119",
+      "url": "https://in.linkedin.com/jobs/view/net-react-js-developer-irc305357-at-globallogic-4474906028",
+      "postedAt": "2026-10-27",
+      "jobId": "4474906028",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -202,12 +61,12 @@
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer - ReactJS",
-      "company": "Securonix",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-reactjs-at-securonix-4483715783",
-      "postedAt": "2026-10-26",
-      "jobId": "4483715783",
+      "title": "Senior Full Stack Engineer (Core .Net, react/angular)",
+      "company": "Optum India",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-core-net-react-angular-at-optum-india-4484426025",
+      "postedAt": "2026-10-28",
+      "jobId": "4484426025",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -216,26 +75,82 @@
       "excluded": false
     },
     {
-      "title": "React.JS Developer",
+      "title": "Senior Ruby-on-Rails (RoR), React, Full-stack developer",
+      "company": "Accellor",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-ruby-on-rails-ror-react-full-stack-developer-at-accellor-4481889120",
+      "postedAt": "2026-10-27",
+      "jobId": "4481889120",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Frontend Engineer  React Native",
+      "company": "Rempact",
+      "location": "Bengaluru South, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/frontend-engineer-react-native-at-rempact-4483652903",
+      "postedAt": "2026-10-27",
+      "jobId": "4483652903",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Hiring for a Full stack Developer (Django & React)",
+      "company": "Round1 Jobs",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/hiring-for-a-full-stack-developer-django-react-at-round1-jobs-4481883686",
+      "postedAt": "2026-10-27",
+      "jobId": "4481883686",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior .Net Azure React Developer",
+      "company": "HTC Global Services",
+      "location": "Greater Bengaluru Area",
+      "url": "https://in.linkedin.com/jobs/view/senior-net-azure-react-developer-at-htc-global-services-4484432255",
+      "postedAt": "2026-10-28",
+      "jobId": "4484432255",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Native Mobile App Developer",
+      "company": "NRI PelliGola",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-mobile-app-developer-at-nri-pelligola-4482284145",
+      "postedAt": "2026-10-28",
+      "jobId": "4482284145",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Engineer",
       "company": "Capco",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-capco-4483551851",
-      "postedAt": "2026-10-26",
-      "jobId": "4483551851",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Frontend Developer with React",
-      "company": "Populace World Solutions",
       "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-frontend-developer-with-react-at-populace-world-solutions-4484021459",
+      "url": "https://in.linkedin.com/jobs/view/react-engineer-at-capco-4484061279",
       "postedAt": "2026-10-27",
-      "jobId": "4484021459",
+      "jobId": "4484061279",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -244,12 +159,12 @@
       "excluded": false
     },
     {
-      "title": "Lead Frontend Engineer (React.js)",
-      "company": "RIB Software",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/lead-frontend-engineer-react-js-at-rib-software-4483594156",
-      "postedAt": "2026-10-26",
-      "jobId": "4483594156",
+      "title": "React JS Developer",
+      "company": "Scoutit",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-scoutit-4483851797",
+      "postedAt": "2026-10-28",
+      "jobId": "4483851797",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -258,12 +173,26 @@
       "excluded": false
     },
     {
-      "title": "React Native Developer",
-      "company": "Qloron Pvt Ltd",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-qloron-pvt-ltd-4483279502",
+      "title": "Senior React Developer",
+      "company": "Persistent Systems",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-developer-at-persistent-systems-4482292175",
+      "postedAt": "2026-10-28",
+      "jobId": "4482292175",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "REACTJS DEVELOPER",
+      "company": "Infosys",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/reactjs-developer-at-infosys-4474652620",
       "postedAt": "2026-10-27",
-      "jobId": "4483279502",
+      "jobId": "4474652620",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -275,9 +204,51 @@
       "title": "React Native Developer",
       "company": "Infosys",
       "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-infosys-4474266989",
-      "postedAt": "2026-10-26",
-      "jobId": "4474266989",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-infosys-4474277624",
+      "postedAt": "2026-10-27",
+      "jobId": "4474277624",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Staff Software Engineer II -  React Native, Mobile App Development, Microservices,& Cloud",
+      "company": "Blue Yonder",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/staff-software-engineer-ii-react-native-mobile-app-development-microservices-cloud-at-blue-yonder-4436533764",
+      "postedAt": "2026-10-28",
+      "jobId": "4436533764",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "TECHNICAL LEAD - React JS",
+      "company": "Happiest Minds Technologies",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/technical-lead-react-js-at-happiest-minds-technologies-4482501123",
+      "postedAt": "2026-10-28",
+      "jobId": "4482501123",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior React Native Engineer",
+      "company": "Softmivix Technology Solutions",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-at-softmivix-technology-solutions-4484227577",
+      "postedAt": "2026-10-27",
+      "jobId": "4484227577",
       "description": "",
       "score": 20,
       "matchedSkills": [
