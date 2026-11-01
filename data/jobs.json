@@ -1,109 +1,33 @@
 {
-  "generatedAt": "2026-10-31T10:04:35.378Z",
-  "totalScraped": 382,
-  "totalMatched": 20,
+  "generatedAt": "2026-11-01T10:54:29.652Z",
+  "totalScraped": 274,
+  "totalMatched": 12,
   "jobs": [
     {
-      "title": "Sr Software Engineer - ReactJS, TypeScript & SQL/NoSQL",
-      "company": "Blue Yonder",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-software-engineer-reactjs-typescript-sql-nosql-at-blue-yonder-4470254217",
+      "title": "Senior Software Engineer",
+      "company": "STOXX",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-stoxx-4440549911",
       "postedAt": "2026-10-31",
-      "jobId": "4470254217",
-      "description": "",
-      "score": 32,
+      "jobId": "4440549911",
+      "description": "Senior Software Engineer STOXX Gurgaon, Haryana, India 21 hours ago 145 applicants See who STOXX has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer role at STOXX Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . ISS Stoxx is seeking a Senior Software Engineer to develop and deploy our financial data distribution platform for Gurugram location. Overview We are in the process of a fully re-architecting our distribution ecosystem to a modern componentized set of solutions using GCP technologies. In this IC role, you will collaborate with Principal Data Distribution Engineer and Software Product Management to refine designs and build, prove and migrate to the new stack. Investors rely on ISS STOXX data to make decisions every day. We are rebuilding how that data reaches them: a fully re-architected, componentized distribution platform on GCP. You will help build the new stack from design through migration. You will work with the Principal Data Distribution Engineer and Product Management to turn ambiguous requirements into well-designed services, APIs and applications that run in production. You own what you build, from design through operation. You use AI-assisted engineering, including agentic harnesses, to move faster, and you stay accountable for the quality of what ships. Responsibilities Own the design, build and operation of backend services and APIs that deliver data to global clients. Build the front-end applications on top of them, such as client portals and internal entitlement and administration tooling. Make sound design decisions, document the tradeoffs, and defend them in review. Use agentic harnesses to ship features end to end, with rigorous testing and human review. Turn product needs and enterprise policies into simple, secure and scalable solutions. Improve the reliability, performance and observability of the platform. Raise the bar for the team through code and design reviews, mentoring and shared learning. Requirements 5+ years building and operating production software in the cloud, as a backend or full stack engineer. Strong design fundamentals: you can break an ambiguous problem into modular, testable, evolvable components, and you can explain why you chose one design over another. A track record of shipping and owning large-scale distributed systems. Proficiency in Python or Go and SQL, plus the judgment to pick the right tool for the problem. Front-end experience with TypeScript and a modern framework such as React or Angular is good to have. An API-first approach, with experience building batch and real-time API services. Experience with authentication, authorization, and user-entitlement management. Hands-on experience with GCP across database, serverless, containerization and API. Hands-on experience using generative AI and agentic harnesses to deliver production features. A bias for simplicity, automation and observability, and experience delivering incremental value in agile teams. Clear written and verbal communication, and experience working in global teams. Bachelor’s or master’s degree in computer science or a related field, or equivalent practical experience. Desirable Apigee API management experience. Data engineering experience, such as batch or streaming pipelines and BigQuery. Experience building and integrating agentic RAG solutions. Experience with data cataloguing. Familiarity with financial market data, index data models, and feeds. #MIDSENIOR #STOXX What You Can Expect From Us Our people are the moving force behind our work. We are committed to building a culture that values diverse skills, perspectives, and experiences. If you have the skills, passion, and drive to help us bring clarity and transparency to capital markets, we want to work with you. Together, we can grow your career in an environment that fuels creativity, drives innovation, and has real impact. About ISS STOXX ISS STOXX delivers world-class research, data, and technology solutions that empower capital market participants to pursue their visions with confidence. Our expertise spans indices, corporate governance, sustainability, cyber risk, and fund intelligence, giving clients the tools they need to uncover opportunities, manage risks, and navigate evolving regulations. We are made up of 4,000 professionals operating across 20 countries and serving approximately 5,000 clients, including many of the world’s leading institutional investors. Our scale and reach give us deep market knowledge, while our innovative methodologies allow us to offer our clients tailored insights that drive impact and success. ISS STOXX Indices , including the renowned STOXX and DAX families, sets the standard for rules-based, transparent, and liquid benchmarks and indices. Our ready-made products and customized solutions are used by sophisticated institutional investors, ETF issuers, and providers of derivatives and structured products. Visit our website: https://www.iss-stoxx.com/ Learn more: https://stoxx.com/ View additional open roles: https://www.iss-stoxx.com/about/careers/ ISS STOXX is an equal employment opportunity employer and does not discriminate against any employee or applicant because of race, color, ethnicity, creed, religion, sex, age, height, weight, citizenship status, national origin, social origin, sexual orientation, gender identity or gender expression, pregnancy status, marital status, familial status, mental or physical disability, veteran status, military service or status, genetic information, or any other characteristic protected by law (referred to as “protected status”). All activities including, but not limited to, recruiting and hiring, recruitment advertising, promotions, performance appraisals, training, job assignments, compensation, demotions, transfers, terminations (including layoffs), benefits, and other terms, conditions, and privileges of employment, are and will be administered on a non-discriminatory basis, consistent with all applicable federal, state, and local requirements. We are committed to ensuring equal opportunity in employment for qualified person with disabilities, fully in compliance with the Americans with Disabilities Act (ADA) in the US along with other applicable jurisdictions in which we operate. We prohibit discrimination against applicants and employees on the basis of disability as it pertains to the job application, hiring process, and other terms and conditions of employment. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact ISS_Careers_Accommodations@iss-stoxx.com . This email is created exclusively to assist disabled job seekers where disability prevents them from being able to apply online. Only messages left for this purpose will be returned. Messages sent for other purposes, such as following up on an application or other technical issues not related to a disability, will not receive a response. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Financial Services Referrals increase your chances of interviewing at STOXX by 2x See who you know",
+      "score": 22,
       "matchedSkills": [
         "React",
         "TypeScript",
+        "Express",
+        "GCP",
         "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Fullstack - React, Node, TypeScript, AWS",
-      "company": "UST",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-react-node-typescript-aws-at-ust-4483425947",
-      "postedAt": "2026-10-30",
-      "jobId": "4483425947",
-      "description": "",
-      "score": 32,
-      "matchedSkills": [
-        "React",
-        "TypeScript",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Contract Position:React JS Node JS Developer",
-      "company": "People Prime Worldwide",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/contract-position-react-js-node-js-developer-at-people-prime-worldwide-4485346051",
-      "postedAt": "2026-10-30",
-      "jobId": "4485346051",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Frontend Developer – React/TypeScript",
-      "company": "Tata Technologies",
-      "location": "Pune District, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/frontend-developer-%E2%80%93-react-typescript-at-tata-technologies-4485603493",
-      "postedAt": "2026-10-30",
-      "jobId": "4485603493",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "TypeScript"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Sr. Software Engineer",
-      "company": "Allegion",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/sr-software-engineer-at-allegion-4484464115",
-      "postedAt": "2026-10-30",
-      "jobId": "4484464115",
-      "description": "Sr. Software Engineer Allegion Bengaluru, Karnataka, India 16 hours ago 91 applicants See who Allegion has hired for this role Apply Join or sign in to find your next job Join to apply for the Sr. Software Engineer role at Allegion Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Sr. Software Engineer at Allegion Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Creating Peace of Mind by Pioneering Safety and Security At Allegion, we help keep the people you know and love safe and secure where they live, work and visit. With more than 40 brands, 14,000+ employees globally and products sold in 130 countries, we specialize in security around the doorway and beyond. Additionally, Allegion is proud to be recognized with the 2026 Gallup Exceptional Workplace Award (GEWA) for the third consecutive year, earning distinction in both the employee engagement and strengths categories. This year, Allegion also received Gallup’s With Distinction honor — a designation reserved for a select group of organizations that go above and beyond in building exceptional workplace cultures. Position Title: Senior Software Engineer (Full Stack) - .NET &amp; Angular Location: Bangalore, India Business Unit: Allegion India Pvt. Ltd Allegion India is seeking a highly motivated Senior Software Engineer, who will work with a cross-functional team to design, architect, build, deploy and maintain innovative software solutions to complex business needs in Allegion’s Americas IT Business Job Description Responsible for Designing, developing new solutions and enhancing existing solutions with new features additions and quality improvements. Work closely with front office delivery and global digital groups to understand requirements and translate them to elegant implementation. Setting up and following standards, practices, and process for ensuring high code quality of the deliverables. Peer reviews for code and design Ability to contribute towards design/architectural solutions for new developments Responsible for the execution of technical solutions throughout all phases of the SDLC Works collaboratively across multiple business units and architectural teams to ensure that stakeholder needs are acknowledged, and requirements are appropriately included in the backlog Responsible for managing and completing significant projects involving multiple component and subsystems. Ability to relate to others, demonstrated resourcefulness and flexibility, active participation in decision making process, ability to assess risk and act with a sense of urgency. Effective written, verbal and presentations skills with the ability to clearly articulate ideas and concepts. Self-directed and able to direct others. Required Knowledge, Skills And Abilities 5+ years of experience with full stack development. Experience in designing and working on SOA and REST based architecture. Excellent skills and experience with C#, .Net Core, Entity Framework and web standards. Should have 5+ years of experience in front end development using Angular/React. Should have 2+ years of design and developments around Microsoft Azure. Strong skills in software design, design patterns and asynchronous programming. In depth knowledge of REST services such as Web API. Knowledge on cloud – AWS/Azure/GCP and willing to learn different cloud technology. Experienced in creating applications with .NET Core and familiarity with .NET Framework. Experienced in Unit testing framework on Angular like Karma, Jasmine or Jest. Excellent understanding on NPM modules and demonstrated contributions to NPM packages. Excellent in DB layers connecting SQL Server and Cosmos DB. Development experience defining, developing, and maintaining Service based architectures. Knowledge on deploying products leveraging Continuous Integration (CI) and Continuous Delivery (CD) Experience in Agile with scrum delivery models. Good To Have Experience using Codeium, Open AI or similar tools. Have experience working with large datasets including data integration, analysis and visualization. Experience in integrating with ERP Systems like Oracle/ Microsoft Dynamics. Experience in Event driven design and implementation. Possess knowledge of cloud infrastructure, setup and configurations. Required Education And/or Experience BE or M Tech in Computer Science Engineering/ relevant 5 to 8 Years of experience in Software Application Development Allegion is a diverse and inclusive environment. We are an equal opportunity employer and are dedicated to hiring qualified protected veterans and individuals with disabilities. If for any reason you cannot apply through the job center, please contact HR, Allegion India for special accommodation. We are an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law. We Celebrate Who We Are! Allegion is committed to building and maintaining a diverse and inclusive workplace. Together, we embrace all differences and similarities among colleagues, as well as the differences and similarities within the relationships that we foster with customers, suppliers and the communities where we live and work. Whatever your background, experience, race, color, national origin, religion, age, gender, gender identity, disability status, sexual orientation, protected veteran status, or any other characteristic protected by law, we will make sure that you have every opportunity to impress us in your application and the opportunity to give your best at work, not because we’re required to, but because it’s the right thing to do. We are also committed to providing accommodations for persons with disabilities. If for any reason you cannot apply through our career site and require an accommodation or assistance, please contact our Talent Acquisition Team. © Allegion plc, 2023 | Block D, Iveagh Court, Harcourt Road, Dublin 2, Co. Dublin, Ireland REGISTERED IN IRELAND WITH LIMITED LIABILITY REGISTERED NUMBER 527370 Allegion is an equal opportunity and affirmative action employer Privacy Policy Show more Show less Seniority level Not Applicable Employment type Full-time Industries Appliances, Electrical, and Electronics Manufacturing Referrals increase your chances of interviewing at Allegion by 2x See who you know",
-      "score": 22,
-      "matchedSkills": [
-        "React",
-        "REST",
-        "GCP",
-        "SQL",
-        "Jest"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React - Senior Engineer",
-      "company": "Iris Software Inc.",
+      "title": "Tech S and T-Front End Web Developer-React-Senior-RT-GD02",
+      "company": "EY",
       "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/react-senior-engineer-at-iris-software-inc-4485338267",
-      "postedAt": "2026-10-30",
-      "jobId": "4485338267",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "React js developer",
-      "company": "GoodSpace AI",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-goodspace-ai-4483919876",
+      "url": "https://in.linkedin.com/jobs/view/tech-s-and-t-front-end-web-developer-react-senior-rt-gd02-at-ey-4483947163",
       "postedAt": "2026-10-31",
-      "jobId": "4483919876",
+      "jobId": "4483947163",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -112,152 +36,12 @@
       "excluded": false
     },
     {
-      "title": "Frontend Developer - AI-Centric | Next.js & Modern Tooling",
-      "company": "HYrEzy Tech Solutions",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/frontend-developer-ai-centric-next-js-modern-tooling-at-hyrezy-tech-solutions-4484851322",
-      "postedAt": "2026-10-30",
-      "jobId": "4484851322",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "Next.js"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "SPFx + React + Power Platform Developer",
-      "company": "Anovia Inc.",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/spfx-%2B-react-%2B-power-platform-developer-at-anovia-inc-4485114621",
-      "postedAt": "2026-10-30",
-      "jobId": "4485114621",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Mobile Engineer E2 - (React Native)",
-      "company": "BitGo",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/mobile-engineer-e2-react-native-at-bitgo-4476295152",
-      "postedAt": "2026-10-30",
-      "jobId": "4476295152",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Full Stack Engineer (React, .net)",
-      "company": "CAI Software, LLC",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-react-net-at-cai-software-llc-4476032231",
-      "postedAt": "2026-10-31",
-      "jobId": "4476032231",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Next.js Developer",
-      "company": "Quixta",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-next-js-developer-at-quixta-4483459086",
-      "postedAt": "2026-10-30",
-      "jobId": "4483459086",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "Next.js"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Junior Next.js Developer",
-      "company": "Quixta",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/junior-next-js-developer-at-quixta-4483446679",
-      "postedAt": "2026-10-30",
-      "jobId": "4483446679",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "Next.js"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Frontend Developer - AI-Centric | Next.js & Modern Tooling",
-      "company": "HYrEzy Tech Solutions",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/frontend-developer-ai-centric-next-js-modern-tooling-at-hyrezy-tech-solutions-4484856332",
-      "postedAt": "2026-10-30",
-      "jobId": "4484856332",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "Next.js"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Frontend Engineer (React + Chrome Extension)",
-      "company": "TTEC Digital",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-react-%2B-chrome-extension-at-ttec-digital-4478022572",
-      "postedAt": "2026-10-31",
-      "jobId": "4478022572",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior React Native developer",
-      "company": "Instacloset",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-native-developer-at-instacloset-4483424824",
-      "postedAt": "2026-10-30",
-      "jobId": "4483424824",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Staff Software Engineer II -  React Native, Mobile App Development, Microservices,& Cloud",
-      "company": "Blue Yonder",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/staff-software-engineer-ii-react-native-mobile-app-development-microservices-cloud-at-blue-yonder-4436533764",
-      "postedAt": "2026-10-31",
-      "jobId": "4436533764",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior React Native Developer",
-      "company": "Quixta",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-native-developer-at-quixta-4483444543",
-      "postedAt": "2026-10-30",
-      "jobId": "4483444543",
+      "title": "React Native Developer",
+      "company": "Coforge",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-coforge-4483989152",
+      "postedAt": "2026-11-01",
+      "jobId": "4483989152",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -270,7 +54,7 @@
       "company": "Optum India",
       "location": "Noida, Uttar Pradesh, India",
       "url": "https://in.linkedin.com/jobs/view/manager-software-engineering-react-net-azure-at-optum-india-4485642386",
-      "postedAt": "2026-10-30",
+      "postedAt": "2026-10-31",
       "jobId": "4485642386",
       "description": "",
       "score": 20,
@@ -280,18 +64,114 @@
       "excluded": false
     },
     {
-      "title": "Software Engineer I - FullStack",
-      "company": "Rippling",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-i-fullstack-at-rippling-4485643271",
-      "postedAt": "2026-10-30",
-      "jobId": "4485643271",
-      "description": "Software Engineer I - FullStack Rippling Bengaluru, Karnataka, India 10 hours ago Over 200 applicants See who Rippling has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer I - FullStack role at Rippling Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Join or sign in to save this job Join to save Software Engineer I - FullStack at Rippling Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . About Rippling Rippling gives businesses one place to run HR, IT, and Finance. It brings together all of the workforce systems that are normally scattered across a company, like payroll, expenses, benefits, and computers. For the first time ever, you can manage and automate every part of the employee lifecycle in a single system. Take onboarding, for example. With Rippling, you can hire a new employee anywhere in the world and set up their payroll, corporate card, computer, benefits, and even third-party apps like Slack and Microsoft 365—all within 90 seconds. Based in San Francisco, CA, Rippling has raised $1.85B+ from the world’s top investors—including Kleiner Perkins, Founders Fund, Sequoia, Greenoaks, and Bedrock—and was named one of America's best startup employers by Forbes. We prioritize candidate safety. Please be aware that all official communication will only be sent from @Rippling.com addresses. About The Team The App Components Team is a forward-thinking, platform-focused product engineering team dedicated to crafting the cohesive, high-performing building blocks that define Rippling’s \"Enterprise Studio\" experience. About The Role As a Software Engineer I (Full Stack) on this team you will be responsible to build and scale the systems that power these components. While your primary focus will be on the backend, this is a truly full-stack role. You will help design the distributed systems that power our platform and also contribute to React and React Native code to deliver polished end-to-end product experiences. You will be responsible for building scalable backend services, APIs, and data models, while partnering closely with product and design to ensure the underlying complexity is translated into seamless, high-performance user experiences. What You Will Do Design and implement scalable backend services using Python and Golang to support complex enterprise data modeling and product use cases. Contribute to systems that operate at scale, with exposure to distributed systems challenges and technologies such as Kafka, Flink, and AWS. While your strength lies in backend engineering, you will also contribute to the frontend codebase. You will write high-quality React and React Native code to ship end-to-end features and help deliver intuitive, performant UI components. Take ownership of meaningful product initiatives from early problem definition through implementation. You will help shape technical designs for new \"App Studio\" capabilities and deliver robust solutions. Write clean, maintainable, well-tested code, participate in thoughtful code reviews, and contribute to strong engineering standards across backend and frontend systems. Work closely with Product, Design, and other engineers to break down complex user problems and build components that are technically strong and practically useful for teams building on top of them. What You Will Need 1+ years of professional software engineering experience, with strong experience building production systems Proficiency in building scalable backend services. Experience with Python, Django, Golang, MongoDB, and AWS is highly preferred. Comfortable in writing and shipping production code in React and React Native. You should understand component lifecycles, state management, and mobile constraints well enough to build and iterate on UI for the systems you own. Ability to design scalable, reliable systems and reason through trade-offs such as consistency, performance, and fault tolerance. Experience building reusable systems, frameworks, or developer-facing components is a plus. You should be excited by building flexible foundations that can support multiple product use cases over time. A track record of independently driving projects, navigating ambiguity, and delivering high-quality outcomes. Strong communication skills and the ability to work effectively with both technical and non-technical stakeholders. Additional Information Rippling is an equal opportunity employer. We are committed to building a diverse and inclusive workforce and do not discriminate based on race, religion, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, sexual orientation, veteran or military status, or any other legally protected characteristics, Rippling is committed to providing reasonable accommodations for candidates with disabilities who need assistance during the hiring process. To request a reasonable accommodation, please email accommodations@rippling.com Rippling highly values having employees working in-office to foster a collaborative work environment and company culture. For office-based employees (employees who live within a defined radius of a Rippling office), Rippling considers working in the office, at least three days a week under current policy, to be an essential function of the employee's role. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at Rippling by 2x See who you know",
-      "score": 16,
+      "title": "Senior React Developer",
+      "company": "Persistent Systems",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-developer-at-persistent-systems-4485159005",
+      "postedAt": "2026-10-31",
+      "jobId": "4485159005",
+      "description": "",
+      "score": 20,
       "matchedSkills": [
-        "React",
-        "Express",
-        "MongoDB"
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Tech S and T-Front End Web Developer-React-Senior-RT-GD02",
+      "company": "EY",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/tech-s-and-t-front-end-web-developer-react-senior-rt-gd02-at-ey-4483932886",
+      "postedAt": "2026-10-31",
+      "jobId": "4483932886",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Tech S and T-Front End Web Developer-React-Senior-RT-GD02",
+      "company": "EY",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/tech-s-and-t-front-end-web-developer-react-senior-rt-gd02-at-ey-4483945254",
+      "postedAt": "2026-10-31",
+      "jobId": "4483945254",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React JS Developer",
+      "company": "Scoutit",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-scoutit-4485192933",
+      "postedAt": "2026-11-01",
+      "jobId": "4485192933",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Tech S and T-Front End Web Developer-React-Senior-RT-GD02",
+      "company": "EY",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/tech-s-and-t-front-end-web-developer-react-senior-rt-gd02-at-ey-4483944280",
+      "postedAt": "2026-10-31",
+      "jobId": "4483944280",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Tech S and T-Full Stack-React and .Net-Manager-RT-GD02",
+      "company": "EY",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/tech-s-and-t-full-stack-react-and-net-manager-rt-gd02-at-ey-4483955252",
+      "postedAt": "2026-10-31",
+      "jobId": "4483955252",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Tech S and T-Net-React -Fullstack Developer-Manager -RT-GD02",
+      "company": "EY",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/tech-s-and-t-net-react-fullstack-developer-manager-rt-gd02-at-ey-4483947161",
+      "postedAt": "2026-10-31",
+      "jobId": "4483947161",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Product Development Internship in Bangalore",
+      "company": "SmartED Innovations",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/product-development-internship-in-bangalore-at-smarted-innovations-4485930189",
+      "postedAt": "2026-11-01",
+      "jobId": "4485930189",
+      "description": "Product Development Internship in Bangalore SmartED Innovations Bengaluru, Karnataka, India 10 hours ago Over 200 applicants See who SmartED Innovations has hired for this role Apply Join or sign in to find your next job Join to apply for the Product Development Internship in Bangalore role at SmartED Innovations Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . As a Product Development Intern at SmartEd Innovations, you’ll help turn early product ideas into useful, well-tested features. Working with the team, you’ll contribute to prototypes, explore technical approaches, and learn how product decisions take shape from concept through implementation. Selected Intern's Day-to-day Responsibilities Include Build and refine user-facing prototypes in React, translating product requirements and feedback into clear, functional interfaces. Support backend development by implementing and testing API endpoints, documenting expected behavior, and helping resolve integration issues. Use Python libraries to analyze data, automate small workflows, or evaluate approaches that support product development. Explore practical applications of artificial intelligence and machine learning, creating small experiments and sharing results with the team. Mostly helping in QA and testing of existing and upcoming MVPs and prototypes. Help document system design choices, trace how components interact, and identify potential reliability or performance concerns. Investigate networking and connectivity issues during development and testing, and communicate findings with clear steps to reproduce them. Use Claude to assist with tasks such as brainstorming, code exploration, or drafting test cases, reviewing its output for accuracy and usefulness. About Company: SmartED is an ed-tech platform dedicated to bridging the gap between formal education and the dynamic demands of the industry. We offer students internships, professional training programs, career guidance, and mentorship, all designed to prepare them for the careers of tomorrow. At SmartED, we believe everyone should have the chance to advance through technology and develop essential future-ready skills. Our platform features assessments, tailored learning paths, and courses created by industry experts, enabling individuals to benchmark their expertise across various roles. Our mission is to train the global workforce for future careers by partnering with leading technology companies. By understanding how technology is transforming industries, we teach the critical tech skills that employers are seeking. Show more Show less Seniority level Internship Employment type Internship Industries Higher Education and Software Development Referrals increase your chances of interviewing at SmartED Innovations by 2x See who you know",
+      "score": 10,
+      "matchedSkills": [
+        "React"
       ],
       "excluded": false
     }
