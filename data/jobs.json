@@ -1,75 +1,213 @@
 {
-  "generatedAt": "2026-11-01T10:54:29.652Z",
-  "totalScraped": 274,
-  "totalMatched": 12,
+  "generatedAt": "2026-11-02T11:43:27.110Z",
+  "totalScraped": 369,
+  "totalMatched": 20,
   "jobs": [
     {
-      "title": "Senior Software Engineer",
-      "company": "STOXX",
-      "location": "Gurgaon, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-stoxx-4440549911",
-      "postedAt": "2026-10-31",
-      "jobId": "4440549911",
-      "description": "Senior Software Engineer STOXX Gurgaon, Haryana, India 21 hours ago 145 applicants See who STOXX has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Software Engineer role at STOXX Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . ISS Stoxx is seeking a Senior Software Engineer to develop and deploy our financial data distribution platform for Gurugram location. Overview We are in the process of a fully re-architecting our distribution ecosystem to a modern componentized set of solutions using GCP technologies. In this IC role, you will collaborate with Principal Data Distribution Engineer and Software Product Management to refine designs and build, prove and migrate to the new stack. Investors rely on ISS STOXX data to make decisions every day. We are rebuilding how that data reaches them: a fully re-architected, componentized distribution platform on GCP. You will help build the new stack from design through migration. You will work with the Principal Data Distribution Engineer and Product Management to turn ambiguous requirements into well-designed services, APIs and applications that run in production. You own what you build, from design through operation. You use AI-assisted engineering, including agentic harnesses, to move faster, and you stay accountable for the quality of what ships. Responsibilities Own the design, build and operation of backend services and APIs that deliver data to global clients. Build the front-end applications on top of them, such as client portals and internal entitlement and administration tooling. Make sound design decisions, document the tradeoffs, and defend them in review. Use agentic harnesses to ship features end to end, with rigorous testing and human review. Turn product needs and enterprise policies into simple, secure and scalable solutions. Improve the reliability, performance and observability of the platform. Raise the bar for the team through code and design reviews, mentoring and shared learning. Requirements 5+ years building and operating production software in the cloud, as a backend or full stack engineer. Strong design fundamentals: you can break an ambiguous problem into modular, testable, evolvable components, and you can explain why you chose one design over another. A track record of shipping and owning large-scale distributed systems. Proficiency in Python or Go and SQL, plus the judgment to pick the right tool for the problem. Front-end experience with TypeScript and a modern framework such as React or Angular is good to have. An API-first approach, with experience building batch and real-time API services. Experience with authentication, authorization, and user-entitlement management. Hands-on experience with GCP across database, serverless, containerization and API. Hands-on experience using generative AI and agentic harnesses to deliver production features. A bias for simplicity, automation and observability, and experience delivering incremental value in agile teams. Clear written and verbal communication, and experience working in global teams. Bachelor’s or master’s degree in computer science or a related field, or equivalent practical experience. Desirable Apigee API management experience. Data engineering experience, such as batch or streaming pipelines and BigQuery. Experience building and integrating agentic RAG solutions. Experience with data cataloguing. Familiarity with financial market data, index data models, and feeds. #MIDSENIOR #STOXX What You Can Expect From Us Our people are the moving force behind our work. We are committed to building a culture that values diverse skills, perspectives, and experiences. If you have the skills, passion, and drive to help us bring clarity and transparency to capital markets, we want to work with you. Together, we can grow your career in an environment that fuels creativity, drives innovation, and has real impact. About ISS STOXX ISS STOXX delivers world-class research, data, and technology solutions that empower capital market participants to pursue their visions with confidence. Our expertise spans indices, corporate governance, sustainability, cyber risk, and fund intelligence, giving clients the tools they need to uncover opportunities, manage risks, and navigate evolving regulations. We are made up of 4,000 professionals operating across 20 countries and serving approximately 5,000 clients, including many of the world’s leading institutional investors. Our scale and reach give us deep market knowledge, while our innovative methodologies allow us to offer our clients tailored insights that drive impact and success. ISS STOXX Indices , including the renowned STOXX and DAX families, sets the standard for rules-based, transparent, and liquid benchmarks and indices. Our ready-made products and customized solutions are used by sophisticated institutional investors, ETF issuers, and providers of derivatives and structured products. Visit our website: https://www.iss-stoxx.com/ Learn more: https://stoxx.com/ View additional open roles: https://www.iss-stoxx.com/about/careers/ ISS STOXX is an equal employment opportunity employer and does not discriminate against any employee or applicant because of race, color, ethnicity, creed, religion, sex, age, height, weight, citizenship status, national origin, social origin, sexual orientation, gender identity or gender expression, pregnancy status, marital status, familial status, mental or physical disability, veteran status, military service or status, genetic information, or any other characteristic protected by law (referred to as “protected status”). All activities including, but not limited to, recruiting and hiring, recruitment advertising, promotions, performance appraisals, training, job assignments, compensation, demotions, transfers, terminations (including layoffs), benefits, and other terms, conditions, and privileges of employment, are and will be administered on a non-discriminatory basis, consistent with all applicable federal, state, and local requirements. We are committed to ensuring equal opportunity in employment for qualified person with disabilities, fully in compliance with the Americans with Disabilities Act (ADA) in the US along with other applicable jurisdictions in which we operate. We prohibit discrimination against applicants and employees on the basis of disability as it pertains to the job application, hiring process, and other terms and conditions of employment. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact ISS_Careers_Accommodations@iss-stoxx.com . This email is created exclusively to assist disabled job seekers where disability prevents them from being able to apply online. Only messages left for this purpose will be returned. Messages sent for other purposes, such as following up on an application or other technical issues not related to a disability, will not receive a response. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries Financial Services Referrals increase your chances of interviewing at STOXX by 2x See who you know",
-      "score": 22,
+      "title": "Senior Frontend Engineer - React/Next.js & AWS (Remote, Full-Time) [AS315]",
+      "company": "Smart Working",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-react-next-js-aws-remote-full-time-as315-at-smart-working-4484352565",
+      "postedAt": "2026-11-02",
+      "jobId": "4484352565",
+      "description": "",
+      "score": 40,
       "matchedSkills": [
         "React",
-        "TypeScript",
-        "Express",
-        "GCP",
+        "Next.js"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Frontend Engineer - React/Next.js & AWS (Remote, Full-Time) [AS315]",
+      "company": "Smart Working",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-react-next-js-aws-remote-full-time-as315-at-smart-working-4484359200",
+      "postedAt": "2026-11-02",
+      "jobId": "4484359200",
+      "description": "",
+      "score": 40,
+      "matchedSkills": [
+        "React",
+        "Next.js"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Frontend Engineer - React/Next.js & AWS (Remote, Full-Time) [AS315]",
+      "company": "Smart Working",
+      "location": "Greater Delhi Area",
+      "url": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-react-next-js-aws-remote-full-time-as315-at-smart-working-4484359199",
+      "postedAt": "2026-11-02",
+      "jobId": "4484359199",
+      "description": "",
+      "score": 40,
+      "matchedSkills": [
+        "React",
+        "Next.js"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Frontend Engineer - React/Next.js & AWS (Remote, Full-Time) [AS315]",
+      "company": "Smart Working",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-react-next-js-aws-remote-full-time-as315-at-smart-working-4484361102",
+      "postedAt": "2026-11-02",
+      "jobId": "4484361102",
+      "description": "",
+      "score": 40,
+      "matchedSkills": [
+        "React",
+        "Next.js"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Sr. Software Engineer, .NetFullstack ReactJS",
+      "company": "Conga",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/sr-software-engineer-netfullstack-reactjs-at-conga-4485465710",
+      "postedAt": "2026-11-02",
+      "jobId": "4485465710",
+      "description": "Sr. Software Engineer, .NetFullstack ReactJS Conga Bengaluru, Karnataka, India 1 hour ago 34 applicants See who Conga has hired for this role Apply Join or sign in to find your next job Join to apply for the Sr. Software Engineer, .NetFullstack ReactJS role at Conga Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job A career that’s the whole package! At Conga, we’ve built a community where our colleagues can thrive. Here you’ll find opportunities to innovate and support growth through individual and team development, all within an environment where every voice is heard. Conga lines up commercial operations so companies run as connected, smarter businesses. By unifying the people and processes that drive commerce, Conga aligns pricing, quoting, contracting, rebates, and communications so teams stay in sync and buyers keep moving forward. The result is trusted decisions, consistent buyer experiences, and profitable growth. More than 10,000 customers worldwide, including over 50% of the Fortune 100®, trust Conga when commercial complexity is high and global impact is on the line. Job Title: Sr. Software Engineer Location: Bangalore Reports to : Director, Software Engineering A quick snapshot… We are looking for a talented Senior Software Engineer to help us build next gen Conga products. We want to hire unbelievably bright developers, who are a joy to work with, love to work with others, solve problems, listen well, and lead as appropriate. We believe in using the best tools for the task at hand so the ability and desire to learn new programming languages and technologies is a must. All of this adds up to an exciting, challenging, and always interesting place to work, where hard problems are found and solved every day. Why it’s a big deal… This is one of the critical roles in the engineering team where a Senior Software Engineer will maintain front-end and back-end aspects of application development. This role works on multiple technologies and databases to make sure the product development moves towards rapid development, rich controls, more scalable, and better security. It is a challenging role working on the latest tech stack and a dynamic &amp; rewarding environment. Are you the person we’re looking for? Front-end Technologies . You should have 5+ years of experience in Front-end technologies like HTML5, CSS3, JQuery, Javascript, Bootstrap, and at least 2+ years of experience in ReactJS. Deployment &amp; Collaboration Tools. You should have experience working with container-based platforms like Docker/ Kubernetes and be proficient with source control and team collaboration tools (GitHub, Jira, Microsoft teams). Backend Technologies. You should have hands-on experience in backend technologies, API, design patterns, architecture, C# &amp; SQL Query, and good to have Microservices. Education. A bachelor’s degree in Engineering or equivalent. Here’s What Will Give You An Edge… Passionate Coder. Proactive, self-driven, and enjoys solving complex problems, not just in the primary area of responsibility but across boundaries. Identify and implement best practices for coding as well as development processes and perform as a trusted contributor requiring little to no supervision and demonstrating the ability to meet deadlines, exceed goals, and create benchmarks for success. Strong communication and interpersonal skills. You’re not just comfortable engaging in collaborative discussions, but initiating them, too. You are skilled at reading and adapting to different communication styles. When you speak you are clear and concise. Your strong listening skills foster connection with our clients and allow you to accurately collect the right information so you can resolve issues in the most expedient way. Analytical thinker and creative problem solve r. You can see issues holistically and follow the flow of the stack to get to the root of the matter -- a key skill in this role. But where you really shine is with your ability to identify creative solutions to unique customer requirements. This is critical for ensuring our customer issues are resolved in a manner that meets or exceeds their expectations without increasing their costs. Ability to meet deadlines. You are able to perform as a trusted contributor requiring little to no supervision and demonstrating the ability to meet deadlines, exceed goals, and create benchmarks for success. Did we pique your interest? If this sounds like the kind of job you would love in the kind of environment where you would thrive, please click apply. We'd love to hear from you! Preferred Resume Format We accept resumes in any format, we suggest using PDF or plain text. These formats help ensure that your resume’s formatting remains intact, making it easier for our recruiters to review your application promptly. Don’t meet every requirement for the role? Studies have shown that women and members of ethnic minorities are less likely to apply to jobs unless they meet every single qualification. At Conga we are dedicated to building a diverse, inclusive, and authentic workplace, so if you’re excited about this role but your experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You just might be the right candidate for this or other roles. Additional Information Conga is proud to be an Equal Opportunity Employer and provides equal employment opportunities to all employees and applicants regardless of race, color, religion, gender, gender identity, age, national origin, disability, parental or pregnancy status, marriage and civil partnership, sexual orientation, veteran status, or any other characteristic protected by law. We understand interviewing can be stressful for those with disabilities. If reasonable accommodation is needed to allow you to show us your best self, please let your recruiter know as soon as possible. All your information will be kept confidential according to EEO guidelines. Conga is not open to third party solicitation or resumes for our posted FTE positions. Resumes received from third party agencies that are unsolicited will be considered complimentary. Conga's Applicant Privacy Statement The information you provide during the application process will be used in accordance with Conga’s Applicant Privacy Statement (https://conga.com/applicant-privacy-statement). By submitting your application, you acknowledge and agree to the terms outlined in this privacy statement. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at Conga by 2x See who you know",
+      "score": 38,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "REST",
+        "Docker",
+        "Kubernetes",
         "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Tech S and T-Front End Web Developer-React-Senior-RT-GD02",
-      "company": "EY",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/tech-s-and-t-front-end-web-developer-react-senior-rt-gd02-at-ey-4483947163",
-      "postedAt": "2026-10-31",
-      "jobId": "4483947163",
+      "title": "Full Stack Engineer with React, NestJS, NodeJS and Postgresql",
+      "company": "PropT Solutions",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-with-react-nestjs-nodejs-and-postgresql-at-propt-solutions-4484329435",
+      "postedAt": "2026-11-02",
+      "jobId": "4484329435",
       "description": "",
-      "score": 20,
+      "score": 32,
       "matchedSkills": [
-        "React"
+        "React",
+        "Node",
+        "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "React Native Developer",
-      "company": "Coforge",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/react-native-developer-at-coforge-4483989152",
+      "title": "Lead I - ML Engineering",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-i-ml-engineering-at-ust-4475690694",
+      "postedAt": "2026-11-02",
+      "jobId": "4475690694",
+      "description": "Lead I - ML Engineering UST Bengaluru, Karnataka, India 1 hour ago 39 applicants See who UST has hired for this role Apply Join or sign in to find your next job Join to apply for the Lead I - ML Engineering role at UST Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Role Description Who We Are At UST, we help the world’s best organizations grow and succeed through transformation. Bringing together the right talent, tools, and ideas, we work with our clients to co-create lasting change. Together, with over 30,000 employees in 30+ countries, we build for boundless impact, touching billions of lives in the process. Visit us at www.ust.com . Summary UST is looking for a highly skilled AI Engineer with strong expertise in Python, Node.js, and AI-driven application development . The ideal candidate will be responsible for designing, developing, and engineering intelligent applications while leveraging AI-assisted development methodologies. This role requires hands-on experience in full-stack development, modern frontend frameworks, enterprise integrations, and AI-powered solution engineering. The Opportunity As an AI Engineer, you will play a key role in building innovative AI-enabled applications and enterprise solutions. You will work closely with Solution Architects, Product Owners, and development teams to design scalable technical solutions, accelerate software development using AI tools, and deliver high-quality products that drive business value. Key Roles &amp; Responsibilities Design, develop, and implement AI-driven applications and enterprise solutions using Python and Node.js. Build and maintain scalable frontend applications using React and Next.js. Leverage AI tools and assistants to generate, optimize, review, and improve code quality and development productivity. Develop end-to-end software solutions, ensuring scalability, security, reliability, and maintainability. Perform Low-Level Design (LLD) and contribute to technical architecture and solution design activities. Collaborate closely with Solution Architects to translate high-level designs into detailed technical implementations. Integrate applications with enterprise platforms including Microsoft 365, Power Automate, workflow systems, and Salesforce. Develop APIs, services, and reusable components to support business applications. Ensure adherence to coding standards, design patterns, and software engineering best practices. Participate in code reviews, technical discussions, architecture reviews, and solution planning. Troubleshoot, debug, and optimize application performance. Serve as a technical liaison between business stakeholders, architects, and engineering teams. Stay updated on emerging AI technologies, frameworks, and development acceleration tools. What You Need Requirements Strong proficiency in Python for application and AI solution development. Hands-on experience with Node.js for backend service development and integrations. Strong expertise in React.js and Next.js for modern frontend development. Experience building and delivering end-to-end enterprise products and solutions. Practical experience leveraging AI tools for code generation, code review, and development acceleration. Strong understanding of software architecture, design patterns, and engineering best practices. Ability to develop detailed low-level technical designs from architectural blueprints. Experience integrating solutions with enterprise platforms and business applications. Strong problem-solving, analytical, and debugging skills. Excellent collaboration and stakeholder management capabilities. Strong communication skills with the ability to clearly articulate technical concepts in business and technology discussions. Required Skills Python Node.js Artificial Intelligence AI-Assisted Development React.js Next.js Frontend Development Backend Development REST APIs Enterprise Application Development Low-Level Design (LLD) Technical Solutioning Software Engineering Software Design Principles Code Review Code Optimization Application Integration Microsoft 365 Integration Power Automate Workflow Systems Salesforce Integration End-to-End Product Development Performance Optimization Desired Skills Generative AI Application Development LLM-Based Solution Development AI Agent Frameworks Azure OpenAI Services Microsoft Copilot Ecosystem Cloud-Native Application Development Containerization and Deployment CI/CD Practices Enterprise Architecture Patterns Agile Delivery Methodologies Qualification Bachelor's or Master's Degree in Computer Science, Engineering, Information Technology, or a related field. Experience 4 to 8 Years (or as per project requirements) What We Believe We're proud to embrace the same values that have shaped UST since the beginning. Since day one, we've been building enduring relationships and a culture of integrity. Today, those same values inspire us to encourage innovation, champion diversity and inclusion, and place people at the center of everything we do. Humility We will listen, learn, be empathetic, and help selflessly in our interactions with everyone. Humanity Through business, we will better the lives of those less fortunate than ourselves. Integrity We honor our commitments and act with responsibility in all our relationships. Equal Employment Opportunity Statement UST is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion, or sexual orientation. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status, or any other basis as protected by federal, state, or local law. UST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance. To support and promote the values of UST. Comply with all company policies and procedures. Skills Python, Node.js, Artificial Intelligence Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at UST by 2x See who you know",
+      "score": 32,
+      "matchedSkills": [
+        "React",
+        "Next.js",
+        "Node",
+        "Express",
+        "REST",
+        "CI/CD"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full-Stack Engineer",
+      "company": "BrightCHAMPS",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-at-brightchamps-4485419505",
       "postedAt": "2026-11-01",
-      "jobId": "4483989152",
-      "description": "",
-      "score": 20,
+      "jobId": "4485419505",
+      "description": "Senior Full-Stack Engineer BrightCHAMPS Bengaluru, Karnataka, India 18 hours ago 101 applicants See who BrightCHAMPS has hired for this role Apply Join or sign in to find your next job Join to apply for the Senior Full-Stack Engineer role at BrightCHAMPS Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Direct message the job poster from BrightCHAMPS Blesson vb Blesson vb About BrightCHAMPS BrightChamps is a fast-growing EdTech company building learning experiences that help children develop real-world skills and confidence. We blend pedagogy, technology, and data to create scalable learning programs. About the Role We're looking for a hands-on full-stack engineer who has built and operated real-time communication systems at scale. You'll work on WebRTC, video conferencing, and streaming infrastructure, and you'll own the health of those systems end to end. Building the system is only half the job. We expect you to know whether it is actually working, using telemetry, metrics, traces, browser waterfalls, WebRTC statistics, and network behavior. \"The deployment succeeded\" isn't proof that the system is fine. The data is. You will also work on agentic and AI-powered platforms, using AI as a force multiplier across engineering, debugging, and product problem-solving. What We're Looking For Required Strong experience building full-stack applications. Minimum 4 years Strong experience with React.js, Next.js, Node.js, and MySQL. Hands-on experience building or operating WebRTC/video conferencing systems, including WebRTC providers or platforms at meaningful scale. Strong understanding of WebRTC and real-time media: simulcast, adaptive bitrate, codecs, RTP/RTCP, ICE, STUN/TURN, and related concepts. Strong debugging and root-cause analysis skills. Experience with production telemetry, monitoring, and observability. Ability to analyze browser waterfalls and network behavior. Experience with distributed systems and production infrastructure. Strong understanding of AI development tools and workflows. Strong Plus Experience building agentic platforms or AI-powered products. Experience with large-scale conferencing platforms or thousands of concurrent real-time connections. Experience with Amazon IVS, LiveKit, Agora, Twilio, Daily, Vonage, or similar platforms. Experience with OpenTelemetry or similar observability tooling. Experience building real-time dashboards and monitoring systems. Experience with media quality analytics and WebRTC QoS. Experience with Kubernetes and AWS. What You'll Do 1. Work on agentic and AI platforms Build applications where AI agents interact with users, tools, APIs, and business systems. Understand agent workflows, tool calling, state management, and orchestration. Build reliable systems around LLMs and agents, with attention to latency, reliability, observability, and cost. Evaluate and monitor AI-powered workflows. Use AI aggressively as a development multiplier. You should ask \"Can AI do this for me?\" before spending hours on repetitive work by hand. 2. Full-stack engineering Frontend: Build with React.js and Next.js, with a solid grasp of browser performance, state management, API integration, and modern web architecture. Debug issues at the frontend, browser, and network levels. Backend: Design and build APIs and backend services in Node.js. Work with asynchronous and distributed systems, MySQL and database design, caching, queues, and event-driven architecture. Infrastructure: Understand cloud infrastructure, containers, deployment, scaling, and observability, and debug across application, infrastructure, and network layers. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries E-learning Referrals increase your chances of interviewing at BrightCHAMPS by 2x See who you know",
+      "score": 29,
       "matchedSkills": [
-        "React"
+        "React",
+        "Next.js",
+        "Node",
+        "Kubernetes",
+        "SQL"
       ],
       "excluded": false
     },
     {
-      "title": "Manager Software Engineering-React , .net , Azure",
-      "company": "Optum India",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/manager-software-engineering-react-net-azure-at-optum-india-4485642386",
-      "postedAt": "2026-10-31",
-      "jobId": "4485642386",
-      "description": "",
-      "score": 20,
+      "title": "Lead Software Engineer",
+      "company": "Capital One",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/lead-software-engineer-at-capital-one-4451060187",
+      "postedAt": "2026-11-01",
+      "jobId": "4451060187",
+      "description": "Lead Software Engineer Capital One Bengaluru, Karnataka, India 20 hours ago Over 200 applicants See who Capital One has hired for this role Apply Join or sign in to find your next job Join to apply for the Lead Software Engineer role at Capital One Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Voyager (94001), India, Bangalore, Karnātaka Lead Software Engineer Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Full Stack Software Engineers who are passionate about marrying data with emerging technologies. As a Capital One Lead Software Engineer, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One. What You’ll Do: Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies Lead a portfolio of diverse technology projects with deep experience in distributed microservices and full stack systems Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal &amp; external technology communities, mentoring other members of the engineering community Utilize various programming languages, Open Source technologies, Relational/NoSQL databases, Containers and a variety of AWS tools and services with a special focus on Serverless initiatives. Implement software in unambiguous and uncomplicated domains with little to no support, while effectively combining standards and practices to implement more complex software Implement a new, fully featured local build and deployment pipeline, while identifying improvements and making enhancements to established deployment pipelines Troubleshooting the most complicated issues with local builds and deployment pipelines Familiarity with many modern application architecture and design patterns, with the ability to leverage them in moderately complex domains Teach others architecture and design patterns and how and when to apply them Debug moderately complex issues across backend, frontend, middleware, infrastructure, databases and pipelines across all environments from local to production and across distributed systems Quickly identify root cause, implement fix, and correct any affected data Develop features to enhance the overall user experience with little to no direction, knowing what non functionals to address and how Basic Qualifications: Bachelor’s Degree in Engineering or Computer Science At least 9 years of experience in software engineering At least 7 years of experience building back-end services (Including but not limited to: Java, JavaScript, Python, Go, Node, Scala, TypeScript, Spring Boot) (Internship experience does not apply) At least 2 years of experience with a front-end language (Including but not limited to: JavaScript, TypeScript) (Internship experience does not apply) At least 6 years of experience with a database technology (Including but not limited to: MySQL, PostgreSQL, MongoDB, Redis, Cassandra, DynamoDB) (Internship experience does not apply) At least 2 years of experience with a UI framework (Including but not limited to: Angular, Vue, React) (Internship experience does not apply) At least 3 years of experience designing, building, and testing distributed systems (Internship experience does not apply) At least 2 years of experience in a technical leadership role overseeing strategic projects Preferred Qualifications: 4+ years of experience in Agile or Kanban software development methodologies and Agile software development 4+ years of experience with a cloud computing provider (AWS, Microsoft Azure, Google Cloud) 4+ years of experience implementing functional tests, unit tests, integrated tests or automated tests to support Continuous Integration Continuous Deployment 4+ years of experience with a server side application framework (Django, Express, Spring) 4+ years of experience building and testing software 4+ years of experience with high level design (HLD) At this time, Capital One will not sponsor a new applicant for employment authorization for this position. No agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations. For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site. Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC). Show more Show less Seniority level Not Applicable Employment type Full-time Industries Financial Services Referrals increase your chances of interviewing at Capital One by 2x See who you know",
+      "score": 28,
       "matchedSkills": [
-        "React"
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Node",
+        "Express",
+        "SQL",
+        "MongoDB"
       ],
       "excluded": false
     },
     {
-      "title": "Senior React Developer",
-      "company": "Persistent Systems",
+      "title": "Senior Software Engineer - Frontend (React/TypeScript)",
+      "company": "Applied Materials India",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-frontend-react-typescript-at-applied-materials-india-4476688503",
+      "postedAt": "2026-11-01",
+      "jobId": "4476688503",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "TypeScript"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full Stack Engineer (React + Node)",
+      "company": "Fractal",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-react-%2B-node-at-fractal-4450349266",
+      "postedAt": "2026-11-02",
+      "jobId": "4450349266",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "Node"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Technical Lead, Software Engineer(C#, .NET, OOPS, Design Patterns, Angular and React, SQL, Windows Forms)",
+      "company": "Vertafore",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-developer-at-persistent-systems-4485159005",
-      "postedAt": "2026-10-31",
-      "jobId": "4485159005",
+      "url": "https://in.linkedin.com/jobs/view/technical-lead-software-engineer-c%23-net-oops-design-patterns-angular-and-react-sql-windows-forms-at-vertafore-4485461814",
+      "postedAt": "2026-11-02",
+      "jobId": "4485461814",
+      "description": "",
+      "score": 26,
+      "matchedSkills": [
+        "React",
+        "SQL"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Js Developer II",
+      "company": "United Airlines India Knowledge Center",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-ii-at-united-airlines-india-knowledge-center-4469211086",
+      "postedAt": "2026-11-01",
+      "jobId": "4469211086",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -78,26 +216,12 @@
       "excluded": false
     },
     {
-      "title": "Tech S and T-Front End Web Developer-React-Senior-RT-GD02",
-      "company": "EY",
+      "title": "Frontend (React) Engineering Lead - AITDS",
+      "company": "Cognizant",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/tech-s-and-t-front-end-web-developer-react-senior-rt-gd02-at-ey-4483932886",
-      "postedAt": "2026-10-31",
-      "jobId": "4483932886",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Tech S and T-Front End Web Developer-React-Senior-RT-GD02",
-      "company": "EY",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/tech-s-and-t-front-end-web-developer-react-senior-rt-gd02-at-ey-4483945254",
-      "postedAt": "2026-10-31",
-      "jobId": "4483945254",
+      "url": "https://in.linkedin.com/jobs/view/frontend-react-engineering-lead-aitds-at-cognizant-4414469117",
+      "postedAt": "2026-11-01",
+      "jobId": "4414469117",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -109,9 +233,9 @@
       "title": "React JS Developer",
       "company": "Scoutit",
       "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-scoutit-4485192933",
-      "postedAt": "2026-11-01",
-      "jobId": "4485192933",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-scoutit-4485472415",
+      "postedAt": "2026-11-02",
+      "jobId": "4485472415",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -120,56 +244,70 @@
       "excluded": false
     },
     {
-      "title": "Tech S and T-Front End Web Developer-React-Senior-RT-GD02",
+      "title": "React.js Developer",
+      "company": "Luxoft",
+      "location": "Gurugram, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-luxoft-4486128827",
+      "postedAt": "2026-11-02",
+      "jobId": "4486128827",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "React Developer",
+      "company": "Antal International",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/react-developer-at-antal-international-4485427786",
+      "postedAt": "2026-11-02",
+      "jobId": "4485427786",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "SDE 3 - React Native (Credit)",
+      "company": "Groww",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/sde-3-react-native-credit-at-groww-4485456355",
+      "postedAt": "2026-11-02",
+      "jobId": "4485456355",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Architect(.NET+React)",
+      "company": "UST",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/architect-net%2Breact-at-ust-4485465209",
+      "postedAt": "2026-11-02",
+      "jobId": "4485465209",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Tech SandT-Full Stack-React and .Net-Manager-RT-GD02",
       "company": "EY",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/tech-s-and-t-front-end-web-developer-react-senior-rt-gd02-at-ey-4483944280",
-      "postedAt": "2026-10-31",
-      "jobId": "4483944280",
+      "url": "https://in.linkedin.com/jobs/view/tech-sandt-full-stack-react-and-net-manager-rt-gd02-at-ey-4484348316",
+      "postedAt": "2026-11-02",
+      "jobId": "4484348316",
       "description": "",
       "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Tech S and T-Full Stack-React and .Net-Manager-RT-GD02",
-      "company": "EY",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/tech-s-and-t-full-stack-react-and-net-manager-rt-gd02-at-ey-4483955252",
-      "postedAt": "2026-10-31",
-      "jobId": "4483955252",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Tech S and T-Net-React -Fullstack Developer-Manager -RT-GD02",
-      "company": "EY",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/tech-s-and-t-net-react-fullstack-developer-manager-rt-gd02-at-ey-4483947161",
-      "postedAt": "2026-10-31",
-      "jobId": "4483947161",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Product Development Internship in Bangalore",
-      "company": "SmartED Innovations",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/product-development-internship-in-bangalore-at-smarted-innovations-4485930189",
-      "postedAt": "2026-11-01",
-      "jobId": "4485930189",
-      "description": "Product Development Internship in Bangalore SmartED Innovations Bengaluru, Karnataka, India 10 hours ago Over 200 applicants See who SmartED Innovations has hired for this role Apply Join or sign in to find your next job Join to apply for the Product Development Internship in Bangalore role at SmartED Innovations Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . As a Product Development Intern at SmartEd Innovations, you’ll help turn early product ideas into useful, well-tested features. Working with the team, you’ll contribute to prototypes, explore technical approaches, and learn how product decisions take shape from concept through implementation. Selected Intern's Day-to-day Responsibilities Include Build and refine user-facing prototypes in React, translating product requirements and feedback into clear, functional interfaces. Support backend development by implementing and testing API endpoints, documenting expected behavior, and helping resolve integration issues. Use Python libraries to analyze data, automate small workflows, or evaluate approaches that support product development. Explore practical applications of artificial intelligence and machine learning, creating small experiments and sharing results with the team. Mostly helping in QA and testing of existing and upcoming MVPs and prototypes. Help document system design choices, trace how components interact, and identify potential reliability or performance concerns. Investigate networking and connectivity issues during development and testing, and communicate findings with clear steps to reproduce them. Use Claude to assist with tasks such as brainstorming, code exploration, or drafting test cases, reviewing its output for accuracy and usefulness. About Company: SmartED is an ed-tech platform dedicated to bridging the gap between formal education and the dynamic demands of the industry. We offer students internships, professional training programs, career guidance, and mentorship, all designed to prepare them for the careers of tomorrow. At SmartED, we believe everyone should have the chance to advance through technology and develop essential future-ready skills. Our platform features assessments, tailored learning paths, and courses created by industry experts, enabling individuals to benchmark their expertise across various roles. Our mission is to train the global workforce for future careers by partnering with leading technology companies. By understanding how technology is transforming industries, we teach the critical tech skills that employers are seeking. Show more Show less Seniority level Internship Employment type Internship Industries Higher Education and Software Development Referrals increase your chances of interviewing at SmartED Innovations by 2x See who you know",
-      "score": 10,
       "matchedSkills": [
         "React"
       ],
