@@ -1,121 +1,15 @@
 {
-  "generatedAt": "2026-11-07T10:44:38.480Z",
-  "totalScraped": 388,
-  "totalMatched": 25,
+  "generatedAt": "2026-11-09T12:08:00.661Z",
+  "totalScraped": 284,
+  "totalMatched": 13,
   "jobs": [
     {
-      "title": "Associate Frontend Engineer (React / Next.js)",
-      "company": "Surepass Technologies",
-      "location": "Delhi, India",
-      "url": "https://in.linkedin.com/jobs/view/associate-frontend-engineer-react-next-js-at-surepass-technologies-4488180203",
-      "postedAt": "2026-11-06",
-      "jobId": "4488180203",
-      "description": "",
-      "score": 40,
-      "matchedSkills": [
-        "React",
-        "Next.js"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineering Specialist",
-      "company": "GE Vernova",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineering-specialist-at-ge-vernova-4488195867",
-      "postedAt": "2026-11-06",
-      "jobId": "4488195867",
-      "description": "Software Engineering Specialist GE Vernova Bengaluru, Karnataka, India 16 hours ago 46 applicants See who GE Vernova has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineering Specialist role at GE Vernova Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Job Description Summary Responsible for designing, building, delivering and maintaining software applications &amp; services. Working in the areas of machine, cloud, platform and/or application. Responsible for software lifecycle including activities such as requirement analysis, documentation/procedures and implementation. Job Description Roles and Responsibilities: In This Role, You Will Contribute, design, and development of RESTful APIs and microservices using C#, .NET, ASP.NET Core (Web API, MVC), and Entity Framework Understanding of engineering best practices: SOLID principles, design patterns, code reviews, technical standards, and documentation Own end-to-end delivery: requirements, design, implementation, automated testing (unit, integration, UI), performance, and deployment Design for reliability, scalability, and security in AWS; containerize and ship services with Docker Work across data stores (SQL Server, PostgreSQL, Oracle), including schema design, query optimization, and performance tuning Implement and improve observability (logging, monitoring, alerting) and drive operational excellence Integrate AI/ML capabilities where appropriate to enhance product features and developer productivity Ensure secure development practices including SAST/DAST and remediation of findings Mentor and coach engineers; lead technical initiatives and collaborate with product, UX, and stakeholders Must-have Qualifications 2-5 years of relevant experience Deep C# &amp;.NET expertise with ASP.NET Core (Web API, MVC) and Entity Framework Strong RESTful API and Microservices design and development Experience with modern front-end frameworks of ReactJS Solid grasp of SOLID principles, design patterns, and microservices architecture Strong SQL skills across SQL Server, PostgreSQL, and Oracle Automation experience: unit, integration, and UI test frameworks Cloud experience with AWS/Azure Docker\\Kubernetes experience for containerizing applications Proven ability to lead initiatives and deliver high-quality, scalable solutions DevOps/CI/CD tools: GitHub, GitHub Actions, Jenkins, JFrog Artifactory, Groovy Nice To Have Monitoring and logging tools: Splunk, Prometheus, ELK Stack Build front-end experiences using JavaScript/TypeScript with ReactJS Proficiency in JavaScript and TypeScript Load/performance testing (e.g., JMeter) Security best practices in SAST and DAST Strong problem-solving and analytical skills Experience working independently in fast-paced, cross-functional environments Practical AI skill set (e.g., integrating AI/ML capabilities into applications) Skilled in breaking down problems, documenting problem statements and estimating efforts Demonstrates awareness about competitors and industry trends Has the ability to analyse impact of technology choices Leadership Ability to takes ownership of small and medium sized tasks and deliver while mentoring and helping team members Ensures understanding of issues and presents clear rationale. Able to speak to mutual needs and win-win solutions. Uses two-way communication to influence outcomes and ongoing results Identifies misalignments with goals, objectives, and work direction against the organizational strategy. Makes suggestions to course correct Continuously measures deliverables of self and team against scheduled commitments. Effectively balances different, competing objectives Personal Attributes Strong oral and written communication skills Strong interpersonal skills Effective team building and problem-solving abilities Persists to completion, especially in the face of overwhelming odds and setbacks. Pushes self for results; pushes others for results through team spirit Desired Characteristics Technical Expertise: Comfortable in building features such as web services and Queries on existing tables. Aware of methods and practices such as Lean/Agile/XP, etc. Prior work experience in an agile environment, or introductory training on Lean/Agile. Aware of and able to apply continuous integration (CI). General understanding of the impacts of technology choice to the software development life cycle. Business Acumen Has the ability to break down problems and estimate time for development tasks. Understands the technology landscape, up to date on current technology trends and new technology, brings new ideas to the team. Displays understanding of the project's value proposition for the customer. Shows commitment to deliver the best value proposition for the targeted customer. Learns organization vision statement and decision making framework. Able to understand how team and personal goals/objectives contribute to the organization vision Personal/Leadership Attributes Voices opinions and presents clear rationale. Uses data or factual evidence to influence. Learns organization vision statement and decision making framework. Able to understand how team and personal goals/objectives contribute to the organization vision. Completes assigned tasks on time and with high quality. Takes independent responsibility for assigned deliverables. Has the ability to break down problems and estimate time for development tasks. Seeks to understand problems thoroughly before implementing solutions. Asks questions to clarify requirements when ambiguities are present. Identifies opportunities for innovation and offers new ideas. Takes the initiative to experiment with new software frameworks Adapts to new environments and changing requirements. Pivots quickly as needed. When coached, responds to need &amp; seeks info from other sources Additional Information Relocation Assistance Provided: No Show more Show less Seniority level Not Applicable Employment type Full-time Industries Energy Technology Referrals increase your chances of interviewing at GE Vernova by 2x See who you know",
-      "score": 34,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "TypeScript",
-        "REST",
-        "Docker",
-        "Kubernetes",
-        "Jenkins",
-        "CI/CD",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": ".NET Developer",
-      "company": "Infosys",
+      "title": "Full Stack Engineer – Ruby on Rails, React.js from 4+ years",
+      "company": "EngRadar",
       "location": "Bengaluru East, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/net-developer-at-infosys-4470057400",
-      "postedAt": "2026-11-06",
-      "jobId": "4470057400",
-      "description": ".NET Developer Infosys Bengaluru East, Karnataka, India 20 hours ago Over 200 applicants See who Infosys has hired for this role Apply Join or sign in to find your next job Join to apply for the .NET Developer role at Infosys Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job NET Core, ASP.NET MVC, C#, Web API, REST API, SQL Server, Entity Framework, Angular, React, Azure, Azure DevOps, Git, Microservices, CI/CD, Agile, Scrum Design, develop, test, and maintain scalable applications using .NET technologies. Develop RESTful APIs and web services using ASP.NET Core/Web API. Collaborate with cross-functional teams to gather and understand business requirements. Implement clean, maintainable, and efficient code following coding standards. Optimize application performance and troubleshoot production issues. Write unit and integration tests to ensure application quality. Participate in code reviews and contribute to best practices. Work with databases, including writing queries, stored procedures, and performance tuning. Required Skills Strong proficiency in C#, ASP.NET, ASP.NET MVC, and .NET Core/.NET 6+. Experience with Web API, RESTful Services, and Microservices architecture. Good knowledge of SQL Server, T-SQL, Stored Procedures, and database design. Experience with Entity Framework or Entity Framework Core. Familiarity with JavaScript, HTML5, CSS3, Bootstrap. Experience with Angular or React is preferred. Hands-on experience with Git, Azure DevOps, or other version control tools. Understanding of Agile/Scrum methodologies. Experience with Azure Cloud Services. Knowledge of Docker and Kubernetes. Exposure to CI/CD pipelines. Understanding of Design Patterns and SOLID principles Show more Show less Seniority level Not Applicable Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at Infosys by 2x See who you know",
-      "score": 31,
-      "matchedSkills": [
-        "React",
-        "JavaScript",
-        "HTML",
-        "REST",
-        "Docker",
-        "Kubernetes",
-        "CI/CD",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Full Stack Engineer (Node/React) - Remote",
-      "company": "Kake",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4486247667",
-      "postedAt": "2026-11-06",
-      "jobId": "4486247667",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Full Stack Engineer (Node/React) - Remote",
-      "company": "Kake",
-      "location": "Pune District, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4486246711",
-      "postedAt": "2026-11-06",
-      "jobId": "4486246711",
-      "description": "",
-      "score": 26,
-      "matchedSkills": [
-        "React",
-        "Node"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Uplers",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-uplers-4488469259",
-      "postedAt": "2026-11-07",
-      "jobId": "4488469259",
-      "description": "Software Engineer Uplers Bengaluru, Karnataka, India 10 hours ago Over 200 applicants See who Uplers has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer role at Uplers Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Experience : 2.00 + years Salary : Confidential (based on experience) Expected Notice Period : 30 Days Shift : (GMT+05:30) Asia/Kolkata (IST) Opportunity Type : Hybrid () Placement Type : Full Time Permanent position(Payroll and Compliance to be managed by: NovaCore Systems) (*Note: This is a requirement for one of Uplers' client - NovaCore Systems) What do you need for this opportunity? Must have skills required: react, Python, microservice architecture, GCP, Azure (Microsoft Azure), AWS, C++, C#, Elastic Search, Open search, Kubernates NovaCore Systems is Looking for: Job Summary HME is seeking a Software Engineer with 2+ years of experience to build and deliver high-quality software solutions across a variety of products and platforms. The ideal candidate is a strongprogrammer and problem solver who can learn quickly, take ownership, and thrive in a fast-paced environment. This role requires a hands-on engineer who enjoys tackling challenging technical problems, working across different technologies, and contributing wherever needed to help the team succeed. What you will do in the position: Design, develop, test, and maintain scalable software applications and services. Build backend services, APIs, and microservices that are secure, reliable, and maintainable. Collaborate with product managers, architects, QA engineers, and other team members to deliver customer-focused solutions. Write clean, efficient, and well-tested code following engineering best practices. Troubleshoot and resolve complex technical issues across the software stack. Participate in software design discussions and contribute to architectural decisions. Work across multiple projects and technologies in a fast-paced environment. Continuously improve application performance, reliability, and maintainability. Learn new technologies and frameworks as needed to support business goals. Contribute to team success by taking ownership and delivering results with a strong sense of urgency. What you will need to succeed in this position: 2+ years of professional software development experience. Bachelor's degree in Computer Science, Software Engineering, or a related field. Strong programming and problem-solving skills with solid computer science fundamentals. Experience developing backend applications using Python (preferred), Java, C#, or C++. Experience working with SQL and NoSQL databases, with strong SQL query development skills. Ability to quickly learn new technologies and work across different technical domains. Strong debugging, troubleshooting, and analytical skills. Ability to work effectively in a fast-paced, dynamic environment. Preferred Qualifications: Experience building web applications using ReactJS or similar frontend frameworks. Experience working with edge devices, embedded systems, or device-connected applications. Experience with OpenSearch or Elasticsearch. Familiarity with containers and Kubernetes. Experience with one or more cloud platforms such as Azure, AWS, or GCP. Familiarity with observability, monitoring, and logging tools. Experience building and consuming RESTful APIs and working with microservices-based architectures. Experience with distributed systems and cloud-native application development. Demonstrated passion for technology, continuous learning, and taking on new challenges. Interview Process: Online test, 1 hr Technical round 1 - face to face at Bangalore office (DSA / system design mix) Technical Round 2 - Mrinal, managerial + technical. Round 3 - HR + salary round How to apply for this opportunity? Step 1: Click On Apply! And Register or Login on our portal. Step 2: Complete the Screening Form &amp; Upload updated Resume Step 3: Increase your chances to get shortlisted &amp; meet the client for the Interview! About Uplers: Our goal is to make hiring reliable, simple, and fast. Our role will be to help all our talents find and apply for relevant contractual onsite opportunities and progress in their career. We will support any grievances or challenges you may face during the engagement. (Note: There are many more opportunities apart from this on the portal. Depending on the assessments you clear, you can apply for them as well). So, if you are ready for a new challenge, a great work environment, and an opportunity to take your career to the next level, don't hesitate to apply today. We are waiting for you! Show more Show less Seniority level Not Applicable Employment type Full-time Industries Technology, Information and Internet Referrals increase your chances of interviewing at Uplers by 2x See who you know",
-      "score": 22,
-      "matchedSkills": [
-        "React",
-        "REST",
-        "Kubernetes",
-        "GCP",
-        "SQL"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Full Stack Developer – .NET Core & React",
-      "company": "WSP in India",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-%E2%80%93-net-core-react-at-wsp-in-india-4486234221",
-      "postedAt": "2026-11-06",
-      "jobId": "4486234221",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-%E2%80%93-ruby-on-rails-react-js-from-4%2B-years-at-engradar-4488800244",
+      "postedAt": "2026-11-08",
+      "jobId": "4488800244",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -124,30 +18,16 @@
       "excluded": false
     },
     {
-      "title": "Senior Full Stack Developer – .NET Core & React",
-      "company": "WSP in India",
+      "title": "Full Stack Developer (Next.js)",
+      "company": "Welatino Traveltech LLP",
       "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-%E2%80%93-net-core-react-at-wsp-in-india-4486969794",
-      "postedAt": "2026-11-06",
-      "jobId": "4486969794",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-next-js-at-welatino-traveltech-llp-4486556213",
+      "postedAt": "2026-11-08",
+      "jobId": "4486556213",
       "description": "",
       "score": 20,
       "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Software Engineer – .NET / React",
-      "company": "MegaNucleus",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-net-react-at-meganucleus-4486604972",
-      "postedAt": "2026-11-07",
-      "jobId": "4486604972",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
+        "Next.js"
       ],
       "excluded": false
     },
@@ -155,9 +35,9 @@
       "title": "Senior React Native Engineer (Remote, Full-Time) [HR222]",
       "company": "Smart Working",
       "location": "Greater Delhi Area",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-remote-full-time-hr222-at-smart-working-4486229861",
-      "postedAt": "2026-11-06",
-      "jobId": "4486229861",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-remote-full-time-hr222-at-smart-working-4487123759",
+      "postedAt": "2026-11-09",
+      "jobId": "4487123759",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -166,12 +46,12 @@
       "excluded": false
     },
     {
-      "title": "Software Engineer (C#, .NET Core, React JS, Azure, Retail Domain)",
-      "company": "Diebold Nixdorf",
+      "title": ".Net Fullstack Developer/React",
+      "company": "Wall Street Consulting Services LLC",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/software-engineer-c%23-net-core-react-js-azure-retail-domain-at-diebold-nixdorf-4486241258",
-      "postedAt": "2026-11-06",
-      "jobId": "4486241258",
+      "url": "https://in.linkedin.com/jobs/view/net-fullstack-developer-react-at-wall-street-consulting-services-llc-4488821825",
+      "postedAt": "2026-11-09",
+      "jobId": "4488821825",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -180,82 +60,12 @@
       "excluded": false
     },
     {
-      "title": "Senior Software Engineer(C#, .NET Core, React JS, Azure, Retail Domain)",
-      "company": "Diebold Nixdorf",
+      "title": "Senior Analyst - Application Development - .NET & React [T500-30668]",
+      "company": "H.E. Services India",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-c%23-net-core-react-js-azure-retail-domain-at-diebold-nixdorf-4486234589",
-      "postedAt": "2026-11-06",
-      "jobId": "4486234589",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Associate/Senior Associate, Application Developer(Fullstack with Angular/ReactJS), Consumer Banking Group Technology",
-      "company": "DBS Bank",
-      "location": "Greater Hyderabad Area",
-      "url": "https://in.linkedin.com/jobs/view/associate-senior-associate-application-developer-fullstack-with-angular-reactjs-consumer-banking-group-technology-at-dbs-bank-4480359002",
-      "postedAt": "2026-11-06",
-      "jobId": "4480359002",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Frontend Developer-React",
-      "company": "Quest Global",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/frontend-developer-react-at-quest-global-4487323596",
-      "postedAt": "2026-11-06",
-      "jobId": "4487323596",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead Frontend Developer-React",
-      "company": "Quest Global",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-frontend-developer-react-at-quest-global-4487310938",
-      "postedAt": "2026-11-06",
-      "jobId": "4487310938",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior React Native Engineer (Remote, Full-Time) [HR222]",
-      "company": "Smart Working",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-remote-full-time-hr222-at-smart-working-4486230838",
-      "postedAt": "2026-11-06",
-      "jobId": "4486230838",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Full Stack Developer – .NET Core & React",
-      "company": "WSP in India",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-%E2%80%93-net-core-react-at-wsp-in-india-4486217950",
-      "postedAt": "2026-11-06",
-      "jobId": "4486217950",
+      "url": "https://in.linkedin.com/jobs/view/senior-analyst-application-development-net-react-t500-30668-at-h-e-services-india-4488846049",
+      "postedAt": "2026-11-09",
+      "jobId": "4488846049",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -267,9 +77,9 @@
       "title": "Senior React Native Engineer (Remote, Full-Time) [HR222]",
       "company": "Smart Working",
       "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-remote-full-time-hr222-at-smart-working-4486232727",
-      "postedAt": "2026-11-06",
-      "jobId": "4486232727",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-remote-full-time-hr222-at-smart-working-4487131371",
+      "postedAt": "2026-11-09",
+      "jobId": "4487131371",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -278,12 +88,12 @@
       "excluded": false
     },
     {
-      "title": "Senior React Native Engineer (Mobile) - Remote",
-      "company": "Kake",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-mobile-remote-at-kake-4486256174",
-      "postedAt": "2026-11-06",
-      "jobId": "4486256174",
+      "title": "Senior React Native Engineer (Remote, Full-Time) [HR222]",
+      "company": "Smart Working",
+      "location": "Pune Division, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-remote-full-time-hr222-at-smart-working-4487131372",
+      "postedAt": "2026-11-09",
+      "jobId": "4487131372",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -295,9 +105,37 @@
       "title": "React JS Developer",
       "company": "Scoutit",
       "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-scoutit-4487611028",
-      "postedAt": "2026-11-07",
-      "jobId": "4487611028",
+      "url": "https://in.linkedin.com/jobs/view/react-js-developer-at-scoutit-4487679610",
+      "postedAt": "2026-11-09",
+      "jobId": "4487679610",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "SDE II - Frontend (React + React Native)",
+      "company": "Flexiple",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/sde-ii-frontend-react-%2B-react-native-at-flexiple-4488802152",
+      "postedAt": "2026-11-08",
+      "jobId": "4488802152",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "SDE I - Frontend (React + React Native)",
+      "company": "Flexiple",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/sde-i-frontend-react-%2B-react-native-at-flexiple-4488816047",
+      "postedAt": "2026-11-08",
+      "jobId": "4488816047",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -308,38 +146,10 @@
     {
       "title": "Senior React Native Engineer (Remote, Full-Time) [HR222]",
       "company": "Smart Working",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-remote-full-time-hr222-at-smart-working-4486245249",
-      "postedAt": "2026-11-06",
-      "jobId": "4486245249",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior Technical Consultant - Full Stack (.NET , React) , D&M",
-      "company": "Autodesk",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-technical-consultant-full-stack-net-react-d-m-at-autodesk-4479355054",
-      "postedAt": "2026-11-07",
-      "jobId": "4479355054",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead Software Engineer - .NET, React Fullstack",
-      "company": "JPMorganChase",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-software-engineer-net-react-fullstack-at-jpmorganchase-4488149124",
-      "postedAt": "2026-11-06",
-      "jobId": "4488149124",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-remote-full-time-hr222-at-smart-working-4487130441",
+      "postedAt": "2026-11-09",
+      "jobId": "4487130441",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -348,12 +158,12 @@
       "excluded": false
     },
     {
-      "title": "Senior Technical Consultant – Full Stack (.NET, React), AEC / D&M",
-      "company": "Autodesk",
+      "title": "SDE I - Frontend (React)",
+      "company": "Flexiple",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-technical-consultant-%E2%80%93-full-stack-net-react-aec-d-m-at-autodesk-4469692027",
-      "postedAt": "2026-11-07",
-      "jobId": "4469692027",
+      "url": "https://in.linkedin.com/jobs/view/sde-i-frontend-react-at-flexiple-4488806427",
+      "postedAt": "2026-11-08",
+      "jobId": "4488806427",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -362,12 +172,12 @@
       "excluded": false
     },
     {
-      "title": "Senior React Native Engineer (Mobile) - Remote",
-      "company": "Kake",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-native-engineer-mobile-remote-at-kake-4486259070",
-      "postedAt": "2026-11-06",
-      "jobId": "4486259070",
+      "title": "Senior React Developer",
+      "company": "Persistent Systems",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-react-developer-at-persistent-systems-4487137020",
+      "postedAt": "2026-11-09",
+      "jobId": "4487137020",
       "description": "",
       "score": 20,
       "matchedSkills": [
