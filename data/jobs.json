@@ -1,67 +1,70 @@
 {
-  "generatedAt": "2026-11-20T12:11:27.915Z",
-  "totalScraped": 418,
-  "totalMatched": 7,
+  "generatedAt": "2026-11-21T11:43:20.948Z",
+  "totalScraped": 352,
+  "totalMatched": 8,
   "jobs": [
     {
-      "title": "Full Stack Developer (React.js / Next.js / Node.js)",
-      "company": "AARGUS INFOTEC PRIVATE LIMITED",
+      "title": "Software Development Engineer III - Full Stack Development - Ads Manager Team",
+      "company": "HighLevel",
+      "location": "Delhi, Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-iii-full-stack-development-ads-manager-team-at-highlevel-4475215164",
+      "postedAt": "2026-11-21",
+      "jobId": "4475215164",
+      "description": "Software Development Engineer III - Full Stack Development - Ads Manager Team HighLevel Delhi, Delhi, India 1 hour ago Over 200 applicants See who HighLevel has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Development Engineer III - Full Stack Development - Ads Manager Team role at HighLevel Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . About Us HighLevel is an AI powered, all-in-one white-label sales &amp; marketing platform that empowers agencies, entrepreneurs, and businesses to elevate their digital presence and drive growth. We are proud to support a global and growing community of over 2 million businesses, comprised of agencies, consultants, and businesses of all sizes and industries. HighLevel empowers users with all the tools needed to capture, nurture, and close new leads into repeat customers. As of mid 2025, HighLevel processes over 4 billion API hits and handles more than 2.5 billion message events every day. Our platform manages over 470 terabytes of data distributed across five databases, operates with a network of over 250 microservices, and supports over 1 million hostnames. Our People With over 1,500 team members across 15+ countries, we operate in a global, remote-first environment. We are building more than software; we are building a global community rooted in creativity, collaboration, and impact. We take pride in cultivating a culture where innovation thrives, ideas are celebrated, and people come first, no matter where they call home. Our Impact As of mid 2025, our platform powers over 1.5 billion messages, helps generate over 200 million leads, and facilitates over 20 million conversations for the more than 2 million businesses we serve each month. Behind those numbers are real people growing their companies, connecting with customers, and making their mark - and we get to help make that happen. About the Team: Currently we have millions of sales funnels, websites, attributions, forms and survey tools for lead generation. Our B2B customers use these tools to bring in the leads to the HighLevel CRM system. We are working to continuously improve the functionality of these tools to solve our customers’ business needs. In this role, you will be expected to be autonomous, guide other developers who might need technical help, collaborate with other technical teams, product, support and customer success About the Role: We are looking for a passionate and highly skilled Senior Software Development Engineer (SDE3) to join the Ads Manager Team. You will work on building scalable systems and user experiences that power ad campaign creation, optimisation, reporting, and automation across multiple advertising platforms. You will collaborate closely with Product, Design, QA, AI, and Platform teams to deliver high-impact features and improve campaign success rates, scalability, and reliability. This role requires strong backend engineering fundamentals, product ownership, execution discipline, and the ability to solve complex technical challenges at scale. Responsibilities Design and build scalable backend services and APIs for Ads Manager. Develop integrations with advertising platforms such as: Meta Ads Google Ads LinkedIn Ads Other ad ecosystems Build systems for: Campaign publishing Audience targeting Attribution tracking Analytics &amp; reporting Ad automation workflows Improve campaign publishing reliability and reduce user drop-offs. Collaborate with Product and Design teams during requirement and feasibility discussions. Participate in architectural discussions and technical decision-making. Optimise application performance, scalability, and reliability. Write clean, maintainable, and testable code. Contribute to engineering best practices, code reviews, and SDLC improvements. Team &amp; Execution Take ownership of features end-to-end. Participate actively in sprint planning, estimation, and retrospectives. Work closely with QA to ensure quality releases. Collaborate proactively across teams and communicate effectively on blockers and progress. Your Core Skills 4+ years of software engineering experience. Strong proficiency in: Node.js TypeScript / JavaScript MongoDB REST APIs Experience building scalable backend systems and microservices. Good understanding of distributed systems and asynchronous processing. Experience with cloud platforms such as AWS or GCP. Familiarity with CI/CD pipelines and modern development workflows. Strong debugging, analytical, and problem-solving skills. Ability to work independently with strong ownership and accountability. Additional Skills Experience with Vue.js or React.js. Experience working with Ads APIs or MarTech products. Familiarity with: Event-driven architectures Redis, Kafka, RabbitMQ, or similar technologies Analytics and reporting systems Exposure to AI-powered or automation-driven products. Experience working in fast-paced SaaS environments. EEO Statement: The company is an Equal Opportunity Employer. As an employer subject to affirmative action regulations, we invite you to voluntarily provide the following demographic information. This information is used solely for compliance with government recordkeeping, reporting, and other legal requirements. Providing this information is voluntary and refusal to do so will not affect your application status. This data will be kept separate from your application and will not be used in the hiring decision. We encourage you to review our Privacy Policy before submitting your application We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. Show more Show less Seniority level Not Applicable Employment type Full-time Industries Software Development Referrals increase your chances of interviewing at HighLevel by 2x See who you know",
+      "score": 31,
+      "matchedSkills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Node",
+        "REST",
+        "GCP",
+        "CI/CD",
+        "MongoDB"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Software Engineer (Full Stack)",
+      "company": "Flexiple",
       "location": "Noida, Uttar Pradesh, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-react-js-next-js-node-js-at-aargus-infotec-private-limited-4492570043",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-full-stack-at-flexiple-4492974828",
       "postedAt": "2026-11-20",
-      "jobId": "4492570043",
-      "description": "Full Stack Developer (React.js / Next.js / Node.js) AARGUS INFOTEC PRIVATE LIMITED Noida, Uttar Pradesh, India 5 hours ago Over 200 applicants See who AARGUS INFOTEC PRIVATE LIMITED has hired for this role Apply Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Company Description AARGUS INFOTEC PRIVATE LIMITED is a technology company headquartered in NOIDA, India, with operations serving clients across diverse sectors. The organization focuses on delivering software and IT solutions that support business efficiency and digital transformation. Team members work in a collaborative environment that emphasizes technical excellence and practical problem-solving. The company values professionals who are eager to build robust products and contribute to long-term client relationships. Role Description &nbsp;We are looking for a skilled and experienced Full Stack Developer with 4–5 years of hands-on experience in designing, developing, and maintaining scalable web applications. The ideal candidate should have strong expertise in React.js, Next.js, TypeScript, Tailwind CSS, and Node.js, along with a good understanding of backend technologies such as Java and Python. The candidate will be responsible for developing responsive user interfaces, building robust backend services, integrating RESTful APIs, and implementing secure authentication mechanisms. The role requires someone who can independently manage frontend and backend development activities while collaborating with cross-functional teams to deliver high-quality software solutions.&nbsp; Key Responsibilities 1. Design, develop, and maintain responsive, scalable, and high-performance web applications using React.js and Next.js. 2. Build reusable UI components and frontend modules using TypeScript and Tailwind CSS. 3. Develop and maintain backend services, business logic, and server-side applications using Node.js. 4. Design, develop, and integrate RESTful APIs to enable seamless communication between frontend and backend systems. 5. Implement secure authentication and authorization mechanisms, including JWTbased authentication. 6. Work on API integrations, data handling, validation, and error management. 7. Optimize application performance, scalability, responsiveness, and overall user experience. 8. Collaborate with UI/UX designers, backend developers, QA engineers, and project stakeholders to deliver end-to-end solutions. 9. Identify, troubleshoot, and resolve application bugs, performance issues, and technical challenges. 10. Follow coding standards, maintain clean and reusable code, and participate in code reviews. 11. Work with databases and ensure efficient data storage, retrieval, and management. 12. Participate in technical discussions, requirement analysis, development planning, and deployment activities.&nbsp; Skill Required React.js Strong hands-on experience in component-based development, Hooks, state management, and reusable components Next.js Experience with server-side rendering (SSR), static site generation (SSG), routing, and application optimization TypeScript Strong understanding of types, interfaces, generics, and type-safe application development Tailwind CSS Node.js Experience in building responsive and reusable UI layouts Hands-on experience in backend development, server-side programming, and building scalable services Java Python Working knowledge of Java and object-oriented programming concepts Working knowledge of Python and backend programming fundamentals REST APIs Experience in designing, developing, consuming, and integrating RESTful APIs Authentication Hands-on understanding of JWT, authentication, authorization, and secure API access&nbsp; Additional Skills &amp; Competencies Good understanding of HTML5, CSS3, JavaScript (ES6+), and modern web development practices. Understanding of frontend state management solutions. Experience with Git and version control systems. Knowledge of database concepts, query handling, and data modeling. Familiarity with application debugging, testing, and performance optimization. Understanding of secure coding practices and web application security. Ability to work independently as well as collaboratively in an agile development environment. Strong analytical, problem-solving, and communication skills Experience &amp; Qualification Bachelor's degree in Computer Science, Information Technology, or a related field (preferred).&nbsp; 4–5 years of relevant experience in full stack web application development. Strong hands-on experience in React.js, Next.js, TypeScript, Tailwind CSS, and Node.js. Practical experience in developing and integrating REST APIs. Good understanding of authentication and authorization mechanisms, particularly JWT. Experience in handling end-to-end development activities, from frontend implementation to backend integration. Location and joining work location would be New Delhi/ Noida immediate joining Show more Show less Seniority level Entry level Employment type Full-time Referrals increase your chances of interviewing at AARGUS INFOTEC PRIVATE LIMITED by 2x See who you know",
-      "score": 61,
+      "jobId": "4492974828",
+      "description": "Software Engineer (Full Stack) Flexiple Noida, Uttar Pradesh, India 16 hours ago 156 applicants See who Flexiple has hired for this role Apply Join or sign in to find your next job Join to apply for the Software Engineer (Full Stack) role at Flexiple Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Direct message the job poster from Flexiple Suvansh Bansal Suvansh Bansal Co-founder, Flexiple | Helping companies build &amp; scale high-impact offshore teams/ GCCs | IIM-A &amp; DCE alum Hiring for Zero1 by Zerodha — via Flexiple, the recruiting partner on this role. About Company Zero1 by Zerodha is a new-age finance media brand, a joint venture between Zerodha and LearnApp, that makes money simple through storytelling across its own channels, the Zero1 Network, Zero1 Fest and community meetups, reaching millions of viewers every month. The team is based in Noida. Job Roles &amp; Responsibilities Build and ship end-to-end features across frontend and backend for Zero1's web products and internal tools Design APIs, data models and integrations that support content, community and event experiences Own features from spec to production: implementation, testing, deployment and monitoring Work directly with founders, content and design teams to turn ideas into shipped product quickly Improve performance, reliability and developer workflows as the engineering function grows Ideal Candidate Profile 2-4 years of hands-on software engineering experience at a product company Strong fundamentals in one modern frontend stack (e.g. React, Next.js, Angular, Vue) and one backend stack (e.g. Node.js, Python, Java, Go) Shipped full-stack features to real users, with clear ownership of outcomes Comfortable in a small, fast-moving team where you wear multiple hats Startup experience (angel/seed through late-stage funded) is a strong plus Based in or willing to work from Noida (Delhi NCR) Originally posted on: 28 Sept 2026 Show more Show less Seniority level Associate Employment type Full-time Industries Staffing and Recruiting Referrals increase your chances of interviewing at Flexiple by 2x See who you know",
+      "score": 23,
       "matchedSkills": [
         "React",
         "Next.js",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "Tailwind",
-        "Node",
-        "REST"
+        "Node"
       ],
       "excluded": false
     },
     {
-      "title": "Senior Full Stack UI Engineer (5+ Years in React.js, TypeScript/JavaScript and RESTful APIs)",
-      "company": "FIS",
-      "location": "Pune/Pimpri-Chinchwad Area",
-      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-ui-engineer-5%2B-years-in-react-js-typescript-javascript-and-restful-apis-at-fis-4476791267",
-      "postedAt": "2026-11-19",
-      "jobId": "4476791267",
-      "description": "",
-      "score": 38,
+      "title": "Application Developer-Google Cloud FullStack",
+      "company": "IBM",
+      "location": "Gurgaon, Haryana, India",
+      "url": "https://in.linkedin.com/jobs/view/application-developer-google-cloud-fullstack-at-ibm-4491963636",
+      "postedAt": "2026-11-20",
+      "jobId": "4491963636",
+      "description": "Application Developer-Google Cloud FullStack IBM Gurgaon, Haryana, India 12 hours ago Be among the first 25 applicants See who IBM has hired for this role Apply Join or sign in to find your next job Join to apply for the Application Developer-Google Cloud FullStack role at IBM Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Save Report this job Use AI to assess how you fit Get AI-powered advice on this job and more exclusive features. Am I a good fit for this job? Tailor my resume Sign in to access AI-powered advices Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to evaluate your skills Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Sign in to tailor your resume Email or phone Password Show Forgot password? Sign in Sign in with Email or New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy . Introduction A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long-term career development while valuing your unique skills and experiences. Your Role And Responsibilities As an Application Developer: Google Cloud FullStack, you will design and develop cloud-native solutions using microservices-based modular designs and API-driven microservices. You will work in an Agile environment, focusing on continuous release and improvement cycles, and collaborate with cross-functional teams to deliver scalable and resilient applications. Your Primary Responsibilities Will Include Develop Rich UI Applications: Design and develop rich UI applications based on Single Page Applications (SPA) or microfrontends using frameworks such as ReactJS or Angular. Develop Scalable Backend Microservices: Develop scalable and resilient backend microservices based on 12-factor principles, bounded context of the business domain, and expose functionality via API and event interfaces using frameworks such as Springboot. Develop Data Models: Design and develop data models using modern SQL and No-SQL modeling techniques, and implement data storage solutions using databases such as DB2, PostgreSQL, or MongoDB. Implement Event-Driven Architectures: Develop event-driven applications using Kafka, Zookeeper, and other event-driven technologies, and implement cloud-native CI/CD pipelines for change release. Manage Cloud Services: Run and manage services on IBM Cloud, including PaaS, databases, event-driven services, observability, DevSecOps, storage, and networking. Preferred Education Master's Degree Required Technical And Professional Expertise Cloud-Native Solution Development: Experience with designing and developing cloud-native solutions using microservices-based modular designs and API-driven microservices, with a focus on continuous release and improvement cycles. Full Stack Development: Experience with developing rich UI applications based on Single Page Applications (SPA) or microfrontends using frameworks such as ReactJS or Angular, and developing scalable and resilient backend microservices using frameworks such as Springboot. Data Modeling and Storage: Experience with designing and developing data models using modern SQL and No-SQL modeling techniques, and implementing data storage solutions using databases such as DB2, PostgreSQL, or MongoDB. Event-Driven Architecture: Experience with developing event-driven applications using Kafka, Zookeeper, and other event-driven technologies, and implementing cloud-native CI/CD pipelines for change release. Cloud Service Management: Experience with running and managing services on IBM Cloud, including PaaS, databases, event-driven services, observability, DevSecOps, storage, and networking. Preferred Technical And Professional Experience Proficiency in Hyperscaler Cloud: Exposure to hyperscaler cloud services and frameworks, with ability to develop and deploy cloud-native applications. Knowledge of Test-Driven Development: Experience with test-driven development methodologies, with ability to write unit tests and integrate testing into CI/CD pipelines. Familiarity with IBM Cloud Services: Exposure to IBM Cloud services, including PaaS, databases, event-driven services, observability, DevSecOps, storage, and networking. Show more Show less Seniority level Mid-Senior level Employment type Full-time Industries IT Services and IT Consulting Referrals increase your chances of interviewing at IBM by 2x See who you know",
+      "score": 22,
       "matchedSkills": [
         "React",
-        "JavaScript",
-        "TypeScript",
-        "REST"
+        "Microfrontend",
+        "CI/CD",
+        "SQL",
+        "MongoDB"
       ],
       "excluded": false
     },
     {
-      "title": "Full-Stack .NET Engineer (React & Angular)",
-      "company": "Cordance",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/full-stack-net-engineer-react-angular-at-cordance-4492474270",
-      "postedAt": "2026-11-19",
-      "jobId": "4492474270",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Senior React.js Full Stack Developer | 7-10 YOE | Codians | Immediate Joiner | Bangalore",
-      "company": "Codians.ai",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/senior-react-js-full-stack-developer-7-10-yoe-codians-immediate-joiner-bangalore-at-codians-ai-4492554013",
+      "title": "Senior Technologist Frontend React-Q3 FY 26",
+      "company": "Infosys",
+      "location": "Bengaluru East, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-technologist-frontend-react-q3-fy-26-at-infosys-4475951569",
       "postedAt": "2026-11-20",
-      "jobId": "4492554013",
+      "jobId": "4475951569",
       "description": "",
       "score": 20,
       "matchedSkills": [
@@ -70,40 +73,54 @@
       "excluded": false
     },
     {
-      "title": "React Engineer",
-      "company": "Capco",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/react-engineer-at-capco-4484061279",
-      "postedAt": "2026-11-20",
-      "jobId": "4484061279",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Lead Developer - React",
-      "company": "TransUnion",
-      "location": "Pune Division, Maharashtra, India",
-      "url": "https://in.linkedin.com/jobs/view/lead-developer-react-at-transunion-4475451264",
-      "postedAt": "2026-11-19",
-      "jobId": "4475451264",
-      "description": "",
-      "score": 20,
-      "matchedSkills": [
-        "React"
-      ],
-      "excluded": false
-    },
-    {
-      "title": "Fullstack / UI Developer (React.Js)",
-      "company": "IBM",
+      "title": "Tech S and T-Frontend-React-Developer-Senior-RT-GD02",
+      "company": "EY",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://in.linkedin.com/jobs/view/fullstack-ui-developer-react-js-at-ibm-4491601624",
-      "postedAt": "2026-11-19",
-      "jobId": "4491601624",
+      "url": "https://in.linkedin.com/jobs/view/tech-s-and-t-frontend-react-developer-senior-rt-gd02-at-ey-4492814421",
+      "postedAt": "2026-11-20",
+      "jobId": "4492814421",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Engineer- ReactJS Developer",
+      "company": "Teletrac Navman",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-engineer-reactjs-developer-at-teletrac-navman-4492801311",
+      "postedAt": "2026-11-20",
+      "jobId": "4492801311",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Frontend Engineer (React + Chrome Extension)",
+      "company": "TTEC Digital",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-frontend-engineer-react-%2B-chrome-extension-at-ttec-digital-4478022572",
+      "postedAt": "2026-11-21",
+      "jobId": "4478022572",
+      "description": "",
+      "score": 20,
+      "matchedSkills": [
+        "React"
+      ],
+      "excluded": false
+    },
+    {
+      "title": "Senior Full Stack Developer (Go + React.js)",
+      "company": "Hitachi Vantara",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://in.linkedin.com/jobs/view/senior-full-stack-developer-go-%2B-react-js-at-hitachi-vantara-4449924422",
+      "postedAt": "2026-11-21",
+      "jobId": "4449924422",
       "description": "",
       "score": 20,
       "matchedSkills": [
